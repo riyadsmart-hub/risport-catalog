@@ -100,6 +100,52 @@ const clean = (v) =>
     : String(v).replace(/<[^>]+>/g, ' ').replace(/&nbsp;?/g, ' ')
         .replace(/\s+/g, ' ').trim() || null;
 
+/**
+ * الوصف ككتل منظّمة بدل نصّ مسطّح.
+ *
+ * سلة تُرجع الوصف بهيكل نظيف (h3 · p · ul/li · strong). تسطيحه بـclean()
+ * كان يلصق العناوين بالفقرات فيصل التطبيق «جدار نص». هنا نحفظ الهيكل:
+ *   [{ t:'h'|'p'|'li', s: ['نص عادي', {b:'نص غامق'}, …] }, …]
+ * والتطبيق يرسمه بعناوين فرعية ونقاط وغامق حقيقي.
+ */
+function descBlocks(html) {
+  if (!html || typeof html !== 'string') return null;
+  const decode = (x) => x
+    .replace(/&nbsp;?/g, ' ').replace(/&quot;/g, '"').replace(/&#0?39;/g, "'")
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+  const segsOf = (inner) => {
+    // <strong>/<b> فقط تبقى؛ heuristic تناوبي — يصحّ لأن محرّر سلة لا يعشّشها
+    const balanced = (inner.match(/<(?:strong|b)\b/gi) ?? []).length === (inner.match(/<\/(?:strong|b)>/gi) ?? []).length;
+    const parts = balanced ? inner.split(/<\/?(?:strong|b)\b[^>]*>/gi) : [inner];
+    const out = [];
+    parts.forEach((part, i) => {
+      const txt = decode(part.replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ');
+      if (!txt.trim()) return;
+      if (balanced && i % 2 === 1) out.push({ b: txt });
+      else out.push(txt);
+    });
+    // دمج فراغات الحواف: لا تبدأ كتلة بمسافة
+    if (typeof out[0] === 'string') out[0] = out[0].replace(/^\s+/, '');
+    return out;
+  };
+  const blocks = [];
+  const re = /<(h[1-6]|p|li)\b[^>]*>([\s\S]*?)<\/\1>/gi;
+  let m, last = 0;
+  const pushText = (raw, type) => {
+    const segs = segsOf(raw);
+    if (segs.length) blocks.push({ t: type, s: segs });
+  };
+  while ((m = re.exec(html))) {
+    const gap = html.slice(last, m.index).replace(/<[^>]+>/g, ' ');
+    if (gap.trim()) pushText(gap, 'p');                    // نصّ خارج الوسوم لا يضيع
+    pushText(m[2], m[1].toLowerCase() === 'li' ? 'li' : m[1].toLowerCase() === 'p' ? 'p' : 'h');
+    last = m.index + m[0].length;
+  }
+  const tail = html.slice(last).replace(/<[^>]+>/g, ' ');
+  if (tail.trim()) pushText(tail, 'p');
+  return blocks.length >= 2 ? blocks : null;              // كتلة واحدة = لا هيكل يستحق
+}
+
 /** يفكّ ترميز HTML entities في قيمة سمة */
 const unescapeAttr = (s) =>
   s.replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/&amp;/g, '&')
@@ -275,6 +321,7 @@ async function main() {
       tagline: clean(detEn.promotion_title),
       subtitle: clean(detEn.subtitle),
       description: clean(detEn.description),
+      desc: descBlocks(detEn.description) ?? prevEn?.desc ?? undefined,
       tags: names.filter((n) => n && !SPORTS.includes(n)).map((n) => tagEn.get(n) ?? n),
       options: Object.keys(enOptions).length ? enOptions : (prevEn?.options ?? {}),
     } : (prevEn ?? undefined);
@@ -297,6 +344,7 @@ async function main() {
       tagline: clean(det.promotion_title ?? p.promotion_title),
       subtitle: clean(det.subtitle),
       description: clean(det.description ?? p.description),
+      desc: descBlocks(det.description ?? p.description) ?? prevP?.desc ?? undefined,
       images: imgs,
       optionNames: { size: sizeOpt?.name ?? null, color: colorOpt?.name ?? null },
       sizes: sizeOpt?.values.map((v) => v.name) ?? [],
