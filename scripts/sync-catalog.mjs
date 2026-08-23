@@ -66,13 +66,28 @@ function bySize(a, b) {
   return String(x[3]).localeCompare(String(y[3]), 'ar');
 }
 
-async function getJson(url, tries = 3) {
+const TIMEOUT_MS = 20000;
+
+/** نداء بمهلة — بدونها تعليقةٌ واحدة تُجمّد المهمّة حتى ينتهي وقت الـAction */
+async function fetchT(url, init = {}) {
+  const ac = new AbortController();
+  const t = setTimeout(() => ac.abort(), TIMEOUT_MS);
+  try { return await fetch(url, { ...init, headers: H, signal: ac.signal }); }
+  finally { clearTimeout(t); }
+}
+
+async function getJson(url, tries = 4) {
   for (let i = 0; i < tries; i++) {
     try {
-      const r = await fetch(url, { headers: H });
-      if (r.ok) return await r.json();
+      const r = await fetchT(url);
+      if (r.ok) return JSON.parse(await r.text());
+      if (r.status === 429 || r.status >= 500) {          // يستحقّ إعادة
+        await sleep(800 * 2 ** i);
+        continue;
+      }
+      return null;                                        // 4xx حقيقي — لا تُعِد
     } catch {}
-    await sleep(400 * (i + 1));
+    await sleep(800 * 2 ** i);                            // تراجع أُسّي
   }
   return null;
 }
@@ -94,7 +109,14 @@ const unescapeAttr = (s) =>
  */
 async function fetchProductPage(productId) {
   try {
-    const html = await (await fetch(`${SITE}/ar/x/p${productId}`)).text();
+    let html = null;
+    for (let i = 0; i < 3 && html === null; i++) {
+      const r = await fetchT(`${SITE}/ar/x/p${productId}`).catch(() => null);
+      if (r?.ok) html = await r.text();
+      else await sleep(800 * 2 ** i);
+    }
+    // فشلٌ ≠ «لا خيارات». إرجاع [] هنا يجعل المنتج بلا مقاسات فيُرفض عند الدفع.
+    if (html === null) return null;
 
     let options = [];
     const m = html.match(/<salla-product-options[^>]*\soptions="([^"]*)"/);
@@ -122,7 +144,7 @@ async function fetchProductPage(productId) {
     }
     return { options, images };
   } catch {
-    return { options: [], images: [] };
+    return null;
   }
 }
 
@@ -141,25 +163,50 @@ async function main() {
 
   // ── ٢) اتحاد المنتجات عبر التصنيفات ───────────────────────────────
   const found = new Map();                       // id → { product, cats:Set }
+  const catFails = [];
   for (const c of cats) {
-    const d = await getJson(
-      `${API}/products?source=categories&filterable=1&source_value%5B%5D=${c.id}&per_page=100`
-    );
-    for (const p of d?.data ?? []) {
-      if (!found.has(p.id)) found.set(p.id, { p, cats: new Set() });
-      found.get(p.id).cats.add(c.name);
+    // اتّبع الصفحات — تصنيف يتجاوز حدّ الصفحة يفقد الباقي بصمت
+    for (let page = 1; page <= 10; page++) {
+      const d = await getJson(
+        `${API}/products?source=categories&filterable=1&source_value%5B%5D=${c.id}&per_page=100&page=${page}`
+      );
+      if (d === null) { catFails.push(c.name); break; }
+      const list = d?.data ?? [];
+      for (const p of list) {
+        if (!found.has(p.id)) found.set(p.id, { p, cats: new Set() });
+        found.get(p.id).cats.add(c.name);
+      }
+      if (list.length < 15) break;                 // آخر صفحة
     }
+  }
+  // تصنيف فاشل = منتجاته غائبة. النشر حينها يحذفها من التطبيق ظلماً.
+  if (catFails.length) {
+    console.error(`✗ فشلت ${catFails.length} تصنيفات: ${catFails.join(' · ')} — لا تُنشر بيانات ناقصة`);
+    process.exit(1);
   }
   console.log(`… ${found.size} منتجاً فريداً`);
 
   // ── ٣) التفاصيل والخيارات ─────────────────────────────────────────
+  // النسخة السابقة — تُستعمل كشبكة أمان عند فشل نداء لمنتج بعينه
+  let prevById = new Map();
+  try {
+    prevById = new Map(JSON.parse(fs.readFileSync(OUT, 'utf8')).products.map((p) => [p.id, p]));
+  } catch {}
+
   const products = [];
-  let done = 0;
+  let done = 0, carried = 0;
   for (const [id, { p, cats: cnames }] of found) {
     if (p.is_available === false) { done++; continue; }   // المخفيّ/النافد لا يُعرض
 
     const det = (await getJson(`${API}/products/${id}/details`))?.data ?? {};
-    const { options, images: gallery } = await fetchProductPage(id);
+    const page = await fetchProductPage(id);
+
+    // تعذّرت الصفحة؟ خُذ خيارات وصور النسخة السابقة بدل نشر منتج بلا مقاسات
+    // (منتج بلا خيارات يُقبل في التطبيق ثم ترفضه سلة بـ422 عند الدفع).
+    const prevP = prevById.get(String(id));
+    const options = page?.options ?? prevP?.options ?? [];
+    const gallery = page?.images ?? prevP?.images ?? [];
+    if (!page) carried++;
 
     const names = [...cnames];
     const sport = SPORTS.find((s) => names.some((n) => n && n.includes(s))) ?? null;
@@ -262,6 +309,7 @@ async function main() {
   console.log(`\n✓ ${products.length} منتجاً → ${path.relative(process.cwd(), OUT)}`);
   console.log(`  خيارات: ${withOpts}/${products.length} · صور: ${withImgs}/${products.length}`);
   console.log(`  ماركات: ${catalog.brands.join(' · ')}`);
+  if (carried) console.log(`  ⚠ ${carried} منتجاً تعذّرت صفحته — استُعملت بيانات النسخة السابقة`);
 
   const chg = [
     changes.added.length && `+${changes.added.length} جديد`,

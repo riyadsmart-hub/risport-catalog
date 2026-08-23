@@ -34,13 +34,20 @@ const H = {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function getJson(url, tries = 3) {
+const TIMEOUT_MS = 15000;
+
+/** نداء بمهلة — تعليقة واحدة بلا مهلة تُجمّد المهمّة كلّها */
+async function getJson(url, tries = 4) {
   for (let i = 0; i < tries; i++) {
+    const ac = new AbortController();
+    const t = setTimeout(() => ac.abort(), TIMEOUT_MS);
     try {
-      const r = await fetch(url, { headers: H });
+      const r = await fetch(url, { headers: H, signal: ac.signal });
       if (r.ok) return JSON.parse(await r.text());
+      if (r.status !== 429 && r.status < 500) return null;   // 4xx حقيقي
     } catch {}
-    await sleep(400 * (i + 1));
+    finally { clearTimeout(t); }
+    await sleep(600 * 2 ** i);
   }
   return null;
 }
