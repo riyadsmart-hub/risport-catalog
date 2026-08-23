@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "generatedAt": "2026-08-23T06:30:40.945Z",
+  "version": 4,
+  "generatedAt": "2026-08-23T09:04:06.958Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -34,6 +34,7 @@
       "price": null,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "للطلب يرجى التواصل عالواتساب",
       "description": "لم تجد الموديل أو المقاس الذي تريده في المتجر؟ اطلبه منّا. خدمة الطلب الخاص من ري سبورت: إذا كان الحذاء الرياضي الذي تبحث عنه — أو مقاسك تحديداً — غير معروض ضمن منتجات المتجر، تواصل معنا عبر الواتساب ونبحث لك عنه ونوفّره. ما نحتاجه منك عند التواصل اسم الموديل، أو صورة أو رابط للمنتج المطلوب. مقاسك، ويفضّل ذكره بالسنتيمتر لدقّة المطابقة. اللون المفضّل إن كان متوفراً بأكثر من خيار. يتم الاتفاق على التفاصيل والتوفّر عبر الواتساب قبل تأكيد الطلب.",
       "images": [
         "https://cdn.salla.sa/jZjwre/564cbd17-ee82-472e-bfa5-b60903a395d9-846.57749803304x1000-vqd6EO1MPzboP9G1mvDh8r13hCRP1d7hugLRboVe.png"
@@ -47,7 +48,19 @@
       "options": [],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p991627747"
+      "url": "https://risport-sa.com/ar/x/p991627747",
+      "en": {
+        "name": "Special Shoe or Size Request",
+        "brand": null,
+        "sport": null,
+        "tagline": null,
+        "subtitle": "To order, message us on WhatsApp",
+        "description": "Cannot find the model or the size you want in the store? Ask us for it. Ri Sport's special-order service: if the shoe you are looking for — or your exact size — is not listed among the store's products, message us on WhatsApp and we will search for it and source it for you. What we need from you The model name, or a photo or link to the product you want. Your size, ideally given in centimetres so the match is exact. Your preferred colour, if it comes in more than one. Details and availability are agreed over WhatsApp before the order is confirmed.",
+        "tags": [
+          "Equipment & Accessories"
+        ],
+        "options": {}
+      }
     },
     {
       "id": "1752762768",
@@ -63,6 +76,7 @@
       "price": 449,
       "compareAt": 489,
       "tagline": "جديد!",
+      "subtitle": "سرعة القدم بقصّة متوسطة",
       "description": "أسيكس في-سويفت FF MT 4 — السرعة أولاً، بقصّة متوسطة حذاء كرة طائرة للصالات مبنيّ حول هدف واحد واضح: سرعة القدم والثبات عند تغيير الاتجاه . حرف MT في الاسم يعني قصّة متوسطة (Mid-cut) ترتفع على الكاحل، وهي النسخة الأعلى دعماً من في-سويفت منخفض القصّة. ما الذي تفعله تقنياته على الأرض؟ TWISTRUSS ممتدّ حتى مقدمة القدم — هيكل يقاوم التواء الحذاء عند الدوران والتوقف المفاجئ. أثره العملي: حين تزرع قدمك لتغيّر اتجاهك جانبياً يبقى النعل تحتك بدل أن يلتوي، فتخرج من الحركة أسرع وبثقة أكبر. وسادة HARD E.V.A. في منتصف القدم — طبقة أصلب تحت القوس تمنع «غوص» منتصف القدم تحت الحمل، وهي مصدر الإحساس الثابت في الخطوات الجانبية القصيرة المتكررة. FLYTEFOAM في كامل النعل الأوسط — رغوة خفيفة تمتصّ صدمة الخطوة والهبوط دون أن تضيف وزناً. توسيد مريح ومتوازن، لكنه ليس نعل ارتداد نشط مثل FF BLAST، فلا تتوقّع منه دفعة إضافية في القفزة. جزء علوي من شبكة ثلاثية الطباعة (3D Print Mesh) — تهوية في المناطق المفتوحة وتقوية مطبوعة في مواضع الشدّ، فيثبُت القدم دون طبقات إضافية ثقيلة. قصّة متوسطة — تحيط بالكاحل وتحدّ من ميلانه في الهبوط غير المستوي قرب الشبكة، مقابل حرية حركة أقل قليلاً من الأحذية منخفضة القصّة. لمن يناسب؟ اللاعب الناشئ أو المتوسط الذي يريد حذاء كرة طائرة حقيقياً بمواصفات صحيحة دون دفع سعر الفئة العليا. لاعبي المراكز الأمامية الذين يعتمدون على الحركة الجانبية السريعة والتموضع أكثر من اعتمادهم على أقصى ارتفاع قفزة. حذاءً ثانياً للتمرين — تحفظ به حذاءك الأغلى للمباريات وتستهلك هذا في الحصص اليومية. ومتى لا يناسبك؟ إن كان جلّ عملك في الملعب هو القفز المتكرر — ضارب مقابل أو لاعب وسط يقفز عشرات المرات في الشوط الواحد — فستشعر أن هذا النعل يمتصّ أكثر مما يعيد. من يريد الارتداد وأقصى ارتفاع فمكانه الميتارايز 2، ومن يريد توازناً بين الخفّة والقفز والحركة فسكاي إيليت هو الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام .",
       "images": [
         "https://cdn.salla.sa/jZjwre/687f7047-a53f-4319-a224-feddf455a72d-1000x588.69814020029-m119jOOxvMuiTGPTBXy1KVxy3zqtEXnTAWyNvtRB.png",
@@ -211,7 +225,42 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1752762768"
+      "url": "https://risport-sa.com/ar/x/p1752762768",
+      "en": {
+        "name": "ASICS V-Swift FF MT 4 Volleyball Shoe",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": "NEW!",
+        "subtitle": "Foot speed in a mid cut",
+        "description": "ASICS V-Swift FF MT 4 — speed first, in a mid cut An indoor volleyball shoe built around one clear goal: foot speed and stability when you change direction . The MT in the name means a mid cut that rises over the ankle — the higher-support version of the low-cut V-Swift. What its technology does on court TWISTRUSS extended to the forefoot — a structure that resists the shoe twisting when you pivot or stop suddenly. In practice: when you plant your foot to cut sideways the sole stays under you instead of twisting, so you come out of the move faster and with more confidence. HARD E.V.A. midfoot cushioning — a firmer layer under the arch that stops the midfoot sinking under load, and the source of that planted feeling in repeated short lateral steps. FLYTEFOAM through the whole midsole — a light foam that absorbs the impact of each step and landing without adding weight. Comfortable, balanced cushioning — but it is not an active rebound midsole like FF BLAST, so do not expect extra push in the jump. 3D Print Mesh upper — ventilation in the open areas and printed reinforcement where the tension sits, so the foot is held without heavy extra layers. Mid cut — it wraps the ankle and limits how far it tilts on uneven landings near the net, in exchange for slightly less freedom of movement than a low-cut shoe. Who does it suit? The developing or intermediate player who wants a genuine volleyball shoe with the right specifications without paying top-tier money. Front-row players who rely on fast lateral movement and positioning more than on maximum jump height. As a second shoe for training — keep your more expensive pair for matches and wear this one down in daily sessions. And when does it not suit you? If most of your work on court is repeated jumping — an opposite or a middle blocker jumping dozens of times a set — you will feel that this midsole absorbs more than it returns. Anyone who wants rebound and maximum height belongs in the Metarise 2, and anyone who wants a balance of lightness, jumping and movement will find the Sky Elite is ASICS' top tier among all-round volleyball shoes .",
+        "tags": [
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "933753890": {
+            "name": "Size",
+            "values": {
+              "27792403": "44.5",
+              "135902992": "40",
+              "310995477": "37.5",
+              "371678578": "45",
+              "935589138": "41.5",
+              "1038785404": "47",
+              "1044162583": "39",
+              "1085033236": "37",
+              "1146764913": "44",
+              "1321980278": "42.5",
+              "1400189724": "48",
+              "1611431027": "46",
+              "1709626897": "40.5",
+              "1786584944": "43.5",
+              "1817676054": "38",
+              "1992764427": "36",
+              "2096018037": "42"
+            }
+          }
+        }
+      }
     },
     {
       "id": "173412987",
@@ -229,6 +278,7 @@
       "price": 505,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "قصّة منخفضة لسرعة القدم",
       "description": "سكاي إيليت FF 3 — حذاء الضاربين بقصّة منخفضة الجيل الثالث من سلسلة ASICS SKY ELITE FF ، سلسلة أسيكس المخصّصة للكرة الطائرة. قصّة منخفضة (Low-cut) تترك الكاحل حرّاً، وتقنيات الفئة العليا من أسيكس في منتصف النعل. صُمّم للاعب الذي يقفز كثيراً، ويهبط كثيراً، ويحتاج أن يتحرك جانبياً بسرعة بين قفزة وأخرى. التقنيات FF BLAST PLUS ECO — فوم منتصف النعل. يمتصّ صدمة الهبوط بعد الضربة أو الصدّ، ثم يعيد جزءاً من الطاقة في الخطوة التالية. أثره الذي تشعر به فعلاً: أرجل أقل إرهاقاً في الأشواط الأخيرة، وحِمل أقل على المفاصل عند الهبوط مقارنة بنعل صلب لا يعيد شيئاً. RISETRUSS — هيكل ثبات موروث مباشرة من METARISE ، يقاوم التواء منتصف القدم. فائدته على أرض الملعب: في الخطوة الأخيرة من الاقتراب لا ينفتل منتصف قدمك تحتك، فتتحوّل السرعة الأفقية التي جمعتها إلى ارتفاع عمودي بدل أن تتسرّب في التواء جانبي — ويمنحك أرضية أثبت عند التوقف المفاجئ قبل الاقتراب. منظومة موروثة من METARISE 2 — أسيكس لم تبنِ هذا الحذاء من الصفر، بل نقلت إليه منظومة حذاء القفز الأعلى في تشكيلتها: RISETRUSS للثبات و FF BLAST PLUS ECO للتوسيد والارتداد معاً. أي أنك تلعب بالمنظومة نفسها التي بُني عليها الميتارايز، بجزء من سعره. القصّة المنخفضة (Low-cut) — لا شيء يقيّد حركة الكاحل: مدى أوسع في الانطلاق والتوقف، وحرية أكبر في تغيير الاتجاه. في المقابل، الدعم حول الكاحل يعتمد عليك أنت أو على رباط الكاحل إن كنت تستخدمه. لمن هذا الحذاء؟ للاعب الذي يعتمد على سرعة القدم والحركة الجانبية أكثر من اعتماده على دعم الكاحل العالي — وعلى رأسهم ضاربو الأطراف الذين يقطعون مسافة الاقتراب ثم يعودون للدفاع في النقطة نفسها. القصّة المنخفضة تخدم هذا الأسلوب مباشرة. أما إن كنت تفضّل إحساس التطويق العالي حول الكاحل، فهذه القصّة ليست ما تبحث عنه.",
       "images": [
         "https://cdn.salla.sa/jZjwre/0158a271-b8c9-4cbe-816b-64f1fc587a08-1000x592.32175502742-DNk50g6pCCT6LQ3EQpUrQQGCAeI6EfVsLtOR4FPm.png",
@@ -386,7 +436,49 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p173412987"
+      "url": "https://risport-sa.com/ar/x/p173412987",
+      "en": {
+        "name": "Asics Sky Elite FF 3",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Low-cut for foot speed",
+        "description": "Sky Elite FF 3 — the hitters' shoe in a low cut The third generation of the ASICS SKY ELITE FF line, ASICS' dedicated volleyball family. A low cut that leaves the ankle free, with ASICS' top-tier technology in the midsole. It is built for the player who jumps a lot, lands a lot, and needs to move sideways quickly between one jump and the next. The technology FF BLAST PLUS ECO — the midsole foam. It absorbs the landing after a spike or a block, then returns part of that energy to your next step. What you actually feel: legs less spent in the closing sets, and less load on the joints at landing than with a stiff midsole that gives nothing back. RISETRUSS — a stability structure inherited directly from the METARISE that resists midfoot twisting. On court: on the last step of your approach the middle of your foot does not spin out from under you, so the horizontal speed you built turns into vertical height instead of draining into a sideways twist — and it gives you firmer ground on the sudden stop before the approach. A system inherited from METARISE 2 — ASICS did not build this shoe from scratch; it carried over the system of the highest jumping shoe in its range: RISETRUSS for stability and FF BLAST PLUS ECO for cushioning and rebound together. You are playing on the same system the Metarise was built on. Low cut — nothing restricts the ankle: a wider range on take-off and on stopping, and more freedom to change direction. In exchange, support around the ankle depends on you, or on ankle tape if you use it. Who is it for? For the player who relies on foot speed and lateral movement more than on high ankle support — above all outside hitters , who cover the approach distance and then drop back to defend at the same point. The low cut serves that style directly. If you prefer the feel of a high wrap around the ankle, this cut is not what you are looking for.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "330984209": {
+            "name": "Size",
+            "values": {
+              "25392755": "44",
+              "83431235": "50",
+              "201075056": "42",
+              "258646592": "47.5",
+              "299517253": "40",
+              "723312706": "49",
+              "758559869": "46",
+              "933648242": "43.5",
+              "1032684359": "47",
+              "1041697399": "41.5",
+              "1207772740": "39",
+              "1399428476": "45",
+              "1496826177": "48",
+              "1671914566": "46",
+              "1708738673": "42.5",
+              "1816849270": "40.5"
+            }
+          },
+          "1837140498": {
+            "name": "Colour",
+            "values": {
+              "2132005758": "White / Mackerel Blue (106)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "65371974",
@@ -404,6 +496,7 @@
       "price": 525,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "رقبة متوسطة بدعم كامل للكاحل",
       "description": "سكاي إيليت FF MT 3 — قفزة الفئة العليا مع كاحل محميّ الجيل الثالث من سلسلة SKY ELITE ، سلسلة أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام، في نسخته متوسطة الرقبة (Mid-cut). الفرق الجوهري بينه وبين النسخة المنخفضة أن الرقبة هنا ترتفع لتلتفّ حول الكاحل بدل أن تقف تحته. صُمّم للاعب الذي يقفز كثيراً ويهبط أكثر: الضارب الذي يقضي المباراة كلها في منطقة مزدحمة قرب الشبكة ويريد طبقة أمان إضافية عند الهبوط، دون أن يتنازل عن تقنيات الفئة العليا. التقنيات FF BLAST PLUS ECO — الفوم الذي تقف عليه. مهمته أن يبتلع صدمة الهبوط ثم يعيد جزءاً من الطاقة إلى القفزة التالية. أثره الحقيقي لا تراه في القفزة الأولى بل في الشوط الخامس، حين تبدأ السيقان بالثقل: كلما امتصّ النعل عنك صدمات أكثر، بقي في رجليك رصيد أطول. RISETRUSS — هيكل ثبات يطوّق منتصف القدم، موروث مباشرة من الميتارايز. وظيفته أن يقاوم التواء منتصف القدم في الخطوة الأخيرة من الاقتراب، فيحوّل الاندفاع الأفقي الذي جمعته إلى ارتفاع عمودي بدل أن يتبدّد في التواء جانبي. وأثره لا يقف عند لحظة الانطلاق: منتصف قدم لا يلتوي يعني هبوطاً أهدأ وأكثر تحكماً. منظومة موروثة من METARISE 2 — أسيكس لم تبنِ هذا الحذاء من الصفر، بل نقلت إليه منظومة حذاء القفز الأعلى في تشكيلتها: RISETRUSS للثبات و FF BLAST PLUS ECO للتوسيد والارتداد معاً. أي أنك تلعب بالمنظومة نفسها التي بُني عليها الميتارايز، بجزء من سعره. القصّة المتوسطة (Mid-cut) — أهمّ ما يميّز MT عن النسخة المنخفضة. الرقبة الأعلى تحيط بالكاحل وتحدّ من دورانه المفاجئ عند الهبوط على قدم غير مستوية — قدم زميل أو منافس تحت الشبكة. في المقابل ستشعر بحرية حركة أقلّ في الكاحل مقارنة بالقصّة المنخفضة؛ مقايضة يقبلها بسهولة من سبق أن التوى كاحله. لمن هذا الحذاء؟ الضارب الطرفي ولاعب المركز الرابع والثاني — عدد قفزات مرتفع في المباراة الواحدة، وهبوط متكرر في أكثر منطقة ازدحاماً في الملعب. القصّة المتوسطة هنا ليست رفاهية. لاعب الوسط (السنتر) — حركة جانبية سريعة على طول الشبكة ثم قفزة صدّ فورية. يفيده أن منتصف قدمه لا يلتوي عند التوقّف المفاجئ قبل الصدّ، فيبقى ثابتاً في اللحظة التي يحتاج فيها الدفع للأعلى فوراً. من سبق أن أُصيب في كاحله — أو من يلعب برباط/دعامة كاحل ويفضّل أن يكون جزء من الدعم مدمجاً في الحذاء نفسه. قد لا يكون خيارك الأول إن كنت ليبرو أو معدّاً يعتمد على الانخفاض السريع وخفّة الحركة أكثر من القفز — القصّة المنخفضة (LOW) تمنح الكاحل مدى حركة أوسع لهذا الأسلوب.",
       "images": [
         "https://cdn.salla.sa/jZjwre/7a224aa5-680a-4e2d-98e8-e572920f56fd-1000x651.85185185185-Al7xEhrWkZ6ejw8Jk6eoA3BFR0S9BXzBDuXJEdyD.png",
@@ -567,7 +660,50 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p65371974"
+      "url": "https://risport-sa.com/ar/x/p65371974",
+      "en": {
+        "name": "Asics Sky Elite FF MT 3 (Mid-Cut)",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Mid-cut with full ankle support",
+        "description": "Sky Elite FF MT 3 — a top-tier jump with a protected ankle The third generation of the SKY ELITE line, ASICS' top tier among all-round volleyball shoes, in its mid-cut version. The essential difference from the low-cut version is that the collar here rises to wrap the ankle instead of stopping below it. It is built for the player who jumps a lot and lands even more: the hitter who spends the whole match in the crowded zone by the net and wants an extra layer of safety on landing, without giving up top-tier technology. The technology FF BLAST PLUS ECO — the foam you stand on. Its job is to swallow the landing impact and then return part of that energy to the next jump. Its real effect shows not on the first jump but in the fifth set, when legs start to feel heavy: the more impact the midsole takes off you, the more you have left in your legs. RISETRUSS — a stability structure wrapping the midfoot, inherited directly from the Metarise. It resists midfoot twisting on the last step of your approach, turning the horizontal drive you gathered into vertical height instead of letting it leak into a sideways twist. Its benefit does not stop at take-off: a midfoot that does not twist means a calmer, more controlled landing. A system inherited from METARISE 2 — ASICS did not build this shoe from scratch; it carried over the system of the highest jumping shoe in its range: RISETRUSS for stability and FF BLAST PLUS ECO for cushioning and rebound together. You are playing on the same system the Metarise was built on. Mid-cut — the defining difference between the MT and the low version. The higher collar wraps the ankle and limits sudden rolling when you land on uneven ground — a team-mate's or an opponent's foot under the net. In exchange you will feel slightly less ankle freedom than in the low cut; a trade anyone who has sprained an ankle accepts easily. Who is it for? Outside hitters and players in zones 4 and 2 — a high jump count in a single match and repeated landings in the most crowded area of the court. Here the mid cut is not a luxury. Middle blockers — fast lateral movement along the net, then an immediate block jump. It helps that the midfoot does not twist on the sudden stop before the block, so you stay planted at the moment you need to drive straight up. Anyone who has injured an ankle before — or who plays with tape or a brace and prefers part of that support built into the shoe itself. It may not be your first pick if you are a libero or a setter who relies on dropping low and moving light more than on jumping — the LOW cut gives the ankle a wider range for that style.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1422906686": {
+            "name": "Colour",
+            "values": {
+              "690984730": "White / Mackerel Blue (106)",
+              "1758632789": "All White (105)"
+            }
+          },
+          "1813664148": {
+            "name": "Size",
+            "values": {
+              "116481405": "40",
+              "148001374": "44",
+              "323220819": "42",
+              "407631994": "49",
+              "581213055": "47",
+              "881168472": "46",
+              "890519164": "39",
+              "1056256861": "43.5",
+              "1097258578": "41.5",
+              "1315887481": "48",
+              "1356758142": "46",
+              "1522495839": "45",
+              "1779435387": "50",
+              "1831343196": "42.5",
+              "2006562641": "40.5",
+              "2088876664": "47.5"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1106815625",
@@ -585,6 +721,7 @@
       "price": 555,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "الجيل 28 — الأنعم للجري الطويل",
       "description": "أسيكس جل نيمبوس 28 سلسلة GEL-NIMBUS هي حذاء أسيكس الأعلى في نعومة النعل منذ 1999، واسم «نيمبوس» لاتينيّ معناه السحابة — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026. ما الجديد في الجيل 28 أخفّ بنحو 20 غراماً من الجيل 27 — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما. نعل وسطي FF BLAST PLUS — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد . PureGEL في الكعب — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل. جزء علوي «إنجينيرد نِت» محبوك — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط. نعل خارجي HYBRID ASICSGRIP — نوعان من المطاط: ASICSGRIP في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و AHARPLUS في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ثلاثة أضعاف مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً. لمن هذا الحذاء؟ لمن يبدأ الجري الآن، ولمن هدفه إنهاء ماراثون كامل . أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ثبات يمنع دوران الكاحل للداخل، فالمناسب لك هو جل كايانو 33 لا النيمبوس. البيانات الرسمية كود الموديل: 1012B899 — العرض القياسي المقاسات: 22.5–26.5 سم بخطوة 0.5 سم (نسائي) بلد الصنع: فيتنام / إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
       "images": [
         "https://cdn.salla.sa/jZjwre/3c8294ce-dc6e-45ee-b242-b57c84dd51a6-1000x626.62337662338-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg",
@@ -710,7 +847,44 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1106815625"
+      "url": "https://risport-sa.com/ar/x/p1106815625",
+      "en": {
+        "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
+        "brand": "ASICS",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "Gen 28 — softest for long runs",
+        "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1012B899 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Running Shoes"
+        ],
+        "options": {
+          "12858950": {
+            "name": "Size",
+            "values": {
+              "57499798": "40.5 (25.5 cm)",
+              "366871435": "38 (24.0 cm)",
+              "474982024": "36 (22.5 cm)",
+              "789622416": "42 (26.5 cm)",
+              "830488981": "40 (25.0 cm)",
+              "1005708426": "37.5 (23.5 cm)",
+              "1565233047": "41.5 (26.0 cm)",
+              "1740317332": "39 (24.5 cm)",
+              "1846855049": "37 (23.0 cm)"
+            }
+          },
+          "922687301": {
+            "name": "Color",
+            "values": {
+              "650074509": "Black × Graphite Grey",
+              "1113753487": "White × White",
+              "1887729806": "Black × Pearl Pink"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1031256474",
@@ -728,6 +902,7 @@
       "price": 570,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "الجيل 33 بثبات FLUIDSUPPORT",
       "description": "أسيكس جل كايانو 33 سلسلة GEL-KAYANO هي حذاء أسيكس الرئيسي للمسافات الطويلة منذ 1993، ومهمّتها واحدة: أن تبقى خطوتك مستقيمة ومستقرة حين يتعب الجسد — لأن الإصابة تأتي غالباً من انهيار شكل الجري في الكيلومترات الأخيرة لا من أوّلها. والجيل 33 صدر في اليابان في يونيو 2026. ما الجديد في الجيل 33 FLUIDSUPPORT — نظام الثبات الجديد ، مبنيّ على فلسفة 4D GUIDANCE SYSTEM نفسها. «فلويد» معناها الانسيابية: بدل قطعة صلبة واحدة تدعم موضعاً بعينه، الدعم هنا متّصل عبر الخطوة كلها من لحظة ملامسة الكعب حتى الدفع بأطراف الأصابع. وأُضيفت مادة أليَن في منتصف النعل من الجهة الداخلية تحديداً لتساند القدم حين يبدأ شكل الجري بالاضطراب من التعب. نعل وسطي بطبقتين — الطبقة العليا FF BLAST MAX طريّة وعالية الارتداد، والسفلى FF BLAST PLUS أصلب منها. الطريّة تلامس قدمك، والصلبة تحمل الوزن وتمنع الغوص. PureGEL في الكعب — امتصاص الصدمة في موضع الاصطدام الأول بالأرض. جزء علوي «إنجينيرد مِش» بتهوية وإحاطة متغيّرتين حسب الموضع، و البطانة الداخلية موصولة باللسان فتصير القدم والحذاء قطعة واحدة بلا انزلاق داخلي. نعل خارجي HYBRID ASICSGRIP — ASICSGRIP في الوسط للتماسك، و AHARPLUS في الكعب بمقاومة تآكل تقارب ثلاثة أضعاف المطاط التقليدي. وداخل النعل خطّ مطاطي منحنٍ يتحكّم في انثناء النعل، وتصميم بيضاوي في المقدمة يمنح ليونة أعلى عند الدفع. لمن هذا الحذاء؟ لمن يبدأ الجري، ولمن يستهدف ماراثوناً كاملاً ويريد ثباتاً يحميه في آخر المسافة. وإن كانت قدمك محايدة ولا تبحث إلا عن أقصى نعومة، فالأنسب لك هو جل نيمبوس 28 . البيانات الرسمية كود الموديل: 1011C167 — العرض القياسي المقاسات: 24.5–29.0 سم بخطوة 0.5 سم، إضافةً إلى 30.0 و31.0 و32.0 سم (رجالي) بلد الصنع: إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
       "images": [
         "https://cdn.salla.sa/jZjwre/e18e9626-d105-4cde-82d5-8f55a22fbdcb-1000x480.03992015968-38JnRvueEgeegtVtCQa3YmYKlp9siOKQOpMCtSeP.jpg",
@@ -879,7 +1054,47 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1031256474"
+      "url": "https://risport-sa.com/ar/x/p1031256474",
+      "en": {
+        "name": "ASICS GEL-KAYANO 33 Running Shoe — Men's",
+        "brand": "ASICS",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "Gen 33 with FLUIDSUPPORT stability",
+        "description": "ASICS GEL-KAYANO 33 The GEL-KAYANO line has been ASICS' flagship long-distance shoe since 1993, with a single job: to keep your stride straight and steady once the body tires — because injury usually comes from form collapsing in the last kilometres , not the first. Generation 33 was released in Japan in June 2026. What is new in generation 33 FLUIDSUPPORT — the new stability system , built on the same 4D GUIDANCE SYSTEM philosophy. \"Fluid\" is the point: instead of one rigid piece propping up a single spot, support here is continuous through the whole stride , from heel contact to toe-off. A softer material was added on the inner side of the midfoot specifically to hold the foot once fatigue starts to unsettle your form. A two-layer midsole — the top layer is soft, high-rebound FF BLAST MAX , the bottom layer firmer FF BLAST PLUS . The soft one meets your foot; the firm one carries the load and stops you sinking through. PureGEL in the heel — shock absorption exactly where the foot first meets the ground. An engineered mesh upper whose ventilation and hold change zone by zone, with the inner lining joined to the tongue so foot and shoe move as one piece with no internal slipping. HYBRID ASICSGRIP outsole — ASICSGRIP through the middle for traction and AHARPLUS at the heel with roughly three times the wear resistance of conventional rubber. Inside the outsole, a curved rubber line governs how the sole flexes, and an oval pattern at the forefoot adds give at toe-off. Who is it for? For new runners, and for anyone training toward a full marathon who wants stability protecting them late in the race. If your gait is neutral and all you want is maximum softness, the GEL-NIMBUS 28 suits you better. Official specifications Model code: 1011C167 — standard width Sizes: 24.5–29.0 cm in 0.5 cm steps, plus 30.0, 31.0 and 32.0 cm (men's) Made in: Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Running Shoes"
+        ],
+        "options": {
+          "1103109965": {
+            "name": "Size",
+            "values": {
+              "88372984": "47 (30.0 cm)",
+              "263531005": "44 (28.0 cm)",
+              "371641586": "42 (26.5 cm)",
+              "412512247": "40 (25.0 cm)",
+              "729765887": "45 (29.0 cm)",
+              "1038617340": "43.5 (27.5 cm)",
+              "1146727921": "41.5 (26.0 cm)",
+              "1321812214": "39 (24.5 cm)",
+              "1502759166": "44.5 (28.5 cm)",
+              "1610869747": "42.5 (27.0 cm)",
+              "1786547952": "40.5 (25.5 cm)"
+            }
+          },
+          "2012999756": {
+            "name": "Color",
+            "values": {
+              "123585770": "White × Aqua Blue",
+              "587662068": "Oatmeal × Cream",
+              "1362813931": "Black × White",
+              "2095849973": "Bright Yellow × White"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1627587425",
@@ -897,6 +1112,7 @@
       "price": 575,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "الجيل 28 — الأنعم للجري الطويل",
       "description": "أسيكس جل نيمبوس 28 سلسلة GEL-NIMBUS هي حذاء أسيكس الأعلى في نعومة النعل منذ 1999، واسم «نيمبوس» لاتينيّ معناه السحابة — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026. ما الجديد في الجيل 28 أخفّ بنحو 20 غراماً من الجيل 27 — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما. نعل وسطي FF BLAST PLUS — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد . PureGEL في الكعب — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل. جزء علوي «إنجينيرد نِت» محبوك — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط. نعل خارجي HYBRID ASICSGRIP — نوعان من المطاط: ASICSGRIP في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و AHARPLUS في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ثلاثة أضعاف مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً. لمن هذا الحذاء؟ لمن يبدأ الجري الآن، ولمن هدفه إنهاء ماراثون كامل . أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ثبات يمنع دوران الكاحل للداخل، فالمناسب لك هو جل كايانو 33 لا النيمبوس. البيانات الرسمية كود الموديل: 1011C127 — العرض القياسي المقاسات: 24.5–29.0 سم بخطوة 0.5 سم، إضافةً إلى 30.0 و31.0 و32.0 سم (رجالي) بلد الصنع: فيتنام / إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
       "images": [
         "https://cdn.salla.sa/jZjwre/d77ad6b1-51cc-4ee7-b4e3-032e083ab32b-1000x619.62692619627-gwCHaN6kCLut7UN9mwXWhO19JD79hT5nuwFoMhJT.jpg",
@@ -1047,7 +1263,47 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1627587425"
+      "url": "https://risport-sa.com/ar/x/p1627587425",
+      "en": {
+        "name": "ASICS GEL-NIMBUS 28 Running Shoe — Men's",
+        "brand": "ASICS",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "Gen 28 — softest for long runs",
+        "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1011C127 — standard width Sizes: 24.5–29.0 cm in 0.5 cm steps, plus 30.0, 31.0 and 32.0 cm (men's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Running Shoes"
+        ],
+        "options": {
+          "497454200": {
+            "name": "Color",
+            "values": {
+              "117876655": "White × White",
+              "583591337": "Moss Green × Bright Green",
+              "892967086": "Cream × Black",
+              "1357104808": "Black × Graphite Grey"
+            }
+          },
+          "963168890": {
+            "name": "Size",
+            "values": {
+              "84765117": "47 (30.0 cm)",
+              "259919026": "44 (28.0 cm)",
+              "300920759": "42 (26.5 cm)",
+              "408896180": "40 (25.0 cm)",
+              "723536572": "45 (29.0 cm)",
+              "1032973745": "43.5 (27.5 cm)",
+              "1141014710": "41.5 (26.0 cm)",
+              "1316103083": "39 (24.5 cm)",
+              "1499147187": "44.5 (28.5 cm)",
+              "1672793776": "42.5 (27.0 cm)",
+              "1780769205": "40.5 (25.5 cm)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1662734611",
@@ -1065,6 +1321,7 @@
       "price": 585,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "الجيل 33 بثبات FLUIDSUPPORT",
       "description": "أسيكس جل كايانو 33 سلسلة GEL-KAYANO هي حذاء أسيكس الرئيسي للمسافات الطويلة منذ 1993، ومهمّتها واحدة: أن تبقى خطوتك مستقيمة ومستقرة حين يتعب الجسد — لأن الإصابة تأتي غالباً من انهيار شكل الجري في الكيلومترات الأخيرة لا من أوّلها. والجيل 33 صدر في اليابان في يونيو 2026. ما الجديد في الجيل 33 FLUIDSUPPORT — نظام الثبات الجديد ، مبنيّ على فلسفة 4D GUIDANCE SYSTEM نفسها. «فلويد» معناها الانسيابية: بدل قطعة صلبة واحدة تدعم موضعاً بعينه، الدعم هنا متّصل عبر الخطوة كلها من لحظة ملامسة الكعب حتى الدفع بأطراف الأصابع. وأُضيفت مادة أليَن في منتصف النعل من الجهة الداخلية تحديداً لتساند القدم حين يبدأ شكل الجري بالاضطراب من التعب. نعل وسطي بطبقتين — الطبقة العليا FF BLAST MAX طريّة وعالية الارتداد، والسفلى FF BLAST PLUS أصلب منها. الطريّة تلامس قدمك، والصلبة تحمل الوزن وتمنع الغوص. PureGEL في الكعب — امتصاص الصدمة في موضع الاصطدام الأول بالأرض. جزء علوي «إنجينيرد مِش» بتهوية وإحاطة متغيّرتين حسب الموضع، و البطانة الداخلية موصولة باللسان فتصير القدم والحذاء قطعة واحدة بلا انزلاق داخلي. نعل خارجي HYBRID ASICSGRIP — ASICSGRIP في الوسط للتماسك، و AHARPLUS في الكعب بمقاومة تآكل تقارب ثلاثة أضعاف المطاط التقليدي. وداخل النعل خطّ مطاطي منحنٍ يتحكّم في انثناء النعل، وتصميم بيضاوي في المقدمة يمنح ليونة أعلى عند الدفع. لمن هذا الحذاء؟ لمن يبدأ الجري، ولمن يستهدف ماراثوناً كاملاً ويريد ثباتاً يحميه في آخر المسافة. وإن كانت قدمك محايدة ولا تبحث إلا عن أقصى نعومة، فالأنسب لك هو جل نيمبوس 28 . البيانات الرسمية كود الموديل: 1012B939 — العرض القياسي المقاسات: 22.5–26.5 سم بخطوة 0.5 سم (نسائي) بلد الصنع: إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
       "images": [
         "https://cdn.salla.sa/jZjwre/87280322-32c0-410c-b50f-4c996704e650-1000x509.10931174089-DQT8mUQXBk0fqQ1eCuCLgCeH1f6E8MrS8EPQ4qj0.jpg",
@@ -1191,7 +1448,44 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1662734611"
+      "url": "https://risport-sa.com/ar/x/p1662734611",
+      "en": {
+        "name": "ASICS GEL-KAYANO 33 Running Shoe — Women's",
+        "brand": "ASICS",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "Gen 33 with FLUIDSUPPORT stability",
+        "description": "ASICS GEL-KAYANO 33 The GEL-KAYANO line has been ASICS' flagship long-distance shoe since 1993, with a single job: to keep your stride straight and steady once the body tires — because injury usually comes from form collapsing in the last kilometres , not the first. Generation 33 was released in Japan in June 2026. What is new in generation 33 FLUIDSUPPORT — the new stability system , built on the same 4D GUIDANCE SYSTEM philosophy. \"Fluid\" is the point: instead of one rigid piece propping up a single spot, support here is continuous through the whole stride , from heel contact to toe-off. A softer material was added on the inner side of the midfoot specifically to hold the foot once fatigue starts to unsettle your form. A two-layer midsole — the top layer is soft, high-rebound FF BLAST MAX , the bottom layer firmer FF BLAST PLUS . The soft one meets your foot; the firm one carries the load and stops you sinking through. PureGEL in the heel — shock absorption exactly where the foot first meets the ground. An engineered mesh upper whose ventilation and hold change zone by zone, with the inner lining joined to the tongue so foot and shoe move as one piece with no internal slipping. HYBRID ASICSGRIP outsole — ASICSGRIP through the middle for traction and AHARPLUS at the heel with roughly three times the wear resistance of conventional rubber. Inside the outsole, a curved rubber line governs how the sole flexes, and an oval pattern at the forefoot adds give at toe-off. Who is it for? For new runners, and for anyone training toward a full marathon who wants stability protecting them late in the race. If your gait is neutral and all you want is maximum softness, the GEL-NIMBUS 28 suits you better. Official specifications Model code: 1012B939 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Running Shoes"
+        ],
+        "options": {
+          "48071792": {
+            "name": "Color",
+            "values": {
+              "114269036": "Oatmeal × Cream",
+              "1062346592": "White × Lilac",
+              "1527012706": "Black × White"
+            }
+          },
+          "2020401523": {
+            "name": "Size",
+            "values": {
+              "396309882": "40.5 (25.5 cm)",
+              "503900287": "38 (24.0 cm)",
+              "544836476": "36 (22.5 cm)",
+              "859927364": "42 (26.5 cm)",
+              "1169299065": "40 (25.0 cm)",
+              "1277413758": "37.5 (23.5 cm)",
+              "1633965179": "41.5 (26.0 cm)",
+              "1809184632": "39 (24.5 cm)",
+              "1917233789": "37 (23.0 cm)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1296629940",
@@ -1209,6 +1503,7 @@
       "price": 594,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "فلاقشيب أسيكس 2026 بقصّة منخفضة",
       "description": "فلاقشيب أسيكس 2026 — خفّة الضارب وقوة الارتداد الجيل الرابع من سلسلة Sky Elite FF — خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام، الذي يلعب به ران تاكاهاشي ونجوم المنتخب الياباني — نزل في يونيو 2026 بقصّة منخفضة (Low-cut) وبتقنيات أسيكس لهذا الموسم كاملةً، وعلى رأسها أول ظهور لرغوة FF BLAST MAX في أحذية الكرة الطائرة. صُمم للاعب الذي يبني لعبه على سرعة القدم والتغيير المفاجئ للاتجاه، ويريد أقصى حرية حركة تحت الشبكة. ويكتمل الموسم بلون ياباني حصري — داليا × موراساكي — يصدر في 20 أغسطس 2026 . التقنيات FF BLAST MAX — رغوة النعل الوسطي القادمة من أحذية الجري الاحترافية. تمتصّ صدمة الهبوط بعد كل قفزة بدل أن تصعد كاملةً إلى ركبتك وظهرك، ثم تعيد جزءاً من تلك الطاقة دفعاً لأعلى في القفزة التالية. أثرها الحقيقي يظهر في الشوط الخامس: قدم أقل إرهاقاً بعد عشرات القفزات. RISETRUSS المحدّثة — هيكل تثبيت يربط منتصف القدم بالكعب ويمنعها من الميلان جانباً لحظة الاندفاع. عملياً: قوة دفعك تذهب إلى أعلى بدل أن تتبدد يميناً ويساراً. DYNALACING — نظام ربط يوزّع الشدّ ويلتفّ حول مقدمة القدم فيقفل الحذاء عليها أثناء خطوات الاقتراب والتوقف المفاجئ والدفع الجانبي على طول الشبكة، دون أن تشدّ الرباط شدّاً مؤلماً. قصّة منخفضة (Low-cut) — الرقبة تحت عظمة الكاحل، فيبقى الكاحل حرّ الحركة تماماً. أخفّ إحساساً وأسرع في تغيير الاتجاه، مقابل دعم أقل عند الهبوط. نعل خارجي بقبضة عالية — مضبوط على أرضيات الصالات الخشبية: مسافة توقف أقصر عند الاندفاع للدفاع، وانطلاقة أسرع من الثبات. لمن هذا الحذاء؟ الليبرو ولاعبو الاستقبال — معظم الشوط في حركة أرضية منخفضة وسريعة أكثر من القفز؛ الخفّة وحرية الكاحل تخدمك هنا أكثر من أي شيء. الطرف (Outside Hitter) — من يعتمد على سرعة الاقتراب والتغيير المفاجئ للاتجاه أكثر من القفز الثقيل المتواصل. الصانع (Setter) — تنقّل مستمر وسريع بين مواقع الملعب، ووصول إلى الكرة الثانية من أي زاوية. من لم يشتكِ من كاحله يوماً ويفضّل إحساس الحذاء الخفيف على إحساس الدعم.",
       "images": [
         "https://cdn.salla.sa/jZjwre/a8d95477-039f-4820-8535-f300995d0369-1000x585.5421686747-q3HXh57dVcCKSLpuVUWMOx9KeDei7LUrmvHziC6e.png",
@@ -1395,7 +1690,53 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1296629940"
+      "url": "https://risport-sa.com/ar/x/p1296629940",
+      "en": {
+        "name": "Asics Sky Elite FF 4 — New 2026 Generation",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Asics' 2026 flagship, low-cut",
+        "description": "ASICS' 2026 flagship — a hitter's lightness with real rebound The fourth generation of the Sky Elite FF line — ASICS' top tier among all-round volleyball shoes, worn by Ran Takahashi and the stars of the Japanese national team — landed in June 2026 in a low-cut build with the full set of this season's ASICS technologies, led by the first appearance of FF BLAST MAX foam in a volleyball shoe. It is built for the player whose game runs on foot speed and sudden changes of direction, and who wants maximum freedom of movement under the net. The season is completed by an exclusive Japanese colourway — Dahlia × Murasaki — released on 20 August 2026 . The technology FF BLAST MAX — the midsole foam brought over from professional running shoes. It absorbs the impact of every landing instead of sending all of it up into your knees and back, then returns part of that energy as upward push on the next jump. Its real effect shows in the fifth set: legs that are less spent after dozens of jumps. Updated RISETRUSS — a stabilising structure that ties the midfoot to the heel and stops it tilting sideways at the moment you drive. In practice: your push goes upward instead of leaking left and right. DYNALACING — a lacing system that distributes tension and wraps around the forefoot, locking the shoe onto it through approach steps, dead stops and lateral pushes along the net, without cranking the laces painfully tight. Low-cut — the collar sits below the ankle bone, leaving the ankle completely free. Lighter feeling and quicker to change direction, in exchange for less support on landing. High-grip outsole — tuned for wooden indoor courts: a shorter stopping distance when you break into defence, and a faster launch from standing. Who is it for? Liberos and receivers — most of the set is spent in low, fast floor movement rather than jumping; lightness and a free ankle serve you here more than anything else. Outside hitter — the player who relies on approach speed and sudden direction changes more than on heavy, continuous jumping. Setter — constant fast movement between court positions, reaching the second ball from any angle. Anyone whose ankles have never given them trouble and who prefers the feel of a light shoe over the feel of support.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "884394425": {
+            "name": "Colour",
+            "values": {
+              "248530221": "White / Black",
+              "1488806958": "Dahlia / Murasaki",
+              "1860208268": "Black / Silver"
+            }
+          },
+          "1009143590": {
+            "name": "Size",
+            "values": {
+              "17476463": "49",
+              "126230957": "45",
+              "167232674": "42.5",
+              "192564844": "47",
+              "275212199": "40.5",
+              "501997921": "39",
+              "608470118": "37",
+              "901317292": "44",
+              "925731950": "48",
+              "966602595": "46",
+              "1009427873": "42",
+              "1074709088": "38",
+              "1365459118": "46",
+              "1541202851": "43.5",
+              "1649247904": "41.5",
+              "1699179885": "47.5",
+              "1873805410": "40",
+              "1981916007": "37.5"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1620547696",
@@ -1413,6 +1754,7 @@
       "price": 614,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "فلاقشيب أسيكس 2026 برقبة متوسطة",
       "description": "رقبة متوسطة تحمي كاحلك… دون أن تخسر سنتيمتراً من قفزتك الجيل الرابع من سلسلة Sky Elite FF — خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام، الذي يلعب به نجوم المنتخب الياباني ومنهم ران تاكاهاشي و نيشيدا يوجي — بنسخته ذات القصّة المتوسطة (MT)، وبتقنيات أسيكس لموسم 2026 كاملةً وعلى رأسها رغوة FF BLAST MAX . صُمم للاعب الكرة الطائرة الذي يقفز كثيراً ويهبط بقوة، ويريد دعماً حقيقياً حول الكاحل دون أن يتنازل عن خفّة الحذاء الاحترافي. ويكتمل الموسم بلون ياباني حصري — داليا × موراساكي — يصدر في 20 أغسطس 2026 . التقنيات FF BLAST MAX — رغوة النعل الوسطي القادمة من أحذية الجري الاحترافية. تمتصّ صدمة الهبوط بعد كل قفزة بدل أن تصعد كاملةً إلى ركبتك وظهرك، ثم تعيد جزءاً من تلك الطاقة دفعاً لأعلى في القفزة التالية. أثرها الحقيقي لا تراه في القفزة الأولى بل في الشوط الخامس: قدم أقل إرهاقاً بعد عشرات القفزات. RISETRUSS المحدّثة — هيكل تثبيت يقاوم التواء منتصف القدم لحظة الدفع الأخيرة. عملياً: السرعة الأفقية التي جمعتها في خطوات الاقتراب تتحوّل إلى ارتفاع عمودي بدل أن تتبدد في التواء جانبي، ويختفي إحساس «انزلاق القدم داخل الحذاء» عند تغيير الاتجاه المفاجئ. DYNALACING — نظام ربط يوزّع الشدّ ويلتفّ حول مقدمة القدم فيقفل الحذاء عليها أثناء الحركات الانفجارية: خطوات الاقتراب، التوقف المفاجئ، والدفع الجانبي على طول الشبكة. تحصل على الثبات دون أن تشدّ الرباط شدّاً مؤلماً يقطع الدورة الدموية. قصّة متوسطة (Mid-cut) — الرقبة ترتفع فوق عظمة الكاحل وتحيط بها، فتحدّ من ميلانه للداخل أو الخارج لحظة الهبوط — خصوصاً الهبوط على قدم واحدة أو فوق قدم لاعب آخر تحت الشبكة، وهو أشهر سيناريو لالتواء الكاحل في الطائرة. لمن هذا الحذاء؟ الطرف (Outside Hitter) والدياجونال — قفزات هجوم متكررة وهبوط بكامل الوزن طوال المباراة؛ الرقبة المتوسطة مع الرغوة الماصّة للصدمة تخدمك هنا أكثر من أي مركز آخر. السنتر (Middle Blocker) — حركة جانبية سريعة على طول الشبكة، ثم قفزة صدّ وهبوط بجوار لاعبين آخرين؛ في هذه اللحظة تحديداً يقلّ خطر الدوس على قدم الخصم والتواء الكاحل. من سبق أن التوى كاحله — أو من يلعب بشريط لاصق أو دعامة كاحل ويبحث عن حذاء يمنحه طبقة دعم إضافية. اللاعب طويل القامة أو الأثقل وزناً — كلما زاد الحمل على القدم عند الهبوط، زادت فائدة الدعم المرتفع والامتصاص القوي. أما الليبرو ولاعبو الاستقبال الذين يقضون معظم الشوط في حركة أرضية منخفضة وسريعة أكثر من القفز، فالنسخة المنخفضة عادةً أقرب لاحتياجهم.",
       "images": [
         "https://cdn.salla.sa/jZjwre/8c604eb6-dbd2-4db0-946b-6211b8063dc0-1000x654.46559297218-Qy8HRbKJhaqHZIAzRMmPZ0oueNmy7NYwIoSrULHK.png",
@@ -1600,7 +1942,53 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1620547696"
+      "url": "https://risport-sa.com/ar/x/p1620547696",
+      "en": {
+        "name": "Asics Sky Elite FF MT 4 (Mid-Cut) — New 2026 Generation",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Asics' 2026 flagship, mid-cut",
+        "description": "A mid collar that protects your ankle… without costing you a centimetre of your jump The fourth generation of the Sky Elite FF line — ASICS' top tier among all-round volleyball shoes, worn by stars of the Japanese national team including Ran Takahashi and Yuji Nishida — in its mid-cut (MT) version, with the full set of ASICS' 2026 technologies led by FF BLAST MAX foam. It is built for the volleyball player who jumps a lot and lands hard, and who wants real support around the ankle without giving up the lightness of a professional shoe. The season is completed by an exclusive Japanese colourway — Dahlia × Murasaki — released on 20 August 2026 . The technology FF BLAST MAX — the midsole foam brought over from professional running shoes. It absorbs the impact of every landing instead of sending all of it up into your knees and back, then returns part of that energy as upward push on the next jump. Its real effect shows not on the first jump but in the fifth set: legs that are less spent after dozens of jumps. Updated RISETRUSS — a stabilising structure that resists midfoot twisting at the final push. In practice: the horizontal speed you gathered in your approach steps turns into vertical height instead of leaking away into a sideways twist, and the feeling of the foot sliding inside the shoe on a sudden change of direction disappears. DYNALACING — a lacing system that distributes tension and wraps around the forefoot, locking the shoe onto it during explosive movement: approach steps, dead stops and lateral pushes along the net. You get the hold without cranking the laces painfully tight. Mid-cut — the collar rises above the ankle bone and wraps it, limiting how far it rolls inward or outward on landing — especially landing on one foot or on another player's foot under the net, the most common way ankles get sprained in volleyball. Who is it for? Outside hitter and opposite — repeated attacking jumps and full-weight landings all match long; the mid collar plus the shock-absorbing foam serves you here more than in any other position. Middle blocker — fast lateral movement along the net, then a block jump and a landing right next to other players; that is exactly the moment the risk of stepping on an opponent's foot and rolling an ankle drops. Anyone who has sprained an ankle before — or who plays taped or braced and wants a shoe that adds another layer of support. Taller or heavier players — the greater the load on the foot at landing, the more the high collar and strong absorption pay off. As for liberos and receivers who spend most of the set in low, fast movement on the floor rather than jumping, the low-cut version is usually closer to what they need.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1088838928": {
+            "name": "Size",
+            "values": {
+              "21084074": "47.5",
+              "41181708": "45",
+              "196176559": "40",
+              "304221612": "37.5",
+              "350553345": "42.5",
+              "525776902": "40.5",
+              "755758516": "49",
+              "816792323": "44",
+              "929343657": "47",
+              "970214318": "39",
+              "991487488": "42",
+              "1078324899": "37",
+              "1395578539": "48",
+              "1548910861": "46",
+              "1704954280": "46",
+              "1723999234": "43.5",
+              "1765000967": "41.5",
+              "1812933805": "38"
+            }
+          },
+          "1665269635": {
+            "name": "Colour",
+            "values": {
+              "745711889": "White / Black",
+              "917188555": "Black / Silver",
+              "2120206354": "Dahlia / Murasaki"
+            }
+          }
+        }
+      }
     },
     {
       "id": "768894154",
@@ -1618,6 +2006,7 @@
       "price": 649,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "إصدار شاين باك الياباني الحصري",
       "description": "الحذاء الذي يقفز به ران تاكاهاشي — إصدار اليابان الحصري هذا هو إصدار SHINE PACK من حذاء Asics Sky Elite FF MT 4 (كود الموديل 1051A101 ) — الإصدار الرسمي الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة، وهو الموديل الذي يلعب به نجم المنتخب ران تاكاهاشي . ويُشحن إليك مباشرة من اليابان بالطلب المسبق. اللون والتصميم جسم أبيض بلمسات فضية لامعة، مع نعل وسطي فيروزي ولمسات بنفسجية (أميثيست) على الأربطة وحلقات المشط. هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره. ما الذي يميّز إصدار شاين باك؟ حصرية فعلية لا تسويقية — كل نسخة تأتي من السوق الياباني مباشرة. إصدار المنتخب الرسمي — شاين باك هو الطقم اللوني الذي ظهر به لاعبو المنتخب الياباني في حملة أسيكس الرسمية لهذا الموسم، لا مجرد لون تجاري. حذاء لاعب، لا حذاء «مستوحى» من لاعب — ليست نسخة تجارية تحمل اسمه، بل الموديل نفسه الذي يظهر به تاكاهاشي في المباريات الدولية. ماذا يعني الاسم؟ — Sky Elite FF هو خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام (وفوقه في التشكيلة الميتارايز المتخصّص في القفز وحده)، و MT ترمز إلى القصّة المتوسطة (Mid-cut) التي ترتفع فوق الكاحل. التقنيات FF BLAST MAX — أول رغوة من أحذية الجري تدخل حذاء كرة طائرة رغوة عالية الارتداد مأخوذة من أحذية الجري، وهذه أول مرة تعتمدها أسيكس في حذاء كرة طائرة. ما يعنيه ذلك لك على الأرض: دفعة أوضح في الخطوة الأخيرة من الاقتراب قبل الضربة، وهبوط أنعم يمتص صدمة النزول بدل أن ينقلها كاملة إلى قدمك — وهو ما تشعر به في الأشواط المتأخرة حين تبدأ الأرجل بالتعب. RISETRUSS المحدّثة — ثبات لحظة الدفع هيكل يقاوم التواء منتصف القدم لحظة الدفع الأخيرة. ما يعنيه ذلك لك على الأرض: القوة الأفقية التي جمعتها في خطوات الاقتراب تتحوّل إلى ارتفاع عمودي بدل أن تتبدد في اهتزاز جانبي، وقدمك لا تتزحزح داخل الحذاء عند الهبوط بعد البلوك أو عند التوقف المفاجئ — فتخرج بانطلاقة أنظف في التغطية والدفاع. DYNALACING — إحكام يلتف حول القدم نظام رباط يوزّع شدّ الأربطة على مشط القدم بدل حصره في نقطة واحدة. ما يعنيه ذلك لك على الأرض: تستطيع شدّ الحذاء بقوة للحصول على تثبيت كامل دون نقاط ضغط مؤلمة فوق القدم، ويبقى الإحكام ثابتاً خلال الشوط بدل أن يرتخي فيقطع عليك اللعب لإعادة الربط. قصّة متوسطة (Mid-cut) — دعم فوق الكاحل رقبة الحذاء ترتفع فوق عظمة الكاحل وتحيط بها. ما يعنيه ذلك لك على الأرض: طمأنينة إضافية في الهبوط غير المستوي قرب الشبكة أو فوق قدم زميل أو خصم، وهو الموقف الذي يقلق المهاجمين ولاعبي الوسط أكثر من غيره. الإحساس العام أكثر حزماً حول الكاحل مقارنة بالقصّة المنخفضة. لمن هذا الحذاء؟ القصّة المتوسطة تخدم اللاعب الذي يقفز كثيراً ويهبط أكثر: الضارب الطرف (Outside Hitter) — مركز ران تاكاهاشي نفسه: اقتراب واندفاع وقفزات متكرّرة من الأطراف مع هبوط قريب من الخط. الأوبوزيت (Opposite) — حجم هجوم عالٍ وقفزات متتالية طوال المباراة؛ الارتداد ودعم الهبوط يخدمانه مباشرة. لاعب الوسط (Middle Blocker) — تنقّل جانبي سريع بمحاذاة الشبكة وهبوط متكرّر في زحمة الأقدام تحتها، وهنا يظهر دعم الكاحل في أوضح صوره. من يريد طمأنينة إضافية عند الكاحل — إن كنت تفضّل الإحساس بالحزم والدعم فوق الكاحل بدل الشعور بالانكشاف، فهذه القصّة صُمّمت لذلك. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً وتبحث عن أقصى خفّة وحرية حركة للكاحل، فقد تكون القصّة المنخفضة أقرب إلى أسلوبك — هذا الحذاء موجّه لمن يريد الدعم.",
       "images": [
         "https://cdn.salla.sa/jZjwre/463f4cf6-556e-41f3-bf1b-035c370a15a5-1000x646.00715137068-VIYa60CgQ9hPQhwWJOjMJYqCXZ6mj470KAQhpmqm.png",
@@ -1753,7 +2142,42 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p768894154"
+      "url": "https://risport-sa.com/ar/x/p768894154",
+      "en": {
+        "name": "Asics Sky Elite FF MT 4 — Exclusive Shine Pack (Ran Takahashi's Shoe)",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Japan-exclusive Shine Pack edition",
+        "description": "The shoe Ran Takahashi jumps in — the Japan-exclusive edition This is the SHINE PACK edition of the Asics Sky Elite FF MT 4 (model code 1051A101 ) — the official release ASICS made with the Japan Volleyball Association, and the model worn by national-team star Ran Takahashi . It ships to you directly from Japan by pre-order. Colour and design A white body with bright silver touches, a turquoise midsole and amethyst purple accents on the laces and eyelets. This is the only colourway the edition was released in, and it is not offered in any other. What makes the Shine Pack edition different? Genuine exclusivity, not a marketing line — every pair comes straight from the Japanese market. The official national-team edition — Shine Pack is the colour set the Japanese national team wore in ASICS' official campaign this season, not just a commercial colourway. A player's shoe, not a shoe \"inspired by\" a player — this is not a commercial version carrying his name; it is the same model Takahashi appears in at international matches. What the name means — Sky Elite FF is ASICS' top tier among all-round volleyball shoes (above it in the range sits the Metarise, specialised purely in jumping), and MT stands for the mid cut that rises above the ankle. The technology FF BLAST MAX — the first running-shoe foam in a volleyball shoe A high-rebound foam taken from running shoes, used here by ASICS in a volleyball shoe for the first time. What that means for you on court: a clearer push on the last step of your approach before the spike, and a softer landing that absorbs the impact instead of passing all of it into your foot — which is what you feel in the late sets when legs begin to tire. Updated RISETRUSS — stability at the moment you drive A structure that resists midfoot twisting at the final push. What that means for you on court: the horizontal force you gathered in your approach steps turns into vertical height instead of leaking into sideways wobble, and your foot does not shift inside the shoe when you land after a block or stop suddenly — so you break away more cleanly into coverage and defence. DYNALACING — a wrap that holds all the way round A lacing system that spreads lace tension across the instep instead of concentrating it in one spot. What that means for you on court: you can pull the shoe tight for a complete lockdown without painful pressure points on top of the foot, and the hold stays put through the set instead of loosening and forcing you to stop and re-tie. Mid cut — support above the ankle The collar rises above the ankle bone and wraps it. What that means for you on court: extra reassurance on uneven landings near the net or on a team-mate's or opponent's foot, the situation that worries hitters and middle blockers most. The overall feel is firmer around the ankle than a low cut. Who is it for? The mid cut serves the player who jumps a lot and lands even more: Outside hitter — Ran Takahashi's own position: approach, drive and repeated jumps from the wings, with landings close to the line. Opposite — a high attacking volume and back-to-back jumps all match long; rebound and landing support serve you directly. Middle blocker — fast lateral movement along the net and repeated landings in the crowd of feet under it, where ankle support shows at its clearest. Anyone who wants extra reassurance at the ankle — if you prefer the feeling of firmness and support above the ankle to feeling exposed, this cut was designed for that. A frank note: if you are a libero or a setter looking for maximum lightness and ankle freedom, a low cut may be closer to your style — this shoe is aimed at players who want support.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1026980832": {
+            "name": "Size",
+            "values": {
+              "56165796": "49",
+              "281663291": "44",
+              "365607257": "47",
+              "456821304": "42",
+              "473586782": "40",
+              "830269275": "48",
+              "1005427288": "46",
+              "1014174981": "46",
+              "1113406813": "39",
+              "1189922874": "43.5",
+              "1654060548": "45",
+              "1738004570": "47.5",
+              "1845984095": "40.5",
+              "1852798437": "41.5",
+              "1963436345": "42.5"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1691308859",
@@ -1771,6 +2195,7 @@
       "price": 829,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "شاين باك — إصدار محدود",
       "description": "قمة ما تصنعه أسيكس — إصدار شاين باك الذي يلعب به نيشيدا يوجي الميتارايز 2 هو أغلى حذاء كرة طائرة تصنعه أسيكس ، مبني من أوله لآخره لهدف واحد: أعلى قفزة ممكنة . وهذه النسخة تحديداً هي إصدار SHINE PACK (كود الموديل 1051A104 ) الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة — نفس الحذاء الذي يلعب به نجم الهجوم نيشيدا يوجي . ويُشحن هذا الإصدار مباشرة من اليابان. اللون والتصميم جسم أبيض بتشطيب معدني لامع يتغيّر مظهره مع زاوية الضوء، مع شعار أسيكس بنفسجي (أميثيست) ونعل وسطي فيروزي . هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره. لماذا الميتارايز هو الأقوى في القفز؟ MONO-SOCK + RISETRUSS — منصة قفز متكاملة تحوّل طاقة الاندفاع إلى ارتفاع. بنية MONO-SOCK تدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. وهيكل RISETRUSS يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً — فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الجوانب. FF BLAST PLUS مع لوح كربوني — ارتداد فائق وامتصاص لصدمات الهبوط المتكرر. النعل يعيد لك جزءاً من الطاقة في كل خطوة بدل أن يبتلعها، واللوح الكربوني يمنح المنصة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتص التركيب صدمة النزول المتكررة شوطاً بعد شوط. قصّة متوسطة (Mid-cut) — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو الموقف الأخطر على لاعب يقفز عشرات المرات في المباراة الواحدة. لمن هذا الحذاء؟ للاعبي القفز المتواصل قبل أي أحد: الضارب المقابل (Opposite) و لاعب الوسط (Middle Blocker) — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب هو الاقتراب ثم الدفع ثم الهبوط ثم التكرار فوراً، فهذا الحذاء مبني لك بالتحديد. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أثقل وأكثر تقييداً مما تحتاج — والسعر لا يُبرّر ذلك في حالتك.",
       "images": [
         "https://cdn.salla.sa/jZjwre/aeda090c-dc40-491d-867a-470002666c38-1000x663.49583828775-FlWJfh6HR6ZXoOShrpoxZ4fBEiqw8aTHNArZBFpb.png",
@@ -1885,7 +2310,39 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1691308859"
+      "url": "https://risport-sa.com/ar/x/p1691308859",
+      "en": {
+        "name": "Asics Metarise 2 — Exclusive Shine Pack (Yuji Nishida's Shoe)",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Shine Pack — limited edition",
+        "description": "The peak of what ASICS builds — the Shine Pack edition Yuji Nishida plays in The Metarise 2 is the most expensive volleyball shoe ASICS makes , built end to end for one goal: the highest jump possible . This particular version is the SHINE PACK edition (model code 1051A104 ) released by ASICS together with the Japan Volleyball Association — the very shoe worn by star attacker Yuji Nishida . This edition ships directly from Japan. Colour and design A white body with a metallic sheen that shifts with the angle of the light, an amethyst purple ASICS logo and a turquoise midsole. This is the only colourway the edition was released in, and it is not offered in any other. Why the Metarise is the strongest jumping shoe MONO-SOCK + RISETRUSS — a complete jumping platform that converts drive into height. The MONO-SOCK construction merges the tongue and the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping through the approach steps. The RISETRUSS structure resists midfoot twisting at the final push so energy does not leak sideways — what you put into the floor comes back as height instead of being lost to the sides. FF BLAST PLUS with a carbon plate — outstanding rebound plus absorption of repeated landing impact. The midsole returns part of the energy on every step instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you. And on landing — which is what actually wears a player down over a match — the construction absorbs the repeated impact set after set. Mid cut — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous moment for a player who jumps dozens of times in a single match. Who is it for? For continuous jumpers before anyone else: the opposite and the middle blocker — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you. A frank note: if you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is heavier and more restrictive than you need — and its price does not justify it in your case.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1981987011": {
+            "name": "Size",
+            "values": {
+              "60842509": "45",
+              "168887554": "42.5",
+              "620367114": "49",
+              "795582479": "47",
+              "836453132": "44.5",
+              "942990849": "42",
+              "1099583410": "44",
+              "1260252681": "48",
+              "1569620238": "46",
+              "1744708611": "43.5",
+              "1852819200": "41.5",
+              "2033241864": "47.5"
+            }
+          }
+        }
+      }
     },
     {
       "id": "810346638",
@@ -1901,6 +2358,7 @@
       "price": 829,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "أقصى ارتفاع قفزة من أسيكس",
       "description": "أسيكس ميتارايز 2 الميتارايز 2 هو قمة ما تصنعه أسيكس للكرة الطائرة ، مبنيّ من أوله لآخره حول هدف واحد: أعلى قفزة ممكنة، وهبوط تتحمّله شوطاً بعد شوط . ويأتي بلونين: بابلجم وأسود و إنديجو فوغ . المنصّة — وما تفعله فعلاً نعل FF BLAST PLUS مع لوح كربوني — الرغوة تعيد لك جزءاً من طاقة الخطوة بدل أن تبتلعها، واللوح الكربوني يمنح المنصّة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك في اللحظة التي تحتاج فيها أرضاً صلبة. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتصّ التركيب صدمة النزول المتكرر. جزء علوي بتقنية MONO-SOCK — يدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. النتيجة العملية: القدم لا «تسبح» داخل الحذاء عند التوقف المفاجئ قبل القفزة. هيكل RISETRUSS — يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً. فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الالتواء. قصّة متوسطة (Mid-cut) — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو أخطر موقف على لاعب يقفز عشرات المرات في المباراة الواحدة. لمن هذا الحذاء؟ للاعبي القفز المتواصل قبل أي أحد: الضارب المقابل (Opposite) و لاعب الوسط (Middle Blocker) — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب اقتراباً ثم دفعاً ثم هبوطاً ثم تكراراً فوراً، فهذا الحذاء مبنيّ لك بالتحديد. ومتى لا يناسبك؟ — بصراحة إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أكثر تقييداً مما تحتاج وسعره لا يُبرّر ذلك في حالتك؛ والبديل الأنسب هو سكاي إيليت ، وهو الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام . وكذلك اللوح الكربوني يجعل الإحساس صلباً وحاسماً تحت القدم — من يفضّل نعلاً ليّناً طريّاً لن يحبّ هذه المنصّة.",
       "images": [
         "https://cdn.salla.sa/jZjwre/fa9638dd-43d3-4943-9728-0e2ba074095a-1000x1000-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg",
@@ -2042,7 +2500,44 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p810346638"
+      "url": "https://risport-sa.com/ar/x/p810346638",
+      "en": {
+        "name": "ASICS Metarise 2 Volleyball Shoe",
+        "brand": "ASICS",
+        "sport": null,
+        "tagline": null,
+        "subtitle": "ASICS' highest jump platform",
+        "description": "ASICS Metarise 2 The Metarise 2 is the peak of what ASICS builds for volleyball , designed end to end around one goal: the highest jump possible, and a landing you can take set after set . It comes in two colourways: Bubblegum and Black and Indigo Fog . The platform — and what it actually does FF BLAST PLUS midsole with a carbon plate — the foam returns part of each step's energy instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you at the very moment you need solid ground. And on landing — which is what really wears a player down over a match — the construction absorbs the repeated impact. MONO-SOCK upper — it merges the tongue with the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping during the approach steps. The practical result: the foot does not \"swim\" inside the shoe on the sudden stop before the jump. RISETRUSS structure — it resists midfoot twisting at the final push so energy does not leak sideways. What you drive into the floor comes back as height instead of being lost to a twist. Mid cut — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous situation for a player who jumps dozens of times in a single match. Who is it for? For continuous jumpers before anyone else: the opposite and the middle blocker — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you. And when does it not suit you? — frankly If you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is more restrictive than you need and its price does not justify it in your case; the better fit is the Sky Elite , ASICS' top tier among all-round volleyball shoes . The carbon plate also makes the feel firm and decisive underfoot — anyone who prefers a soft, plush midsole will not enjoy this platform.",
+        "tags": [
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1051301440": {
+            "name": "Color",
+            "values": {
+              "188917476": "Indigo Fog",
+              "1697629669": "Bubblegum × Black"
+            }
+          },
+          "1227274198": {
+            "name": "Size",
+            "values": {
+              "116389367": "42",
+              "373696325": "47",
+              "451067672": "47.5",
+              "589790591": "42.5",
+              "1148786756": "46",
+              "1225101343": "44.5",
+              "1324006265": "44",
+              "1388192480": "49",
+              "1612924486": "48",
+              "1788672379": "45",
+              "2098044024": "43.5",
+              "2134864158": "41.5"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1101323016",
@@ -2060,6 +2555,7 @@
       "price": 540,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "أخفّ إيليت من ميزانو — 295 غراماً",
       "description": "خفّة LIGHTNING بمستوى ELITE — لمن يفوز بالخطوة الأولى سلسلة WAVE LIGHTNING هي خط ميزانو الخفيف والسريع في الكرة الطائرة، و ELITE أعلى مستوياتها: بناء خفيف الوزن (نحو 295 غ لمقاس 27.0 سم) يقوم على رغوة MIZUNO ENERZY nxt عالية الارتداد و لوح WAVE الذي يمسك منتصف القدم لحظة الكبح وتغيير الاتجاه. صُمّم للاعب الذي يقوم لعبه على سرعة القدم والخطوة القصيرة المتكررة والدفاع الواسع، لا على القفز الثقيل المتواصل. التقنيات MIZUNO ENERZY nxt في النعل الوسطي، مع نعلة داخلية MIZUNO ENERZY xp — الأخيرة تصفها ميزانو بأنها أعلى مادة نعلة عالية الارتداد في تاريخها، وهي قابلة للخلع. الاثنتان معاً تعيدان جزءاً من طاقة كل هبوط بدل أن تبتلعاها، فتحسّ بدفعة في الانطلاقة الأولى، وتبقى قدمك أقل إرهاقاً في الأشواط الأخيرة حيث تُحسم المباريات. لوح WAVE — صفيحة موجية في منتصف النعل: تمنع التواء منتصف القدم عند التوقف المفاجئ والدوران. هذا هو الفرق بين قدم تستقر فتنطلق فوراً في الاتجاه المعاكس، وقدم «تسبح» داخل الحذاء فتضيّع عليك خطوة كاملة. بناء خفيف الوزن — أثره لا يظهر في خطوة واحدة، بل في مئات الخطوات القصيرة خلال المباراة: مجهود أقل في كل حركة جانبية، وعودة أسرع إلى مركزك بعد كل كرة. نعل خارجي XG رابر+ بقبضة عالية — مضبوط على أرضيات الصالات الخشبية: يعضّ الأرض لحظة الكبح فتقف حيث تريد بالضبط، ويقلّل الانزلاق في اللحظة التي لا يُغتفر فيها الانزلاق. ومعه أخاديد D FLEX GROOVE لمرونة الانثناء الطبيعي للقدم. لمن هذا الحذاء؟ هو الخيار الطبيعي لمن يقضي المباراة في حركة أفقية متواصلة: الليبرو والمدافع — تغطية مساحة واسعة، انطلاقات قصيرة متكررة، وسقوط ونهوض سريع. الطرف/المستقبِل — يجمع بين الاستقبال والانتقال السريع إلى موقع الهجوم. صانع الألعاب — يصل إلى الكرة الثانية من أي زاوية، ويحتاج ثباتاً فورياً عند التوقف ليمرّر متّزناً. وبشكل عام: كل لاعب يصف أسلوبه بأنه سريع وخفيف ، ويفضّل الاستجابة الفورية على التوسيد الكثيف.",
       "images": [
         "https://cdn.salla.sa/jZjwre/fb042a6f-b5ed-4a14-acc1-b4ad1d768d1a-1000x487.85714285714-1i2pUfMZQ1HlanUji2gj8sKZnb7e8JTHhMQDsFWU.png",
@@ -2220,7 +2716,49 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1101323016"
+      "url": "https://risport-sa.com/ar/x/p1101323016",
+      "en": {
+        "name": "Mizuno Wave Lightning Elite — Light & Fast, All Sizes Available",
+        "brand": "Mizuno",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Mizuno's lightest Elite — 295 g",
+        "description": "LIGHTNING lightness at ELITE level — for the player who wins the first step The WAVE LIGHTNING line is Mizuno's light, fast volleyball family, and ELITE is its top tier: a lightweight build (about 295 g at size 27.0 cm) around high-rebound MIZUNO ENERZY nxt foam and the WAVE plate that grips the midfoot the instant you brake and change direction. It is made for the player whose game runs on foot speed, repeated short steps and wide defensive coverage — not on heavy, continuous jumping. The technology MIZUNO ENERZY nxt in the midsole, with a MIZUNO ENERZY xp sockliner — the latter is what Mizuno calls its highest-rebound insole material ever, and it is removable. Together they return part of the energy of every landing instead of swallowing it, so you feel a push on the first step and your legs stay fresher in the closing sets where matches are decided. WAVE plate — a wave-shaped sheet through the midfoot that stops the middle of the foot twisting when you stop dead or pivot. That is the difference between a foot that settles and fires straight back the other way, and a foot that \"swims\" inside the shoe and costs you a full step. Lightweight construction — you do not feel it in one step; you feel it across hundreds of short steps in a match: less effort in every lateral move, and a faster return to your position after each ball. High-grip XG Rubber+ outsole — tuned for wooden indoor courts: it bites the floor the moment you brake so you stop exactly where you meant to, and it cuts slipping at the moment slipping is unforgivable. D FLEX GROOVE flex grooves let the foot bend naturally. Who is it for? It is the natural pick for anyone who spends the match moving horizontally: Libero and defensive specialist — covering a wide area, repeated short bursts, dropping and getting back up fast. Outside hitter / receiver — combining reception with a quick transition into the attack. Setter — reaching the second ball from any angle, needing instant stability on the stop to set balanced. And generally: any player who describes their style as fast and light , and prefers immediate response over deep cushioning.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1713030354": {
+            "name": "Colour",
+            "values": {
+              "237986092": "White / Sax / Green",
+              "278397985": "White / Navy",
+              "1010975267": "White / Red",
+              "1231134297": "Black / White",
+              "1650795298": "White / Black"
+            }
+          },
+          "1902750028": {
+            "name": "Size (cm)",
+            "values": {
+              "98502533": "26.5",
+              "300647651": "29.5",
+              "521249410": "29.0",
+              "562120071": "27.5",
+              "737343620": "26.0",
+              "1141728738": "25.0",
+              "1295287169": "28.5",
+              "1470375558": "27.0",
+              "1578490299": "25.5",
+              "1672520684": "30.0",
+              "1780500193": "24.5",
+              "1936614528": "28.0"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1728971313",
@@ -2238,6 +2776,7 @@
       "price": 545,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "قمة سلسلة مومينتم من ميزانو",
       "description": "مومينتم إيليت — قمة سلسلة WAVE MOMENTUM من ميزانو WAVE MOMENTUM ELITE هو الإصدار الأعلى فئةً في سلسلة مومينتم، وهو النسخة التي تجتمع فيها رغوة MIZUNO ENERZY عالية الارتداد مع لوح WAVE — التقنيتان اللتان تقوم عليهما فلسفة ميزانو في أحذية الصالات: امتصاص قوي لصدمة الهبوط، وثبات لا يتزحزح عند تغيير الاتجاه. صُمم للاعب الذي يقضي المباراة في الهواء: قفزٌ متكرر، هبوطٌ بكامل الوزن مرة بعد مرة، وقطعٌ جانبي حاد على أرضية خشبية. وزنه نحو 350 غ لمقاس 27.0 سم. التقنيات MIZUNO ENERZY + MIZUNO ENERZY CORE — رغوة عالية الارتداد مع نواة إضافية في قلب النعل، وعملها شقّان: تبتلع جزءاً أكبر من صدمة الهبوط قبل أن تصل إلى الكاحل والركبة، ثم تعيد جزءاً من تلك الطاقة إلى قدمك في القفزة التالية بدل أن تبتلعها الأرض. أثرها الذي تلمسه فعلاً يظهر في الأشواط الأخيرة، حين تبدأ الأرجل تثقل: إجهاد متراكم أقل، وإحساس بأن الحذاء «يدفعك» لا يشدّك للأسفل. ويكملها من الداخل نعلة MIZUNO ENERZY xp . لوح WAVE — لوح مموّج مدمج في النعل يوزّع قوة الاصطدام على مساحة أوسع بدل أن تتركّز تحت نقطة واحدة من القدم، ويمسك منتصف القدم من الالتواء لحظة الهبوط أو عند القطع المفاجئ إلى الجانب. على أرض الملعب هذا يعني: هبوطاً أثبت بعد الضربة الساحقة، وثقة في تغيير الاتجاه دون إحساس بأن القدم «تسبح» داخل الحذاء. نعل خارجي بقبضة عالية — مصمم لأرضيات الصالات الخشبية تحديداً، بمطاط X-Grade وحماية DURASHIELD في مناطق الاحتكاك. يعني مسافة توقف أقصر حين تندفع للدفاع، وانطلاقة أسرع من وضع الثبات، وأماناً أعلى في التحركات الجانبية السريعة بدل الانزلاق عند نقطة الارتكاز. عرض 2E — العرض الياباني القياسي، وهو أوسع قليلاً من عرض المقاسات الأوروبية المعتادة. مريح لصاحب القدم المتوسطة إلى العريضة، ويترك لمقدمة القدم مساحة تتمدد فيها عند الهبوط بدل أن تُضغط على الجانبين. لمن هذا الحذاء؟ هذا حذاء لاعب الشبكة أولاً. إن كان دورك يبدأ بالإقلاع وينتهي بالهبوط — مهاجم الأطراف ، المعاكس ، لاعب الوسط — فأنت الفئة التي بُني لها: عدد قفزات كبير في المباراة الواحدة، وهبوط متكرر يحتاج نعلاً يمتص هذا التكرار بدل أن يمرّره إلى المفاصل. ويناسب كذلك اللاعب الأطول قامة أو الأثقل وزناً مهما كان مركزه، لأن حِمل الهبوط عنده أكبر، ومن يشعر بإجهاد في الركبة أو الكاحل بعد التمارين الطويلة ويبحث عن توسيد أعلى. أما الليبرو و المُعِد ، ومن يعتمد على سرعة القدم والانتقالات القصيرة أكثر من القفز، فقد يجد ثِقل هذا الخط زائداً على حاجته — والأنسب له ويف لايتنينج إيليت ، النسخة الأخفّ والأسرع من ميزانو.",
       "images": [
         "https://cdn.salla.sa/jZjwre/83f34db1-1711-4840-be80-b3a58847fb13-1000x562.14285714286-5T9IQlWQfANwu9MuX8f7AaTnj3SICfOjodRjTA00.png",
@@ -2432,7 +2971,54 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1728971313"
+      "url": "https://risport-sa.com/ar/x/p1728971313",
+      "en": {
+        "name": "Mizuno Wave Momentum Elite — All Sizes Available",
+        "brand": "Mizuno",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "The top of Mizuno's Momentum line",
+        "description": "Momentum Elite — the top of Mizuno's WAVE MOMENTUM line WAVE MOMENTUM ELITE is the highest tier of the Momentum line, the version where high-rebound MIZUNO ENERZY foam meets the WAVE plate — the two technologies Mizuno's indoor-court philosophy rests on: strong absorption of landing impact, and stability that does not budge when you change direction. It is built for the player who spends the match in the air: repeated jumps, full-weight landings one after another, and sharp lateral cuts on a wooden floor. It weighs about 350 g at size 27.0 cm. The technology MIZUNO ENERZY + MIZUNO ENERZY CORE — high-rebound foam with an extra core at the heart of the midsole, doing two jobs: swallowing a larger share of the landing impact before it reaches your ankle and knee, then returning part of that energy to your foot on the next jump instead of leaving it in the floor. What you actually notice comes in the late sets, when legs start to feel heavy: less accumulated fatigue, and the sense that the shoe pushes you up rather than dragging you down. A MIZUNO ENERZY xp sockliner completes it from the inside. WAVE plate — a wave-shaped plate built into the midsole that spreads impact force over a wider area instead of concentrating it under one point of the foot, and holds the midfoot against twisting on landing or on a sudden cut to the side. On court that means a steadier landing after the spike, and confidence changing direction without feeling the foot \"swim\" inside the shoe. High-grip outsole — designed specifically for wooden indoor courts, with X-Grade rubber and DURASHIELD protection in the friction zones. That means a shorter stopping distance when you dive into defence, a quicker launch from standing, and more safety in fast lateral movement instead of slipping at the pivot point. 2E width — the Japanese standard width, slightly wider than the usual European last. Comfortable for medium to wide feet, and it leaves the forefoot room to spread on landing instead of being squeezed at the sides. Who is it for? This is a net player's shoe first. If your job starts with a take-off and ends with a landing — outside hitter , opposite , middle blocker — you are exactly who it was built for: a high jump count in a single match, and repeated landings that need a midsole to absorb the repetition instead of passing it into your joints. It also suits the taller or heavier player whatever their position, because their landing load is greater, and anyone whose knees or ankles ache after long sessions and who is looking for more cushioning. The libero and the setter , and anyone who relies on foot speed and short transitions more than on jumping, may find this line heavier than they need — the better fit for them is the Wave Lightning Elite , Mizuno's lighter, faster version.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "174931669": {
+            "name": "Colour",
+            "values": {
+              "461490381": "White / Black",
+              "1196160719": "Black / Metallic Grey / Blue",
+              "1970198478": "White / Navy"
+            }
+          },
+          "1795789419": {
+            "name": "Size (cm)",
+            "values": {
+              "121711657": "28.0",
+              "162713390": "26.5",
+              "224564220": "23.5",
+              "474717124": "32.0",
+              "587950635": "29.0",
+              "649805561": "30.0",
+              "689230334": "24.5",
+              "864318707": "23.0",
+              "895749416": "27.5",
+              "1070964781": "26.0",
+              "1114471675": "31.0",
+              "1361988394": "28.5",
+              "1423843320": "29.5",
+              "1537207855": "27.0",
+              "1599058685": "24.0",
+              "1639929330": "22.5",
+              "1644724524": "25.5",
+              "1887460858": "30.5",
+              "2062676223": "25.0"
+            }
+          }
+        }
+      }
     },
     {
       "id": "231046445",
@@ -2451,6 +3037,7 @@
       "price": 650,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "الجيل الثلاثون — تصميم من الصفر",
       "description": "ميزانو ويف رايدر 30 سلسلة WAVE RIDER بدأت عام 1997 على مفهوم واحد: انتقال سلس للوزن من الكعب إلى الأصابع . والجيل الثلاثون — الصادر في يونيو 2026 — أُعيد تصميمه من الصفر ، وهو أكبر تجديد في تاريخ السلسلة. ما الجديد في الجيل 30 — بالأرقام الرسمية امتصاص أعلى بنحو 17% وارتداد أعلى بنحو 19% مقارنةً بالجيل 29، بسبب تغيّر سماكة النعل ومادّته. نعل وسطي بطبقتين من MIZUNO ENERZY NXT — الطبقة العليا رغوة مُرغاة فوق حرجياً (supercritical) ، والسفلى ENERZY NXT اعتيادية. مادتان تتشوّهان بطريقتين مختلفتين، كل واحدة في موضعها المناسب. لوح WAVE بطول الحذاء كاملاً — لأول مرة في السلسلة . يثبّت مقدمة القدم بعد زيادة سماكة النعل، ويعطي أثر «التدحرج» (rocker) الذي يدفع الخطوة للأمام. سماكة أكبر ودروب أقل — المقدمة 34.5 مم (+6 مم) والكعب 42.5 مم (+4 مم) عند مقاس 27.0 سم، فصار فرق الارتفاع 8 مم بدل 10 مم . قاعدة أعرض للثبات — وُسِّع سطح ملامسة النعل في الوسط والخلف، فبقي الحذاء ثابتاً رغم نعله الطريّ العالي الارتداد. الوزن ~265 غراماً للفردة الواحدة بمقاس 27.0 سم — أي كوزن الجيل السابق رغم كل الزيادات، بفضل إعادة توزيع المطاط. لمن هذا الحذاء؟ هو «ديلي ترينر» بالتعريف: حذاء الجري اليومي الذي تقطع به معظم كيلومتراتك. وكثيرون يستعملونه للمشي الطويل أيضاً لنفس السبب — النعل السميك الممتصّ وأثر التدحرج يجعلان الخطوة أقلّ إجهاداً على مسافات طويلة. البيانات الرسمية الوزن: ~265 غ (فردة واحدة، مقاس 27.0 سم) الدروب: 8 مم — كعب 42.5 مم · مقدمة 34.5 مم النعل الوسطي: MIZUNO ENERZY NXT بطبقتين · لوح MIZUNO WAVE بالطول الكامل العرض: 2E في كل الألوان المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
       "images": [
         "https://cdn.salla.sa/jZjwre/5d8525b7-5729-4764-a9cb-0fd8698185f4-1000x502.66666666667-rn2tT1NE9oTQonFYYszTcAE3Njgdgv4xFFv3Hrne.jpg",
@@ -2618,7 +3205,51 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p231046445"
+      "url": "https://risport-sa.com/ar/x/p231046445",
+      "en": {
+        "name": "Mizuno Wave Rider 30 — Running & Walking Shoe",
+        "brand": "Mizuno",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "30th gen — redesigned from scratch",
+        "description": "Mizuno Wave Rider 30 The WAVE RIDER line began in 1997 around a single idea: a smooth transfer of weight from heel to toe . The thirtieth generation — released in June 2026 — was redesigned from scratch , the biggest overhaul in the line's history. What is new in generation 30 — the official numbers About 17% more shock absorption and about 19% more rebound than generation 29, thanks to a change in midsole thickness and material. A two-layer MIZUNO ENERZY NXT midsole — the upper layer is a supercritical foam, the lower one standard ENERZY NXT. Two materials that deform in different ways, each placed where it does the most good. A full-length WAVE plate — a first for the line . It steadies the forefoot now that the midsole is thicker, and creates the rocker effect that rolls your stride forward. More stack, less drop — 34.5 mm at the forefoot (+6 mm) and 42.5 mm at the heel (+4 mm) at size 27.0 cm, so the drop is now 8 mm instead of 10 mm . A wider base for stability — the outsole contact surface was widened at the midfoot and heel, so the shoe stays steady despite its tall, soft, high-rebound midsole. Weight ~265 g per shoe at size 27.0 cm — the same as the previous generation despite everything added, thanks to a redistribution of the outsole rubber. Who is it for? It is a daily trainer by definition: the everyday running shoe you log most of your kilometres in. Many people also use it for long walks for the same reason — the thick, absorbent midsole and the rocker effect make each step less tiring over long distances. Official specifications Weight: ~265 g (single shoe, size 27.0 cm) Drop: 8 mm — heel 42.5 mm · forefoot 34.5 mm Midsole: two-layer MIZUNO ENERZY NXT · full-length MIZUNO WAVE plate Width: 2E in every colour Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Walking Shoes",
+          "Running Shoes"
+        ],
+        "options": {
+          "631256135": {
+            "name": "Color",
+            "values": {
+              "455980791": "Black × White",
+              "1188558065": "Lime Green × Black",
+              "1963644400": "White × Sky Blue"
+            }
+          },
+          "2005750592": {
+            "name": "Size",
+            "values": {
+              "131325432": "40.5 (25.5 cm)",
+              "239300861": "38 (24.0 cm)",
+              "280761330": "36 (22.5 cm)",
+              "379897280": "47 (30.0 cm)",
+              "420772037": "44 (28.0 cm)",
+              "595926010": "42 (26.5 cm)",
+              "905363199": "40 (25.0 cm)",
+              "1013338620": "37.5 (23.5 cm)",
+              "1155507911": "45 (29.0 cm)",
+              "1330600388": "43.5 (27.5 cm)",
+              "1371077881": "41.5 (26.0 cm)",
+              "1479122942": "39 (24.5 cm)",
+              "1654207219": "37 (23.0 cm)",
+              "1794279366": "44.5 (28.5 cm)",
+              "2103589627": "42.5 (27.0 cm)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1999971783",
@@ -2636,6 +3267,7 @@
       "price": 400,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "الأول مبيعاً لأحذية المشي باليابان",
       "description": "نيوبالانس فريش فوم X 880 v7 — حذاء مشي هذا ليس حذاء جري أُعيد تسويقه للمشي، بل حذاء مصنوع للمشي أصلاً من خطّ نيوبالانس المخصّص له. والجيل السابع يحتلّ المرتبة الأولى في قائمة أفضل مبيعات أحذية المشي النسائية على أمازون اليابان بتقييم 4.3 من 5 ، وهو دليل عملي أكثر من أي كلام تسويقي. لماذا يُشترى نعل وسطي Fresh Foam X — رغوة نيوبالانس المعروفة بامتصاص الصدمة على الأسفلت الصلب. المشي اليومي الطويل يضرب الكعب آلاف المرات، وهنا يظهر الفرق بين حذاء رياضي عام وحذاء مشي. عرض 2E مريح — العرض الياباني القياسي لأحذية المشي، أوسع قليلاً من العرض العالمي المعتاد عند مشط القدم. مريح لمن يمشي ساعات فتنتفخ قدمه آخر النهار، بلا فضفضة تجعل القدم تسبح داخل الحذاء. جزء علوي من الشامواه والشبك — الشامواه يحفظ شكل الحذاء ويعطيه مظهراً يصلح خارج الرياضة، والشبك يتنفّس. رقبة منخفضة وإغلاق بالرباط — لا شيء يقيّد الكاحل في المشي، والرباط يضبط الإحاطة على شكل قدمك. لمن هذا الحذاء؟ لمن يمشي يومياً للياقة أو للصحة، ولمن يقف ويمشي طويلاً في عمله، ولمن يريد حذاءً واحداً مريحاً يصلح للسفر والتنقل. ليس حذاء جري — إن كان هدفك الجري فاختر أسيكس نيمبوس أو كايانو أو ميزانو ويف رايدر من نفس المتجر. البيانات الرسمية الموديل: Walking Fresh Foam X 880 v7 — كود W880 العرض: 2E الإغلاق: رباط · رقبة منخفضة · غير مقاوم للماء المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
       "images": [
         "https://cdn.salla.sa/jZjwre/c60f094f-5259-4e67-9316-679993d4e243-1000x458.13148788927-DMhQzCQodHFP3hYzXMEIlTyzQLsEtxIjB4BNCEzw.jpg",
@@ -2780,7 +3412,46 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1999971783"
+      "url": "https://risport-sa.com/ar/x/p1999971783",
+      "en": {
+        "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Women's",
+        "brand": null,
+        "sport": "Walking",
+        "tagline": null,
+        "subtitle": "Japan's #1 women's walking shoe",
+        "description": "New Balance Fresh Foam X 880 v7 — walking shoe This is not a running shoe re-marketed for walking; it is a shoe built for walking in the first place , from New Balance's dedicated walking line. The seventh generation is ranked number one among best-selling women's walking shoes on Amazon Japan, rated 4.3 out of 5 — practical proof worth more than any marketing copy. Why people buy it Fresh Foam X midsole — the New Balance foam known for absorbing impact on hard asphalt. Long daily walking strikes the heel thousands of times, and that is exactly where a walking shoe separates itself from a general trainer. Comfortable 2E width — the Japanese standard width for walking shoes, slightly wider than the usual international last across the ball of the foot. Comfortable for anyone whose feet swell after hours on them, without being so loose that the foot slides inside the shoe. Suede and mesh upper — the suede holds the shoe's shape and gives it a look that works outside sport, while the mesh breathes. Low collar and lace closure — nothing restricts the ankle while walking, and the laces tune the wrap to the shape of your foot. Who is it for? For anyone who walks daily for fitness or health, for anyone on their feet for long hours at work, and for anyone who wants one comfortable shoe that also works for travel and getting around. It is not a running shoe — if running is your goal, choose the ASICS Nimbus, the Kayano or the Mizuno Wave Rider from this same store. Official specifications Model: Walking Fresh Foam X 880 v7 — code W880 Width: 2E Closure: laces · low collar · not water resistant Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Walking Shoes"
+        ],
+        "options": {
+          "38689514": {
+            "name": "Color",
+            "values": {
+              "131588066": "Dark Navy",
+              "597237228": "Navy",
+              "705343713": "Black",
+              "1371340515": "Pearl Grey"
+            }
+          },
+          "703699188": {
+            "name": "Size",
+            "values": {
+              "98533872": "39 (24.5 cm)",
+              "206513397": "37 (23.0 cm)",
+              "562155506": "40.5 (25.5 cm)",
+              "737239799": "38 (24.0 cm)",
+              "845284852": "36 (22.5 cm)",
+              "1296764412": "42 (26.5 cm)",
+              "1470406897": "40 (25.0 cm)",
+              "1578386422": "37.5 (23.5 cm)",
+              "1619388139": "35.5 (22.0 cm)",
+              "1936649971": "41.5 (26.0 cm)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "932287941",
@@ -2798,6 +3469,7 @@
       "price": 490,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "حذاء مشي بعرض 2E ونعل فريش فوم X",
       "description": "نيوبالانس فريش فوم X 880 v7 — حذاء مشي هذا ليس حذاء جري أُعيد تسويقه للمشي، بل حذاء مصنوع للمشي أصلاً من خطّ نيوبالانس المخصّص له. والجيل السابع يحتلّ المرتبة 17 في قائمة أفضل مبيعات أحذية المشي الرجالية على أمازون اليابان ، وهو دليل عملي أكثر من أي كلام تسويقي. لماذا يُشترى نعل وسطي Fresh Foam X — رغوة نيوبالانس المعروفة بامتصاص الصدمة على الأسفلت الصلب. المشي اليومي الطويل يضرب الكعب آلاف المرات، وهنا يظهر الفرق بين حذاء رياضي عام وحذاء مشي. عرض 2E مريح — العرض الياباني القياسي لأحذية المشي، أوسع قليلاً من العرض العالمي المعتاد عند مشط القدم. مريح لمن يمشي ساعات فتنتفخ قدمه آخر النهار، بلا فضفضة تجعل القدم تسبح داخل الحذاء. جزء علوي من الشامواه والشبك — الشامواه يحفظ شكل الحذاء ويعطيه مظهراً يصلح خارج الرياضة، والشبك يتنفّس. رقبة منخفضة وإغلاق بالرباط — لا شيء يقيّد الكاحل في المشي، والرباط يضبط الإحاطة على شكل قدمك. لمن هذا الحذاء؟ لمن يمشي يومياً للياقة أو للصحة، ولمن يقف ويمشي طويلاً في عمله، ولمن يريد حذاءً واحداً مريحاً يصلح للسفر والتنقل. ليس حذاء جري — إن كان هدفك الجري فاختر أسيكس نيمبوس أو كايانو أو ميزانو ويف رايدر من نفس المتجر. البيانات الرسمية الموديل: Walking Fresh Foam X 880 v7 — كود M880 العرض: 2E الإغلاق: رباط · رقبة منخفضة · غير مقاوم للماء المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
       "images": [
         "https://cdn.salla.sa/jZjwre/078edd03-cfd3-4b52-b893-2221695340a6-1000x448.44290657439-5rWiIq9mbIN1UuiIcghiuvRHzVBz5RuchYdg5B8l.jpg",
@@ -2945,7 +3617,47 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p932287941"
+      "url": "https://risport-sa.com/ar/x/p932287941",
+      "en": {
+        "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Men's",
+        "brand": null,
+        "sport": "Walking",
+        "tagline": null,
+        "subtitle": "2E-width walking shoe, Fresh Foam X",
+        "description": "New Balance Fresh Foam X 880 v7 — walking shoe This is not a running shoe re-marketed for walking; it is a shoe built for walking in the first place , from New Balance's dedicated walking line. The seventh generation ranks 17th among best-selling men's walking shoes on Amazon Japan — practical proof worth more than any marketing copy. Why people buy it Fresh Foam X midsole — the New Balance foam known for absorbing impact on hard asphalt. Long daily walking strikes the heel thousands of times, and that is exactly where a walking shoe separates itself from a general trainer. Comfortable 2E width — the Japanese standard width for walking shoes, slightly wider than the usual international last across the ball of the foot. Comfortable for anyone whose feet swell after hours on them, without being so loose that the foot slides inside the shoe. Suede and mesh upper — the suede holds the shoe's shape and gives it a look that works outside sport, while the mesh breathes. Low collar and lace closure — nothing restricts the ankle while walking, and the laces tune the wrap to the shape of your foot. Who is it for? For anyone who walks daily for fitness or health, for anyone on their feet for long hours at work, and for anyone who wants one comfortable shoe that also works for travel and getting around. It is not a running shoe — if running is your goal, choose the ASICS Nimbus, the Kayano or the Mizuno Wave Rider from this same store. Official specifications Model: Walking Fresh Foam X 880 v7 — code M880 Width: 2E Closure: laces · low collar · not water resistant Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Walking Shoes"
+        ],
+        "options": {
+          "1130610803": {
+            "name": "Color",
+            "values": {
+              "759581865": "Black × Grey",
+              "1400450472": "All Black",
+              "2133027754": "Brown × Grey"
+            }
+          },
+          "1863650941": {
+            "name": "Size",
+            "values": {
+              "92496515": "40.5 (25.5 cm)",
+              "268174720": "39 (24.5 cm)",
+              "341076619": "43.5 (27.5 cm)",
+              "557228173": "41.5 (26.0 cm)",
+              "699331984": "45 (29.0 cm)",
+              "732316546": "40 (25.0 cm)",
+              "807381141": "44 (28.0 cm)",
+              "1291382415": "42 (26.5 cm)",
+              "1606538903": "44.5 (28.5 cm)",
+              "1615513478": "38 (24.0 cm)",
+              "1755458697": "42.5 (27.0 cm)",
+              "2072712337": "47 (30.0 cm)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1902757006",
@@ -2962,6 +3674,7 @@
       "price": 118,
       "compareAt": null,
       "tagline": "تصفيات نهاية العام!",
+      "subtitle": null,
       "description": "كمادة ثلج للكتف من قطعتين: غلاف مرن + كيس ثلج قابل لإعادة التعبئة. الكيس أزرق بغطاء لولبي واسع، تملؤه بنفسك بالثلج والماء ثم تُدخله في جيب الغلاف عند رأس الكتف، فتحصل على تبريد ملامس للمنطقة دون الحاجة لإمساك الكمادة بيدك. التفاصيل كيس يُعاد ملؤه، لا جل جاهز: لا يحتاج انتظار التجميد؛ يكفي ثلج مجروش وماء بارد، فيمكن استخدامه فور العودة من التمرين. غطاء لولبي واسع: يسهّل التعبئة والتفريغ والتجفيف من الداخل. غلاف أسود مرن يغطي الكتف وأعلى الذراع: مقصوص على شكل الكتف فيثبت مكانه أثناء الحركة. حزام لاصق إضافي للتمديد: مرفق مع المنتج لضبط درجة الشدّ على مقاسات مختلفة. يقبل الماء الدافئ أيضاً: يمكن تعبئته بماء دافئ بدل الثلج عند الرغبة في تدفئة المنطقة. الوزن: 0.2 كجم فارغاً — سهل الحمل في حقيبة التمرين. لماذا يهمّ لاعب الكرة الطائرة الإرسال والضرب الساحق يحمّلان مفصل الكتف والعضلات المحيطة به مئات المرات في التمرين الواحد. التبريد بعد الحصص المكثفة يساعد على تخفيف الألم والتورّم الناتج عن المجهود، وهو جزء أساسي من روتين الاستشفاء الرياضي. طريقة الاستخدام املأ ثلثي الكيس بالثلج المجروش وأكمل الباقي بماء بارد، ثم أغلق الغطاء اللولبي جيداً وتأكد من عدم التسريب. أدخل الكيس في جيب الغلاف بحيث يقع فوق رأس الكتف تماماً. ارتدِ الغلاف على الكتف واضبط الحزام اللاصق حتى يثبت دون ضغط زائد. المدة: 15–20 دقيقة في الجلسة الواحدة، ثم أزله واترك الجلد يعود إلى حرارته الطبيعية قبل الجلسة التالية. عدد المرات: 2–3 مرات في اليوم خلال أول 24–48 ساعة بعد مجهود عنيف، مع ترك ساعتين على الأقل بين الجلسات. التوقيت: بعد التمرين أو المباراة، لا قبلها. تنبيهات الاستخدام لا تضع الكيس على الجلد مباشرة؛ اتركه داخل الغلاف دائماً. لا تتجاوز 20 دقيقة متواصلة، وتوقّف فوراً إذا شحب لون الجلد أو شعرت بتنميل. لا تنم وأنت مرتدٍ الكمادة. العناية أفرغ الكيس بعد كل استخدام وجفّفه من الداخل، واتركه بغطاء مفتوح حتى يجف تماماً قبل تخزينه. امسح الغلاف الخارجي بقطعة قماش رطبة واتركه يجف في الهواء. إن كان الألم شديداً أو مستمراً، راجع مختصاً.",
       "images": [
         "https://cdn.salla.sa/jZjwre/0f28d701-6cc8-4133-85c9-e85cd9686e0a-1000x1000-U5wQywpfl57sAYWJJsDyVV7WYsn5iQ4qyI6Lsq3z.jpg",
@@ -2977,7 +3690,20 @@
       "options": [],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1902757006"
+      "url": "https://risport-sa.com/ar/x/p1902757006",
+      "en": {
+        "name": "Shoulder Ice Wrap with Refillable Bag",
+        "brand": null,
+        "sport": "Volleyball",
+        "tagline": "تصفيات نهاية العام!",
+        "subtitle": null,
+        "description": "A two-piece shoulder ice wrap: a flexible cover plus a refillable ice bag. The bag is blue with a wide screw cap; you fill it yourself with ice and water, then slide it into the cover's pocket over the top of the shoulder, giving you cooling right against the area without having to hold anything in place. Details A refillable bag, not a ready-made gel pack: no waiting for it to freeze — crushed ice and cold water are enough, so you can use it the moment you get back from training. Wide screw cap: makes filling, emptying and drying it from the inside easy. A flexible black cover over the shoulder and upper arm: cut to the shape of the shoulder so it stays put as you move. An extra hook-and-loop extension strap: included, to tune the tension across different builds. It takes warm water too: fill it with warm water instead of ice when you want to heat the area. Weight: 0.2 kg empty — easy to carry in a training bag. Why it matters for a volleyball player Serving and spiking load the shoulder joint and the muscles around it hundreds of times in a single session. Cooling after intense sessions helps ease exercise-related pain and swelling, and it is a core part of an athletic recovery routine. How to use it Fill two thirds of the bag with crushed ice and top it up with cold water, then close the screw cap firmly and check for leaks. Slide the bag into the cover's pocket so it sits exactly over the top of the shoulder. Put the cover on and adjust the strap until it holds without excess pressure. Duration: 15–20 minutes per session, then remove it and let the skin return to its normal temperature before the next one. Frequency: 2–3 times a day during the first 24–48 hours after hard exertion, leaving at least two hours between sessions. Timing: after training or a match, not before. Usage warnings Do not place the bag directly against the skin; always keep it inside the cover. Do not exceed 20 continuous minutes, and stop immediately if the skin turns pale or you feel numbness. Do not sleep while wearing the wrap. Care Empty the bag after every use and dry it from the inside, leaving the cap open until it is completely dry before storing it. Wipe the outer cover with a damp cloth and let it air dry. If pain is severe or persistent, see a specialist.",
+        "tags": [
+          "Equipment & Accessories",
+          "Recovery Gear"
+        ],
+        "options": {}
+      }
     },
     {
       "id": "651509262",
@@ -2994,6 +3720,7 @@
       "price": 119,
       "compareAt": null,
       "tagline": null,
+      "subtitle": null,
       "description": "كم ذراع منسوج من ASICS يمتدّ من الرسغ إلى أعلى الذراع ، بلون أسود وشعار ASICS الأبيض. نسيج مطاطي ضاغط بخفة يثبت على الذراع دون أربطة أو مشابك، فيبقى مكانه أثناء اللعب. الخامة 58% نايلون — للمتانة ونعومة الملمس. 35% بوليستر — يسحب العرق من الجلد ويجفّ بسرعة. 7% بولي يوريثان — يمنح المطاطية والشدّ الخفيف دون تقييد حركة المرفق. صناعة يابانية. المقاس مقاس واحد يناسب معظم المستخدمين: محيط الرسغ 15–18 سم، ومحيط أعلى الذراع 26–30 سم. قِس ذراعك قبل الطلب إذا كنت خارج هذا النطاق. لماذا يهمّ لاعب الكرة الطائرة الساعد هو نقطة التلامس في الاستقبال والدفاع، والارتماء على الأرضية يترك احتكاكاً وخدوشاً متكررة عليه. الكم يغطي الساعد كاملاً فيقلّل احتكاك الجلد بالأرضية، ويبقي عضلات الذراع دافئة بين الجولات وفي الصالات المكيّفة، ويمتصّ العرق فتبقى الذراع جافة أثناء اللعب. طريقة الارتداء اقلب الكم من الأعلى وأدخل يدك من الطرف الضيّق (جهة الرسغ) أولاً. اسحبه تدريجياً إلى أعلى الذراع حتى يستقرّ فوق المرفق دون طيّات. تأكد من عدم وجود شدّ زائد؛ إن ترك علامة عميقة على الجلد فالمقاس ضيّق عليك. يُلبس قبل الإحماء ويبقى طوال التمرين أو المباراة. العناية اغسله يدوياً بماء بارد بعد كل استخدام واتركه يجفّ في الهواء بعيداً عن الشمس المباشرة. تجنّب المجفّف الكهربائي والمبيّض والمكواة حفاظاً على مطاطية الخيوط. إن كان الألم شديداً أو مستمراً، راجع مختصاً.",
       "images": [
         "https://cdn.salla.sa/jZjwre/e67cc10e-4909-42cd-857c-83ab4def174f-1000x1000-3b8eiGKEPMYfgtc48ycYWOtYkVPCdCcwtzCGr8TQ.png"
@@ -3007,7 +3734,20 @@
       "options": [],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p651509262"
+      "url": "https://risport-sa.com/ar/x/p651509262",
+      "en": {
+        "name": "ASICS Sports Arm Sleeve",
+        "brand": null,
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": null,
+        "description": "A woven ASICS arm sleeve running from the wrist to the upper arm , in black with the white ASICS logo. A lightly compressive stretch fabric holds it on the arm with no straps or clips, so it stays where you put it while you play. Material 58% nylon — for durability and a smooth feel. 35% polyester — wicks sweat off the skin and dries quickly. 7% polyurethane — provides the stretch and the light compression without restricting elbow movement. Made in Japan. Size One size fits most: wrist circumference 15–18 cm, upper-arm circumference 26–30 cm. Measure your arm before ordering if you fall outside that range. Why it matters for a volleyball player The forearm is the point of contact in reception and defence, and throwing yourself at the floor leaves it with repeated friction and scrapes. The sleeve covers the whole forearm, cutting skin friction against the floor, keeping the arm muscles warm between rallies and in air-conditioned halls, and absorbing sweat so the arm stays dry while you play. How to put it on Turn the sleeve down from the top and slide your hand in through the narrow end (the wrist side) first. Draw it gradually up the arm until it sits above the elbow without folds. Check that it is not over-tight; if it leaves a deep mark on the skin, the size is too small for you. Put it on before warming up and keep it on through the session or the match. Care Hand wash in cold water after every use and let it air dry away from direct sun. Avoid the tumble dryer, bleach and the iron to preserve the elasticity of the yarn. If pain is severe or persistent, see a specialist.",
+        "tags": [
+          "Equipment & Accessories",
+          "Knee Pads & Sleeves"
+        ],
+        "options": {}
+      }
     },
     {
       "id": "193357464",
@@ -3024,6 +3764,7 @@
       "price": 135,
       "compareAt": null,
       "tagline": null,
+      "subtitle": null,
       "description": "كمادة ثلج للركبة من Comfytemp بتصميم كيس قابل لإعادة التعبئة. غلاف أزرق مرن يلتفّ حول الركبة بحزامين لاصقين، وفي منتصفه كيس ثلج بغطاء لولبي أسود يحمل شعار Comfytemp — تملؤه بالثلج والماء بنفسك، فلا حاجة لانتظار التجميد. التفاصيل حزامان لاصقان قابلان للتعديل: واحد أعلى الركبة وآخر أسفلها، لضبط الشدّ حسب محيط الساق وتثبيت الكمادة أثناء الجلوس أو الحركة. غطاء لولبي واسع: يسهّل ملء الكيس بالثلج المجروش وتفريغه وتجفيفه. الكيس منفصل عن الغلاف: يمكن إخراجه واستعماله على مواضع أخرى كالساق أو الكاحل. خامة مرنة تلتفّ على شكل الركبة وتسمح بثنيها دون أن تنزلق الكمادة. ارتداء بيد واحدة: يمكنك وضعها بنفسك دون مساعدة. الوزن: 0.2 كجم فارغة. لماذا يهمّ لاعب الكرة الطائرة الركبة هي المفصل الذي يستقبل صدمة كل هبوط بعد القفز — في الصدّ، والضرب الساحق، وتمارين الوثب المتكررة. تراكم هذا الحمل عبر الحصص يترك إحساساً بالثقل والألم حول الرضفة، والتبريد بعد التمرين يساعد على تخفيف الألم والتورّم الناتج عن المجهود ضمن روتين الاستشفاء الرياضي. طريقة الاستخدام افتح الغطاء اللولبي واملأ ثلثي الكيس بالثلج المجروش، ثم أكمل الباقي بماء بارد — الماء يساعد على توزيع البرودة بالتساوي بدل تكتّل الثلج. أغلق الغطاء بإحكام وتحقق من عدم التسريب قبل الارتداء. لفّ الكمادة حول الركبة بحيث يقع الكيس على موضع الألم، ثم اضبط الحزامين دون شدّ زائد. المدة: 20 دقيقة كحد أقصى في الجلسة الواحدة. عدد المرات: 2–3 مرات في اليوم خلال أول 24–48 ساعة بعد مجهود عنيف، مع ترك ساعتين على الأقل بين الجلسات. التوقيت: بعد التمرين أو المباراة، لا قبلها. تنبيهات الاستخدام لا تضع الكيس على الجلد مباشرة، ولا تتجاوز 20 دقيقة متواصلة. توقّف فوراً إذا تغيّر لون الجلد إلى الأزرق أو الأبيض أو شعرت بتنميل. لا تنم وأنت مرتدٍ الكمادة. العناية أفرغ الكيس بعد كل استخدام وجفّفه من الداخل، واتركه بغطاء مفتوح حتى يجف تماماً قبل تخزينه تفادياً للروائح. نظّف الغلاف بقطعة قماش رطبة واتركه يجف في الهواء. إن كان الألم شديداً أو مستمراً، راجع مختصاً.",
       "images": [
         "https://cdn.salla.sa/jZjwre/f157b6c6-8608-411d-99f0-10808f131061-1000x1000-61fZxMB5VWkpI2nN5wa1VW1Vg8cpjmmY9xTjJYUL.png",
@@ -3040,7 +3781,20 @@
       "options": [],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p193357464"
+      "url": "https://risport-sa.com/ar/x/p193357464",
+      "en": {
+        "name": "Comfytemp Knee Ice Wrap",
+        "brand": null,
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": null,
+        "description": "A Comfytemp knee ice wrap built around a refillable bag. A flexible blue wrap closes around the knee with two hook-and-loop straps, and in the middle sits an ice bag with a black screw cap carrying the Comfytemp logo — you fill it with ice and water yourself, so there is no waiting for anything to freeze. Details Two adjustable hook-and-loop straps: one above the knee and one below, to tune the tension to your leg and hold the wrap in place whether you are sitting or moving. Wide screw cap: makes it easy to fill the bag with crushed ice, empty it and dry it. The bag detaches from the wrap: take it out and use it on other areas such as the shin or the ankle. A flexible material that curves to the shape of the knee and lets you bend it without the wrap sliding off. One-handed fitting: you can put it on yourself with no help. Weight: 0.2 kg empty. Why it matters for a volleyball player The knee is the joint that takes the impact of every landing after a jump — blocking, spiking and repeated plyometric drills. That load accumulating across sessions leaves a heavy, aching feeling around the kneecap, and cooling after training helps ease exercise-related pain and swelling as part of a recovery routine. How to use it Open the screw cap and fill two thirds of the bag with crushed ice, then top it up with cold water — the water helps spread the cold evenly instead of the ice clumping in one spot. Close the cap firmly and check for leaks before putting it on. Wrap it around the knee so the bag sits over the sore spot, then adjust both straps without over-tightening. Duration: 20 minutes maximum per session. Frequency: 2–3 times a day during the first 24–48 hours after hard exertion, leaving at least two hours between sessions. Timing: after training or a match, not before. Usage warnings Do not place the bag directly against the skin, and do not exceed 20 continuous minutes. Stop immediately if the skin turns blue or white or you feel numbness. Do not sleep while wearing the wrap. Care Empty the bag after every use and dry it from the inside, leaving the cap open until it is completely dry before storing it, to avoid odours. Clean the wrap with a damp cloth and let it air dry. If pain is severe or persistent, see a specialist.",
+        "tags": [
+          "Equipment & Accessories",
+          "Recovery Gear"
+        ],
+        "options": {}
+      }
     },
     {
       "id": "1175934981",
@@ -3057,6 +3811,7 @@
       "price": 137,
       "compareAt": null,
       "tagline": "تصفيات نهاية العام!",
+      "subtitle": null,
       "description": "كمادة جل ثلاثية الأبعاد للكتف من Comfytemp — جل جاهز داخل الكمادة، لا تحتاج ثلجاً. مقصوصة على شكل الكتف وأعلى الذراع لتلتفّ على المفصل من ثلاث جهات بدل أن تستقرّ مسطّحة فوقه، وتعمل باردة أو ساخنة حسب حاجتك. التفاصيل باردة وساخنة في قطعة واحدة: ضعها في الفريزر نحو ساعة للتبريد، أو سخّنها في الميكروويف نحو 40 ثانية للتدفئة، مع تكرار قصير إن لزم واختبار الحرارة قبل وضعها على الجلد. جل يبقى ليّناً بعد التجميد: لا يتحوّل إلى كتلة صلبة، فيلتصق بانحناء الكتف بدل أن يترك فراغات عند الأطراف. حزامان عريضان قابلان للتعديل والإزالة: واحد حول الصدر وآخر حول أعلى الذراع، لتثبيتها أثناء الجلوس أو الوقوف أو الحركة. طبقة خارجية من النايلون مقاومة للتآكل، وبطانة داخلية ناعمة ملامسة للبشرة. الوزن: 0.1 كجم فقط — خفيفة وسهلة الحمل في حقيبة التمرين. محتويات العبوة 1 × كمادة الكتف (جل). 1 × حزام تثبيت رئيسي. 1 × حزام إضافي قابل للإزالة. دليل استخدام (باللغة اليابانية). لماذا يهمّ لاعب الكرة الطائرة الإرسال والضرب الساحق يكرّران دوران الكتف فوق مستوى الرأس مئات المرات أسبوعياً، وهو من أكثر ما يُجهد كتف اللاعب. الباردة تساعد على تخفيف الألم والتورّم بعد الحصص المكثفة، والساخنة تفيد في تليين الإحساس بالتيبّس قبل الإحماء أو في اليوم التالي. طريقة الاستخدام للاستعمال بارداً: ضع الكمادة مسطّحة في الفريزر نحو ساعة قبل الاستخدام. للاستعمال ساخناً: سخّنها في الميكروويف نحو 40 ثانية، ثم اختبرها على ظهر يدك قبل وضعها على الكتف. ضعها على الكتف وثبّت الحزام الرئيسي حول الصدر، ثم الحزام الإضافي حول أعلى الذراع إن احتجت ثباتاً أكثر. المدة: 15–20 دقيقة في الجلسة الواحدة، باردة كانت أو ساخنة. عدد المرات: 2–3 مرات في اليوم عند الحاجة، مع ترك ساعتين على الأقل بين الجلسات. التوقيت: الباردة بعد التمرين أو المباراة مباشرة؛ الساخنة قبل الإحماء أو في أوقات الراحة بين الأيام. تنبيهات الاستخدام ضع طبقة قماش رقيقة بين الكمادة والجلد إذا كانت شديدة البرودة. لا تتجاوز 20 دقيقة متواصلة، ولا تنم وأنت مرتديها. لا تسخّنها أكثر من المدة الموصى بها دفعة واحدة. العناية امسحها بقطعة قماش رطبة واتركها تجفّ في الهواء، ولا تضعها في الغسالة ولا تغمرها في الماء. خزّنها مسطّحة في الفريزر لتكون جاهزة بعد التمرين. إن كان الألم شديداً أو مستمراً، راجع مختصاً.",
       "images": [
         "https://cdn.salla.sa/jZjwre/96411d7a-2386-44ed-94cd-6491ac89230a-1000x1000-2GUJ210Ca2pLL9kdMsZpKY6iTStVTVnrgqzVsx7G.png",
@@ -3072,7 +3827,20 @@
       "options": [],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1175934981"
+      "url": "https://risport-sa.com/ar/x/p1175934981",
+      "en": {
+        "name": "Comfytemp 3D Hot & Cold Shoulder Pack",
+        "brand": null,
+        "sport": "Volleyball",
+        "tagline": "تصفيات نهاية العام!",
+        "subtitle": null,
+        "description": "A Comfytemp 3D shoulder gel pack — the gel is already inside, so no ice needed. It is cut to the shape of the shoulder and upper arm so it wraps the joint from three sides instead of lying flat over it, and it works cold or hot depending on what you need. Details Cold and hot in one piece: put it in the freezer for about an hour to chill it, or heat it in the microwave for about 40 seconds to warm it, repeating briefly if needed and always testing the temperature before it touches skin. Gel that stays soft after freezing: it does not turn into a solid block, so it hugs the curve of the shoulder instead of leaving gaps at the edges. Two wide adjustable, removable straps: one around the chest and one around the upper arm, to hold it in place sitting, standing or moving. An abrasion-resistant nylon outer layer with a soft skin-side lining. Weight: just 0.1 kg — light and easy to carry in a training bag. What is in the box 1 × shoulder gel pack. 1 × main securing strap. 1 × additional removable strap. Instruction leaflet (in Japanese). Why it matters for a volleyball player Serving and spiking repeat the overhead rotation of the shoulder hundreds of times a week, and it is one of the hardest things a player's shoulder takes. Cold helps ease pain and swelling after intense sessions, while heat helps loosen that stiff feeling before a warm-up or the day after. How to use it For cold use: lay the pack flat in the freezer for about an hour before use. For hot use: heat it in the microwave for about 40 seconds, then test it on the back of your hand before placing it on the shoulder. Place it on the shoulder and fasten the main strap around the chest, then the additional strap around the upper arm if you want a firmer hold. Duration: 15–20 minutes per session, hot or cold. Frequency: 2–3 times a day as needed, leaving at least two hours between sessions. Timing: cold right after training or a match; hot before a warm-up or on rest days. Usage warnings Put a thin layer of cloth between the pack and the skin if it is very cold. Do not exceed 20 continuous minutes, and do not sleep while wearing it. Do not heat it for longer than the recommended time in one go. Care Wipe it with a damp cloth and let it air dry; do not machine wash it or submerge it in water. Store it flat in the freezer so it is ready after training. If pain is severe or persistent, see a specialist.",
+        "tags": [
+          "Equipment & Accessories",
+          "Recovery Gear"
+        ],
+        "options": {}
+      }
     },
     {
       "id": "1518191014",
@@ -3089,6 +3857,7 @@
       "price": 194,
       "compareAt": null,
       "tagline": null,
+      "subtitle": null,
       "description": "نظرة سريعة من خط الكرة الطائرة الياباني لدى ASICS ، موديل 3053A145 ، معتمد من الاتحاد الياباني للكرة الطائرة (JVA) . الفكرة الأساسية وسادة من ثلاث طبقات تجمع بين امتصاص الصدمة والمرونة، بشكل يحتضن مفصل الركبة ويتحرك معه بدل أن يبقى لوحاً مسطّحاً فوقه. الخامات الجزء التركيب جسم الكُم رايون ٣٦٪ · بوليستر ٣٢٪ · مطاط صناعي ٣٢٪ الوسادة إيفا (EVA) بتركيب ثلاثي الطبقات الرايون هو ما يمنح البطانة ملمسها الناعم وقدرتها على سحب العرق، والمطاط الصناعي هو مصدر الشدّ الذي يثبّت الحامية على الساق بلا أربطة أو أحزمة، أما الـ EVA فهو الفوم القياسي في حاميات الكرة الطائرة لأنه خفيف ويسترجع شكله بعد كل ارتطام بدل أن ينضغط ويبقى مفلطحاً. لماذا ثلاث طبقات وليست طبقة واحدة الوسادة المفردة السميكة تحمي جيداً لكنها تتصلّب وتقاوم ثني الركبة. توزيع الحشوة على ثلاث طبقات يسمح لها بالانحناء طبقةً فوق طبقة عند الثني، فتبقى الحماية سميكة وتبقى الركبة قادرة على الانثناء الكامل. هذه هي الميزة العملية التي يشتريها اللاعب في هذا الموديل تحديداً. أين تغطّي وما حدودها التغطية مركّزة على الرضفة (صحن الركبة) والمساحة المحيطة بها مباشرة، وهي أول نقطة ارتطام في الغطس والانزلاق على الأرض. ومن الإنصاف قولها بوضوح: هذه حامية صدمات لا دعامة طبية — لا جبائر جانبية فيها ولا حزام شدّ رضفي، فدورها امتصاص الارتطام وحماية الجلد من الاحتكاك، لا تثبيت مفصل مصاب ولا علاج التهاب وتر الرضفة. لمن تناسب داخل الملعب الليبرو ولاعب الاستقبال: الأنسب لهما. كثرة الارتماء في الشوط الواحد تجعل سماكة الحشوة أهمّ من خفّة الوزن، والتركيب ثلاثي الطبقات موجّه لهذا الاستخدام بالضبط. المُعِد: يستفيد منها كذلك، خصوصاً في الغطس المتكرر تحت الشبكة وإخراج الكرات المنخفضة. الضارب في المركز ٤ أو الوسط: هنا المقايضة صريحة — الوسادة الأسمك تعطي حماية أعلى مقابل إحساس أوضح بوجود شيء على الركبة أثناء القفز المتكرر. من يزعجه هذا الإحساس يميل عادةً إلى حامية أنحف وأخفّ. جدول المقاسات القياس عند أسيكس مأخوذ على محيط الركبة ، أي حول صحن الركبة مباشرة، وليس على الفخذ: المقاس محيط الركبة M ٣٢ – ٣٨ سم L ٣٦ – ٤٢ سم المقاسان يتداخلان بين ٣٦ و٣٨ سم. إن وقع قياسك داخل هذا المجال فاختر M إن كنت تريد ثباتاً أشدّ ولا تمانع الضغط، و L إن كنت تفضّل راحة أطول على مدى مباراة كاملة أو تشعر عادةً بأن الحاميات تخنق ساقك. قِس والساق مسترخية والركبة مثنية قليلاً. وإن كان محيط ركبتك أقل من ٣٢ سم فلن يثبت عليك المقاس M. العناية اغسلها بماء بارد بعد الاستخدام المكثّف وجفّفها في الظل. الحرارة العالية — الغسيل الساخن أو المجفّف الكهربائي — تُتلف الجزء المطاطي فتفقد الحامية شدّها، وهذا هو السبب الأول لارتخاء الحاميات وانزلاقها إلى أسفل الساق مع الوقت.",
       "images": [
         "https://cdn.salla.sa/jZjwre/478b3805-61ec-4acf-aa9a-3e317e114441-1000x1000-AMJ4cvL1Hby1i2rLTAExel5DXHN1AlAD8NurXj1s.png",
@@ -3127,7 +3896,28 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1518191014"
+      "url": "https://risport-sa.com/ar/x/p1518191014",
+      "en": {
+        "name": "ASICS 3-Layer Volleyball Knee Pads (3053A145)",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": null,
+        "description": "At a glance From ASICS ' Japanese volleyball line, model 3053A145 , approved by the Japan Volleyball Association (JVA) . The core idea is a three-layer pad that combines shock absorption with flexibility, cradling the knee joint and moving with it instead of sitting over it like a flat board. Materials Part Composition Sleeve body 36% rayon · 32% polyester · 32% synthetic rubber Pad EVA in a three-layer construction The rayon is what gives the lining its soft feel and its ability to wick sweat; the synthetic rubber is the source of the stretch that holds the pad on your leg without straps or buckles; and EVA is the standard foam in volleyball pads because it is light and springs back into shape after every impact instead of compressing flat and staying that way. Why three layers and not one A single thick pad protects well but stiffens and resists the knee bending. Splitting the padding into three layers lets it fold layer over layer as you bend, so the protection stays thick and the knee keeps its full range of motion. That is the practical advantage you are buying in this particular model. What it covers, and its limits Coverage is concentrated on the patella (kneecap) and the area immediately around it — the first point of impact when you dive and slide across the floor. And to be fair, it should be said plainly: this is an impact pad, not a medical brace — there are no lateral stays and no patellar strap. Its job is absorbing impact and protecting the skin from friction, not stabilising an injured joint or treating patellar tendinitis. Who it suits on court Libero and receiver: the best fit. Diving repeatedly in a single set makes pad thickness matter more than light weight, and the three-layer construction is aimed at exactly this use. Setter: also benefits, especially when diving repeatedly under the net and digging low balls. Outside hitter or middle blocker: here the trade-off is explicit — a thicker pad gives more protection in exchange for being more noticeable on the knee during repeated jumping. Players bothered by that feeling usually prefer a thinner, lighter pad. Size chart ASICS measures at the knee circumference — around the kneecap itself, not the thigh: Size Knee circumference M 32 – 38 cm L 36 – 42 cm The two sizes overlap between 36 and 38 cm. If your measurement falls in that range, choose M if you want a firmer hold and do not mind the pressure, and L if you prefer comfort across a full match or usually feel that pads constrict your leg. Measure with the leg relaxed and the knee slightly bent. If your knee circumference is under 32 cm, size M will not stay in place on you. Care Wash in cold water after heavy use and dry in the shade. High heat — a hot wash or a tumble dryer — damages the rubber component and the pad loses its stretch. That is the number-one reason pads go slack and slide down the leg over time.",
+        "tags": [
+          "Equipment & Accessories",
+          "Knee Pads & Sleeves"
+        ],
+        "options": {
+          "1468843268": {
+            "name": "Size",
+            "values": {
+              "430690304": "L(36~42cm)",
+              "1338945799": "M (32~38cm)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1803690320",
@@ -3144,6 +3934,7 @@
       "price": 149,
       "compareAt": 159,
       "tagline": null,
+      "subtitle": null,
       "description": "نظرة سريعة الموديل الكلاسيكي في خط حاميات الركبة لدى ERREÀ الإيطالية، رمزه الرسمي T1410 . يقوم على مبدأ مجرَّب وبسيط: كُمّ قطني أنبوبي مرن بتصميم تشريحي يتبع انحناء الركبة، وفوق الرضفة حشوة بولي يوريثان مقولَبة — أي مصبوبة على شكل الركبة مسبقاً لا شريحة فوم مقصوصة. ما الذي يميّزه فعلياً حشوة بولي يوريثان مقولَبة: البولي يوريثان المقولَب أكثر تماسكاً من الإسفنج الطري، فيوزّع قوة الارتطام على مساحة أوسع بدل أن ينضغط بالكامل عند السقوط القوي المباشر على صحن الركبة. هذه هي نقطة قوّة هذا الموديل الأساسية. بطانة قطنية أنبوبية مرنة: القطن ألطف على الجلد في الأجواء الحارّة من البطانات الصناعية الكاملة، والبناء الأنبوبي يعني ارتداءً بالسحب من القدم بلا أحزمة أو لواصق. بناء تشريحي: الحامية مشكَّلة على انحناء الركبة وليست أسطوانة مستقيمة، فتقلّ فرصة تجعّدها خلف الركبة عند الثني الكامل. Tokyo أم Tokyo Evolution؟ الموديلان مطروحان لدينا وهما منتجان مختلفان فعلاً في البناء ، وليسا لونين أو مقاسين من منتج واحد: Tokyo (T1410) — هذا المنتج Tokyo Evolution (FA2M0Z) البناء كُمّ قطني أنبوبي مرن بتصميم تشريحي حياكة جاكارد دائرية ثلاثية الأبعاد بلا خياطات داخلية الحشوة بولي يوريثان مقولَب فوق الرضفة إسفنج طري بمساحة تغطية موسّعة طابع الحماية صلابة أوضح ومركّزة على صحن الركبة تغطية أوسع وأطرى مع ضغط خفيف التهوية بطانة قطنية ظهر محبوك عالي التهوية لمن يناسب داخل الملعب الليبرو ولاعب الاستقبال: الخيار المنطقي لهما هنا. من يسقط عشرات المرات في المباراة الواحدة على أرضية صلبة يستفيد من تماسك البولي يوريثان المقولَب أكثر من استفادته من طراوة الإسفنج. المُعِد: مناسب، خصوصاً على أرضيات الصالات القاسية وفي الغطس المتكرر. الضارب في المركز ٤ أو الوسط: المقايضة صريحة — الحشوة المقولَبة تحمي أكثر لكن إحساسها فوق الركبة أوضح من الحشوة الطرية عند القفز المتواصل. من يزعجه هذا الإحساس فموديل Tokyo Evolution أقرب إليه. الملاعب والأرضيات الخشنة أو الرملية: الحشوة المقولَبة والكُمّ القطني أنسب للاحتكاك القاسي من الحياكة الخفيفة. حدود المنتج هذه حامية صدمات لا دعامة طبية : لا جبائر جانبية فيها ولا حزام شدّ رضفي، فدورها امتصاص الارتطام وحماية الجلد، لا تثبيت مفصل مصاب أو علاج التهاب وتر الرضفة. جدول المقاسات القياس عند إيريا يُؤخذ على محيط الساق على بعد ١٥ سم تقريباً تحت منتصف الرضفة (أي أسفل صحن الركبة)، والركبة مثنية قليلاً: المقاس محيط الساق (١٥ سم تحت الرضفة) M ٣٥ – ٣٧ سم L ٣٧ – ٤٠ سم XL ٤٠ – ٤٥ سم انتبه: القياس ليس محيط الركبة نفسها بل محيط الساق أسفلها بـ ١٥ سم، وهذا أكثر سبب لطلب مقاس خاطئ. القطن يتمدّد قليلاً مع الاستعمال، فإن جاء قياسك على الحدّ الفاصل بين مقاسين فالأصغر يبقى خياراً معقولاً هنا إن كنت تفضّل الثبات المحكم. وإن كان قياسك أقلّ من ٣٥ سم فإيريا تصنع مقاسي S و XS لهذا المدى وهما غير مطروحين ضمن هذا العرض. محتوى العبوة بحسب مواصفات ERREÀ الرسمية لهذا الموديل، يُباع طقماً من قطعتين — حماية للركبتين معاً. العناية اغسله بماء بارد وجفّفه في الظل. الماء الساخن والمجفّف الكهربائي يُفقدان الجزء المطاطي مرونته فتبدأ الحامية بالانزلاق إلى أسفل الساق، وهو أول ما يشتكي منه اللاعبون بعد موسم من الغسيل الخاطئ.",
       "images": [
         "https://cdn.salla.sa/jZjwre/4cb8d713-4d4d-430e-8551-c5f95cc364a4-1000x1000-tc9w204UdO7xgX9s6uHUQKXjDlZYC78rme5gT4Yn.png",
@@ -3219,7 +4010,37 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1803690320"
+      "url": "https://risport-sa.com/ar/x/p1803690320",
+      "en": {
+        "name": "ERREÀ Tokyo Volleyball Knee Pads — Pair",
+        "brand": "Aria",
+        "sport": null,
+        "tagline": null,
+        "subtitle": null,
+        "description": "At a glance The classic model in Italian brand ERREÀ 's knee-pad line, official code T1410 . It is built on a simple, proven principle: an elastic tubular cotton sleeve shaped anatomically to follow the curve of the knee, with moulded polyurethane padding over the kneecap — pre-moulded to the shape of the knee rather than a cut sheet of foam. What actually sets it apart Moulded polyurethane padding: moulded polyurethane is denser than soft foam, so it spreads impact force over a wider area instead of bottoming out on a hard, direct fall onto the kneecap. That is this model's core strength. An elastic tubular cotton lining: cotton is kinder to skin in hot conditions than fully synthetic linings, and the tubular build means you pull it on over the foot, with no straps or hook-and-loop. Anatomical construction: the pad is shaped to the curve of the knee rather than being a straight cylinder, so it is less likely to bunch behind the knee at full bend. Tokyo or Tokyo Evolution? We stock both, and they are genuinely different products in construction , not two colours or sizes of one: Tokyo (T1410) — this product Tokyo Evolution (FA2M0Z) Construction Anatomically shaped stretch cotton tube sleeve 3D circular jacquard knit with no internal seams Padding Moulded polyurethane over the kneecap Soft foam with extended coverage Protection character Noticeably firmer, concentrated on the kneecap Wider and softer coverage with light compression Breathability Cotton lining Highly breathable knitted back Who it suits on court Libero and receiver: the logical choice here. Anyone hitting a hard floor dozens of times a match gains more from the density of moulded polyurethane than from the softness of foam. Setter: a good fit, especially on hard indoor floors and with repeated diving. Outside hitter or middle blocker: the trade-off is explicit — moulded padding protects more but is more noticeable over the knee than soft padding during continuous jumping. If that bothers you, the Tokyo Evolution is closer to what you want. Rough or sandy courts: moulded padding and a cotton sleeve stand up to harsh abrasion better than a light knit. The product's limits This is an impact pad, not a medical brace : there are no lateral stays and no patellar strap. Its job is absorbing impact and protecting the skin, not stabilising an injured joint or treating patellar tendinitis. Size chart ERREÀ measures at the leg circumference about 15 cm below the middle of the kneecap — that is, below the knee — with the knee slightly bent: Size Leg circumference (15 cm below the kneecap) M 35 – 37 cm L 37 – 40 cm XL 40 – 45 cm Note: this measurement is not the circumference of the knee itself but of the leg 15 cm below it, and that is the most common cause of ordering the wrong size. Cotton stretches a little with use, so if your measurement falls exactly between two sizes, the smaller one remains reasonable here if you prefer a tight hold. And if your measurement is under 35 cm, ERREÀ does make S and XS for that range, but they are not part of this offer. What is in the pack According to ERREÀ's official specification for this model, it is sold as a two-piece set — protection for both knees. Care Wash in cold water and dry in the shade. Hot water and the tumble dryer cost the elastic component its stretch and the pad starts sliding down the leg, which is the first thing players complain about after a season of washing them wrong.",
+        "tags": [
+          "Equipment & Accessories",
+          "Knee Pads & Sleeves"
+        ],
+        "options": {
+          "1432423695": {
+            "name": "Color",
+            "values": {
+              "29915902": "Black",
+              "762558712": "Navy",
+              "1402378751": "White"
+            }
+          },
+          "2072309262": {
+            "name": "Size",
+            "values": {
+              "137960947": "M: 35-37",
+              "937647101": "XL: 40-45",
+              "1510358268": "L: 37-40"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1253762719",
@@ -3236,6 +4057,7 @@
       "price": 159,
       "compareAt": 174,
       "tagline": null,
+      "subtitle": null,
       "description": "نظرة سريعة الموديل المتطوّر في خط حاميات الركبة لدى ERREÀ الإيطالية، رمزه الرسمي FA2M0Z . الفارق الجوهري بينه وبين موديل Tokyo التقليدي أنه مبنيّ بالحياكة لا بالخياطة والتجميع : يُنسج قطعة واحدة بتقنية الحياكة الدائرية ثلاثية الأبعاد غير المتماثلة، فلا توجد فيه خياطات داخلية تحتكّ بالجلد. ما الذي يميّزه فعلياً بنية جاكارد محبوكة بلا خياطات داخلية: الخياطة الداخلية هي مصدر أغلب حالات التسلّخ والاحتكاك في الحاميات التقليدية عند اللعب ساعات متواصلة. غيابها هنا هو المكسب الأول. حشوة إسفنجية طرية بمساحة تغطية موسّعة: الوسادة المركزية في هذا الموديل أعرض وتغطي مساحة أكبر حول الرضفة، فتقلّ فرصة أن يقع الارتطام على حافة الوسادة بدل مركزها عند الانزلاق الجانبي. ظهر ناعم عالي التهوية: منطقة خلف الركبة (المأبض) منفّذة بحياكة طرية شديدة التهوية، وهي المنطقة التي يتجمّع فيها العرق ويسبّب الحكة في الحاميات المغلقة. ضغط خفيف وسحب للعرق: الحياكة تعطي ضغطاً خفيفاً يساعد على ثبات الحامية مكانها بلا خنق للدورة الدموية. Tokyo Evolution أم Tokyo العادي؟ الموديلان مختلفان فعلاً في البناء، وليسا لوناً أو مقاساً من منتج واحد: Tokyo (T1410) Tokyo Evolution (FA2M0Z) البناء كُمّ قطني أنبوبي مرن بتصميم تشريحي حياكة جاكارد دائرية ثلاثية الأبعاد بلا خياطات داخلية الحشوة بولي يوريثان مقولَب فوق الرضفة إسفنج طري بمساحة تغطية موسّعة طابع الحماية صلابة أوضح ومركّزة على صحن الركبة تغطية أوسع وأطرى مع ضغط خفيف التهوية بطانة قطنية ظهر محبوك عالي التهوية لمن يناسب داخل الملعب الليبرو ولاعب الاستقبال: اتّساع مساحة الوسادة هنا مفيد تحديداً لمن يرتمي جانبياً كثيراً ولا يقع دائماً على مركز الركبة. وغياب الخياطات الداخلية يفرق كثيراً عند اللعب ثلاث أو خمس أشواط متواصلة. المُعِد: الضغط الخفيف والثبات بلا انزلاق يخدمان الحركة السريعة القصيرة والغطس تحت الشبكة. الضارب في المركز ٤ أو الوسط: الحشوة هنا إسفنج طري لا بولي يوريثان مقولَب ، أي إحساس أقلّ بالصلابة فوق الركبة عند القفز المتكرر — وهذه ميزة للضارب. المقايضة أن الصلابة الأقلّ تعني حماية أقلّ حدّةً في الارتطامات القوية المباشرة مقارنةً بموديل Tokyo المقولَب. من يتحسّس جلده أو يشتكي من التسلّخ: هذا هو الموديل المناسب في هذه القائمة. جدول المقاسات القياس عند إيريا يُؤخذ على محيط الساق على بعد ١٥ سم تقريباً تحت منتصف الرضفة (أي أسفل صحن الركبة)، والركبة مثنية قليلاً: المقاس محيط الساق (١٥ سم تحت الرضفة) M ٣٥ – ٣٧ سم L ٣٧ – ٤٠ سم XL ٤٠ – ٤٥ سم القياس هنا ليس محيط الركبة نفسها بل محيط الساق أسفلها بـ ١٥ سم، فانتبه لهذه النقطة لأنها أكثر سبب لطلب مقاس خاطئ. وإن جاء قياسك على الحدّ الفاصل بين مقاسين فاختر الأكبر: الحياكة تعطي ضغطاً خفيفاً وستثبت، بينما المقاس الأصغر يضغط أسفل الركبة طوال المباراة. أما إن كان قياسك أقلّ من ٣٥ سم فإيريا تصنع مقاسي S و XS لهذا المدى وهما غير مطروحين ضمن هذا العرض. محتوى العبوة بحسب مواصفات ERREÀ الرسمية لهذا الموديل، يُباع طقماً من قطعتين — حماية للركبتين معاً. العناية اغسله بماء بارد وجفّفه في الظل. تجنّب المجفّف الكهربائي والماء الساخن: الحرارة تُفقد الحياكة مرونتها فتبدأ الحامية بالانزلاق إلى أسفل الساق، وهو أول ما يشتكي منه اللاعبون بعد موسم من الغسيل الخاطئ.",
       "images": [
         "https://cdn.salla.sa/jZjwre/0e370272-dbe9-4ee2-b0c1-6db867725f0e-1000x1000-nH7syVUhOY1YdDmf1V4Nqyg4fcCeEAvaEgljWQJC.png",
@@ -3314,7 +4136,37 @@
       ],
       "model": null,
       "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1253762719"
+      "url": "https://risport-sa.com/ar/x/p1253762719",
+      "en": {
+        "name": "ERREÀ Tokyo Evolution Volleyball Knee Pads — Pair",
+        "brand": "Aria",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": null,
+        "description": "At a glance The advanced model in Italian brand ERREÀ 's knee-pad line, official code FA2M0Z . The essential difference from the classic Tokyo model is that it is knitted rather than cut and sewn : it is knitted as a single piece using asymmetric 3D circular knitting, so there are no internal seams rubbing against the skin. What actually sets it apart A knitted jacquard structure with no internal seams: internal seams are the source of most chafing and friction in conventional pads over hours of play. Their absence here is the first gain. Soft foam padding with extended coverage: the central pad on this model is wider and covers more area around the kneecap, so there is less chance of an impact landing on the edge of the pad rather than its centre when you slide sideways. A soft, highly breathable back: the area behind the knee is knitted soft and very open, and that is exactly where sweat pools and causes itching in closed pads. Light compression and sweat wicking: the knit gives a light compression that helps hold the pad in place without choking circulation. Tokyo Evolution or the standard Tokyo? The two models genuinely differ in construction; they are not a colour or a size of the same product: Tokyo (T1410) Tokyo Evolution (FA2M0Z) Construction Anatomically shaped stretch cotton tube sleeve 3D circular jacquard knit with no internal seams Padding Moulded polyurethane over the kneecap Soft foam with extended coverage Protection character Noticeably firmer, concentrated on the kneecap Wider and softer coverage with light compression Breathability Cotton lining Highly breathable knitted back Who it suits on court Libero and receiver: the wider pad area helps precisely those who dive sideways often and do not always land on the centre of the knee. And the absence of internal seams makes a real difference across three or five straight sets. Setter: the light compression and slip-free hold serve short, fast movement and diving under the net. Outside hitter or middle blocker: the padding here is soft foam, not moulded polyurethane , meaning less of a stiff presence over the knee during repeated jumping — an advantage for a hitter. The trade-off is that less firmness means less sharp protection in hard direct impacts compared with the moulded Tokyo. Anyone with sensitive skin or a history of chafing: this is the model for you in this range. Size chart ERREÀ measures at the leg circumference about 15 cm below the middle of the kneecap — that is, below the knee — with the knee slightly bent: Size Leg circumference (15 cm below the kneecap) M 35 – 37 cm L 37 – 40 cm XL 40 – 45 cm This measurement is not the circumference of the knee itself but of the leg 15 cm below it — watch this point, because it is the most common cause of ordering the wrong size. If your measurement falls exactly between two sizes, take the larger one: the knit gives light compression and will still hold, whereas the smaller size presses under the knee all match long. And if your measurement is under 35 cm, ERREÀ does make S and XS for that range, but they are not part of this offer. What is in the pack According to ERREÀ's official specification for this model, it is sold as a two-piece set — protection for both knees. Care Wash in cold water and dry in the shade. Avoid the tumble dryer and hot water: heat costs the knit its elasticity and the pad starts sliding down the leg, which is the first thing players complain about after a season of washing them wrong.",
+        "tags": [
+          "Equipment & Accessories",
+          "Knee Pads & Sleeves"
+        ],
+        "options": {
+          "1308827039": {
+            "name": "Color",
+            "values": {
+              "45982502": "Black",
+              "743759643": "Navy",
+              "1553646119": "White"
+            }
+          },
+          "2082930334": {
+            "name": "Size",
+            "values": {
+              "355288795": "M 35-37 CM",
+              "818971685": "XL 40-45 CM",
+              "1728734500": "L 37-40 CM"
+            }
+          }
+        }
+      }
     },
     {
       "id": "721119659",
@@ -3330,6 +4182,7 @@
       "price": 679,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "إصدار محدود بتصميم ران تاكاهاشي",
       "description": "أول حذاء كرة طائرة في تاريخ أسيكس يشارك لاعب في تصميمه SKY ELITE FF MT 3 FUTURITY (كود الموديل 1051A099 ) ليس نسخة تجارية تحمل اسم لاعب، بل أول مرة تفتح فيها أسيكس باب التصميم للاعب نفسه في تاريخ خط الكرة الطائرة لديها: ران تاكاهاشي خطّط مفهوم التصميم واختار اللون والرسومات. طُرح في اليابان في سبتمبر 2025 بكمية محدودة، ويُشحن إليك مباشرة من اليابان بالطلب المسبق. اللون والتصميم وردي فاتح على كامل الجسم، مع شعار أسيكس بلمعة أورورا متغيّرة اللون حسب زاوية الضوء، وتدرّج من الوردي إلى المرجاني في النعل الوسطي، ولسان يحمل شعار تاكاهاشي: BE THE CHANGE, LIGHT THE FUTURE . النعل الخارجي رمادي فاتح غير مؤثّر على أرضية الصالة. ماذا يعني كل عنصر في التصميم؟ الوردي كأساس — اختاره تاكاهاشي رمزاً للعقلية الإيجابية، وكسراً لصورة نمطية عن ألوان أحذية اللاعبين. لمعة الأورورا على الشعار والنعل — تعبير عن الحلم والشغف. التدرّج اللوني في النعل الوسطي — يمثّل تمرير الشغف من جيل إلى الجيل التالي: تراكم النمو والتحديات يصنع المستقبل. الشعار على اللسان — BE THE CHANGE, LIGHT THE FUTURE : الشجاعة والقناعة تغيّران العالم، وهو شعار تاكاهاشي الشخصي. التقنيات الحذاء مبني على منصّة SKY ELITE FF MT 3 — خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام — بقصّة متوسطة (Mid-cut): FF BLAST PLUS ECO — رغوة النعل الوسطي. مهمتها أن تبتلع صدمة الهبوط ثم تعيد جزءاً من الطاقة إلى القفزة التالية. أثرها الحقيقي لا تراه في القفزة الأولى بل في الشوط الخامس، حين تبدأ السيقان بالثقل: كلما امتصّ النعل عنك صدمات أكثر، بقي في رجليك رصيد أطول. RISETRUSS — هيكل تثبيت في منتصف النعل، موروث مباشرة من الميتارايز. يقاوم التواء منتصف القدم لحظة الدفع للأعلى، فتتحوّل القوة الأفقية التي جمعتها في خطوات الاقتراب إلى ارتفاع عمودي بدل أن تتبدد في اهتزاز جانبي. وهو نفسه ما يجعل الهبوط بعد الضربة أهدأ وأكثر تحكّماً. نظام رباط غير متماثل (Asymmetric lacing) — الأربطة مائلة عن منتصف القدم لتوزّع الضغط بعيداً عن وتر مشط القدم. النتيجة: تستطيع شدّ الحذاء بقوة للحصول على تثبيت كامل دون نقطة ضغط مؤلمة أعلى القدم. قصّة متوسطة (Mid-cut) — رقبة الحذاء ترتفع فوق عظمة الكاحل وتحيط بها، فتحدّ من دورانه المفاجئ عند الهبوط على قدم غير مستوية — قدم زميل أو منافس تحت الشبكة. في المقابل ستشعر بحرية حركة أقلّ في الكاحل مقارنة بالقصّة المنخفضة. لمن هذا الحذاء؟ هواة الاقتناء ومتابعو ران تاكاهاشي — قطعة محدودة لا تتكرّر، وأول تعاون تصميمي من نوعه في تاريخ أحذية أسيكس للكرة الطائرة. الضارب الطرفي والمقابل — عدد قفزات مرتفع في المباراة الواحدة وهبوط متكرّر في أكثر منطقة ازدحاماً في الملعب؛ القصّة المتوسطة هنا ليست رفاهية. لاعب الوسط — حركة جانبية سريعة بمحاذاة الشبكة ثم قفزة صدّ فورية؛ يفيده منع التواء منتصف القدم عند التوقّف المفاجئ. من سبق أن أُصيب في كاحله — أو من يلعب بدعامة كاحل ويفضّل أن يكون جزء من الدعم مدمجاً في الحذاء. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تعتمد على الانخفاض السريع وخفّة الحركة أكثر من القفز، فالقصّة المنخفضة تمنح كاحلك مدى حركة أوسع.",
       "images": [
         "https://cdn.salla.sa/jZjwre/2790c1b5-13f1-4e33-a373-10420b5913fb-1000x658.57142857143-T0tVJvsOH8ec7l20nCg0q8ohjawSzom7uLog55Eo.png",
@@ -3414,7 +4267,33 @@
       ],
       "model": null,
       "status": "out",
-      "url": "https://risport-sa.com/ar/x/p721119659"
+      "url": "https://risport-sa.com/ar/x/p721119659",
+      "en": {
+        "name": "Asics FUTURITY — Limited Edition Designed by Ran Takahashi",
+        "brand": "ASICS",
+        "sport": null,
+        "tagline": null,
+        "subtitle": "Limited edition designed by Ran Takahashi",
+        "description": "The first volleyball shoe in ASICS' history co-designed by a player SKY ELITE FF MT 3 FUTURITY (model code 1051A099 ) is not a commercial edition carrying a player's name; it is the first time ASICS opened the design process to the player himself in the history of its volleyball line: Ran Takahashi shaped the design concept and chose the colour and the graphics. It was released in Japan in September 2025 in limited numbers, and ships to you directly from Japan by pre-order. Colour and design Light pink across the whole body, with the ASICS logo in an aurora finish that shifts colour with the angle of the light, a pink-to-coral gradient through the midsole, and a tongue carrying Takahashi's motto: BE THE CHANGE, LIGHT THE FUTURE . The outsole is light grey and non-marking on indoor floors. What each design element means Pink as the base — chosen by Takahashi as a symbol of a positive mindset, and as a break from the stereotype of what a player's shoes look like. The aurora finish on the logo and sole — an expression of dreams and passion. The gradient in the midsole — it represents passing that passion from one generation to the next: accumulated growth and challenges are what build the future. The motto on the tongue — BE THE CHANGE, LIGHT THE FUTURE : courage and conviction change the world. It is Takahashi's personal motto. The technology The shoe is built on the SKY ELITE FF MT 3 platform — ASICS' top tier among all-round volleyball shoes — in a mid cut: FF BLAST PLUS ECO — the midsole foam. Its job is to swallow the landing impact and then return part of that energy to the next jump. Its real effect shows not on the first jump but in the fifth set, when legs start to feel heavy: the more impact the midsole takes off you, the more you have left in your legs. RISETRUSS — a stabilising structure through the midfoot , inherited directly from the Metarise. It resists midfoot twisting at the moment you drive upward, so the horizontal force you gathered in your approach steps turns into vertical height instead of leaking into sideways wobble. The same structure is what makes the landing after a spike calmer and more controlled. Asymmetric lacing — the laces are angled away from the centre of the foot to spread pressure off the instep tendon. The result: you can pull the shoe tight for a complete lockdown without a painful pressure point on top of the foot. Mid cut — the collar rises above the ankle bone and wraps it, limiting sudden rolling when you land on uneven ground — a team-mate's or an opponent's foot under the net. In exchange you will feel slightly less ankle freedom than in a low cut. Who is it for? Collectors and followers of Ran Takahashi — a limited piece that will not be repeated, and the first design collaboration of its kind in the history of ASICS volleyball shoes. Outside hitters and opposites — a high jump count in a single match and repeated landings in the most crowded area of the court; here the mid cut is not a luxury. Middle blockers — fast lateral movement along the net, then an immediate block jump; preventing midfoot twisting on the sudden stop helps directly. Anyone who has injured an ankle before — or who plays with an ankle brace and prefers part of that support built into the shoe. A frank note: if you are a libero or a setter who relies on dropping low and moving light more than on jumping, a low cut gives your ankle a wider range of movement.",
+        "tags": [
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1746521653": {
+            "name": "Size",
+            "values": {
+              "343618971": "45",
+              "517269656": "42.5",
+              "983439002": "44",
+              "1292880287": "42",
+              "1499121163": "40.5",
+              "1715492068": "46",
+              "1756493721": "43.5",
+              "1931651742": "41.5"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1893563966",
@@ -3431,6 +4310,7 @@
       "price": 274,
       "compareAt": null,
       "tagline": null,
+      "subtitle": "كمية محدودة!",
       "description": "كرة الطائرة ميكاسا V200W – الكرة الرسمية والمعتمدة (مختومة من الاتحاد الياباني) 🔹 الوصف: كرة الطائرة ميكاسا V200W هي الكرة الرسمية والمعتمدة من قبل الاتحاد الدولي للكرة الطائرة (FIVB) ، كما أنها مختومة من الاتحاد الياباني للكرة الطائرة ، مما يجعلها الخيار المثالي للبطولات والمباريات الاحترافية. 🔹 المواصفات: ✅ الماركة: ميكاسا (Mikasa) ✅ الموديل: V200W ✅ الحجم: 5 (الرسمي) ✅ الأبعاد: محيط 65-67 سم ✅ الوزن: 260-280 جرام ✅ المادة: جلد صناعي عالي الجودة ✅ التصميم: 18 لوحًا بتقنية ديناميكية محسّنة ✅ مقاومة الانزلاق: معالجة نانوية تقلل من الانزلاق عند التعرق ✅ اللون: أصفر / أزرق ✅ بلد الصنع: اليابان / تايلاند 🔹 المزايا: ⭐ تصميم مبتكر يوفر ثباتًا هوائيًا فائقًا ويُحسن دقة التحكم في الكرة. ⭐ سطح ذو ملمس متعدد الطبقات يمنح اللاعبين قبضة وتحكمًا مثاليًا أثناء اللعب. ⭐ مقاومة للانزلاق حتى مع التعرق، مما يعزز الأداء أثناء المباريات الحاسمة. ⭐ كرة رسمية معتمدة للاستخدام في البطولات المحلية والدولية. ⚡ مثالية للاعبين المحترفين والأندية الرياضية والبطولات الرسمية! 🚚 التوصيل السريع لجميع المناطق 💯 منتج أصلي 100% مضمون ✔ اطلب الآن واستمتع بتجربة لعب احترافية! 🎯🏐",
       "images": [
         "https://cdn.salla.sa/jZjwre/b357484e-72c1-4042-86f9-820e89b1d9b2-1000x1000-JmZNcw6xx6tpIZzX6l8nFiHV1UJB2hC4erQz5Rlc.png",
@@ -3445,7 +4325,53 @@
       "options": [],
       "model": null,
       "status": "out",
-      "url": "https://risport-sa.com/ar/x/p1893563966"
+      "url": "https://risport-sa.com/ar/x/p1893563966",
+      "en": {
+        "name": "Mikasa V200W Volleyball — JVA Stamped, FIVB Approved",
+        "brand": null,
+        "sport": null,
+        "tagline": null,
+        "subtitle": "Limited quantity!",
+        "description": "Mikasa V200W volleyball — the official, approved ball (stamped by the Japan Volleyball Association) 🔹 Overview: The Mikasa V200W is the official ball approved by the Fédération Internationale de Volleyball (FIVB) , and it also carries the stamp of the Japan Volleyball Association , which makes it the natural choice for tournaments and competitive matches. 🔹 Specifications: ✅ Brand: Mikasa ✅ Model: V200W ✅ Size: 5 (official) ✅ Dimensions: 65–67 cm circumference ✅ Weight: 260–280 g ✅ Material: high-grade synthetic leather ✅ Construction: 18 panels with an improved aerodynamic design ✅ Slip resistance: a nano-scale surface treatment that reduces slipping when hands sweat ✅ Colour: yellow / blue ✅ Made in: Japan / Thailand 🔹 Advantages: ⭐ An innovative design that delivers outstanding flight stability and improves control accuracy. ⭐ A multi-layer textured surface that gives players excellent grip and control in play. ⭐ Slip resistant even with sweat, which helps in decisive rallies. ⭐ An officially approved ball for local and international competition. ⚡ Ideal for competitive players, clubs and official tournaments. 🚚 Fast delivery to all regions 💯 100% authentic, guaranteed ✔ Order now and play with the real thing. 🎯🏐",
+        "tags": [
+          "Equipment & Accessories",
+          "Balls"
+        ],
+        "options": {}
+      }
     }
-  ]
+  ],
+  "i18n": {
+    "en": {
+      "brands": {
+        "ميزونو": "Mizuno",
+        "اسيكس": "ASICS",
+        "ايريا": "Aria"
+      },
+      "sports": {
+        "الجري": "Running",
+        "المشي": "Walking",
+        "كرة الطائرة": "Volleyball"
+      },
+      "tags": {
+        "تسوّق حسب الرياضة": "Shop by Sport",
+        "الأحذية": "Shoes",
+        "أحذية مشي": "Walking Shoes",
+        "أحذية جري": "Running Shoes",
+        "أحذية كرة طائرة": "Volleyball Shoes",
+        "أحذية كرة سلة": "Basketball Shoes",
+        "أحذية كرة قدم": "Football Shoes",
+        "ملابس رياضية": "Sportswear",
+        "تيشيرتات وأطقم": "T-Shirts & Kits",
+        "شورتات": "Shorts",
+        "ملابس ضاغطة": "Compression Wear",
+        "جوارب رياضية": "Sports Socks",
+        "معدات وإكسسوارات": "Equipment & Accessories",
+        "كرات": "Balls",
+        "حقائب": "Bags",
+        "حاميات الركبة وأكمام اليد": "Knee Pads & Sleeves",
+        "معدات الاستشفاء": "Recovery Gear"
+      }
+    }
+  }
 }
