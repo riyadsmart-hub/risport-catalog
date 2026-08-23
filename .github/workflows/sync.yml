@@ -1,0 +1,51 @@
+name: مزامنة الكتالوج
+
+on:
+  schedule:
+    - cron: '17 * * * *'      # كل ساعة (دقيقة ١٧ لتجنّب ذروة الجدولة)
+  workflow_dispatch:           # تشغيل يدوي من واجهة GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-catalog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+
+      - name: توليد الكتالوج
+        run: CATALOG_OUT=catalog.json node scripts/sync-catalog.mjs
+
+      - name: تحقّق من سلامة الناتج
+        run: |
+          node -e '
+            const c = require("./catalog.json");
+            if (!Array.isArray(c.products) || c.products.length < 5)
+              throw new Error("كتالوج فارغ أو ناقص — لا تُودِع");
+            const noImg = c.products.filter(p => !p.images?.length).length;
+            if (noImg > c.products.length / 2)
+              throw new Error("أكثر من نصف المنتجات بلا صور — لا تُودِع");
+            console.log(`✓ ${c.products.length} منتجاً · ${noImg} بلا صور`);
+          '
+
+      - name: أودِع إن تغيّر شيء
+        run: |
+          # generatedAt يتغيّر كل مرّة — قارن بلا هذا الحقل حتى لا نُودِع بلا داعٍ
+          if git diff --quiet -- catalog.json; then
+            echo "لا تغيير"; exit 0
+          fi
+          if [ -z "$(git diff -- catalog.json | grep -E '^[+-]' | grep -v generatedAt | grep -vE '^(\+\+\+|---)')" ]; then
+            echo "الطابع الزمني فقط تغيّر — تجاهل"; git checkout -- catalog.json; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          git commit -m "مزامنة الكتالوج — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
