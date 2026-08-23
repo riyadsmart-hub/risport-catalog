@@ -38,6 +38,34 @@ const SPORTS = ['كرة الطائرة', 'الجري', 'المشي', 'كرة ا�
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/**
+ * ترتيب المقاسات — المتجر يُرجعها بترتيب إدخالها لا بترتيبها المنطقي
+ * (شوهد: 42 · 42.5 · 43.5 · 44 … ثم 36 · 37). ونتعامل مع ثلاث صيغ:
+ *   رقمية      «42.5»                    → بالرقم
+ *   حرفية      «M: 35-37» · «XL: 40-45»  → بسلّم S→XXL
+ *   ذات لاحقة  «42 للطلب تواصل معنا»      → بالرقم المستخرج، وتُؤخّر عن نظيرتها
+ */
+const LETTER = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', 'XXXL'];
+
+function sizeRank(name) {
+  const t = String(name ?? '').trim();
+  const num = t.match(/^\s*(\d+(?:[.,]\d+)?)/);
+  if (num) {
+    const v = parseFloat(num[1].replace(',', '.'));
+    const bare = /^\s*\d+(?:[.,]\d+)?\s*$/.test(t);
+    return [0, v, bare ? 0 : 1, t];        // المجرّد قبل ذي اللاحقة
+  }
+  const letter = LETTER.findIndex((l) => new RegExp(`^${l}\\b`, 'i').test(t));
+  if (letter >= 0) return [1, letter, 0, t];
+  return [2, 0, 0, t];                      // ما لا يُفهم يبقى في الآخر بترتيبه النصّي
+}
+
+function bySize(a, b) {
+  const x = sizeRank(a), y = sizeRank(b);
+  for (let i = 0; i < 3; i++) if (x[i] !== y[i]) return x[i] - y[i];
+  return String(x[3]).localeCompare(String(y[3]), 'ar');
+}
+
 async function getJson(url, tries = 3) {
   for (let i = 0; i < tries; i++) {
     try {
@@ -133,6 +161,11 @@ async function main() {
     const sport = SPORTS.find((s) => names.some((n) => n && n.includes(s))) ?? null;
     const isShoe = names.some((n) => n && n.includes('أحذية')) ||
                    /حذاء/.test(det.name ?? p.name ?? '');
+
+    // رتّب قيم خيار المقاس **داخل الخيار نفسه** — شاشة المنتج ترسم من options
+    for (const o of options) {
+      if (/مقاس|size/i.test(o.name ?? '')) o.values.sort((a, b) => bySize(a.name, b.name));
+    }
 
     const sizeOpt = options.find((o) => /مقاس|size/i.test(o.name ?? ''));
     const colorOpt = options.find((o) => /لون|color/i.test(o.name ?? ''));
