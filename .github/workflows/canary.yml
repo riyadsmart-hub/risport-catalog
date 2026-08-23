@@ -1,0 +1,73 @@
+name: رقيب الشراء
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'     # كل نصف ساعة
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  canary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+
+      - name: جرّب سلسلة الشراء
+        id: run
+        run: CANARY_OUT=canary.txt node scripts/canary.mjs
+
+      # تيليجرام أولاً — بريد التذاكر لا يُقرأ الثالثة صباحاً.
+      # يُتخطّى بلا ضجيج إن لم تُضبط الأسرار.
+      - name: نبّه على تيليجرام
+        if: failure() && env.TG_TOKEN != ''
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          DETAIL=$(head -c 600 canary.txt 2>/dev/null || echo "بلا تفاصيل")
+          TEXT="🚨 رقيب ري سبورت اكتشف عطلاً%0A%0A${DETAIL}%0A%0Ahttps://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          curl -sS -m 20 -X POST "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+            -d "chat_id=${TG_CHAT}" -d "text=${TEXT}" >/dev/null && echo "أُرسل"
+
+      - name: تذكرة عند الفشل أو الإلغاء
+        if: failure() || cancelled()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let detail = 'بلا تفاصيل';
+            try { detail = fs.readFileSync('canary.txt', 'utf8').slice(0, 1200); } catch {}
+            const title = '🚨 رقيب الشراء يرصد عطلاً';
+            const open = await github.rest.issues.listForRepo({
+              ...context.repo, state: 'open', labels: 'canary',
+            });
+            const url = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const body = `الحالة: ${{ job.status }}\n\n\`\`\`\n${detail}\n\`\`\`\n\n${url}`;
+            const existing = open.data.find(i => i.title === title);
+            if (existing) {
+              // لا تُغرقه بالتذاكر — علّق على المفتوحة
+              await github.rest.issues.createComment({ ...context.repo, issue_number: existing.number, body });
+            } else {
+              await github.rest.issues.create({ ...context.repo, title, labels: ['canary'], body });
+            }
+
+      - name: أغلق التذكرة عند التعافي
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const open = await github.rest.issues.listForRepo({
+              ...context.repo, state: 'open', labels: 'canary',
+            });
+            for (const i of open.data) {
+              await github.rest.issues.createComment({
+                ...context.repo, issue_number: i.number, body: '✅ تعافى — الرقيب نجح.',
+              });
+              await github.rest.issues.update({ ...context.repo, issue_number: i.number, state: 'closed' });
+            }

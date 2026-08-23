@@ -6,5 +6,6 @@
   "lang": "ar",
   "currency": "SAR",
   "catalogUrl": "https://riyadsmart-hub.github.io/risport-catalog/catalog.json",
-  "stockUrl": "https://riyadsmart-hub.github.io/risport-catalog/stock.json"
+  "stockUrl": "https://riyadsmart-hub.github.io/risport-catalog/stock.json",
+  "statusUrl": "https://riyadsmart-hub.github.io/risport-catalog/status.json"
 }
