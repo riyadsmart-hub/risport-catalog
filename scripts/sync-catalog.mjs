@@ -19,9 +19,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-const STORE_ID = '1713072379';
-const API = 'https://api.salla.dev/store/v1';
-const SITE = 'https://risport-sa.com';
+const cfg = JSON.parse(fs.readFileSync(path.join(import.meta.dirname, '../store.config.json'), 'utf8'));
+const STORE_ID = cfg.storeId;
+const API = cfg.api;
+const SITE = cfg.site;
 // مسار الإخراج قابل للتهيئة ليعمل داخل مستودع الكتالوج أو داخل التطبيق
 const OUT = process.env.CATALOG_OUT
   ? path.resolve(process.env.CATALOG_OUT)

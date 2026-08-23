@@ -10,7 +10,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: sync-catalog
+  group: publish
   cancel-in-progress: false
 
 jobs:
@@ -36,14 +36,10 @@ jobs:
             console.log(`✓ ${c.products.length} منتجاً · ${noImg} بلا صور`);
           '
 
-      - name: أودِع إن تغيّر شيء
+      - name: أودِع وادفع (مع إعادة عند التسابق)
         run: |
           git add catalog.json
-          # الملف الجديد لا يظهر في git diff — نقارن المُدرَج،
-          # ونتجاهل تغيّر الطابع الزمني وحده حتى لا نُودِع بلا داعٍ.
-          if git diff --cached --quiet -- catalog.json; then
-            echo "لا تغيير"; exit 0
-          fi
+          if git diff --cached --quiet -- catalog.json; then echo "لا تغيير"; exit 0; fi
           CHANGED=$(git diff --cached -- catalog.json | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -v generatedAt || true)
           if [ -z "$CHANGED" ] && git cat-file -e HEAD:catalog.json 2>/dev/null; then
             echo "الطابع الزمني فقط — تجاهل"; git reset -q -- catalog.json; git checkout -- catalog.json; exit 0
@@ -51,10 +47,32 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -q -m "مزامنة الكتالوج — $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          # المساران يدفعان إلى main — بلا إعادة يفشل أحدهما كلّما تزامنا
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "تسابق على الدفع — محاولة $i"
+            git pull --rebase -X ours origin main || git rebase --abort || true
+            sleep $((i * 3))
+          done
+          echo "تعذّر الدفع بعد ٥ محاولات"; exit 1
 
-      - name: نبّه عند الفشل
-        if: failure()
+      - name: تأكّد أن المنشور هو ما وُلّد
+        run: |
+          # مهمّة خضراء لا تعني ملفاً منشوراً — رُصد حيّاً أن Pages
+          # ما زال يخدم القديم (أو 404) بعد نجاح المهمّة.
+          LOCAL=$(node -e "console.log(require('./catalog.json').generatedAt || require('./catalog.json').at)")
+          for i in $(seq 1 20); do
+            REMOTE=$(curl -sf --max-time 15 "https://riyadsmart-hub.github.io/risport-catalog/catalog.json" | node -e "
+              let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{
+                try{const j=JSON.parse(s);console.log(j.generatedAt||j.at||'')}catch{console.log('')}})" || echo "")
+            if [ "$REMOTE" = "$LOCAL" ]; then echo "✓ منشور ومطابق ($LOCAL)"; exit 0; fi
+            sleep 15
+          done
+          echo "⚠️ لم يظهر المنشور بعد ٥ دقائق — المولّد نجح لكن النشر لم يصل"
+          exit 1
+
+      - name: نبّه عند الفشل أو الإلغاء
+        if: failure() || cancelled()
         uses: actions/github-script@v7
         with:
           script: |
@@ -65,5 +83,11 @@ jobs:
             if (open.data.some(i => i.title === title)) return;
             await github.rest.issues.create({
               ...context.repo, title, labels: ['sync-failure'],
-              body: `فشلت المزامنة الكاملة.\n\nالتشغيل: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\n\nالتطبيق يبقى على آخر كتالوج ناجح — الأسعار الجديدة لن تصل حتى يُصلَح.`,
+              body: [
+                'الحالة: ${{ job.status }}',
+                '',
+                'التشغيل: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}',
+                '',
+                'التطبيق يبقى على آخر كتالوج ناجح — الأسعار والمنتجات الجديدة لن تصل حتى يُصلَح.',
+              ].join('\n'),
             });

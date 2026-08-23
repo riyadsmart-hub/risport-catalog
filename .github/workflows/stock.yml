@@ -10,7 +10,8 @@ permissions:
   issues: write
 
 concurrency:
-  group: stock
+  group: publish
+  cancel-in-progress: false
   cancel-in-progress: true      # لا معنى لتشغيلين متراكمين على نفس البيانات
 
 jobs:
@@ -24,14 +25,10 @@ jobs:
       - name: توليد المخزون
         run: CATALOG_IN=catalog.json STOCK_OUT=stock.json node scripts/sync-stock.mjs
 
-      - name: أودِع إن تغيّر المخزون
+      - name: أودِع وادفع (مع إعادة عند التسابق)
         run: |
           git add stock.json
-          # الملف الجديد لا يظهر في git diff — نقارن المُدرَج،
-          # ونتجاهل تغيّر الطابع الزمني وحده حتى لا نُودِع بلا داعٍ.
-          if git diff --cached --quiet -- stock.json; then
-            echo "لا تغيير"; exit 0
-          fi
+          if git diff --cached --quiet -- stock.json; then echo "لا تغيير"; exit 0; fi
           CHANGED=$(git diff --cached -- stock.json | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -v generatedAt || true)
           if [ -z "$CHANGED" ] && git cat-file -e HEAD:stock.json 2>/dev/null; then
             echo "الطابع الزمني فقط — تجاهل"; git reset -q -- stock.json; git checkout -- stock.json; exit 0
@@ -39,19 +36,47 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -q -m "مخزون — $(date -u '+%H:%M UTC')"
-          git push
+          # المساران يدفعان إلى main — بلا إعادة يفشل أحدهما كلّما تزامنا
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "تسابق على الدفع — محاولة $i"
+            git pull --rebase -X ours origin main || git rebase --abort || true
+            sleep $((i * 3))
+          done
+          echo "تعذّر الدفع بعد ٥ محاولات"; exit 1
 
-      - name: نبّه عند الفشل
-        if: failure()
+      - name: تأكّد أن المنشور هو ما وُلّد
+        run: |
+          # مهمّة خضراء لا تعني ملفاً منشوراً — رُصد حيّاً أن Pages
+          # ما زال يخدم القديم (أو 404) بعد نجاح المهمّة.
+          LOCAL=$(node -e "console.log(require('./stock.json').generatedAt || require('./stock.json').at)")
+          for i in $(seq 1 20); do
+            REMOTE=$(curl -sf --max-time 15 "https://riyadsmart-hub.github.io/risport-catalog/stock.json" | node -e "
+              let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{
+                try{const j=JSON.parse(s);console.log(j.generatedAt||j.at||'')}catch{console.log('')}})" || echo "")
+            if [ "$REMOTE" = "$LOCAL" ]; then echo "✓ منشور ومطابق ($LOCAL)"; exit 0; fi
+            sleep 15
+          done
+          echo "⚠️ لم يظهر المنشور بعد ٥ دقائق — المولّد نجح لكن النشر لم يصل"
+          exit 1
+
+      - name: نبّه عند الفشل أو الإلغاء
+        if: failure() || cancelled()
         uses: actions/github-script@v7
         with:
           script: |
-            const title = '⚠️ توقّفت مزامنة المخزون';
+            const title = '⚠️ توقّف مسار المخزون السريع';
             const open = await github.rest.issues.listForRepo({
               ...context.repo, state: 'open', labels: 'sync-failure',
             });
-            if (open.data.some(i => i.title === title)) return;   // لا تُغرقه بالتذاكر
+            if (open.data.some(i => i.title === title)) return;
             await github.rest.issues.create({
               ...context.repo, title, labels: ['sync-failure'],
-              body: `فشل مسار المخزون السريع.\n\nالتشغيل: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\n\nالتطبيق يبقى يعمل بآخر مخزون ناجح — لكن كلّما طال العطل زاد احتمال أن يشتري عميل مقاساً نافداً.`,
+              body: [
+                'الحالة: ${{ job.status }}',
+                '',
+                'التشغيل: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}',
+                '',
+                'التطبيق يبقى على آخر مخزون ناجح — وكلّما طال العطل زاد احتمال شراء مقاس نافد.',
+              ].join('\n'),
             });
