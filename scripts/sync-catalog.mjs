@@ -34,6 +34,8 @@ const H = {
   currency: 'SAR',
   Accept: 'application/json',
 };
+// الإنجليزية: نفس الواجهة بترويسة اللغة فقط — المتجر مترجَم بالكامل (أسماء · أوصاف · خيارات)
+const H_EN = { ...H, 'accept-language': 'en' };
 
 const SPORTS = ['كرة الطائرة', 'الجري', 'المشي', 'كرة السلة', 'كرة القدم'];
 
@@ -70,17 +72,17 @@ function bySize(a, b) {
 const TIMEOUT_MS = 20000;
 
 /** نداء بمهلة — بدونها تعليقةٌ واحدة تُجمّد المهمّة حتى ينتهي وقت الـAction */
-async function fetchT(url, init = {}) {
+async function fetchT(url, init = {}, headers = H) {
   const ac = new AbortController();
   const t = setTimeout(() => ac.abort(), TIMEOUT_MS);
-  try { return await fetch(url, { ...init, headers: H, signal: ac.signal }); }
+  try { return await fetch(url, { ...init, headers, signal: ac.signal }); }
   finally { clearTimeout(t); }
 }
 
-async function getJson(url, tries = 4) {
+async function getJson(url, tries = 4, headers = H) {
   for (let i = 0; i < tries; i++) {
     try {
-      const r = await fetchT(url);
+      const r = await fetchT(url, {}, headers);
       if (r.ok) return JSON.parse(await r.text());
       if (r.status === 429 || r.status >= 500) {          // يستحقّ إعادة
         await sleep(800 * 2 ** i);
@@ -108,11 +110,11 @@ const unescapeAttr = (s) =>
  * `details` من الـAPI يعطي صورة واحدة بعرض ٥٠٠ فقط، والمعرض داخل
  * `<salla-slider id="details-slider-{id}">` في الصفحة.
  */
-async function fetchProductPage(productId) {
+async function fetchProductPage(productId, lang = 'ar') {
   try {
     let html = null;
     for (let i = 0; i < 3 && html === null; i++) {
-      const r = await fetchT(`${SITE}/ar/x/p${productId}`).catch(() => null);
+      const r = await fetchT(`${SITE}/${lang}/x/p${productId}`).catch(() => null);
       if (r?.ok) html = await r.text();
       else await sleep(800 * 2 ** i);
     }
@@ -165,20 +167,38 @@ async function main() {
   })(catsRoot);
   console.log(`… ${cats.length} تصنيفاً`);
 
+  // الشجرة بالإنجليزية — لأسماء التصنيفات/الرياضات المترجمة (اختيارية: فشلها لا يوقف البناء)
+  const catEn = new Map();                      // catId → English name
+  const catsRootEn = (await getJson(`${API}/categories`, 2, H_EN))?.data ?? [];
+  (function walk(list) {
+    for (const c of list) {
+      const id = (c.url ?? '').split('/c').pop();
+      if (/^\d+$/.test(id)) catEn.set(id, clean(c.name));
+      walk(c.sub_categories ?? []);
+    }
+  })(catsRootEn);
+  const tagEn = new Map();                      // Arabic category name → English
+  for (const c of cats) if (catEn.get(c.id)) tagEn.set(c.name, catEn.get(c.id));
+
   // ── ٢) اتحاد المنتجات عبر التصنيفات ───────────────────────────────
   const found = new Map();                       // id → { product, cats:Set }
+  const listEn = new Map();                      // id → { name, brand } بالإنجليزية (من قوائم التصنيفات)
   const catFails = [];
   for (const c of cats) {
     // اتّبع الصفحات — تصنيف يتجاوز حدّ الصفحة يفقد الباقي بصمت
     for (let page = 1; page <= 10; page++) {
-      const d = await getJson(
-        `${API}/products?source=categories&filterable=1&source_value%5B%5D=${c.id}&per_page=100&page=${page}`
-      );
+      const url = `${API}/products?source=categories&filterable=1&source_value%5B%5D=${c.id}&per_page=100&page=${page}`;
+      const d = await getJson(url);
       if (d === null) { catFails.push(c.name); break; }
       const list = d?.data ?? [];
       for (const p of list) {
         if (!found.has(p.id)) found.set(p.id, { p, cats: new Set() });
         found.get(p.id).cats.add(c.name);
+      }
+      // النسخة الإنجليزية من نفس القائمة — الماركة بالإنجليزية لا تأتي إلا من هنا (details لا يحملها)
+      const dEn = await getJson(url, 2, H_EN);
+      for (const p of dEn?.data ?? []) {
+        if (!listEn.has(p.id)) listEn.set(p.id, { name: clean(p.name), brand: clean(p.brand?.name) });
       }
       if (list.length < 15) break;                 // آخر صفحة
     }
@@ -198,6 +218,7 @@ async function main() {
   } catch {}
 
   const products = [];
+  const brandEnMap = new Map();                  // الماركة بالعربية → بالإنجليزية
   let done = 0, carried = 0;
   for (const [id, { p, cats: cnames }] of found) {
     // النافد **يبقى** في الكتالوج بعلامة `status:'out'` لا يُحذف.
@@ -207,6 +228,9 @@ async function main() {
 
     const det = (await getJson(`${API}/products/${id}/details`))?.data ?? {};
     const page = await fetchProductPage(id);
+    // الإنجليزية: تفاصيل + صفحة (لأسماء الخيارات وقيمها). فشلها ⇒ نسخة سابقة أو لا شيء
+    const detEn = (await getJson(`${API}/products/${id}/details`, 2, H_EN))?.data ?? {};
+    const pageEn = await fetchProductPage(id, 'en');
 
     // تعذّرت الصفحة؟ خُذ خيارات وصور النسخة السابقة بدل نشر منتج بلا مقاسات
     // (منتج بلا خيارات يُقبل في التطبيق ثم ترفضه سلة بـ422 عند الدفع).
@@ -231,6 +255,30 @@ async function main() {
     const price = det.sale_price || det.price || p.price || null;
     const regular = det.regular_price || det.price || null;
 
+    // ── الترجمة الإنجليزية للمنتج ─────────────────────────────────────
+    const enList = listEn.get(id) ?? {};
+    const enOptions = {};
+    for (const o of pageEn?.options ?? []) {
+      enOptions[o.id] = { name: o.name, values: Object.fromEntries(o.values.map((v) => [v.id, v.name])) };
+    }
+    const brandAr = clean(det.brand?.name ?? p.brand?.name) ?? 'أخرى';
+    // ماركة غير مترجَمة في المتجر تعود بالعربية نفسها — لا نعتبرها ترجمة
+    const brandEn = enList.brand && /[A-Za-z]/.test(enList.brand) ? enList.brand : null;
+    if (brandEn) brandEnMap.set(brandAr, brandEn);
+    const sportEn = sport ? (tagEn.get(sport) ?? null) : null;
+    const hasEn = !!(detEn.name || enList.name);
+    const prevEn = prevP?.en;
+    const en = hasEn ? {
+      name: clean(detEn.name) ?? enList.name ?? null,
+      brand: brandEn,
+      sport: sportEn,
+      tagline: clean(detEn.promotion_title),
+      subtitle: clean(detEn.subtitle),
+      description: clean(detEn.description),
+      tags: names.filter((n) => n && !SPORTS.includes(n)).map((n) => tagEn.get(n) ?? n),
+      options: Object.keys(enOptions).length ? enOptions : (prevEn?.options ?? {}),
+    } : (prevEn ?? undefined);
+
     // المعرض من الصفحة، وإلا الصورة الوحيدة من الـAPI
     const imgs = gallery.length ? gallery
       : [det.image?.url].filter((u) => typeof u === 'string' && u.startsWith('http'));
@@ -240,13 +288,14 @@ async function main() {
       sallaId: String(id),
       sku: clean(det.sku ?? p.sku),
       name: clean(det.name ?? p.name),
-      brand: clean(det.brand?.name ?? p.brand?.name) ?? 'أخرى',
+      brand: brandAr,
       category: isShoe ? 'shoes' : 'gear',
       sport,
       tags: names.filter((n) => n && !SPORTS.includes(n)),
       price: price ? Number(price) : null,
       compareAt: regular && price && Number(regular) > Number(price) ? Number(regular) : null,
       tagline: clean(det.promotion_title ?? p.promotion_title),
+      subtitle: clean(det.subtitle),
       description: clean(det.description ?? p.description),
       images: imgs,
       optionNames: { size: sizeOpt?.name ?? null, color: colorOpt?.name ?? null },
@@ -256,6 +305,7 @@ async function main() {
       model: null,
       status: isOut ? 'out' : 'live',
       url: `${SITE}/ar/x/p${id}`,
+      ...(en ? { en } : {}),
     });
     if (++done % 5 === 0) process.stdout.write(`\r  ${done}/${found.size}`);
   }
@@ -265,14 +315,23 @@ async function main() {
     (a.category === 'shoes' ? 0 : 1) - (b.category === 'shoes' ? 0 : 1) ||
     a.brand.localeCompare(b.brand, 'ar') || (a.price ?? 0) - (b.price ?? 0));
 
+  const sportsAr = [...new Set(products.map((p) => p.sport).filter(Boolean))].sort();
   const catalog = {
-    version: 3,
+    version: 4,
     generatedAt: new Date().toISOString(),
     source: 'storefront-api',
     store: { name: 'ري سبورت', url: SITE, currency: 'SAR' },
     brands: [...new Set(products.map((p) => p.brand))].sort(),
-    sports: [...new Set(products.map((p) => p.sport).filter(Boolean))].sort(),
+    sports: sportsAr,
     products,
+    // خرائط الترجمة على مستوى الكتالوج — التطبيق يعرض بها المرشّحات والتصنيفات بالإنجليزية
+    i18n: {
+      en: {
+        brands: Object.fromEntries(brandEnMap),
+        sports: Object.fromEntries(sportsAr.filter((s) => tagEn.get(s)).map((s) => [s, tagEn.get(s)])),
+        tags: Object.fromEntries([...tagEn].filter(([ar]) => !SPORTS.includes(ar))),
+      },
+    },
   };
 
   // ── كشف التغيّر مقابل النسخة السابقة ────────────────────────────────
@@ -322,6 +381,8 @@ async function main() {
   const outCount = products.filter((p) => p.status === 'out').length;
   console.log(`  خيارات: ${withOpts}/${products.length} · صور: ${withImgs}/${products.length} · نافد: ${outCount}`);
   console.log(`  ماركات: ${catalog.brands.join(' · ')}`);
+  const withEn = products.filter((p) => p.en?.name).length;
+  console.log(`  إنجليزي: ${withEn}/${products.length} منتجاً مترجَماً · ${brandEnMap.size} ماركات · ${Object.keys(catalog.i18n.en.sports).length} رياضات`);
   if (carried) console.log(`  ⚠ ${carried} منتجاً تعذّرت صفحته — استُعملت بيانات النسخة السابقة`);
 
   const chg = [
