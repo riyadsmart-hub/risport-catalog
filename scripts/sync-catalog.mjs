@@ -197,7 +197,10 @@ async function main() {
   const products = [];
   let done = 0, carried = 0;
   for (const [id, { p, cats: cnames }] of found) {
-    if (p.is_available === false) { done++; continue; }   // المخفيّ/النافد لا يُعرض
+    // النافد **يبقى** في الكتالوج بعلامة `status:'out'` لا يُحذف.
+    // حذفه كان يعني ثلاثة أضرار: العميل يظنّ أنك لا تبيع الصنف أصلاً،
+    // ولا يمكن رصد عودته للمخزون، ولا يمكن بناء «نبّهني عند التوفّر».
+    const isOut = p.is_available === false;
 
     const det = (await getJson(`${API}/products/${id}/details`))?.data ?? {};
     const page = await fetchProductPage(id);
@@ -248,12 +251,14 @@ async function main() {
       colors: colorOpt?.values.map((v) => v.name) ?? [],
       options,
       model: null,
+      status: isOut ? 'out' : 'live',
       url: `${SITE}/ar/x/p${id}`,
     });
     if (++done % 5 === 0) process.stdout.write(`\r  ${done}/${found.size}`);
   }
 
   products.sort((a, b) =>
+    (a.status === 'out' ? 1 : 0) - (b.status === 'out' ? 1 : 0) ||   // النافد آخراً
     (a.category === 'shoes' ? 0 : 1) - (b.category === 'shoes' ? 0 : 1) ||
     a.brand.localeCompare(b.brand, 'ar') || (a.price ?? 0) - (b.price ?? 0));
 
@@ -288,6 +293,9 @@ async function main() {
       const back = (p.options ?? []).flatMap((o) =>
         o.values.filter((v) => !v.out && wasOut.has(v.id)).map((v) => `${o.name} ${v.name}`));
       if (back.length) changes.restocked.push({ id, name: p.name, values: back });
+      if (b.status === 'out' && p.status === 'live') {
+        changes.restocked.push({ id, name: p.name, values: ['المنتج كلّه'] });
+      }
     }
     for (const [id, b] of before) if (!after.has(id)) changes.removed.push({ id, name: b.name });
   } catch { /* أول تشغيل — لا سابق نقارن به */ }
@@ -308,7 +316,8 @@ async function main() {
   const withOpts = products.filter((p) => p.options.length).length;
   const withImgs = products.filter((p) => p.images.length).length;
   console.log(`\n✓ ${products.length} منتجاً → ${path.relative(process.cwd(), OUT)}`);
-  console.log(`  خيارات: ${withOpts}/${products.length} · صور: ${withImgs}/${products.length}`);
+  const outCount = products.filter((p) => p.status === 'out').length;
+  console.log(`  خيارات: ${withOpts}/${products.length} · صور: ${withImgs}/${products.length} · نافد: ${outCount}`);
   console.log(`  ماركات: ${catalog.brands.join(' · ')}`);
   if (carried) console.log(`  ⚠ ${carried} منتجاً تعذّرت صفحته — استُعملت بيانات النسخة السابقة`);
 
