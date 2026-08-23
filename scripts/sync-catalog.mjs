@@ -219,6 +219,41 @@ async function main() {
     products,
   };
 
+  // ── كشف التغيّر مقابل النسخة السابقة ────────────────────────────────
+  // يفيد ثلاثة أشياء: قسم «وصل حديثاً» في التطبيق، وأساس الإشعارات لاحقاً،
+  // وسجلّ يخبرك ما تغيّر في متجرك دون أن تفتح اللوحة.
+  let changes = { added: [], removed: [], priceUp: [], priceDown: [], restocked: [] };
+  try {
+    const prev = JSON.parse(fs.readFileSync(OUT, 'utf8'));
+    const before = new Map((prev.products ?? []).map((p) => [p.id, p]));
+    const after = new Map(products.map((p) => [p.id, p]));
+
+    for (const [id, p] of after) {
+      const b = before.get(id);
+      if (!b) { changes.added.push({ id, name: p.name, price: p.price }); continue; }
+      if (b.price != null && p.price != null && b.price !== p.price) {
+        (p.price > b.price ? changes.priceUp : changes.priceDown)
+          .push({ id, name: p.name, from: b.price, to: p.price });
+      }
+      // عاد للمخزون: قيمة كانت نافدة ولم تعد
+      const wasOut = new Set((b.options ?? []).flatMap((o) => o.values.filter((v) => v.out).map((v) => v.id)));
+      const back = (p.options ?? []).flatMap((o) =>
+        o.values.filter((v) => !v.out && wasOut.has(v.id)).map((v) => `${o.name} ${v.name}`));
+      if (back.length) changes.restocked.push({ id, name: p.name, values: back });
+    }
+    for (const [id, b] of before) if (!after.has(id)) changes.removed.push({ id, name: b.name });
+  } catch { /* أول تشغيل — لا سابق نقارن به */ }
+
+  // حارس جودة: اختفاء مفاجئ لثلث المنتجات يعني عطلاً في سلة لا حذفاً حقيقياً.
+  // نشرُ كتالوج ناقص أسوأ من الإبقاء على القديم — التطبيق يعرض ما لا يوجد.
+  if (changes.removed.length > Math.max(3, products.length * 0.3)) {
+    console.error(`✗ اختفى ${changes.removed.length} منتجاً دفعة واحدة — يُرجَّح عطل لا حذف. لا تُنشر.`);
+    process.exit(1);
+  }
+
+  const CHANGES = path.join(path.dirname(OUT), 'changes.json');
+  fs.writeFileSync(CHANGES, JSON.stringify({ at: catalog.generatedAt, ...changes }, null, 2));
+
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(catalog, null, 2));
 
@@ -227,6 +262,15 @@ async function main() {
   console.log(`\n✓ ${products.length} منتجاً → ${path.relative(process.cwd(), OUT)}`);
   console.log(`  خيارات: ${withOpts}/${products.length} · صور: ${withImgs}/${products.length}`);
   console.log(`  ماركات: ${catalog.brands.join(' · ')}`);
+
+  const chg = [
+    changes.added.length && `+${changes.added.length} جديد`,
+    changes.removed.length && `-${changes.removed.length} مُزال`,
+    changes.priceUp.length && `↑${changes.priceUp.length} سعر`,
+    changes.priceDown.length && `↓${changes.priceDown.length} سعر`,
+    changes.restocked.length && `↺${changes.restocked.length} عاد للمخزون`,
+  ].filter(Boolean);
+  console.log(`  تغيّرات: ${chg.length ? chg.join(' · ') : 'لا شيء'}`);
 }
 
 main();
