@@ -1,0 +1,10 @@
+{
+  "storeId": "1713072379",
+  "site": "https://risport-sa.com",
+  "api": "https://api.salla.dev/store/v1",
+  "cdn": "https://cdn.salla.sa/",
+  "lang": "ar",
+  "currency": "SAR",
+  "catalogUrl": "https://riyadsmart-hub.github.io/risport-catalog/catalog.json",
+  "stockUrl": "https://riyadsmart-hub.github.io/risport-catalog/stock.json"
+}

@@ -1,0 +1,49 @@
+name: مخزون سريع
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'     # كل ١٠ دقائق — المقاسات تنفد أسرع من المزامنة الكاملة
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: stock
+  cancel-in-progress: true      # لا معنى لتشغيلين متراكمين على نفس البيانات
+
+jobs:
+  stock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+
+      - name: توليد المخزون
+        run: CATALOG_IN=catalog.json STOCK_OUT=stock.json node scripts/sync-stock.mjs
+
+      - name: أودِع إن تغيّر المخزون
+        run: |
+          if [ -z "$(git diff -- stock.json | grep -E '^[+-]' | grep -v generatedAt | grep -vE '^(\+\+\+|---)')" ]; then
+            echo "لا تغيير في المخزون"; git checkout -- stock.json 2>/dev/null || true; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stock.json && git commit -m "مخزون — $(date -u '+%H:%M UTC')" && git push
+
+      - name: نبّه عند الفشل
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = '⚠️ توقّفت مزامنة المخزون';
+            const open = await github.rest.issues.listForRepo({
+              ...context.repo, state: 'open', labels: 'sync-failure',
+            });
+            if (open.data.some(i => i.title === title)) return;   // لا تُغرقه بالتذاكر
+            await github.rest.issues.create({
+              ...context.repo, title, labels: ['sync-failure'],
+              body: `فشل مسار المخزون السريع.\n\nالتشغيل: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\n\nالتطبيق يبقى يعمل بآخر مخزون ناجح — لكن كلّما طال العطل زاد احتمال أن يشتري عميل مقاساً نافداً.`,
+            });
