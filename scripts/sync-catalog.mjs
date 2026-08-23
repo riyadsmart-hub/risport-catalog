@@ -130,6 +130,9 @@ async function fetchProductPage(productId) {
         id: String(d.id),
         name: clean(d.name),
         out: !!d.is_out,                       // نافد — نعرضه باهتاً بدل أن يكتشفه عند الدفع
+        // كل لون له صورته: اختيار اللون يقفز بالمعرض إليها بدل أن يبقى
+        // العميل ينظر إلى لون آخر ويظنّ أنه ما اختاره.
+        img: typeof d.image === 'string' && d.image.startsWith('http') ? d.image : null,
       })),
       }));
     }
