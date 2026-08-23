@@ -103,7 +103,11 @@ async function fetchProductPage(productId) {
         id: String(o.id),
         name: clean(o.name),
         required: !!o.required,
-        values: (o.details ?? []).map((d) => ({ id: String(d.id), name: clean(d.name) })),
+        values: (o.details ?? []).map((d) => ({
+        id: String(d.id),
+        name: clean(d.name),
+        out: !!d.is_out,                       // نافد — نعرضه باهتاً بدل أن يكتشفه عند الدفع
+      })),
       }));
     }
 
