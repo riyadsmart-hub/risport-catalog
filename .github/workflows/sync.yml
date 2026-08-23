@@ -38,17 +38,19 @@ jobs:
 
       - name: أودِع إن تغيّر شيء
         run: |
-          # generatedAt يتغيّر كل مرّة — قارن بلا هذا الحقل حتى لا نُودِع بلا داعٍ
-          if git diff --quiet -- catalog.json; then
+          git add catalog.json
+          # الملف الجديد لا يظهر في git diff — نقارن المُدرَج،
+          # ونتجاهل تغيّر الطابع الزمني وحده حتى لا نُودِع بلا داعٍ.
+          if git diff --cached --quiet -- catalog.json; then
             echo "لا تغيير"; exit 0
           fi
-          if [ -z "$(git diff -- catalog.json | grep -E '^[+-]' | grep -v generatedAt | grep -vE '^(\+\+\+|---)')" ]; then
-            echo "الطابع الزمني فقط تغيّر — تجاهل"; git checkout -- catalog.json; exit 0
+          CHANGED=$(git diff --cached -- catalog.json | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -v generatedAt || true)
+          if [ -z "$CHANGED" ] && git cat-file -e HEAD:catalog.json 2>/dev/null; then
+            echo "الطابع الزمني فقط — تجاهل"; git reset -q -- catalog.json; git checkout -- catalog.json; exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalog.json
-          git commit -m "مزامنة الكتالوج — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git commit -q -m "مزامنة الكتالوج — $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
 
       - name: نبّه عند الفشل

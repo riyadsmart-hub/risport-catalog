@@ -26,12 +26,20 @@ jobs:
 
       - name: أودِع إن تغيّر المخزون
         run: |
-          if [ -z "$(git diff -- stock.json | grep -E '^[+-]' | grep -v generatedAt | grep -vE '^(\+\+\+|---)')" ]; then
-            echo "لا تغيير في المخزون"; git checkout -- stock.json 2>/dev/null || true; exit 0
+          git add stock.json
+          # الملف الجديد لا يظهر في git diff — نقارن المُدرَج،
+          # ونتجاهل تغيّر الطابع الزمني وحده حتى لا نُودِع بلا داعٍ.
+          if git diff --cached --quiet -- stock.json; then
+            echo "لا تغيير"; exit 0
+          fi
+          CHANGED=$(git diff --cached -- stock.json | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -v generatedAt || true)
+          if [ -z "$CHANGED" ] && git cat-file -e HEAD:stock.json 2>/dev/null; then
+            echo "الطابع الزمني فقط — تجاهل"; git reset -q -- stock.json; git checkout -- stock.json; exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stock.json && git commit -m "مخزون — $(date -u '+%H:%M UTC')" && git push
+          git commit -q -m "مخزون — $(date -u '+%H:%M UTC')"
+          git push
 
       - name: نبّه عند الفشل
         if: failure()
