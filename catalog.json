@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-25T04:03:07.956Z",
+  "generatedAt": "2026-08-25T09:03:08.622Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -17,7 +17,8 @@
   "sports": [
     "الجري",
     "المشي",
-    "كرة الطائرة"
+    "كرة الطائرة",
+    "كرة القدم"
   ],
   "products": [
     {
@@ -152,6 +153,3720 @@
           "Equipment & Accessories"
         ],
         "options": {}
+      }
+    },
+    {
+      "id": "1433881099",
+      "sallaId": "1433881099",
+      "sku": "RSP-NIKE-IB4484",
+      "name": "حذاء نايكي تيمبو مايسترو أكاديمي TF لكرة القدم (146)",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 425,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · تيرف · الفئة الاقتصادية من خطّ تيمبو",
+      "description": "تيمبو مايسترو أكاديمي TF الفئة الاقتصادية من خطّ تيمبو — خطّ نايكي للّمسة والتحكّم. أكاديمي هي الدرجة الموجّهة للتمرين اليومي، و TF نسخة التيرف. التقنيات وجه ليّن بملمس تيمبو — الإحساس الذي يميّز الخطّ، بخامة أمتن تتحمّل التمرين المتكرّر بدل خامة المباريات الرقيقة. نعل تيرف — نتوءات مطاطية كثيفة للعشب الصناعي والملاعب الصلبة. سلّم مقاسات واسع — من ٢٣٫٠ إلى ٢٨٫٠ سم. لمن هذا الحذاء؟ لمن يتمرّن أكثر ممّا يلعب مباريات، أو يريد دخول خطّ تيمبو بأقلّ سعر. لاعب المباريات المنتظمة يجد في فئة PRO خامة أرقّ وإحساساً أقرب. كود الموديل IB4484-146 · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "تيمبو مايسترو أكاديمي TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "الفئة الاقتصادية من خطّ ",
+            {
+              "b": "تيمبو"
+            },
+            " — خطّ نايكي للّمسة والتحكّم. ",
+            {
+              "b": "أكاديمي"
+            },
+            " هي الدرجة الموجّهة للتمرين اليومي، و",
+            {
+              "b": "TF"
+            },
+            " نسخة التيرف."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وجه ليّن بملمس تيمبو"
+            },
+            " — الإحساس الذي يميّز الخطّ، بخامة أمتن تتحمّل التمرين المتكرّر بدل خامة المباريات الرقيقة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف"
+            },
+            " — نتوءات مطاطية كثيفة للعشب الصناعي والملاعب الصلبة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "سلّم مقاسات واسع"
+            },
+            " — من ٢٣٫٠ إلى ٢٨٫٠ سم."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لمن يتمرّن أكثر ممّا يلعب مباريات، أو يريد دخول خطّ تيمبو بأقلّ سعر. لاعب المباريات المنتظمة يجد في فئة PRO خامة أرقّ وإحساساً أقرب."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IB4484-146"
+            },
+            " · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/534f40db-a016-4384-9521-f27ad4435e3c-1000x1000-07rYzOTE687lzQiUhOwpziPp3HCtoXT4L2c8WyyR.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "23.0 سم",
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم"
+      ],
+      "colors": [
+        "أزرق (146)"
+      ],
+      "options": [
+        {
+          "id": "1042125221",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1728251479",
+              "name": "أزرق (146)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/6160ece3-85e5-4910-ac71-d1c21b6db542-500x500-07rYzOTE687lzQiUhOwpziPp3HCtoXT4L2c8WyyR.jpg"
+            }
+          ]
+        },
+        {
+          "id": "934084256",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "960596571",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "187607204",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1695266725",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "919656102",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "12449191",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1385829536",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "744960929",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2118931106",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1210675619",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "636981420",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1433881099",
+      "en": {
+        "name": "Nike Tiempo Maestro Academy TF Football Shoes (146)",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · Turf · The entry tier of the Tiempo line",
+        "description": "Tiempo Maestro Academy TF The entry tier of the Tiempo line — Nike's touch-and-control range. Academy is the tier aimed at daily training, and TF the turf version. Technologies Soft Tiempo-feel upper — the feel that defines the line, in a tougher material that survives repeated training rather than the thin match-day skin. Turf sole — dense rubber nubs for artificial turf and hard courts. Wide size ladder — 23.0 to 28.0 cm. Who is it for? Players who train more than they play matches, or who want into the Tiempo line at the lowest price. Regular match players will find a thinner upper and closer feel in the PRO tier. Model code IB4484-146 · Nike · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Tiempo Maestro Academy TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The entry tier of the ",
+              {
+                "b": "Tiempo"
+              },
+              " line — Nike's touch-and-control range. ",
+              {
+                "b": "Academy"
+              },
+              " is the tier aimed at daily training, and ",
+              {
+                "b": "TF"
+              },
+              " the turf version."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Soft Tiempo-feel upper"
+              },
+              " — the feel that defines the line, in a tougher material that survives repeated training rather than the thin match-day skin."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf sole"
+              },
+              " — dense rubber nubs for artificial turf and hard courts."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Wide size ladder"
+              },
+              " — 23.0 to 28.0 cm."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Players who train more than they play matches, or who want into the Tiempo line at the lowest price. Regular match players will find a thinner upper and closer feel in the PRO tier."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IB4484-146"
+              },
+              " · Nike · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "934084256": {
+            "name": "Size",
+            "values": {
+              "12449191": "25.5 cm",
+              "187607204": "24.0 cm",
+              "636981420": "28.0 cm",
+              "744960929": "26.5 cm",
+              "919656102": "25.0 cm",
+              "960596571": "23.0 cm",
+              "1210675619": "27.5 cm",
+              "1385829536": "26.0 cm",
+              "1695266725": "24.5 cm",
+              "2118931106": "27.0 cm"
+            }
+          },
+          "1042125221": {
+            "name": "Colour",
+            "values": {
+              "1728251479": "Blue (146)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1266678809",
+      "sallaId": "1266678809",
+      "sku": "RSP-NIKE-IQ2388",
+      "name": "حذاء نايكي تيمبو مايسترو أكاديمي TF لكرة القدم (901)",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 435,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · تيرف · متعدّد الألوان · مقاسات ٢٣ إلى ٢٧٫٥",
+      "description": "تيمبو مايسترو أكاديمي TF — الإصدار متعدّد الألوان نفس حذاء تيمبو مايسترو أكاديمي TF بإصدار لوني مختلف. الفئة الاقتصادية من خطّ تيمبو — خطّ اللمسة والتحكّم عند نايكي. التقنيات وجه ليّن بملمس تيمبو — بخامة تتحمّل التمرين اليومي. نعل تيرف — نتوءات مطاطية كثيفة للعشب الصناعي. سلّم مقاسات — من ٢٣٫٠ إلى ٢٧٫٥ سم. لمن هذا الحذاء؟ لمن يريد نفس الحذاء بلون مختلف، أو مقاساً غير متوفّر في الإصدار الآخر. كود الموديل IQ2388-901 · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "تيمبو مايسترو أكاديمي TF — الإصدار متعدّد الألوان"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "نفس حذاء ",
+            {
+              "b": "تيمبو مايسترو أكاديمي TF"
+            },
+            " بإصدار لوني مختلف. الفئة الاقتصادية من خطّ ",
+            {
+              "b": "تيمبو"
+            },
+            " — خطّ اللمسة والتحكّم عند نايكي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وجه ليّن بملمس تيمبو"
+            },
+            " — بخامة تتحمّل التمرين اليومي."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف"
+            },
+            " — نتوءات مطاطية كثيفة للعشب الصناعي."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "سلّم مقاسات"
+            },
+            " — من ٢٣٫٠ إلى ٢٧٫٥ سم."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لمن يريد نفس الحذاء بلون مختلف، أو مقاساً غير متوفّر في الإصدار الآخر."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IQ2388-901"
+            },
+            " · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/fc4194bf-80e0-4a38-85af-f669103de3af-1000x1000-BL6Lkbr7z7IA6FVqUK0Y7VVXXbNBDQE6NEXWhBCQ.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "23.0 سم",
+        "23.5 سم",
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم"
+      ],
+      "colors": [
+        "متعدّد الألوان (901)"
+      ],
+      "options": [
+        {
+          "id": "1398160546",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1835211944",
+              "name": "متعدّد الألوان (901)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/5b6f6b2f-c746-471c-a93a-7a425ad68821-500x500-BL6Lkbr7z7IA6FVqUK0Y7VVXXbNBDQE6NEXWhBCQ.jpg"
+            }
+          ]
+        },
+        {
+          "id": "758340515",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1061698473",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "152394410",
+              "name": "23.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1525840299",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "886610100",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "111519669",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1350747830",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "577758647",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2083783856",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1309746097",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "469648050",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1977311667",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1201766588",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1266678809",
+      "en": {
+        "name": "Nike Tiempo Maestro Academy TF Football Shoes (901)",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · Turf · Multicolour · Sizes 23–27.5",
+        "description": "Tiempo Maestro Academy TF — multicolour edition The same Tiempo Maestro Academy TF in a different colourway. The entry tier of the Tiempo line — Nike's touch-and-control range. Technologies Soft Tiempo-feel upper — in a material that survives daily training. Turf sole — dense rubber nubs for artificial turf. Size ladder — 23.0 to 27.5 cm. Who is it for? Anyone who wants the same shoe in a different colour, or a size the other edition does not carry. Model code IQ2388-901 · Nike · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Tiempo Maestro Academy TF — multicolour edition"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The same ",
+              {
+                "b": "Tiempo Maestro Academy TF"
+              },
+              " in a different colourway. The entry tier of the ",
+              {
+                "b": "Tiempo"
+              },
+              " line — Nike's touch-and-control range."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Soft Tiempo-feel upper"
+              },
+              " — in a material that survives daily training."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf sole"
+              },
+              " — dense rubber nubs for artificial turf."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Size ladder"
+              },
+              " — 23.0 to 27.5 cm."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Anyone who wants the same shoe in a different colour, or a size the other edition does not carry."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IQ2388-901"
+              },
+              " · Nike · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "758340515": {
+            "name": "Size",
+            "values": {
+              "111519669": "25.0 cm",
+              "152394410": "23.5 cm",
+              "469648050": "27.5 cm",
+              "577758647": "26.0 cm",
+              "886610100": "24.5 cm",
+              "1061698473": "23.0 cm",
+              "1201766588": "28.5 cm",
+              "1309746097": "27.0 cm",
+              "1350747830": "25.5 cm",
+              "1525840299": "24.0 cm",
+              "1977311667": "28.0 cm",
+              "2083783856": "26.5 cm"
+            }
+          },
+          "1398160546": {
+            "name": "Colour",
+            "values": {
+              "1835211944": "Multicolour (901)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1556818954",
+      "sallaId": "1556818954",
+      "sku": "RSP-MIZUNO-Q1GB2613",
+      "name": "حذاء ميزونو موريليا سالا برو TF لكرة القدم",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 505,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "ميزونو · تيرف للعشب الصناعي · أبيض × ذهبي",
+      "description": "موريليا سالا برو TF موريليا هو خطّ ميزونو الأعرق في كرة القدم، و سالا فرعه المخصّص للفوتسال والملاعب الصلبة. نسخة TF هي إصدار التيرف: نعل بنتوءات مطاطية كثيفة ومنخفضة بدل المسامير. التقنيات نعل تيرف كثيف النتوءات — عشرات النتوءات القصيرة توزّع الضغط على الوبر الصناعي. لا تعلق عند الدوران كما تفعل المسامير الطويلة، وهذا ما يقلّل الحِمل على الركبة في الملاعب الصلبة. الجلد الصناعي الرقيق — إحساس مباشر بالكرة، وهو ما بُني عليه خطّ موريليا أصلاً: أقرب ما يكون إلى اللعب بالقدم عارية. فئة PRO — الدرجة الثانية في السلسلة بعد جابان، بخامات أقرب إليها وسعر أقلّ بكثير. لمن هذا الحذاء؟ للاعب على الوبر القصير والملاعب الخماسية ، ولمن يريد إحساساً مباشراً بالكرة أكثر من الحماية والتوسيد. كود الموديل Q1GB2613 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "موريليا سالا برو TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "موريليا"
+            },
+            " هو خطّ ميزونو الأعرق في كرة القدم، و",
+            {
+              "b": "سالا"
+            },
+            " فرعه المخصّص للفوتسال والملاعب الصلبة. نسخة ",
+            {
+              "b": "TF"
+            },
+            " هي إصدار التيرف: نعل بنتوءات مطاطية كثيفة ومنخفضة بدل المسامير."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف كثيف النتوءات"
+            },
+            " — عشرات النتوءات القصيرة توزّع الضغط على الوبر الصناعي. لا تعلق عند الدوران كما تفعل المسامير الطويلة، وهذا ما يقلّل الحِمل على الركبة في الملاعب الصلبة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "الجلد الصناعي الرقيق"
+            },
+            " — إحساس مباشر بالكرة، وهو ما بُني عليه خطّ موريليا أصلاً: أقرب ما يكون إلى اللعب بالقدم عارية."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "فئة PRO"
+            },
+            " — الدرجة الثانية في السلسلة بعد جابان، بخامات أقرب إليها وسعر أقلّ بكثير."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب على ",
+            {
+              "b": "الوبر القصير والملاعب الخماسية"
+            },
+            "، ولمن يريد إحساساً مباشراً بالكرة أكثر من الحماية والتوسيد."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "Q1GB2613"
+            },
+            " · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/c59a81c7-1726-48a7-82dd-73ad9da756aa-1000x1000-2x4IvAVak1q0P1fCxXvjsAzAlz6Iv1RfOHSgtRww.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "23.0 سم",
+        "24.5 سم",
+        "25.5 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم"
+      ],
+      "colors": [
+        "أبيض × ذهبي (50)"
+      ],
+      "options": [
+        {
+          "id": "228244045",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "662283728",
+              "name": "أبيض × ذهبي (50)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c1b8d1be-2518-4620-95c8-86ee3b19084a-500x500-2x4IvAVak1q0P1fCxXvjsAzAlz6Iv1RfOHSgtRww.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1600641358",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1900463313",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1126425554",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "487064275",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1859461596",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "951206109",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "178221022",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1556818954",
+      "en": {
+        "name": "Mizuno Morelia Sala Pro TF Football Shoes",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Mizuno · Turf for artificial grass · White × Gold",
+        "description": "Morelia Sala Pro TF Morelia is Mizuno's oldest football line, and Sala its futsal and hard-court branch. The TF version runs a turf sole: dense, low rubber nubs instead of studs. Technologies Dense turf sole — dozens of short nubs spread load across artificial pile. They do not catch on turns the way long studs do, which is what reduces knee load on hard pitches. Thin synthetic upper — direct ball feel, the idea the Morelia line was built on: as close to barefoot as a boot gets. PRO tier — second in the range after Japan, with materials close to it at a far lower price. Who is it for? Players on short pile and five-a-side courts who value ball feel over protection and cushioning. Model code Q1GB2613 · Mizuno · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Morelia Sala Pro TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Morelia"
+              },
+              " is Mizuno's oldest football line, and ",
+              {
+                "b": "Sala"
+              },
+              " its futsal and hard-court branch. The ",
+              {
+                "b": "TF"
+              },
+              " version runs a turf sole: dense, low rubber nubs instead of studs."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Dense turf sole"
+              },
+              " — dozens of short nubs spread load across artificial pile. They do not catch on turns the way long studs do, which is what reduces knee load on hard pitches."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Thin synthetic upper"
+              },
+              " — direct ball feel, the idea the Morelia line was built on: as close to barefoot as a boot gets."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "PRO tier"
+              },
+              " — second in the range after Japan, with materials close to it at a far lower price."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Players on ",
+              {
+                "b": "short pile and five-a-side courts"
+              },
+              " who value ball feel over protection and cushioning."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "Q1GB2613"
+              },
+              " · Mizuno · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "228244045": {
+            "name": "Colour",
+            "values": {
+              "662283728": "White × Gold (50)"
+            }
+          },
+          "1600641358": {
+            "name": "Size",
+            "values": {
+              "178221022": "28.5 cm",
+              "487064275": "25.5 cm",
+              "951206109": "28.0 cm",
+              "1126425554": "24.5 cm",
+              "1859461596": "27.5 cm",
+              "1900463313": "23.0 cm"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "378322750",
+      "sallaId": "378322750",
+      "sku": "RSP-NIKE-IR0787",
+      "name": "حذاء نايكي ميركوريال مبابي TF لكرة القدم",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 540,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · إصدار مبابي · تيرف للعشب الصناعي",
+      "description": "ميركوريال — إصدار مبابي إصدار كيليان مبابي من خطّ ميركوريال ، خطّ السرعة عند نايكي. نسخة TF بنعل التيرف للعشب الصناعي. التقنيات إصدار لاعب — تصميم وألوان خاصة بمبابي، وهو ما يجعله قطعة موسمية لا تُعاد طباعتها. بناء ميركوريال الخفيف — الخطّ مبنيّ على تقليل الوزن لخدمة الانطلاقات القصيرة. نعل تيرف — نتوءات مطاطية كثيفة للعشب الصناعي. لمن هذا الحذاء؟ لمحبّي مبابي، وللاعب السريع الذي يريد إصداراً مميّزاً بسعر أقلّ من فئات البرو والإيليت. كود الموديل IR0787-701 · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "ميركوريال — إصدار مبابي"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "إصدار ",
+            {
+              "b": "كيليان مبابي"
+            },
+            " من خطّ ",
+            {
+              "b": "ميركوريال"
+            },
+            "، خطّ السرعة عند نايكي. نسخة ",
+            {
+              "b": "TF"
+            },
+            " بنعل التيرف للعشب الصناعي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "إصدار لاعب"
+            },
+            " — تصميم وألوان خاصة بمبابي، وهو ما يجعله قطعة موسمية لا تُعاد طباعتها."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "بناء ميركوريال الخفيف"
+            },
+            " — الخطّ مبنيّ على تقليل الوزن لخدمة الانطلاقات القصيرة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف"
+            },
+            " — نتوءات مطاطية كثيفة للعشب الصناعي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لمحبّي مبابي، وللاعب السريع الذي يريد إصداراً مميّزاً بسعر أقلّ من فئات البرو والإيليت."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IR0787-701"
+            },
+            " · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/5f1061c0-2c22-49b5-a3c8-de6a93c0dccd-1000x1000-rup1y626FSWsX6ebvb491YgS9SFt0mBBJqFrcpuY.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "23.0 سم",
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.5 سم",
+        "30.0 سم"
+      ],
+      "colors": [
+        "أصفر مبابي (701)"
+      ],
+      "options": [
+        {
+          "id": "2132310700",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "294563773",
+              "name": "أصفر مبابي (701)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/27467acb-f950-450c-9f9f-1f7b9d416b5e-500x500-rup1y626FSWsX6ebvb491YgS9SFt0mBBJqFrcpuY.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1223072173",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1668009662",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1026616767",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "253562040",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1492790201",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "717703866",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "78408123",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1451919492",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "542611333",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1916581510",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1276761479",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "434566272",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1807946625",
+              "name": "29.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1168650882",
+              "name": "30.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p378322750",
+      "en": {
+        "name": "Nike Mercurial Mbappé TF Football Shoes",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · Mbappé edition · Turf for artificial grass",
+        "description": "Mercurial — Mbappé edition The Kylian Mbappé edition of the Mercurial line, Nike's speed range. This is the TF version on a turf sole for artificial grass. Technologies Player edition — Mbappé-specific design and colours, which makes it a seasonal piece that is not reprinted. Mercurial light build — the line is built on shedding weight to serve short bursts. Turf sole — dense rubber nubs for artificial turf. Who is it for? Mbappé fans, and quick players who want a distinctive edition below Pro and Elite pricing. Model code IR0787-701 · Nike · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Mercurial — Mbappé edition"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "Kylian Mbappé"
+              },
+              " edition of the ",
+              {
+                "b": "Mercurial"
+              },
+              " line, Nike's speed range. This is the ",
+              {
+                "b": "TF"
+              },
+              " version on a turf sole for artificial grass."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Player edition"
+              },
+              " — Mbappé-specific design and colours, which makes it a seasonal piece that is not reprinted."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Mercurial light build"
+              },
+              " — the line is built on shedding weight to serve short bursts."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf sole"
+              },
+              " — dense rubber nubs for artificial turf."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Mbappé fans, and quick players who want a distinctive edition below Pro and Elite pricing."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IR0787-701"
+              },
+              " · Nike · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "1223072173": {
+            "name": "Size",
+            "values": {
+              "78408123": "26.0 cm",
+              "253562040": "24.5 cm",
+              "434566272": "28.5 cm",
+              "542611333": "27.0 cm",
+              "717703866": "25.5 cm",
+              "1026616767": "24.0 cm",
+              "1168650882": "30.0 cm",
+              "1276761479": "28.0 cm",
+              "1451919492": "26.5 cm",
+              "1492790201": "25.0 cm",
+              "1668009662": "23.0 cm",
+              "1807946625": "29.5 cm",
+              "1916581510": "27.5 cm"
+            }
+          },
+          "2132310700": {
+            "name": "Colour",
+            "values": {
+              "294563773": "Mbappé Yellow (701)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "578858863",
+      "sallaId": "578858863",
+      "sku": "RSP-MIZUNO-P1GA2622",
+      "name": "حذاء ميزونو موناركيدا نيو 3 برو لكرة القدم",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 565,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "ميزونو · متعدّد الأرضيات · لونان · مقاسات ٢٢ إلى ٢٩",
+      "description": "موناركيدا نيو 3 برو موناركيدا هو خطّ ميزونو الأوسع انتشاراً في اليابان — الحذاء الذي تلعب به المدارس والأندية. الجيل الثالث NEO 3 بفئة PRO : الدرجة التي تحت الإيليت مباشرةً. التقنيات نعل متعدّد الأرضيات — مسامير مصمّمة للتراب والعشب الصناعي معاً، وهو ما يجعله الخيار العملي لمن يبدّل بين ملعبين مختلفين بدل شراء زوجين. قَصّ ميزونو الياباني — أوسع قليلاً عند مشط القدم من الموديلات الأوروبية. سلّم مقاسات واسع — من ٢٢٫٠ إلى ٢٩٫٠ سم، وهو أوسع سلّم في قائمتنا. لمن هذا الحذاء؟ للاعب الذي يلعب على أكثر من نوع أرضية ولا يريد التقيّد بحذاء لكل ملعب. إن كان ملعبك عشباً صناعياً حصراً فنسخة AG أو TF أنسب. كود الموديل P1GA2622 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "موناركيدا نيو 3 برو"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "موناركيدا"
+            },
+            " هو خطّ ميزونو الأوسع انتشاراً في اليابان — الحذاء الذي تلعب به المدارس والأندية. الجيل الثالث ",
+            {
+              "b": "NEO 3"
+            },
+            " بفئة ",
+            {
+              "b": "PRO"
+            },
+            ": الدرجة التي تحت الإيليت مباشرةً."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل متعدّد الأرضيات"
+            },
+            " — مسامير مصمّمة للتراب والعشب الصناعي معاً، وهو ما يجعله الخيار العملي لمن يبدّل بين ملعبين مختلفين بدل شراء زوجين."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قَصّ ميزونو الياباني"
+            },
+            " — أوسع قليلاً عند مشط القدم من الموديلات الأوروبية."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "سلّم مقاسات واسع"
+            },
+            " — من ٢٢٫٠ إلى ٢٩٫٠ سم، وهو أوسع سلّم في قائمتنا."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب الذي يلعب على ",
+            {
+              "b": "أكثر من نوع أرضية"
+            },
+            " ولا يريد التقيّد بحذاء لكل ملعب. إن كان ملعبك عشباً صناعياً حصراً فنسخة AG أو TF أنسب."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "P1GA2622"
+            },
+            " · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/3eae25b3-c3d4-4595-996c-c7fb6e86e3d6-1000x1000-o6uXEpTCYwnIicbBsZ8Lk7NvR6r1DIgMjRSYu03A.jpg",
+        "https://cdn.salla.sa/jZjwre/3a1308c2-863f-4669-bdc9-ca463acb41f7-1000x1000-vcu15VEkHMRSVfs6D4bUkL6aR2GRjrWL2w9lMA0N.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "22.0 سم",
+        "22.5 سم",
+        "23.0 سم",
+        "23.5 سم",
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.0 سم",
+        "29.5 سم",
+        "30.0 سم"
+      ],
+      "colors": [
+        "أبيض × ذهبي (50)",
+        "أبيض × فضّي (04)"
+      ],
+      "options": [
+        {
+          "id": "2066286408",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "910339544",
+              "name": "أبيض × ذهبي (50)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/6ad81384-31f6-4023-a287-f77690141f2b-500x500-o6uXEpTCYwnIicbBsZ8Lk7NvR6r1DIgMjRSYu03A.jpg"
+            },
+            {
+              "id": "3132633",
+              "name": "أبيض × فضّي (04)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/5bdfad5d-ad76-47b5-84ef-47235fcc8c24-500x500-vcu15VEkHMRSVfs6D4bUkL6aR2GRjrWL2w9lMA0N.jpg"
+            }
+          ]
+        },
+        {
+          "id": "651380042",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1268467749",
+              "name": "22.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "627070758",
+              "name": "22.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2001565223",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1093375264",
+              "name": "23.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "317764641",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1826476834",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1052439075",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "143069484",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1517039661",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "877223726",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "102137391",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1409064232",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "769244201",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2141641514",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1233386027",
+              "name": "29.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "459807028",
+              "name": "29.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1966422069",
+              "name": "30.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p578858863",
+      "en": {
+        "name": "Mizuno Monarcida Neo 3 Pro Football Boots",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Mizuno · Multi-ground · Two colours · Sizes 22–29",
+        "description": "Monarcida Neo 3 Pro Monarcida is Mizuno's most widely worn football line in Japan — the boot schools and clubs play in. This is the third generation in PRO tier, one step below Elite. Technologies Multi-ground sole — studs designed for both dirt and artificial turf, which makes it the practical choice if you switch pitches instead of buying two pairs. Japanese last — slightly wider at the forefoot than European boots. Wide size range — 22.0 to 29.0 cm, the widest ladder in our range. Who is it for? Players who use more than one surface . If you only play artificial turf, the AG or TF version fits better. Model code P1GA2622 · Mizuno · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Monarcida Neo 3 Pro"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Monarcida"
+              },
+              " is Mizuno's most widely worn football line in Japan — the boot schools and clubs play in. This is the third generation in ",
+              {
+                "b": "PRO"
+              },
+              " tier, one step below Elite."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Multi-ground sole"
+              },
+              " — studs designed for both dirt and artificial turf, which makes it the practical choice if you switch pitches instead of buying two pairs."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Japanese last"
+              },
+              " — slightly wider at the forefoot than European boots."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Wide size range"
+              },
+              " — 22.0 to 29.0 cm, the widest ladder in our range."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Players who use ",
+              {
+                "b": "more than one surface"
+              },
+              ". If you only play artificial turf, the AG or TF version fits better."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "P1GA2622"
+              },
+              " · Mizuno · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "651380042": {
+            "name": "Size",
+            "values": {
+              "102137391": "27.0 cm",
+              "143069484": "25.5 cm",
+              "317764641": "24.0 cm",
+              "459807028": "29.5 cm",
+              "627070758": "22.5 cm",
+              "769244201": "28.0 cm",
+              "877223726": "26.5 cm",
+              "1052439075": "25.0 cm",
+              "1093375264": "23.5 cm",
+              "1233386027": "29.0 cm",
+              "1268467749": "22.0 cm",
+              "1409064232": "27.5 cm",
+              "1517039661": "26.0 cm",
+              "1826476834": "24.5 cm",
+              "1966422069": "30.0 cm",
+              "2001565223": "23.0 cm",
+              "2141641514": "28.5 cm"
+            }
+          },
+          "2066286408": {
+            "name": "Colour",
+            "values": {
+              "3132633": "White × Silver (04)",
+              "910339544": "White × Gold (50)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1424031885",
+      "sallaId": "1424031885",
+      "sku": "RSP-NIKE-IQ2384",
+      "name": "حذاء نايكي تيمبو ليغيرا برو TF لكرة القدم (901)",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 585,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · تيرف للعشب الصناعي · جلد صناعي · متعدّد الألوان",
+      "description": "تيمبو ليغيرا برو TF تيمبو هو خطّ نايكي الكلاسيكي — خطّ اللمسة والتحكّم لا السرعة. و ليغيرا إصداره الجديد الذي حلّ محلّ ليجند، و TF نسخة التيرف بنعل نتوءات مطاطية. التقنيات تك-ليذر — جلد نايكي الصناعي الطريّ مع درزات في مقدّمة القدم: إحساس ثابت بالكرة عند التمرير والتحكّم، وهو ما بُني عليه خطّ تيمبو منذ بدايته. نعل تيرف — نتوءات مطاطية منخفضة وكثيفة توزّع الضغط على الوبر الصناعي وتنطلق سريعاً عند الخطوة التالية. فئة PRO — الدرجة تحت الإيليت مباشرةً: نفس شكل الحذاء بخامات عملية أكثر. لمن هذا الحذاء؟ للاعب وسط أو مدافع يعتمد على التمرير والتحكّم أكثر من الاندفاع، ويلعب على العشب الصناعي. كود الموديل IQ2384-901 · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "تيمبو ليغيرا برو TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "تيمبو"
+            },
+            " هو خطّ نايكي الكلاسيكي — خطّ اللمسة والتحكّم لا السرعة. و",
+            {
+              "b": "ليغيرا"
+            },
+            " إصداره الجديد الذي حلّ محلّ ليجند، و",
+            {
+              "b": "TF"
+            },
+            " نسخة التيرف بنعل نتوءات مطاطية."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "تك-ليذر"
+            },
+            " — جلد نايكي الصناعي الطريّ مع درزات في مقدّمة القدم: إحساس ثابت بالكرة عند التمرير والتحكّم، وهو ما بُني عليه خطّ تيمبو منذ بدايته."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف"
+            },
+            " — نتوءات مطاطية منخفضة وكثيفة توزّع الضغط على الوبر الصناعي وتنطلق سريعاً عند الخطوة التالية."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "فئة PRO"
+            },
+            " — الدرجة تحت الإيليت مباشرةً: نفس شكل الحذاء بخامات عملية أكثر."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب وسط أو مدافع يعتمد على التمرير والتحكّم أكثر من الاندفاع، ويلعب على العشب الصناعي."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IQ2384-901"
+            },
+            " · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/c5fb50c9-91fa-4449-a164-e14cf9938a66-1000x1000-nsK7sqzi0SZ3g0sQjN7oDjJkKewkf3KdJa2Wa8AF.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "23.0 سم",
+        "23.5 سم",
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.0 سم"
+      ],
+      "colors": [
+        "متعدّد الألوان (901)"
+      ],
+      "options": [
+        {
+          "id": "58813523",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "740824934",
+              "name": "متعدّد الألوان (901)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/1e5d832c-e208-4686-a3fa-286d33d64976-500x500-nsK7sqzi0SZ3g0sQjN7oDjJkKewkf3KdJa2Wa8AF.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1567591260",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "2046113383",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1272075616",
+              "name": "23.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "633304161",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2005242722",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1096987235",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "323998060",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1830088813",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1055989614",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "148782703",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1522228584",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "880835689",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "107912042",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1347140203",
+              "name": "29.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1424031885",
+      "en": {
+        "name": "Nike Tiempo Ligera Pro TF Football Shoes (901)",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · Turf for artificial grass · Synthetic leather · Multicolour",
+        "description": "Tiempo Ligera Pro TF Tiempo is Nike's classic line — touch and control rather than speed. Ligera is its new edition replacing Legend, and TF the turf version on a rubber-nub sole. Technologies Tech-leather — Nike's soft synthetic with forefoot stitching: a consistent feel on the ball in passing and control, which is what Tiempo was built on from the start. Turf sole — low, dense rubber nubs spread load across artificial pile and release quickly into the next step. PRO tier — one below Elite: the same shape in more practical materials. Who is it for? Midfielders and defenders who rely on passing and control more than bursts, playing on artificial turf. Model code IQ2384-901 · Nike · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Tiempo Ligera Pro TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Tiempo"
+              },
+              " is Nike's classic line — touch and control rather than speed. ",
+              {
+                "b": "Ligera"
+              },
+              " is its new edition replacing Legend, and ",
+              {
+                "b": "TF"
+              },
+              " the turf version on a rubber-nub sole."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Tech-leather"
+              },
+              " — Nike's soft synthetic with forefoot stitching: a consistent feel on the ball in passing and control, which is what Tiempo was built on from the start."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf sole"
+              },
+              " — low, dense rubber nubs spread load across artificial pile and release quickly into the next step."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "PRO tier"
+              },
+              " — one below Elite: the same shape in more practical materials."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Midfielders and defenders who rely on passing and control more than bursts, playing on artificial turf."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IQ2384-901"
+              },
+              " · Nike · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "58813523": {
+            "name": "Colour",
+            "values": {
+              "740824934": "Multicolour (901)"
+            }
+          },
+          "1567591260": {
+            "name": "Size",
+            "values": {
+              "107912042": "28.5 cm",
+              "148782703": "27.0 cm",
+              "323998060": "25.5 cm",
+              "633304161": "24.0 cm",
+              "880835689": "28.0 cm",
+              "1055989614": "26.5 cm",
+              "1096987235": "25.0 cm",
+              "1272075616": "23.5 cm",
+              "1347140203": "29.0 cm",
+              "1522228584": "27.5 cm",
+              "1830088813": "26.0 cm",
+              "2005242722": "24.5 cm",
+              "2046113383": "23.0 cm"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1218004902",
+      "sallaId": "1218004902",
+      "sku": "RSP-MIZUNO-Q1GB2512",
+      "name": "حذاء ميزونو موريليا سالا إيليت TF لكرة القدم",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 685,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "ميزونو · تيرف · الفئة العليا · لونان",
+      "description": "موريليا سالا إيليت TF الفئة العليا من موريليا سالا بنعل التيرف. الخطّ نفسه الذي بُني على فكرة واحدة: أقلّ ما يمكن بين قدمك والكرة. التقنيات خامة علوية أرقّ من فئة PRO — إحساس أقرب بالكرة وسيطرة أدقّ في التمرير القصير، وهو ما تُبنى عليه فئة الإيليت. نعل تيرف كثيف النتوءات — ثبات على الوبر الصناعي بلا تعليق عند الدوران. سلّم مقاسات واسع — من ٢٤٫٠ إلى ٢٩٫٠ سم عبر اللونين. لمن هذا الحذاء؟ للاعب الفوتسال والملاعب الخماسية الذي يريد أعلى ما في السلسلة، ويقدّر الإحساس بالكرة أكثر من الحماية. كود الموديل Q1GB2512 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "موريليا سالا إيليت TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "الفئة العليا من ",
+            {
+              "b": "موريليا سالا"
+            },
+            " بنعل التيرف. الخطّ نفسه الذي بُني على فكرة واحدة: أقلّ ما يمكن بين قدمك والكرة."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "خامة علوية أرقّ من فئة PRO"
+            },
+            " — إحساس أقرب بالكرة وسيطرة أدقّ في التمرير القصير، وهو ما تُبنى عليه فئة الإيليت."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف كثيف النتوءات"
+            },
+            " — ثبات على الوبر الصناعي بلا تعليق عند الدوران."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "سلّم مقاسات واسع"
+            },
+            " — من ٢٤٫٠ إلى ٢٩٫٠ سم عبر اللونين."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب الفوتسال والملاعب الخماسية الذي يريد أعلى ما في السلسلة، ويقدّر الإحساس بالكرة أكثر من الحماية."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "Q1GB2512"
+            },
+            " · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/cf866a44-84da-4aed-be7e-8e073092b25d-1000x1000-rSklwCQd3WXkvK10795H7Asy9G0Hlrji1dUYC1fI.jpg",
+        "https://cdn.salla.sa/jZjwre/83c362f3-fbc9-4594-96e2-0b43cf3f3951-1000x1000-xVp4SOE7PG1ASGp875WLJWZEbok0PLu7JXNphQqU.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "23.0 سم",
+        "23.5 سم",
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.0 سم",
+        "29.5 سم",
+        "30.0 سم"
+      ],
+      "colors": [
+        "أسود (09)",
+        "أبيض (01)"
+      ],
+      "options": [
+        {
+          "id": "1891132491",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1192380214",
+              "name": "أسود (09)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/5767af1d-f8b8-492e-a21a-df379f695158-500x500-rSklwCQd3WXkvK10795H7Asy9G0Hlrji1dUYC1fI.jpg"
+            },
+            {
+              "id": "285173303",
+              "name": "أبيض (01)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/bf225981-9e31-47f3-a586-985b82d9c706-500x500-xVp4SOE7PG1ASGp875WLJWZEbok0PLu7JXNphQqU.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1850261846",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "69083197",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1375424318",
+              "name": "23.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "599813695",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2108591416",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1334553657",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "424725306",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1799219771",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1159334148",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "384247813",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1623996166",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "849958407",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "209089792",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1583125505",
+              "name": "29.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "674870018",
+              "name": "29.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2047267331",
+              "name": "30.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1218004902",
+      "en": {
+        "name": "Mizuno Morelia Sala Elite TF Football Shoes",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Mizuno · Turf · Top tier · Two colours",
+        "description": "Morelia Sala Elite TF The top tier of Morelia Sala on a turf sole. Same line, built on one idea: as little as possible between your foot and the ball. Technologies Thinner upper than PRO — closer ball feel and finer control in short passing, which is what the Elite tier is built around. Dense turf sole — grip on artificial pile without catching on turns. Wide size range — 23.0 to 30.0 cm across both colours. Who is it for? Futsal and five-a-side players who want the highest tier in the line and value ball feel over protection. Model code Q1GB2512 · Mizuno · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Morelia Sala Elite TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The top tier of ",
+              {
+                "b": "Morelia Sala"
+              },
+              " on a turf sole. Same line, built on one idea: as little as possible between your foot and the ball."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Thinner upper than PRO"
+              },
+              " — closer ball feel and finer control in short passing, which is what the Elite tier is built around."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Dense turf sole"
+              },
+              " — grip on artificial pile without catching on turns."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Wide size range"
+              },
+              " — 23.0 to 30.0 cm across both colours."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Futsal and five-a-side players who want the highest tier in the line and value ball feel over protection."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "Q1GB2512"
+              },
+              " · Mizuno · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "1850261846": {
+            "name": "Size",
+            "values": {
+              "69083197": "23.0 cm",
+              "209089792": "28.5 cm",
+              "384247813": "27.0 cm",
+              "424725306": "25.5 cm",
+              "599813695": "24.0 cm",
+              "674870018": "29.5 cm",
+              "849958407": "28.0 cm",
+              "1159334148": "26.5 cm",
+              "1334553657": "25.0 cm",
+              "1375424318": "23.5 cm",
+              "1583125505": "29.0 cm",
+              "1623996166": "27.5 cm",
+              "1799219771": "26.0 cm",
+              "2047267331": "30.0 cm",
+              "2108591416": "24.5 cm"
+            }
+          },
+          "1891132491": {
+            "name": "Colour",
+            "values": {
+              "285173303": "White (01)",
+              "1192380214": "Black (09)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1287706821",
+      "sallaId": "1287706821",
+      "sku": "RSP-NIKE-IM5811",
+      "name": "حذاء نايكي ميركوريال فيبور 17 برو TF لكرة القدم",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 735,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · خطّ السرعة · تيرف · سلّم مقاسات كامل",
+      "description": "ميركوريال فيبور 17 برو TF ميركوريال هو خطّ السرعة عند نايكي — الخطّ الذي يلبسه الأجنحة والمهاجمون. فيبور نسخته المنخفضة بلا ياقة، و 17 جيله الحالي. التقنيات بناء خفيف مشدود — الخطّ كلّه مبنيّ على تقليل الوزن ما أمكن: كلّ غرام أقلّ يُحسّ في العشرين متراً الأولى. نعل تيرف — نتوءات مطاطية كثيفة للانطلاق السريع على الوبر الصناعي بلا أن تغرز وتعلق. فئة PRO — تحت الإيليت مباشرةً بنفس القالب والشكل. لمن هذا الحذاء؟ للجناح والمهاجم الذي يعتمد على الانطلاقات والسرعة أكثر من التمرير القصير. من يريد اللمسة والتحكّم فخطّ تيمبو أنسب له. كود الموديل IM5811-600 · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "ميركوريال فيبور 17 برو TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "ميركوريال"
+            },
+            " هو خطّ السرعة عند نايكي — الخطّ الذي يلبسه الأجنحة والمهاجمون. ",
+            {
+              "b": "فيبور"
+            },
+            " نسخته المنخفضة بلا ياقة، و",
+            {
+              "b": "17"
+            },
+            " جيله الحالي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "بناء خفيف مشدود"
+            },
+            " — الخطّ كلّه مبنيّ على تقليل الوزن ما أمكن: كلّ غرام أقلّ يُحسّ في العشرين متراً الأولى."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف"
+            },
+            " — نتوءات مطاطية كثيفة للانطلاق السريع على الوبر الصناعي بلا أن تغرز وتعلق."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "فئة PRO"
+            },
+            " — تحت الإيليت مباشرةً بنفس القالب والشكل."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للجناح والمهاجم الذي يعتمد على الانطلاقات والسرعة أكثر من التمرير القصير. من يريد اللمسة والتحكّم فخطّ تيمبو أنسب له."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IM5811-600"
+            },
+            " · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/e2fc7f92-b245-4365-bda8-3b634e17de97-1000x1000-R0zeqnuU5HxGT52q2BXsIG7nbg28OQMTQwWMXxkR.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.0 سم"
+      ],
+      "colors": [
+        "أحمر (600)"
+      ],
+      "options": [
+        {
+          "id": "2031208798",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "463939191",
+              "name": "أحمر (600)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/5f12fe72-d921-4237-998e-5b98a750a6d8-500x500-R0zeqnuU5HxGT52q2BXsIG7nbg28OQMTQwWMXxkR.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1258219615",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1972127088",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1198089329",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "288850802",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1662820979",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1023000956",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "247914621",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1487081342",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "713567871",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "72699256",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1446145145",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "538479482",
+              "name": "29.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1287706821",
+      "en": {
+        "name": "Nike Mercurial Vapor 17 Pro TF Football Shoes",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · The speed line · Turf · Full size ladder",
+        "description": "Mercurial Vapor 17 Pro TF Mercurial is Nike's speed line — what wingers and forwards wear. Vapor is its low-cut version without a collar, and 17 the current generation. Technologies Light, taut build — the whole line is built on shedding weight: every gram less is felt in the first twenty metres. Turf sole — dense rubber nubs for quick acceleration on artificial pile without sinking and catching. PRO tier — one below Elite on the same last and shape. Who is it for? Wingers and forwards who rely on bursts and speed rather than short passing. If you want touch and control, the Tiempo line suits you better. Model code IM5811-600 · Nike · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Mercurial Vapor 17 Pro TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Mercurial"
+              },
+              " is Nike's speed line — what wingers and forwards wear. ",
+              {
+                "b": "Vapor"
+              },
+              " is its low-cut version without a collar, and ",
+              {
+                "b": "17"
+              },
+              " the current generation."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Light, taut build"
+              },
+              " — the whole line is built on shedding weight: every gram less is felt in the first twenty metres."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf sole"
+              },
+              " — dense rubber nubs for quick acceleration on artificial pile without sinking and catching."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "PRO tier"
+              },
+              " — one below Elite on the same last and shape."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Wingers and forwards who rely on bursts and speed rather than short passing. If you want touch and control, the Tiempo line suits you better."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IM5811-600"
+              },
+              " · Nike · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "1258219615": {
+            "name": "Size",
+            "values": {
+              "72699256": "28.0 cm",
+              "247914621": "26.5 cm",
+              "288850802": "25.0 cm",
+              "538479482": "29.0 cm",
+              "713567871": "27.5 cm",
+              "1023000956": "26.0 cm",
+              "1198089329": "24.5 cm",
+              "1446145145": "28.5 cm",
+              "1487081342": "27.0 cm",
+              "1662820979": "25.5 cm",
+              "1972127088": "24.0 cm"
+            }
+          },
+          "2031208798": {
+            "name": "Colour",
+            "values": {
+              "463939191": "Red (600)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1221616865",
+      "sallaId": "1221616865",
+      "sku": "RSP-NIKE-IB4477",
+      "name": "حذاء نايكي تيمبو ليغيرا برو TF لكرة القدم (101)",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 735,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · تيرف للعشب الصناعي · أبيض · سلّم مقاسات كامل",
+      "description": "تيمبو ليغيرا برو TF — اللون الأبيض نفس حذاء تيمبو ليغيرا برو TF بلونه الأبيض. خطّ تيمبو هو خطّ نايكي للّمسة والتحكّم، و ليغيرا إصداره الجديد الذي حلّ محلّ ليجند. التقنيات تك-ليذر — جلد صناعي طريّ بدرزات أمامية تعطي إحساساً ثابتاً بالكرة. نعل تيرف — نتوءات مطاطية كثيفة للعشب الصناعي والوبر القصير. سلّم مقاسات كامل — من ٢٤٫٠ إلى ٢٩٫٠ سم، أوسع من إصدار اللون الآخر. لمن هذا الحذاء؟ لمن يريد تيمبو ليغيرا برو باللون الأبيض تحديداً، أو مقاساً لا يتوفّر في اللون الآخر. كود الموديل IB4477-101 · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "تيمبو ليغيرا برو TF — اللون الأبيض"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "نفس حذاء ",
+            {
+              "b": "تيمبو ليغيرا برو TF"
+            },
+            " بلونه الأبيض. خطّ ",
+            {
+              "b": "تيمبو"
+            },
+            " هو خطّ نايكي للّمسة والتحكّم، و",
+            {
+              "b": "ليغيرا"
+            },
+            " إصداره الجديد الذي حلّ محلّ ليجند."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "تك-ليذر"
+            },
+            " — جلد صناعي طريّ بدرزات أمامية تعطي إحساساً ثابتاً بالكرة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف"
+            },
+            " — نتوءات مطاطية كثيفة للعشب الصناعي والوبر القصير."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "سلّم مقاسات كامل"
+            },
+            " — من ٢٤٫٠ إلى ٢٩٫٠ سم، أوسع من إصدار اللون الآخر."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لمن يريد تيمبو ليغيرا برو باللون الأبيض تحديداً، أو مقاساً لا يتوفّر في اللون الآخر."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IB4477-101"
+            },
+            " · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/420fb9b7-ec4d-48d6-9ebb-abb43ea63763-1000x1000-P2g3WK5nlxXyj4zfEY0lq8HNHcKMlNUdKjOpxsbe.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.0 سم"
+      ],
+      "colors": [
+        "أبيض (101)"
+      ],
+      "options": [
+        {
+          "id": "1990202969",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "430958661",
+              "name": "أبيض (101)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/f03b3f8c-35cc-4857-bdc0-3a1d22b3450a-500x500-P2g3WK5nlxXyj4zfEY0lq8HNHcKMlNUdKjOpxsbe.jpg"
+            }
+          ]
+        },
+        {
+          "id": "308958299",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "214864451",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1588310348",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "678481997",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2052980558",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1413094991",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "638008648",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1944869961",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1305049930",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "530029131",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1769781588",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "995743829",
+              "name": "29.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1221616865",
+      "en": {
+        "name": "Nike Tiempo Ligera Pro TF Football Shoes (101)",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · Turf for artificial grass · White · Full size ladder",
+        "description": "Tiempo Ligera Pro TF — white The same Tiempo Ligera Pro TF in white. Tiempo is Nike's touch-and-control line; Ligera is its new edition replacing Legend. Technologies Tech-leather — soft synthetic with forefoot stitching for a consistent feel on the ball. Turf sole — dense rubber nubs for artificial turf and short pile. Full size ladder — 24.0 to 29.0 cm, wider than the other colourway. Who is it for? Anyone who wants Tiempo Ligera Pro specifically in white, or a size the other colourway does not carry. Model code IB4477-101 · Nike · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Tiempo Ligera Pro TF — white"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The same ",
+              {
+                "b": "Tiempo Ligera Pro TF"
+              },
+              " in white. ",
+              {
+                "b": "Tiempo"
+              },
+              " is Nike's touch-and-control line; ",
+              {
+                "b": "Ligera"
+              },
+              " is its new edition replacing Legend."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Tech-leather"
+              },
+              " — soft synthetic with forefoot stitching for a consistent feel on the ball."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf sole"
+              },
+              " — dense rubber nubs for artificial turf and short pile."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Full size ladder"
+              },
+              " — 24.0 to 29.0 cm, wider than the other colourway."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Anyone who wants Tiempo Ligera Pro specifically in white, or a size the other colourway does not carry."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IB4477-101"
+              },
+              " · Nike · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "308958299": {
+            "name": "Size",
+            "values": {
+              "214864451": "24.0 cm",
+              "530029131": "28.0 cm",
+              "638008648": "26.5 cm",
+              "678481997": "25.0 cm",
+              "995743829": "29.0 cm",
+              "1305049930": "27.5 cm",
+              "1413094991": "26.0 cm",
+              "1588310348": "24.5 cm",
+              "1769781588": "28.5 cm",
+              "1944869961": "27.0 cm",
+              "2052980558": "25.5 cm"
+            }
+          },
+          "1990202969": {
+            "name": "Colour",
+            "values": {
+              "430958661": "White (101)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1111048525",
+      "sallaId": "1111048525",
+      "sku": "RSP-MIZUNO-P1GA2620",
+      "name": "حذاء ميزونو موناركيدا نيو 3 إيليت لكرة القدم",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 800,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "ميزونو · الفئة العليا في السلسلة · أبيض × ذهبي",
+      "description": "موناركيدا نيو 3 إيليت قمّة سلسلة موناركيدا — الفئة التي تعلو PRO. نفس منظومة الخطّ بخامات أخفّ وقَصّ أضيق يقترب من حذاء المباريات. ما الذي يميّز فئة الإيليت وزن أخفّ — الفرق الأوضح بين الإيليت والبرو: خامة علوية أرقّ ونعل مخفّف، وهو ما يُحسّ في الشوط الثاني لا في الخطوة الأولى. قَصّ أقرب للقدم — تثبيت أفضل في التغيير المفاجئ للاتجاه، بشرط اختيار المقاس الصحيح لا الأوسع. نعل متعدّد الأرضيات — يصلح للتراب والعشب الصناعي. لمن هذا الحذاء؟ للاعب الذي يلعب مباريات منتظمة ويريد أخفّ ما في السلسلة. المبتدئ لن يشعر بفرق يبرّر الفارق عن فئة PRO. كود الموديل P1GA2620 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "موناركيدا نيو 3 إيليت"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "قمّة سلسلة ",
+            {
+              "b": "موناركيدا"
+            },
+            " — الفئة التي تعلو PRO. نفس منظومة الخطّ بخامات أخفّ وقَصّ أضيق يقترب من حذاء المباريات."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "ما الذي يميّز فئة الإيليت"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وزن أخفّ"
+            },
+            " — الفرق الأوضح بين الإيليت والبرو: خامة علوية أرقّ ونعل مخفّف، وهو ما يُحسّ في الشوط الثاني لا في الخطوة الأولى."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قَصّ أقرب للقدم"
+            },
+            " — تثبيت أفضل في التغيير المفاجئ للاتجاه، بشرط اختيار المقاس الصحيح لا الأوسع."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل متعدّد الأرضيات"
+            },
+            " — يصلح للتراب والعشب الصناعي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب الذي يلعب مباريات منتظمة ويريد أخفّ ما في السلسلة. المبتدئ لن يشعر بفرق يبرّر الفارق عن فئة PRO."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "P1GA2620"
+            },
+            " · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/5bd0190c-d94d-4d68-8f7e-e6471d63c9b1-1000x1000-Y0BgfnFfrK5VuX73h6X64Vkmj3Mj1hLFbH99SltB.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "22.0 سم",
+        "22.5 سم",
+        "23.0 سم",
+        "23.5 سم",
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.0 سم",
+        "29.5 سم",
+        "30.0 سم"
+      ],
+      "colors": [
+        "أبيض × ذهبي (50)"
+      ],
+      "options": [
+        {
+          "id": "940957783",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1474556172",
+              "name": "أبيض × ذهبي (50)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/31457a63-1caf-4bfd-9eb5-abbc9e29cf75-500x500-Y0BgfnFfrK5VuX73h6X64Vkmj3Mj1hLFbH99SltB.jpg"
+            }
+          ]
+        },
+        {
+          "id": "368185168",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "566759437",
+              "name": "22.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1939160846",
+              "name": "22.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1299340815",
+              "name": "23.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "526351624",
+              "name": "23.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1764072457",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "351263243",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "814815253",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1549485591",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "773874960",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2014217233",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1441506066",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "665895443",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1906172188",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1132068893",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "491204382",
+              "name": "29.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1865174559",
+              "name": "29.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "956919064",
+              "name": "30.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1111048525",
+      "en": {
+        "name": "Mizuno Monarcida Neo 3 Elite Football Boots",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Mizuno · Top tier of the line · White × Gold",
+        "description": "Monarcida Neo 3 Elite The top of the Monarcida range, above PRO. Same system, lighter materials and a closer last approaching a match boot. What the Elite tier changes Lower weight — the clearest difference from PRO: a thinner upper and lightened sole, felt in the second half rather than the first step. Closer fit — better lockdown on sharp direction changes, provided you take your true size rather than a wider one. Multi-ground sole — works on dirt and artificial turf. Who is it for? Players in regular matches who want the lightest option in the line. A beginner will not feel a difference worth the gap over PRO. Model code P1GA2620 · Mizuno · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Monarcida Neo 3 Elite"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The top of the ",
+              {
+                "b": "Monarcida"
+              },
+              " range, above PRO. Same system, lighter materials and a closer last approaching a match boot."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "What the Elite tier changes"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Lower weight"
+              },
+              " — the clearest difference from PRO: a thinner upper and lightened sole, felt in the second half rather than the first step."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Closer fit"
+              },
+              " — better lockdown on sharp direction changes, provided you take your true size rather than a wider one."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Multi-ground sole"
+              },
+              " — works on dirt and artificial turf."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Players in regular matches who want the lightest option in the line. A beginner will not feel a difference worth the gap over PRO."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "P1GA2620"
+              },
+              " · Mizuno · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "368185168": {
+            "name": "Size",
+            "values": {
+              "351263243": "24.5 cm",
+              "491204382": "29.0 cm",
+              "526351624": "23.5 cm",
+              "566759437": "22.0 cm",
+              "665895443": "27.5 cm",
+              "773874960": "26.0 cm",
+              "814815253": "25.0 cm",
+              "956919064": "30.0 cm",
+              "1132068893": "28.5 cm",
+              "1299340815": "23.0 cm",
+              "1441506066": "27.0 cm",
+              "1549485591": "25.5 cm",
+              "1764072457": "24.0 cm",
+              "1865174559": "29.5 cm",
+              "1906172188": "28.0 cm",
+              "1939160846": "22.5 cm",
+              "2014217233": "26.5 cm"
+            }
+          },
+          "940957783": {
+            "name": "Colour",
+            "values": {
+              "1474556172": "White × Gold (50)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "137148453",
+      "sallaId": "137148453",
+      "sku": "RSP-NIKE-HQ2317",
+      "name": "حذاء نايكي فانتوم 6 برو AG لكرة القدم",
+      "brand": "أخرى",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 805,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · مسامير AG للعشب الصناعي الطويل · خطّ التسديد",
+      "description": "فانتوم 6 برو AG فانتوم هو خطّ نايكي الثالث — لا سرعة ميركوريال ولا كلاسيكية تيمبو، بل خطّ التسديد والتمرير الحاسم . والحرف AG يعني نسخة العشب الصناعي الطويل بمسامير مخصّصة له. التقنيات مسامير AG — أقصر وأكثف من مسامير العشب الطبيعي: تثبّت في الوبر الطويل بلا أن تغرز وتُجهد الركبة عند الدوران. هذا الفرق الحقيقي بين AG و FG على ملاعبنا. منطقة تحكّم في مقدّمة القدم — نسيج مُعالَج يزيد الاحتكاك مع الكرة عند التسديد الملفوف والتمرير الطويل. فئة PRO — الدرجة تحت الإيليت بنفس القالب. لمن هذا الحذاء؟ للاعب الذي يصنع ويسدّد — صانع الألعاب والمهاجم الذي يعتمد على دقّة القدم لا على السرعة الخالصة — ويلعب على العشب الصناعي الطويل. كود الموديل HQ2317-600 · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "فانتوم 6 برو AG"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "فانتوم"
+            },
+            " هو خطّ نايكي الثالث — لا سرعة ميركوريال ولا كلاسيكية تيمبو، بل خطّ ",
+            {
+              "b": "التسديد والتمرير الحاسم"
+            },
+            ". والحرف ",
+            {
+              "b": "AG"
+            },
+            " يعني نسخة العشب الصناعي الطويل بمسامير مخصّصة له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "مسامير AG"
+            },
+            " — أقصر وأكثف من مسامير العشب الطبيعي: تثبّت في الوبر الطويل بلا أن تغرز وتُجهد الركبة عند الدوران. هذا الفرق الحقيقي بين AG و FG على ملاعبنا."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "منطقة تحكّم في مقدّمة القدم"
+            },
+            " — نسيج مُعالَج يزيد الاحتكاك مع الكرة عند التسديد الملفوف والتمرير الطويل."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "فئة PRO"
+            },
+            " — الدرجة تحت الإيليت بنفس القالب."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب الذي يصنع ويسدّد — صانع الألعاب والمهاجم الذي يعتمد على دقّة القدم لا على السرعة الخالصة — ويلعب على العشب الصناعي الطويل."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "HQ2317-600"
+            },
+            " · نايكي · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/0b024ecb-2b18-4789-9596-d69bd75ffcec-1000x1000-Oz9aJECWuJ9mfLCHanna2Wak9g8rgrwfrAGpvm3h.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم",
+        "29.0 سم"
+      ],
+      "colors": [
+        "أحمر (600)"
+      ],
+      "options": [
+        {
+          "id": "1182131880",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "684719240",
+              "name": "أحمر (600)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/aadd01bd-e8cd-4159-8342-73a0193ac1f6-500x500-Oz9aJECWuJ9mfLCHanna2Wak9g8rgrwfrAGpvm3h.jpg"
+            }
+          ]
+        },
+        {
+          "id": "273810857",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "2056526729",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1416706698",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "643717515",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1882945684",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1107396501",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "535733910",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1774962071",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "999351440",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "360514449",
+              "name": "29.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p137148453",
+      "en": {
+        "name": "Nike Phantom 6 Pro AG Football Boots",
+        "brand": null,
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · AG studs for long artificial turf · The striking line",
+        "description": "Phantom 6 Pro AG Phantom is Nike's third line — neither Mercurial's speed nor Tiempo's classicism, but the line for striking and decisive passing . AG means the long-artificial-turf version on dedicated studs. Technologies AG studs — shorter and denser than firm-ground studs: they grip long pile without sinking in and straining the knee on turns. That is the real difference between AG and FG on our pitches. Forefoot control zone — a treated texture that adds friction on curled shots and long passes. PRO tier — one below Elite on the same last. Who is it for? The player who creates and strikes — the playmaker and the forward who relies on precision rather than raw pace — on long artificial turf. Model code HQ2317-600 · Nike · Genuine Japanese stock, delivered in 7–21 business days.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Phantom 6 Pro AG"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Phantom"
+              },
+              " is Nike's third line — neither Mercurial's speed nor Tiempo's classicism, but the line for ",
+              {
+                "b": "striking and decisive passing"
+              },
+              ". ",
+              {
+                "b": "AG"
+              },
+              " means the long-artificial-turf version on dedicated studs."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technologies"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "AG studs"
+              },
+              " — shorter and denser than firm-ground studs: they grip long pile without sinking in and straining the knee on turns. That is the real difference between AG and FG on our pitches."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Forefoot control zone"
+              },
+              " — a treated texture that adds friction on curled shots and long passes."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "PRO tier"
+              },
+              " — one below Elite on the same last."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The player who creates and strikes — the playmaker and the forward who relies on precision rather than raw pace — on long artificial turf."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "HQ2317-600"
+              },
+              " · Nike · Genuine Japanese stock, delivered in 7–21 business days."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "273810857": {
+            "name": "Size",
+            "values": {
+              "360514449": "29.0 cm",
+              "535733910": "27.5 cm",
+              "643717515": "26.0 cm",
+              "999351440": "28.5 cm",
+              "1107396501": "27.0 cm",
+              "1416706698": "25.5 cm",
+              "1774962071": "28.0 cm",
+              "1882945684": "26.5 cm",
+              "2056526729": "25.0 cm"
+            }
+          },
+          "1182131880": {
+            "name": "Colour",
+            "values": {
+              "684719240": "Red (600)"
+            }
+          }
+        }
       }
     },
     {
@@ -615,7 +4330,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 505,
@@ -964,7 +4678,6 @@
           }
         ],
         "tags": [
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -1007,7 +4720,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 525,
@@ -1406,7 +5118,6 @@
           }
         ],
         "tags": [
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -1451,7 +5162,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 555,
@@ -1923,7 +5633,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -2534,7 +6243,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 575,
@@ -3031,7 +6739,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -3073,7 +6780,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 585,
@@ -3578,7 +7284,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -3617,7 +7322,6 @@
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 594,
@@ -4074,7 +7778,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -4122,7 +7825,6 @@
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 614,
@@ -4606,7 +8308,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -4645,6 +8346,362 @@
       }
     },
     {
+      "id": "391642680",
+      "sallaId": "391642680",
+      "sku": "RSP-ASICS-1103A127",
+      "name": "حذاء أسيكس دي إس لايت برو AG لكرة القدم",
+      "brand": "اسيكس",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 615,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "أسيكس · مسامير AG للعشب الصناعي الطويل · أربعة ألوان",
+      "description": "دي إس لايت برو AG — نسخة العشب الصناعي سلسلة DS LIGHT هي خطّ أسيكس الأول لكرة القدم منذ عقود، و PRO AG نسختها المخصّصة للعشب الصناعي الطويل. الحرف AG ليس تسمية تجارية: نعل بمسامير أقصر وأكثر عدداً من نعل العشب الطبيعي، موزّعة لتوزّع الضغط على الوبر الصناعي بدل أن تغرز فيه. لماذا AG لا TF مسامير AG — أقصر وأكثف من مسامير العشب الطبيعي، وأطول من نتوءات التيرف. مصمّمة للوبر الطويل المملوء بالحبيبات المطاطية: تثبّت في الوبر بلا أن تعلق فيه عند الدوران. الجلد الصناعي الرقيق — إحساس أقرب بالكرة عند التمرير والتحكّم، وأخفّ من الجلد الطبيعي. قَصّ أسيكس الياباني — أسيكس تقيس على قدم آسيوية أعرض قليلاً عند مشط القدم، وهذا ما يجعل موديلاتها مريحة لمن يجد الموديلات الأوروبية ضيّقة. لمن هذا الحذاء؟ للاعب الذي يلعب على ملاعب العشب الصناعي الطويل — أغلب ملاعبنا. إن كان ملعبك وبراً قصيراً أو خماسياً صلباً فالتيرف (TF) أنسب. كود الموديل 1103A127 · أسيكس · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "دي إس لايت برو AG — نسخة العشب الصناعي"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "سلسلة ",
+            {
+              "b": "DS LIGHT"
+            },
+            " هي خطّ أسيكس الأول لكرة القدم منذ عقود، و",
+            {
+              "b": "PRO AG"
+            },
+            " نسختها المخصّصة للعشب الصناعي الطويل. الحرف ",
+            {
+              "b": "AG"
+            },
+            " ليس تسمية تجارية: نعل بمسامير أقصر وأكثر عدداً من نعل العشب الطبيعي، موزّعة لتوزّع الضغط على الوبر الصناعي بدل أن تغرز فيه."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لماذا AG لا TF"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "مسامير AG"
+            },
+            " — أقصر وأكثف من مسامير العشب الطبيعي، وأطول من نتوءات التيرف. مصمّمة للوبر الطويل المملوء بالحبيبات المطاطية: تثبّت في الوبر بلا أن تعلق فيه عند الدوران."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "الجلد الصناعي الرقيق"
+            },
+            " — إحساس أقرب بالكرة عند التمرير والتحكّم، وأخفّ من الجلد الطبيعي."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قَصّ أسيكس الياباني"
+            },
+            " — أسيكس تقيس على قدم آسيوية أعرض قليلاً عند مشط القدم، وهذا ما يجعل موديلاتها مريحة لمن يجد الموديلات الأوروبية ضيّقة."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب الذي يلعب على ",
+            {
+              "b": "ملاعب العشب الصناعي الطويل"
+            },
+            " — أغلب ملاعبنا. إن كان ملعبك وبراً قصيراً أو خماسياً صلباً فالتيرف (TF) أنسب."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "1103A127"
+            },
+            " · أسيكس · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/000ff442-a9a5-4f4a-9b6d-e172be767bfc-1000x1000-KJhCMbd9aI9cubmkE3loWytgAcRAQ7bLOKz6WGrJ.jpg",
+        "https://cdn.salla.sa/jZjwre/74dbec2c-eb6b-4291-808f-d149520f1a82-1000x1000-eX8mRReA2i8WKuG0fGZutyc0797Vr1sDdqGc4NEO.jpg",
+        "https://cdn.salla.sa/jZjwre/a629ddfe-0218-4cce-8f5e-d83342e080e2-1000x1000-o4XP18r7HdNCZqg2uRGlIRndcoSCrfdiueW7HQeT.jpg",
+        "https://cdn.salla.sa/jZjwre/c1207240-7794-460f-a83e-3f32272ada5d-1000x1000-YzdEJslpKdDzNSK3783Ix6YjQqwqtlkJNHNvLH20.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "24.0 سم",
+        "24.5 سم",
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم",
+        "28.5 سم"
+      ],
+      "colors": [
+        "أبيض × ساكورا رقمي (101)",
+        "أبيض × ميدنايت (103)",
+        "أبيض × أزرق (102)",
+        "أبيض (100)"
+      ],
+      "options": [
+        {
+          "id": "336223554",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "736270023",
+              "name": "أبيض × ساكورا رقمي (101)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/02d52fa7-8ae3-47db-96ea-fb6d9d419102-500x500-KJhCMbd9aI9cubmkE3loWytgAcRAQ7bLOKz6WGrJ.jpg"
+            },
+            {
+              "id": "97498560",
+              "name": "أبيض × ميدنايت (103)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/bfa647d2-1a32-4ddc-a482-17b3ff989659-500x500-eX8mRReA2i8WKuG0fGZutyc0797Vr1sDdqGc4NEO.jpg"
+            },
+            {
+              "id": "1469371585",
+              "name": "أبيض × أزرق (102)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4f5a658e-18af-4557-a710-c7df968f677e-500x500-o4XP18r7HdNCZqg2uRGlIRndcoSCrfdiueW7HQeT.jpg"
+            },
+            {
+              "id": "561116098",
+              "name": "أبيض (100)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/220247a9-0b95-40bf-bb1c-a5f775c1dbf6-500x500-YzdEJslpKdDzNSK3783Ix6YjQqwqtlkJNHNvLH20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1641512003",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1935545027",
+              "name": "24.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1295725004",
+              "name": "24.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "520114381",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1760395214",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "986422991",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "345030088",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1719524553",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "811269066",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "36117195",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1544305108",
+              "name": "28.5 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p391642680",
+      "en": {
+        "name": "ASICS DS LIGHT PRO AG Football Boots",
+        "brand": "ASICS",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "ASICS · AG studs for long artificial turf · Four colours",
+        "description": "DS LIGHT PRO AG — the artificial-turf version DS LIGHT has been ASICS' flagship football line for decades, and PRO AG is its dedicated artificial-grass model. AG is not marketing: shorter, denser studs than a firm-ground sole, laid out to spread load across the turf pile instead of sinking into it. Why AG rather than TF AG studs — shorter and denser than firm-ground studs, longer than turf nubs. Built for long, rubber-filled pile: they grip without catching when you turn. Thin synthetic upper — closer ball feel on passing and control, and lighter than natural leather. ASICS Japanese last — measured on a slightly wider forefoot, which is why ASICS models suit players who find European boots tight. Who is it for? Players on long artificial turf — most pitches here. If yours is short pile or a hard five-a-side court, turf (TF) suits you better. Model code 1103A127 · ASICS · Genuine Japanese stock, ordered from Japan and delivered in 7–21 business days. Sizes shown are actually available; anything marked out of stock we will tell you about when it returns — message us on WhatsApp.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "DS LIGHT PRO AG — the artificial-turf version"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "DS LIGHT"
+              },
+              " has been ASICS' flagship football line for decades, and ",
+              {
+                "b": "PRO AG"
+              },
+              " is its dedicated artificial-grass model. ",
+              {
+                "b": "AG"
+              },
+              " is not marketing: shorter, denser studs than a firm-ground sole, laid out to spread load across the turf pile instead of sinking into it."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Why AG rather than TF"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "AG studs"
+              },
+              " — shorter and denser than firm-ground studs, longer than turf nubs. Built for long, rubber-filled pile: they grip without catching when you turn."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Thin synthetic upper"
+              },
+              " — closer ball feel on passing and control, and lighter than natural leather."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "ASICS Japanese last"
+              },
+              " — measured on a slightly wider forefoot, which is why ASICS models suit players who find European boots tight."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Players on ",
+              {
+                "b": "long artificial turf"
+              },
+              " — most pitches here. If yours is short pile or a hard five-a-side court, turf (TF) suits you better."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "1103A127"
+              },
+              " · ASICS · Genuine Japanese stock, ordered from Japan and delivered in 7–21 business days. Sizes shown are actually available; anything marked out of stock we will tell you about when it returns — message us on WhatsApp."
+            ]
+          }
+        ],
+        "tags": [
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "336223554": {
+            "name": "Colour",
+            "values": {
+              "97498560": "White × Midnight (103)",
+              "561116098": "White (100)",
+              "736270023": "White × Digital Sakura (101)",
+              "1469371585": "White × Blue (102)"
+            }
+          },
+          "1641512003": {
+            "name": "Size",
+            "values": {
+              "36117195": "28.0 cm",
+              "345030088": "26.5 cm",
+              "520114381": "25.0 cm",
+              "811269066": "27.5 cm",
+              "986422991": "26.0 cm",
+              "1295725004": "24.5 cm",
+              "1544305108": "28.5 cm",
+              "1719524553": "27.0 cm",
+              "1760395214": "25.5 cm",
+              "1935545027": "24.0 cm"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "768894154",
       "sallaId": "768894154",
       "sku": "RSP-ASICS-MT4-SHINE",
@@ -4653,7 +8710,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 649,
@@ -5180,7 +9236,6 @@
           }
         ],
         "tags": [
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -5216,7 +9271,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 829,
@@ -5604,7 +9658,6 @@
           }
         ],
         "tags": [
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -6081,7 +10134,6 @@
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 540,
@@ -6516,7 +10568,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -6560,7 +10611,6 @@
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 545,
@@ -7043,7 +11093,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -7683,7 +11732,6 @@
       "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي"
       ],
       "price": 400,
@@ -8108,7 +12156,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes"
         ],
         "options": {
@@ -13724,7 +17771,8 @@
       "sports": {
         "الجري": "Running",
         "المشي": "Walking",
-        "كرة الطائرة": "Volleyball"
+        "كرة الطائرة": "Volleyball",
+        "كرة القدم": "Football"
       },
       "tags": {
         "تسوّق حسب الرياضة": "Shop by Sport",
