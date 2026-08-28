@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-25T09:03:08.622Z",
+  "generatedAt": "2026-08-28T18:45:28.405Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5153,515 +5153,6 @@
       }
     },
     {
-      "id": "1106815625",
-      "sallaId": "1106815625",
-      "sku": "RSP-ASICS-NIMBUS28-W",
-      "name": "حذاء أسيكس جل نيمبوس 28 نسائي",
-      "brand": "اسيكس",
-      "category": "shoes",
-      "sport": "الجري",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "أحذية جري"
-      ],
-      "price": 555,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "الجيل 28 — الأنعم للجري الطويل",
-      "description": "أسيكس جل نيمبوس 28 سلسلة GEL-NIMBUS هي حذاء أسيكس الأعلى في نعومة النعل منذ 1999، واسم «نيمبوس» لاتينيّ معناه السحابة — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026. ما الجديد في الجيل 28 أخفّ بنحو 20 غراماً من الجيل 27 — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما. نعل وسطي FF BLAST PLUS — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد . PureGEL في الكعب — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل. جزء علوي «إنجينيرد نِت» محبوك — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط. نعل خارجي HYBRID ASICSGRIP — نوعان من المطاط: ASICSGRIP في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و AHARPLUS في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ثلاثة أضعاف مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً. لمن هذا الحذاء؟ لمن يبدأ الجري الآن، ولمن هدفه إنهاء ماراثون كامل . أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ثبات يمنع دوران الكاحل للداخل، فالمناسب لك هو جل كايانو 33 لا النيمبوس. البيانات الرسمية كود الموديل: 1012B899 — العرض القياسي المقاسات: 22.5–26.5 سم بخطوة 0.5 سم (نسائي) بلد الصنع: فيتنام / إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
-      "desc": [
-        {
-          "t": "h",
-          "s": [
-            "أسيكس جل نيمبوس 28"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "سلسلة ",
-            {
-              "b": "GEL-NIMBUS"
-            },
-            " هي حذاء أسيكس الأعلى في ",
-            {
-              "b": "نعومة النعل"
-            },
-            " منذ 1999، واسم «نيمبوس» لاتينيّ معناه ",
-            {
-              "b": "السحابة"
-            },
-            " — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "ما الجديد في الجيل 28"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "أخفّ بنحو 20 غراماً من الجيل 27"
-            },
-            " — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "نعل وسطي FF BLAST PLUS"
-            },
-            " — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و",
-            {
-              "b": "نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد"
-            },
-            "."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "PureGEL في الكعب"
-            },
-            " — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "جزء علوي «إنجينيرد نِت» محبوك"
-            },
-            " — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "نعل خارجي HYBRID ASICSGRIP"
-            },
-            " — نوعان من المطاط: ",
-            {
-              "b": "ASICSGRIP"
-            },
-            " في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و",
-            {
-              "b": "AHARPLUS"
-            },
-            " في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ",
-            {
-              "b": "ثلاثة أضعاف"
-            },
-            " مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "لمن هذا الحذاء؟"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "لمن يبدأ الجري الآن، ولمن هدفه ",
-            {
-              "b": "إنهاء ماراثون كامل"
-            },
-            ". أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ",
-            {
-              "b": "ثبات"
-            },
-            " يمنع دوران الكاحل للداخل، فالمناسب لك هو ",
-            {
-              "b": "جل كايانو 33"
-            },
-            " لا النيمبوس."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "البيانات الرسمية"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "كود الموديل: ",
-            {
-              "b": "1012B899"
-            },
-            " — العرض القياسي"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "المقاسات: ",
-            {
-              "b": "22.5–26.5 سم بخطوة 0.5 سم"
-            },
-            " (نسائي)"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "بلد الصنع: فيتنام / إندونيسيا"
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "المقاسات"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "المقاسات مكتوبة بالمقاس الأوروبي وبجانبه ",
-            {
-              "b": "الطول الداخلي بالسنتيمتر"
-            },
-            " وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/3c8294ce-dc6e-45ee-b242-b57c84dd51a6-1000x626.62337662338-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg",
-        "https://cdn.salla.sa/jZjwre/b9c17160-5d0f-4c21-b378-07728debbc18-1000x611.33333333333-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg",
-        "https://cdn.salla.sa/jZjwre/1b9da767-1a59-4452-ac26-9f1ddc30af3a-1000x584.41558441558-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg",
-        "https://cdn.salla.sa/jZjwre/0d22d285-4a8e-461c-af2e-3af62645dca1-1000x532.84671532847-z0nHyvkXRk8utzUYlyuxv0og4ADv5tS6s8T8rHSr.jpg",
-        "https://cdn.salla.sa/jZjwre/baf7b1c1-90de-4a6d-87d3-4ebf60721a79-1000x545.01216545012-XaN1lavLs7MOEWErbXFyKJLcRcLcHr2ZuqgqA4q0.jpg",
-        "https://cdn.salla.sa/jZjwre/71a7e548-e433-462d-96d5-bc9b2272fccd-1000x538.52392538524-T9U6WWniwVUoGVgXTAyzQmmv3gTxb8EatoA9Y8PJ.jpg",
-        "https://cdn.salla.sa/jZjwre/1511cb8d-180d-422e-af80-704915610a04-1000x613.89337641357-joDsiyNkz5N1CB6NDjn38ZyLabV03SkXtElNvZLg.jpg",
-        "https://cdn.salla.sa/jZjwre/679d7e5c-0aef-4c2d-ad1f-a434510c8ea9-1000x517.85714285714-vSLLFZeMRYDhwtlQ1ByV6WC7iGxVzrsGtWK8ARfh.jpg",
-        "https://cdn.salla.sa/jZjwre/5491e5bf-5ad1-4f34-a4ee-e7d1e1d0e1e9-1000x531.22465531225-NWeDmEIohhDkJEeDs7ETatR8ILBs3N6h9v4mzXgV.jpg",
-        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
-        "https://cdn.salla.sa/jZjwre/4683c45b-0f16-4b27-a046-c59b24fac95b-1000x534.9025974026-P8uBb35f5hzmkkq0TvJilmsGv9y0PxCH12MTbD1k.jpg",
-        "https://cdn.salla.sa/jZjwre/365ee585-0e1c-4045-b131-973f0f336013-1000x530.84415584416-Nu9zvW9sXamEwX8S5dRePt9n0B4jKzIdLGjrsohu.jpg"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "36 (22.5 سم)",
-        "37 (23.0 سم)",
-        "37.5 (23.5 سم)",
-        "38 (24.0 سم)",
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)"
-      ],
-      "colors": [
-        "أسود × رمادي جرافيت",
-        "أسود × وردي لؤلؤي",
-        "أبيض × أبيض"
-      ],
-      "options": [
-        {
-          "id": "922687301",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "650074509",
-              "name": "أسود × رمادي جرافيت",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/4235090f-4904-4b04-8920-196cf9a91d0c-500x313.31168831169-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg"
-            },
-            {
-              "id": "1887729806",
-              "name": "أسود × وردي لؤلؤي",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/1d411b6d-8cf1-4f81-a366-1c59e59fe04d-500x305.66666666667-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg"
-            },
-            {
-              "id": "1113753487",
-              "name": "أبيض × أبيض",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/8f6426df-13cf-40e6-bd8b-15d5e582a0b6-500x292.20779220779-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg"
-            }
-          ]
-        },
-        {
-          "id": "12858950",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "474982024",
-              "name": "36 (22.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1846855049",
-              "name": "37 (23.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1005708426",
-              "name": "37.5 (23.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "366871435",
-              "name": "38 (24.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1740317332",
-              "name": "39 (24.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "830488981",
-              "name": "40 (25.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "57499798",
-              "name": "40.5 (25.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1565233047",
-              "name": "41.5 (26.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "789622416",
-              "name": "42 (26.5 سم)",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1106815625",
-      "en": {
-        "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
-        "brand": "ASICS",
-        "sport": "Running",
-        "tagline": null,
-        "subtitle": "Gen 28 — softest for long runs",
-        "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1012B899 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
-        "desc": [
-          {
-            "t": "h",
-            "s": [
-              "ASICS GEL-NIMBUS 28"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "The ",
-              {
-                "b": "GEL-NIMBUS"
-              },
-              " line has been ASICS' ",
-              {
-                "b": "softest-riding"
-              },
-              " shoe since 1999. \"Nimbus\" is Latin for ",
-              {
-                "b": "cloud"
-              },
-              " — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "What is new in generation 28"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "About 20 g lighter than generation 27"
-              },
-              " — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "FF BLAST PLUS midsole"
-              },
-              " — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. ",
-              {
-                "b": "Around 24% of the foam comes from renewable sugarcane"
-              },
-              "."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "PureGEL in the heel"
-              },
-              " — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "A knitted engineered-knit upper"
-              },
-              " — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "HYBRID ASICSGRIP outsole"
-              },
-              " — two rubbers: ",
-              {
-                "b": "ASICSGRIP"
-              },
-              " through the midfoot for high traction on varied surfaces, and ",
-              {
-                "b": "AHARPLUS"
-              },
-              " at the forefoot and heel, roughly ",
-              {
-                "b": "three times"
-              },
-              " more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Who is it for?"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "For anyone starting to run, and for anyone whose goal is ",
-              {
-                "b": "finishing a full marathon"
-              },
-              ". It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is ",
-              {
-                "b": "stability"
-              },
-              " against the ankle rolling inward, the ",
-              {
-                "b": "GEL-KAYANO 33"
-              },
-              " is your shoe, not the Nimbus."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Official specifications"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Model code: ",
-              {
-                "b": "1012B899"
-              },
-              " — standard width"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Sizes: ",
-              {
-                "b": "22.5–26.5 cm in 0.5 cm steps"
-              },
-              " (women's)"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Made in: Vietnam / Indonesia"
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Sizing"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Sizes are shown in European numbering with the ",
-              {
-                "b": "inner length in centimetres"
-              },
-              " beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone."
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Running Shoes"
-        ],
-        "options": {
-          "12858950": {
-            "name": "Size",
-            "values": {
-              "57499798": "40.5 (25.5 cm)",
-              "366871435": "38 (24.0 cm)",
-              "474982024": "36 (22.5 cm)",
-              "789622416": "42 (26.5 cm)",
-              "830488981": "40 (25.0 cm)",
-              "1005708426": "37.5 (23.5 cm)",
-              "1565233047": "41.5 (26.0 cm)",
-              "1740317332": "39 (24.5 cm)",
-              "1846855049": "37 (23.0 cm)"
-            }
-          },
-          "922687301": {
-            "name": "Color",
-            "values": {
-              "650074509": "Black × Graphite Grey",
-              "1113753487": "White × White",
-              "1887729806": "Black × Pearl Pink"
-            }
-          }
-        }
-      }
-    },
-    {
       "id": "1031256474",
       "sallaId": "1031256474",
       "sku": "RSP-ASICS-KAYANO33-M",
@@ -6765,6 +6256,515 @@
               "1499147187": "44.5 (28.5 cm)",
               "1672793776": "42.5 (27.0 cm)",
               "1780769205": "40.5 (25.5 cm)"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1106815625",
+      "sallaId": "1106815625",
+      "sku": "RSP-ASICS-NIMBUS28-W",
+      "name": "حذاء أسيكس جل نيمبوس 28 نسائي",
+      "brand": "اسيكس",
+      "category": "shoes",
+      "sport": "الجري",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "أحذية جري"
+      ],
+      "price": 580,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "الجيل 28 — الأنعم للجري الطويل",
+      "description": "أسيكس جل نيمبوس 28 سلسلة GEL-NIMBUS هي حذاء أسيكس الأعلى في نعومة النعل منذ 1999، واسم «نيمبوس» لاتينيّ معناه السحابة — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026. ما الجديد في الجيل 28 أخفّ بنحو 20 غراماً من الجيل 27 — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما. نعل وسطي FF BLAST PLUS — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد . PureGEL في الكعب — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل. جزء علوي «إنجينيرد نِت» محبوك — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط. نعل خارجي HYBRID ASICSGRIP — نوعان من المطاط: ASICSGRIP في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و AHARPLUS في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ثلاثة أضعاف مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً. لمن هذا الحذاء؟ لمن يبدأ الجري الآن، ولمن هدفه إنهاء ماراثون كامل . أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ثبات يمنع دوران الكاحل للداخل، فالمناسب لك هو جل كايانو 33 لا النيمبوس. البيانات الرسمية كود الموديل: 1012B899 — العرض القياسي المقاسات: 22.5–26.5 سم بخطوة 0.5 سم (نسائي) بلد الصنع: فيتنام / إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "أسيكس جل نيمبوس 28"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "سلسلة ",
+            {
+              "b": "GEL-NIMBUS"
+            },
+            " هي حذاء أسيكس الأعلى في ",
+            {
+              "b": "نعومة النعل"
+            },
+            " منذ 1999، واسم «نيمبوس» لاتينيّ معناه ",
+            {
+              "b": "السحابة"
+            },
+            " — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "ما الجديد في الجيل 28"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "أخفّ بنحو 20 غراماً من الجيل 27"
+            },
+            " — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل وسطي FF BLAST PLUS"
+            },
+            " — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و",
+            {
+              "b": "نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "PureGEL في الكعب"
+            },
+            " — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "جزء علوي «إنجينيرد نِت» محبوك"
+            },
+            " — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل خارجي HYBRID ASICSGRIP"
+            },
+            " — نوعان من المطاط: ",
+            {
+              "b": "ASICSGRIP"
+            },
+            " في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و",
+            {
+              "b": "AHARPLUS"
+            },
+            " في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ",
+            {
+              "b": "ثلاثة أضعاف"
+            },
+            " مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لمن يبدأ الجري الآن، ولمن هدفه ",
+            {
+              "b": "إنهاء ماراثون كامل"
+            },
+            ". أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ",
+            {
+              "b": "ثبات"
+            },
+            " يمنع دوران الكاحل للداخل، فالمناسب لك هو ",
+            {
+              "b": "جل كايانو 33"
+            },
+            " لا النيمبوس."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "البيانات الرسمية"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "كود الموديل: ",
+            {
+              "b": "1012B899"
+            },
+            " — العرض القياسي"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "المقاسات: ",
+            {
+              "b": "22.5–26.5 سم بخطوة 0.5 سم"
+            },
+            " (نسائي)"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "بلد الصنع: فيتنام / إندونيسيا"
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاسات مكتوبة بالمقاس الأوروبي وبجانبه ",
+            {
+              "b": "الطول الداخلي بالسنتيمتر"
+            },
+            " وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/3c8294ce-dc6e-45ee-b242-b57c84dd51a6-1000x626.62337662338-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg",
+        "https://cdn.salla.sa/jZjwre/b9c17160-5d0f-4c21-b378-07728debbc18-1000x611.33333333333-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg",
+        "https://cdn.salla.sa/jZjwre/1b9da767-1a59-4452-ac26-9f1ddc30af3a-1000x584.41558441558-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg",
+        "https://cdn.salla.sa/jZjwre/0d22d285-4a8e-461c-af2e-3af62645dca1-1000x532.84671532847-z0nHyvkXRk8utzUYlyuxv0og4ADv5tS6s8T8rHSr.jpg",
+        "https://cdn.salla.sa/jZjwre/baf7b1c1-90de-4a6d-87d3-4ebf60721a79-1000x545.01216545012-XaN1lavLs7MOEWErbXFyKJLcRcLcHr2ZuqgqA4q0.jpg",
+        "https://cdn.salla.sa/jZjwre/71a7e548-e433-462d-96d5-bc9b2272fccd-1000x538.52392538524-T9U6WWniwVUoGVgXTAyzQmmv3gTxb8EatoA9Y8PJ.jpg",
+        "https://cdn.salla.sa/jZjwre/1511cb8d-180d-422e-af80-704915610a04-1000x613.89337641357-joDsiyNkz5N1CB6NDjn38ZyLabV03SkXtElNvZLg.jpg",
+        "https://cdn.salla.sa/jZjwre/679d7e5c-0aef-4c2d-ad1f-a434510c8ea9-1000x517.85714285714-vSLLFZeMRYDhwtlQ1ByV6WC7iGxVzrsGtWK8ARfh.jpg",
+        "https://cdn.salla.sa/jZjwre/5491e5bf-5ad1-4f34-a4ee-e7d1e1d0e1e9-1000x531.22465531225-NWeDmEIohhDkJEeDs7ETatR8ILBs3N6h9v4mzXgV.jpg",
+        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
+        "https://cdn.salla.sa/jZjwre/4683c45b-0f16-4b27-a046-c59b24fac95b-1000x534.9025974026-P8uBb35f5hzmkkq0TvJilmsGv9y0PxCH12MTbD1k.jpg",
+        "https://cdn.salla.sa/jZjwre/365ee585-0e1c-4045-b131-973f0f336013-1000x530.84415584416-Nu9zvW9sXamEwX8S5dRePt9n0B4jKzIdLGjrsohu.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "36 (22.5 سم)",
+        "37 (23.0 سم)",
+        "37.5 (23.5 سم)",
+        "38 (24.0 سم)",
+        "39 (24.5 سم)",
+        "40 (25.0 سم)",
+        "40.5 (25.5 سم)",
+        "41.5 (26.0 سم)",
+        "42 (26.5 سم)"
+      ],
+      "colors": [
+        "أسود × رمادي جرافيت",
+        "أسود × وردي لؤلؤي",
+        "أبيض × أبيض"
+      ],
+      "options": [
+        {
+          "id": "922687301",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "650074509",
+              "name": "أسود × رمادي جرافيت",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4235090f-4904-4b04-8920-196cf9a91d0c-500x313.31168831169-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg"
+            },
+            {
+              "id": "1887729806",
+              "name": "أسود × وردي لؤلؤي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/1d411b6d-8cf1-4f81-a366-1c59e59fe04d-500x305.66666666667-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg"
+            },
+            {
+              "id": "1113753487",
+              "name": "أبيض × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/8f6426df-13cf-40e6-bd8b-15d5e582a0b6-500x292.20779220779-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg"
+            }
+          ]
+        },
+        {
+          "id": "12858950",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "474982024",
+              "name": "36 (22.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1846855049",
+              "name": "37 (23.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1005708426",
+              "name": "37.5 (23.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "366871435",
+              "name": "38 (24.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1740317332",
+              "name": "39 (24.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "830488981",
+              "name": "40 (25.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "57499798",
+              "name": "40.5 (25.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1565233047",
+              "name": "41.5 (26.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "789622416",
+              "name": "42 (26.5 سم)",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1106815625",
+      "en": {
+        "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
+        "brand": "ASICS",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "Gen 28 — softest for long runs",
+        "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1012B899 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "ASICS GEL-NIMBUS 28"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "GEL-NIMBUS"
+              },
+              " line has been ASICS' ",
+              {
+                "b": "softest-riding"
+              },
+              " shoe since 1999. \"Nimbus\" is Latin for ",
+              {
+                "b": "cloud"
+              },
+              " — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "What is new in generation 28"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "About 20 g lighter than generation 27"
+              },
+              " — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "FF BLAST PLUS midsole"
+              },
+              " — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. ",
+              {
+                "b": "Around 24% of the foam comes from renewable sugarcane"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "PureGEL in the heel"
+              },
+              " — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "A knitted engineered-knit upper"
+              },
+              " — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "HYBRID ASICSGRIP outsole"
+              },
+              " — two rubbers: ",
+              {
+                "b": "ASICSGRIP"
+              },
+              " through the midfoot for high traction on varied surfaces, and ",
+              {
+                "b": "AHARPLUS"
+              },
+              " at the forefoot and heel, roughly ",
+              {
+                "b": "three times"
+              },
+              " more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For anyone starting to run, and for anyone whose goal is ",
+              {
+                "b": "finishing a full marathon"
+              },
+              ". It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is ",
+              {
+                "b": "stability"
+              },
+              " against the ankle rolling inward, the ",
+              {
+                "b": "GEL-KAYANO 33"
+              },
+              " is your shoe, not the Nimbus."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Official specifications"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Model code: ",
+              {
+                "b": "1012B899"
+              },
+              " — standard width"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Sizes: ",
+              {
+                "b": "22.5–26.5 cm in 0.5 cm steps"
+              },
+              " (women's)"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Made in: Vietnam / Indonesia"
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are shown in European numbering with the ",
+              {
+                "b": "inner length in centimetres"
+              },
+              " beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Running Shoes"
+        ],
+        "options": {
+          "12858950": {
+            "name": "Size",
+            "values": {
+              "57499798": "40.5 (25.5 cm)",
+              "366871435": "38 (24.0 cm)",
+              "474982024": "36 (22.5 cm)",
+              "789622416": "42 (26.5 cm)",
+              "830488981": "40 (25.0 cm)",
+              "1005708426": "37.5 (23.5 cm)",
+              "1565233047": "41.5 (26.0 cm)",
+              "1740317332": "39 (24.5 cm)",
+              "1846855049": "37 (23.0 cm)"
+            }
+          },
+          "922687301": {
+            "name": "Color",
+            "values": {
+              "650074509": "Black × Graphite Grey",
+              "1113753487": "White × White",
+              "1887729806": "Black × Pearl Pink"
             }
           }
         }
