@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-29T14:32:47.445Z",
+  "generatedAt": "2026-08-29T18:34:33.104Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -16308,7 +16308,25 @@
           "Sportswear",
           "Shorts"
         ],
-        "options": {}
+        "options": {
+          "244240287": {
+            "name": "اللون",
+            "values": {
+              "217723127": "كحلي داكن",
+              "857543158": "أسود",
+              "1630597877": "فحمي"
+            }
+          },
+          "707792281": {
+            "name": "المقاس",
+            "values": {
+              "781459655": "M",
+              "1247702721": "XL",
+              "1557070278": "S",
+              "2020691904": "L"
+            }
+          }
+        }
       }
     },
     {
@@ -18648,15 +18666,128 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/dc333232-83ec-4c6b-ba72-bf52e251b9fa-500x375-173M5qw1ns691HMROPYu7THFvHWK9hdCW57C8N62.png"
+        "https://cdn.salla.sa/jZjwre/6a8dda89-eb8b-4407-b32c-86558d5c3247-1000x750-173M5qw1ns691HMROPYu7THFvHWK9hdCW57C8N62.png",
+        "https://cdn.salla.sa/jZjwre/9000e51f-c7e4-4dd2-8fec-957b7787fb19-1000x750-ho8rshS0DAnoYvIRTGO1V10UhJ6OpBPJWzPtJRFM.png",
+        "https://cdn.salla.sa/jZjwre/e33bbbd3-378b-45ab-a098-49eb52375d93-1000x750-wwzvRLLovOr6D1YdLIRDGndKMo4v5OjbdQEYbR7V.png",
+        "https://cdn.salla.sa/jZjwre/5701f9ad-9c7c-4bca-bce2-03137a7cc322-1000x750-K8YmFsr5pYk6zWrtf9RXUK4jEawuCNOuip8snZrM.png",
+        "https://cdn.salla.sa/jZjwre/9bc4702e-337c-4dea-ac0f-83cd82baba8d-1000x750-w64EPzmSWYAgQxhrWJTn33d82YwGlVtRnpe6QBrW.png",
+        "https://cdn.salla.sa/jZjwre/7014f022-f202-4cd2-b3a8-7f1ca62bbe02-1000x750-98I7GmwUSPcQxkfcJRC5ldxXov43z1sXf1MGSKwn.png"
       ],
       "optionNames": {
-        "size": null,
-        "color": null
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "sizes": [],
-      "colors": [],
-      "options": [],
+      "sizes": [
+        "2XL",
+        "3XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "أحمر صيني",
+        "أسود",
+        "أزرق سيرف",
+        "أسود × أحمر صيني",
+        "أبيض",
+        "كحلي داكن"
+      ],
+      "options": [
+        {
+          "id": "1826414479",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "354121919",
+              "name": "أحمر صيني",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/dc333232-83ec-4c6b-ba72-bf52e251b9fa-500x375-173M5qw1ns691HMROPYu7THFvHWK9hdCW57C8N62.png"
+            },
+            {
+              "id": "1726056376",
+              "name": "أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/96f5588e-481b-4180-b8b2-1b3b0764a46b-500x375-ho8rshS0DAnoYvIRTGO1V10UhJ6OpBPJWzPtJRFM.png"
+            },
+            {
+              "id": "818849465",
+              "name": "أزرق سيرف",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/ed130a38-59da-4714-9ed7-0f76212df4b4-500x375-wwzvRLLovOr6D1YdLIRDGndKMo4v5OjbdQEYbR7V.png"
+            },
+            {
+              "id": "44811706",
+              "name": "أسود × أحمر صيني",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/98faa537-b121-4e73-b23c-064baa269b63-500x375-K8YmFsr5pYk6zWrtf9RXUK4jEawuCNOuip8snZrM.png"
+            },
+            {
+              "id": "1550902459",
+              "name": "أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/19cd76ca-76e8-403d-8bba-4e7fc6632dbd-500x375-w64EPzmSWYAgQxhrWJTn33d82YwGlVtRnpe6QBrW.png"
+            },
+            {
+              "id": "777847684",
+              "name": "كحلي داكن",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4ac3d090-3654-474c-9f8a-2f76f66174cb-500x375-98I7GmwUSPcQxkfcJRC5ldxXov43z1sXf1MGSKwn.png"
+            }
+          ]
+        },
+        {
+          "id": "143007113",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "184756877",
+              "name": "2XL",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1692944782",
+              "name": "3XL",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1909100416",
+              "name": "XS",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1134014081",
+              "name": "S",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "494718338",
+              "name": "M",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1868164227",
+              "name": "L",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "958794636",
+              "name": "XL",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
       "model": null,
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1535749567",
@@ -18726,7 +18857,31 @@
           "Sportswear",
           "جاكيتات وسويت شيرت"
         ],
-        "options": {}
+        "options": {
+          "143007113": {
+            "name": "المقاس",
+            "values": {
+              "184756877": "2XL",
+              "494718338": "M",
+              "958794636": "XL",
+              "1134014081": "S",
+              "1692944782": "3XL",
+              "1868164227": "L",
+              "1909100416": "XS"
+            }
+          },
+          "1826414479": {
+            "name": "اللون",
+            "values": {
+              "44811706": "أسود × أحمر صيني",
+              "354121919": "أحمر صيني",
+              "777847684": "كحلي داكن",
+              "818849465": "أزرق سيرف",
+              "1550902459": "أبيض",
+              "1726056376": "أسود"
+            }
+          }
+        }
       }
     },
     {
