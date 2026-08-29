@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-28T18:45:28.405Z",
+  "generatedAt": "2026-08-29T09:06:12.754Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5153,6 +5153,515 @@
       }
     },
     {
+      "id": "1106815625",
+      "sallaId": "1106815625",
+      "sku": "RSP-ASICS-NIMBUS28-W",
+      "name": "حذاء أسيكس جل نيمبوس 28 نسائي",
+      "brand": "اسيكس",
+      "category": "shoes",
+      "sport": "الجري",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "أحذية جري"
+      ],
+      "price": 555,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "الجيل 28 — الأنعم للجري الطويل",
+      "description": "أسيكس جل نيمبوس 28 سلسلة GEL-NIMBUS هي حذاء أسيكس الأعلى في نعومة النعل منذ 1999، واسم «نيمبوس» لاتينيّ معناه السحابة — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026. ما الجديد في الجيل 28 أخفّ بنحو 20 غراماً من الجيل 27 — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما. نعل وسطي FF BLAST PLUS — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد . PureGEL في الكعب — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل. جزء علوي «إنجينيرد نِت» محبوك — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط. نعل خارجي HYBRID ASICSGRIP — نوعان من المطاط: ASICSGRIP في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و AHARPLUS في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ثلاثة أضعاف مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً. لمن هذا الحذاء؟ لمن يبدأ الجري الآن، ولمن هدفه إنهاء ماراثون كامل . أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ثبات يمنع دوران الكاحل للداخل، فالمناسب لك هو جل كايانو 33 لا النيمبوس. البيانات الرسمية كود الموديل: 1012B899 — العرض القياسي المقاسات: 22.5–26.5 سم بخطوة 0.5 سم (نسائي) بلد الصنع: فيتنام / إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "أسيكس جل نيمبوس 28"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "سلسلة ",
+            {
+              "b": "GEL-NIMBUS"
+            },
+            " هي حذاء أسيكس الأعلى في ",
+            {
+              "b": "نعومة النعل"
+            },
+            " منذ 1999، واسم «نيمبوس» لاتينيّ معناه ",
+            {
+              "b": "السحابة"
+            },
+            " — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "ما الجديد في الجيل 28"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "أخفّ بنحو 20 غراماً من الجيل 27"
+            },
+            " — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل وسطي FF BLAST PLUS"
+            },
+            " — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و",
+            {
+              "b": "نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "PureGEL في الكعب"
+            },
+            " — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "جزء علوي «إنجينيرد نِت» محبوك"
+            },
+            " — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل خارجي HYBRID ASICSGRIP"
+            },
+            " — نوعان من المطاط: ",
+            {
+              "b": "ASICSGRIP"
+            },
+            " في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و",
+            {
+              "b": "AHARPLUS"
+            },
+            " في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ",
+            {
+              "b": "ثلاثة أضعاف"
+            },
+            " مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لمن يبدأ الجري الآن، ولمن هدفه ",
+            {
+              "b": "إنهاء ماراثون كامل"
+            },
+            ". أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ",
+            {
+              "b": "ثبات"
+            },
+            " يمنع دوران الكاحل للداخل، فالمناسب لك هو ",
+            {
+              "b": "جل كايانو 33"
+            },
+            " لا النيمبوس."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "البيانات الرسمية"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "كود الموديل: ",
+            {
+              "b": "1012B899"
+            },
+            " — العرض القياسي"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "المقاسات: ",
+            {
+              "b": "22.5–26.5 سم بخطوة 0.5 سم"
+            },
+            " (نسائي)"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "بلد الصنع: فيتنام / إندونيسيا"
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاسات مكتوبة بالمقاس الأوروبي وبجانبه ",
+            {
+              "b": "الطول الداخلي بالسنتيمتر"
+            },
+            " وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/3c8294ce-dc6e-45ee-b242-b57c84dd51a6-1000x626.62337662338-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg",
+        "https://cdn.salla.sa/jZjwre/b9c17160-5d0f-4c21-b378-07728debbc18-1000x611.33333333333-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg",
+        "https://cdn.salla.sa/jZjwre/1b9da767-1a59-4452-ac26-9f1ddc30af3a-1000x584.41558441558-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg",
+        "https://cdn.salla.sa/jZjwre/0d22d285-4a8e-461c-af2e-3af62645dca1-1000x532.84671532847-z0nHyvkXRk8utzUYlyuxv0og4ADv5tS6s8T8rHSr.jpg",
+        "https://cdn.salla.sa/jZjwre/baf7b1c1-90de-4a6d-87d3-4ebf60721a79-1000x545.01216545012-XaN1lavLs7MOEWErbXFyKJLcRcLcHr2ZuqgqA4q0.jpg",
+        "https://cdn.salla.sa/jZjwre/71a7e548-e433-462d-96d5-bc9b2272fccd-1000x538.52392538524-T9U6WWniwVUoGVgXTAyzQmmv3gTxb8EatoA9Y8PJ.jpg",
+        "https://cdn.salla.sa/jZjwre/1511cb8d-180d-422e-af80-704915610a04-1000x613.89337641357-joDsiyNkz5N1CB6NDjn38ZyLabV03SkXtElNvZLg.jpg",
+        "https://cdn.salla.sa/jZjwre/679d7e5c-0aef-4c2d-ad1f-a434510c8ea9-1000x517.85714285714-vSLLFZeMRYDhwtlQ1ByV6WC7iGxVzrsGtWK8ARfh.jpg",
+        "https://cdn.salla.sa/jZjwre/5491e5bf-5ad1-4f34-a4ee-e7d1e1d0e1e9-1000x531.22465531225-NWeDmEIohhDkJEeDs7ETatR8ILBs3N6h9v4mzXgV.jpg",
+        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
+        "https://cdn.salla.sa/jZjwre/4683c45b-0f16-4b27-a046-c59b24fac95b-1000x534.9025974026-P8uBb35f5hzmkkq0TvJilmsGv9y0PxCH12MTbD1k.jpg",
+        "https://cdn.salla.sa/jZjwre/365ee585-0e1c-4045-b131-973f0f336013-1000x530.84415584416-Nu9zvW9sXamEwX8S5dRePt9n0B4jKzIdLGjrsohu.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "36 (22.5 سم)",
+        "37 (23.0 سم)",
+        "37.5 (23.5 سم)",
+        "38 (24.0 سم)",
+        "39 (24.5 سم)",
+        "40 (25.0 سم)",
+        "40.5 (25.5 سم)",
+        "41.5 (26.0 سم)",
+        "42 (26.5 سم)"
+      ],
+      "colors": [
+        "أسود × رمادي جرافيت",
+        "أسود × وردي لؤلؤي",
+        "أبيض × أبيض"
+      ],
+      "options": [
+        {
+          "id": "922687301",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "650074509",
+              "name": "أسود × رمادي جرافيت",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4235090f-4904-4b04-8920-196cf9a91d0c-500x313.31168831169-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg"
+            },
+            {
+              "id": "1887729806",
+              "name": "أسود × وردي لؤلؤي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/1d411b6d-8cf1-4f81-a366-1c59e59fe04d-500x305.66666666667-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg"
+            },
+            {
+              "id": "1113753487",
+              "name": "أبيض × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/8f6426df-13cf-40e6-bd8b-15d5e582a0b6-500x292.20779220779-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg"
+            }
+          ]
+        },
+        {
+          "id": "12858950",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "474982024",
+              "name": "36 (22.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1846855049",
+              "name": "37 (23.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1005708426",
+              "name": "37.5 (23.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "366871435",
+              "name": "38 (24.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1740317332",
+              "name": "39 (24.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "830488981",
+              "name": "40 (25.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "57499798",
+              "name": "40.5 (25.5 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1565233047",
+              "name": "41.5 (26.0 سم)",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "789622416",
+              "name": "42 (26.5 سم)",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1106815625",
+      "en": {
+        "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
+        "brand": "ASICS",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "Gen 28 — softest for long runs",
+        "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1012B899 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "ASICS GEL-NIMBUS 28"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "GEL-NIMBUS"
+              },
+              " line has been ASICS' ",
+              {
+                "b": "softest-riding"
+              },
+              " shoe since 1999. \"Nimbus\" is Latin for ",
+              {
+                "b": "cloud"
+              },
+              " — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "What is new in generation 28"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "About 20 g lighter than generation 27"
+              },
+              " — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "FF BLAST PLUS midsole"
+              },
+              " — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. ",
+              {
+                "b": "Around 24% of the foam comes from renewable sugarcane"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "PureGEL in the heel"
+              },
+              " — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "A knitted engineered-knit upper"
+              },
+              " — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "HYBRID ASICSGRIP outsole"
+              },
+              " — two rubbers: ",
+              {
+                "b": "ASICSGRIP"
+              },
+              " through the midfoot for high traction on varied surfaces, and ",
+              {
+                "b": "AHARPLUS"
+              },
+              " at the forefoot and heel, roughly ",
+              {
+                "b": "three times"
+              },
+              " more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For anyone starting to run, and for anyone whose goal is ",
+              {
+                "b": "finishing a full marathon"
+              },
+              ". It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is ",
+              {
+                "b": "stability"
+              },
+              " against the ankle rolling inward, the ",
+              {
+                "b": "GEL-KAYANO 33"
+              },
+              " is your shoe, not the Nimbus."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Official specifications"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Model code: ",
+              {
+                "b": "1012B899"
+              },
+              " — standard width"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Sizes: ",
+              {
+                "b": "22.5–26.5 cm in 0.5 cm steps"
+              },
+              " (women's)"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Made in: Vietnam / Indonesia"
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are shown in European numbering with the ",
+              {
+                "b": "inner length in centimetres"
+              },
+              " beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Running Shoes"
+        ],
+        "options": {
+          "12858950": {
+            "name": "Size",
+            "values": {
+              "57499798": "40.5 (25.5 cm)",
+              "366871435": "38 (24.0 cm)",
+              "474982024": "36 (22.5 cm)",
+              "789622416": "42 (26.5 cm)",
+              "830488981": "40 (25.0 cm)",
+              "1005708426": "37.5 (23.5 cm)",
+              "1565233047": "41.5 (26.0 cm)",
+              "1740317332": "39 (24.5 cm)",
+              "1846855049": "37 (23.0 cm)"
+            }
+          },
+          "922687301": {
+            "name": "Color",
+            "values": {
+              "650074509": "Black × Graphite Grey",
+              "1113753487": "White × White",
+              "1887729806": "Black × Pearl Pink"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "1031256474",
       "sallaId": "1031256474",
       "sku": "RSP-ASICS-KAYANO33-M",
@@ -6256,515 +6765,6 @@
               "1499147187": "44.5 (28.5 cm)",
               "1672793776": "42.5 (27.0 cm)",
               "1780769205": "40.5 (25.5 cm)"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "1106815625",
-      "sallaId": "1106815625",
-      "sku": "RSP-ASICS-NIMBUS28-W",
-      "name": "حذاء أسيكس جل نيمبوس 28 نسائي",
-      "brand": "اسيكس",
-      "category": "shoes",
-      "sport": "الجري",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "أحذية جري"
-      ],
-      "price": 580,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "الجيل 28 — الأنعم للجري الطويل",
-      "description": "أسيكس جل نيمبوس 28 سلسلة GEL-NIMBUS هي حذاء أسيكس الأعلى في نعومة النعل منذ 1999، واسم «نيمبوس» لاتينيّ معناه السحابة — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026. ما الجديد في الجيل 28 أخفّ بنحو 20 غراماً من الجيل 27 — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما. نعل وسطي FF BLAST PLUS — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد . PureGEL في الكعب — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل. جزء علوي «إنجينيرد نِت» محبوك — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط. نعل خارجي HYBRID ASICSGRIP — نوعان من المطاط: ASICSGRIP في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و AHARPLUS في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ثلاثة أضعاف مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً. لمن هذا الحذاء؟ لمن يبدأ الجري الآن، ولمن هدفه إنهاء ماراثون كامل . أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ثبات يمنع دوران الكاحل للداخل، فالمناسب لك هو جل كايانو 33 لا النيمبوس. البيانات الرسمية كود الموديل: 1012B899 — العرض القياسي المقاسات: 22.5–26.5 سم بخطوة 0.5 سم (نسائي) بلد الصنع: فيتنام / إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
-      "desc": [
-        {
-          "t": "h",
-          "s": [
-            "أسيكس جل نيمبوس 28"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "سلسلة ",
-            {
-              "b": "GEL-NIMBUS"
-            },
-            " هي حذاء أسيكس الأعلى في ",
-            {
-              "b": "نعومة النعل"
-            },
-            " منذ 1999، واسم «نيمبوس» لاتينيّ معناه ",
-            {
-              "b": "السحابة"
-            },
-            " — والفكرة كلها أن تشعر بأنك تجري فوق سحابة لا فوق الأسفلت. والجيل 28 صدر في اليابان في يناير 2026."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "ما الجديد في الجيل 28"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "أخفّ بنحو 20 غراماً من الجيل 27"
-            },
-            " — أُعيد توزيع المطاط على النعل الخارجي ليوضع في مواضع الاحتكاك فقط، فنزل الوزن مع بقاء التماسك والمتانة كما هما."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "نعل وسطي FF BLAST PLUS"
-            },
-            " — رغوة خفيفة وطريّة تمتصّ صدمة كل خطوة بدل أن تنقلها إلى الركبة. و",
-            {
-              "b": "نحو 24% من مادة الرغوة مصدرها قصب السكر المتجدّد"
-            },
-            "."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "PureGEL في الكعب"
-            },
-            " — وحدة امتصاص الصدمات في أكثر موضع يستقبل الأرض عند الجري الطويل، وهي ما يجعل الكيلومترات الأخيرة أرحم على المفاصل."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "جزء علوي «إنجينيرد نِت» محبوك"
-            },
-            " — نسيج واحد تتغيّر طريقة حبكه وحجم مسامّه حسب موضعه من القدم: تهوية أوسع حيث تحتاج، وإحاطة أثبت حيث يجب. واللسان والفتحة العلوية من نسيج مطّاط يلفّ ظهر القدم بلين بلا ضغط."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "نعل خارجي HYBRID ASICSGRIP"
-            },
-            " — نوعان من المطاط: ",
-            {
-              "b": "ASICSGRIP"
-            },
-            " في منتصف النعل لتماسك عالٍ على مختلف الأسطح، و",
-            {
-              "b": "AHARPLUS"
-            },
-            " في المقدمة والكعب — وهو أكثر مقاومة للتآكل بنحو ",
-            {
-              "b": "ثلاثة أضعاف"
-            },
-            " مطاط أسيكس التقليدي، أي في الموضعين اللذين يستهلكهما الجري فعلاً."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "لمن هذا الحذاء؟"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "لمن يبدأ الجري الآن، ولمن هدفه ",
-            {
-              "b": "إنهاء ماراثون كامل"
-            },
-            ". أي أنه حذاء المسافات اليومية الطويلة بالدرجة الأولى: الراحة والامتصاص أولاً، لا السرعة القصوى. وإن كنت تبحث عن ",
-            {
-              "b": "ثبات"
-            },
-            " يمنع دوران الكاحل للداخل، فالمناسب لك هو ",
-            {
-              "b": "جل كايانو 33"
-            },
-            " لا النيمبوس."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "البيانات الرسمية"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "كود الموديل: ",
-            {
-              "b": "1012B899"
-            },
-            " — العرض القياسي"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "المقاسات: ",
-            {
-              "b": "22.5–26.5 سم بخطوة 0.5 سم"
-            },
-            " (نسائي)"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "بلد الصنع: فيتنام / إندونيسيا"
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "المقاسات"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "المقاسات مكتوبة بالمقاس الأوروبي وبجانبه ",
-            {
-              "b": "الطول الداخلي بالسنتيمتر"
-            },
-            " وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/3c8294ce-dc6e-45ee-b242-b57c84dd51a6-1000x626.62337662338-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg",
-        "https://cdn.salla.sa/jZjwre/b9c17160-5d0f-4c21-b378-07728debbc18-1000x611.33333333333-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg",
-        "https://cdn.salla.sa/jZjwre/1b9da767-1a59-4452-ac26-9f1ddc30af3a-1000x584.41558441558-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg",
-        "https://cdn.salla.sa/jZjwre/0d22d285-4a8e-461c-af2e-3af62645dca1-1000x532.84671532847-z0nHyvkXRk8utzUYlyuxv0og4ADv5tS6s8T8rHSr.jpg",
-        "https://cdn.salla.sa/jZjwre/baf7b1c1-90de-4a6d-87d3-4ebf60721a79-1000x545.01216545012-XaN1lavLs7MOEWErbXFyKJLcRcLcHr2ZuqgqA4q0.jpg",
-        "https://cdn.salla.sa/jZjwre/71a7e548-e433-462d-96d5-bc9b2272fccd-1000x538.52392538524-T9U6WWniwVUoGVgXTAyzQmmv3gTxb8EatoA9Y8PJ.jpg",
-        "https://cdn.salla.sa/jZjwre/1511cb8d-180d-422e-af80-704915610a04-1000x613.89337641357-joDsiyNkz5N1CB6NDjn38ZyLabV03SkXtElNvZLg.jpg",
-        "https://cdn.salla.sa/jZjwre/679d7e5c-0aef-4c2d-ad1f-a434510c8ea9-1000x517.85714285714-vSLLFZeMRYDhwtlQ1ByV6WC7iGxVzrsGtWK8ARfh.jpg",
-        "https://cdn.salla.sa/jZjwre/5491e5bf-5ad1-4f34-a4ee-e7d1e1d0e1e9-1000x531.22465531225-NWeDmEIohhDkJEeDs7ETatR8ILBs3N6h9v4mzXgV.jpg",
-        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
-        "https://cdn.salla.sa/jZjwre/4683c45b-0f16-4b27-a046-c59b24fac95b-1000x534.9025974026-P8uBb35f5hzmkkq0TvJilmsGv9y0PxCH12MTbD1k.jpg",
-        "https://cdn.salla.sa/jZjwre/365ee585-0e1c-4045-b131-973f0f336013-1000x530.84415584416-Nu9zvW9sXamEwX8S5dRePt9n0B4jKzIdLGjrsohu.jpg"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "36 (22.5 سم)",
-        "37 (23.0 سم)",
-        "37.5 (23.5 سم)",
-        "38 (24.0 سم)",
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)"
-      ],
-      "colors": [
-        "أسود × رمادي جرافيت",
-        "أسود × وردي لؤلؤي",
-        "أبيض × أبيض"
-      ],
-      "options": [
-        {
-          "id": "922687301",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "650074509",
-              "name": "أسود × رمادي جرافيت",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/4235090f-4904-4b04-8920-196cf9a91d0c-500x313.31168831169-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg"
-            },
-            {
-              "id": "1887729806",
-              "name": "أسود × وردي لؤلؤي",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/1d411b6d-8cf1-4f81-a366-1c59e59fe04d-500x305.66666666667-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg"
-            },
-            {
-              "id": "1113753487",
-              "name": "أبيض × أبيض",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/8f6426df-13cf-40e6-bd8b-15d5e582a0b6-500x292.20779220779-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg"
-            }
-          ]
-        },
-        {
-          "id": "12858950",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "474982024",
-              "name": "36 (22.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1846855049",
-              "name": "37 (23.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1005708426",
-              "name": "37.5 (23.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "366871435",
-              "name": "38 (24.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1740317332",
-              "name": "39 (24.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "830488981",
-              "name": "40 (25.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "57499798",
-              "name": "40.5 (25.5 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1565233047",
-              "name": "41.5 (26.0 سم)",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "789622416",
-              "name": "42 (26.5 سم)",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1106815625",
-      "en": {
-        "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
-        "brand": "ASICS",
-        "sport": "Running",
-        "tagline": null,
-        "subtitle": "Gen 28 — softest for long runs",
-        "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1012B899 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
-        "desc": [
-          {
-            "t": "h",
-            "s": [
-              "ASICS GEL-NIMBUS 28"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "The ",
-              {
-                "b": "GEL-NIMBUS"
-              },
-              " line has been ASICS' ",
-              {
-                "b": "softest-riding"
-              },
-              " shoe since 1999. \"Nimbus\" is Latin for ",
-              {
-                "b": "cloud"
-              },
-              " — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "What is new in generation 28"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "About 20 g lighter than generation 27"
-              },
-              " — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "FF BLAST PLUS midsole"
-              },
-              " — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. ",
-              {
-                "b": "Around 24% of the foam comes from renewable sugarcane"
-              },
-              "."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "PureGEL in the heel"
-              },
-              " — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "A knitted engineered-knit upper"
-              },
-              " — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "HYBRID ASICSGRIP outsole"
-              },
-              " — two rubbers: ",
-              {
-                "b": "ASICSGRIP"
-              },
-              " through the midfoot for high traction on varied surfaces, and ",
-              {
-                "b": "AHARPLUS"
-              },
-              " at the forefoot and heel, roughly ",
-              {
-                "b": "three times"
-              },
-              " more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Who is it for?"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "For anyone starting to run, and for anyone whose goal is ",
-              {
-                "b": "finishing a full marathon"
-              },
-              ". It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is ",
-              {
-                "b": "stability"
-              },
-              " against the ankle rolling inward, the ",
-              {
-                "b": "GEL-KAYANO 33"
-              },
-              " is your shoe, not the Nimbus."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Official specifications"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Model code: ",
-              {
-                "b": "1012B899"
-              },
-              " — standard width"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Sizes: ",
-              {
-                "b": "22.5–26.5 cm in 0.5 cm steps"
-              },
-              " (women's)"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Made in: Vietnam / Indonesia"
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Sizing"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Sizes are shown in European numbering with the ",
-              {
-                "b": "inner length in centimetres"
-              },
-              " beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone."
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Running Shoes"
-        ],
-        "options": {
-          "12858950": {
-            "name": "Size",
-            "values": {
-              "57499798": "40.5 (25.5 cm)",
-              "366871435": "38 (24.0 cm)",
-              "474982024": "36 (22.5 cm)",
-              "789622416": "42 (26.5 cm)",
-              "830488981": "40 (25.0 cm)",
-              "1005708426": "37.5 (23.5 cm)",
-              "1565233047": "41.5 (26.0 cm)",
-              "1740317332": "39 (24.5 cm)",
-              "1846855049": "37 (23.0 cm)"
-            }
-          },
-          "922687301": {
-            "name": "Color",
-            "values": {
-              "650074509": "Black × Graphite Grey",
-              "1113753487": "White × White",
-              "1887729806": "Black × Pearl Pink"
             }
           }
         }
@@ -9446,31 +9446,31 @@
             {
               "id": "1852819200",
               "name": "41.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "942990849",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "168887554",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1744708611",
               "name": "43.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1099583410",
               "name": "44",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -9512,7 +9512,7 @@
             {
               "id": "620367114",
               "name": "49",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -9676,449 +9676,6 @@
               "1744708611": "43.5",
               "1852819200": "41.5",
               "2033241864": "47.5"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "810346638",
-      "sallaId": "810346638",
-      "sku": "RSP-ASICS-METARISE2",
-      "name": "حذاء أسيكس ميتارايز 2",
-      "brand": "اسيكس",
-      "category": "shoes",
-      "sport": null,
-      "tags": [
-        "أحذية كرة طائرة"
-      ],
-      "price": 829,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "أقصى ارتفاع قفزة من أسيكس",
-      "description": "أسيكس ميتارايز 2 الميتارايز 2 هو قمة ما تصنعه أسيكس للكرة الطائرة ، مبنيّ من أوله لآخره حول هدف واحد: أعلى قفزة ممكنة، وهبوط تتحمّله شوطاً بعد شوط . ويأتي بلونين: بابلجم وأسود و إنديجو فوغ . المنصّة — وما تفعله فعلاً نعل FF BLAST PLUS مع لوح كربوني — الرغوة تعيد لك جزءاً من طاقة الخطوة بدل أن تبتلعها، واللوح الكربوني يمنح المنصّة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك في اللحظة التي تحتاج فيها أرضاً صلبة. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتصّ التركيب صدمة النزول المتكرر. جزء علوي بتقنية MONO-SOCK — يدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. النتيجة العملية: القدم لا «تسبح» داخل الحذاء عند التوقف المفاجئ قبل القفزة. هيكل RISETRUSS — يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً. فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الالتواء. قصّة متوسطة (Mid-cut) — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو أخطر موقف على لاعب يقفز عشرات المرات في المباراة الواحدة. لمن هذا الحذاء؟ للاعبي القفز المتواصل قبل أي أحد: الضارب المقابل (Opposite) و لاعب الوسط (Middle Blocker) — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب اقتراباً ثم دفعاً ثم هبوطاً ثم تكراراً فوراً، فهذا الحذاء مبنيّ لك بالتحديد. ومتى لا يناسبك؟ — بصراحة إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أكثر تقييداً مما تحتاج وسعره لا يُبرّر ذلك في حالتك؛ والبديل الأنسب هو سكاي إيليت ، وهو الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام . وكذلك اللوح الكربوني يجعل الإحساس صلباً وحاسماً تحت القدم — من يفضّل نعلاً ليّناً طريّاً لن يحبّ هذه المنصّة.",
-      "desc": [
-        {
-          "t": "h",
-          "s": [
-            "أسيكس ميتارايز 2"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "الميتارايز 2 هو ",
-            {
-              "b": "قمة ما تصنعه أسيكس للكرة الطائرة"
-            },
-            "، مبنيّ من أوله لآخره حول هدف واحد: ",
-            {
-              "b": "أعلى قفزة ممكنة، وهبوط تتحمّله شوطاً بعد شوط"
-            },
-            ". ويأتي بلونين: ",
-            {
-              "b": "بابلجم وأسود"
-            },
-            " و",
-            {
-              "b": "إنديجو فوغ"
-            },
-            "."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "المنصّة — وما تفعله فعلاً"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "نعل FF BLAST PLUS مع لوح كربوني"
-            },
-            " — الرغوة تعيد لك جزءاً من طاقة الخطوة بدل أن تبتلعها، واللوح الكربوني يمنح المنصّة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك في اللحظة التي تحتاج فيها أرضاً صلبة. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتصّ التركيب صدمة النزول المتكرر."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "جزء علوي بتقنية MONO-SOCK"
-            },
-            " — يدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. النتيجة العملية: القدم لا «تسبح» داخل الحذاء عند التوقف المفاجئ قبل القفزة."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "هيكل RISETRUSS"
-            },
-            " — يقاوم ",
-            {
-              "b": "التواء منتصف القدم"
-            },
-            " في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً. فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الالتواء."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "قصّة متوسطة (Mid-cut)"
-            },
-            " — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو أخطر موقف على لاعب يقفز عشرات المرات في المباراة الواحدة."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "لمن هذا الحذاء؟"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "للاعبي القفز المتواصل قبل أي أحد: ",
-            {
-              "b": "الضارب المقابل (Opposite)"
-            },
-            " و",
-            {
-              "b": "لاعب الوسط (Middle Blocker)"
-            },
-            " — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب اقتراباً ثم دفعاً ثم هبوطاً ثم تكراراً فوراً، فهذا الحذاء مبنيّ لك بالتحديد."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "ومتى لا يناسبك؟ — بصراحة"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "إن كنت ",
-            {
-              "b": "ليبرو"
-            },
-            " أو ",
-            {
-              "b": "مُعِداً"
-            },
-            " تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أكثر تقييداً مما تحتاج وسعره لا يُبرّر ذلك في حالتك؛ والبديل الأنسب هو ",
-            {
-              "b": "سكاي إيليت"
-            },
-            "، وهو ",
-            {
-              "b": "الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام"
-            },
-            ". وكذلك اللوح الكربوني يجعل الإحساس صلباً وحاسماً تحت القدم — من يفضّل نعلاً ليّناً طريّاً لن يحبّ هذه المنصّة."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/fa9638dd-43d3-4943-9728-0e2ba074095a-1000x1000-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg",
-        "https://cdn.salla.sa/jZjwre/7e9698d9-841c-4e86-aab0-e390f0482d7a-1000x586.16904500549-t73tHy2nubg0QaHgr14C6PrfRcDnbcUC1qgdws3H.png",
-        "https://cdn.salla.sa/jZjwre/53d8e543-b3f8-4ac2-8cef-065d041ee30b-1000x1000-CLrW5k6BfqDOVh2lzmZPqoAICGFdw6JDA5aIJXqk.jpg",
-        "https://cdn.salla.sa/jZjwre/0b010271-fe78-4240-9289-4e98d96f119b-1000x1000-dbfBkirrPl3JdlDv51Qk8ThIPcHx58ap4ZiATomE.jpg",
-        "https://cdn.salla.sa/jZjwre/8dc4ef6a-506f-4b6f-94d3-516ce0301641-1000x1000-XCgyERTqafzJSdI206bfJllCNqe8rHU43fKtJXr6.jpg",
-        "https://cdn.salla.sa/jZjwre/499190e8-fec1-4bb8-8e81-0b1396279c4d-1000x1000-gEdqlbApj40Dvxb3qnpEWIq6HIY9NUyZuUpPkgyD.jpg",
-        "https://cdn.salla.sa/jZjwre/50f6ff2a-90f0-4199-a76d-c23f9b395eaf-1000x1000-LUNdn3zZgtAfEzZm2NGUOckx0wBPcoYkLt84E6FQ.jpg",
-        "https://cdn.salla.sa/jZjwre/8a3d25e6-4b40-4c71-a99e-3869599e8ad7-1000x1000-RlFASnSSuek2vmmoYlXLh6vrjoGFB30Y24PcoZjN.jpg",
-        "https://cdn.salla.sa/jZjwre/7b06515b-4ef5-446a-bf59-9b5efaa48d57-1000x1000-S630LhgP7NItkh54xgTjbhrz63YarrKx6Ivp1C5W.jpg",
-        "https://cdn.salla.sa/jZjwre/d2436757-7b94-420b-a84f-cb5b5dd0c4b9-839.37823834197x1000-IZLZY24NfrhaOINVOEGy0lHB7VbPWKICVmLsKX5m.png",
-        "https://cdn.salla.sa/jZjwre/f0101d6a-3372-4824-a531-c2340d2b4d36-1000x589.57952468007-xq21deTKSumiQxu82iuEWcMShbwvX4YB9fyxdDZO.png",
-        "https://cdn.salla.sa/jZjwre/e75f313f-1db1-4149-bcbb-2aaec55236a2-1000x597.80621572212-e1IUq6tMMCdJ4B6QyE1NgaipKXRzYwALdvmkII9W.png",
-        "https://cdn.salla.sa/jZjwre/cbbfb330-0079-4248-a054-68356f9ce267-949.67741935484x1000-uardPsLbl3LDXtfGHxL7IAh47bkS9yOixzAn3dFO.png",
-        "https://cdn.salla.sa/jZjwre/f0a757c3-33de-44b0-be77-65881cdfec03-1000x659.3707250342-wRW6E6P1paVCKm1jcRRcBMDbKnjrKZ2ipICyCu7U.png"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "41.5",
-        "42",
-        "42.5",
-        "43.5",
-        "44",
-        "44.5",
-        "45",
-        "46",
-        "47",
-        "47.5",
-        "48",
-        "49"
-      ],
-      "colors": [
-        "إنديجو فوغ",
-        "بابلجم × أسود"
-      ],
-      "options": [
-        {
-          "id": "1051301440",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "188917476",
-              "name": "إنديجو فوغ",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/92a20629-a813-4c83-8383-c1f0d02055eb-500x293.08452250274-t73tHy2nubg0QaHgr14C6PrfRcDnbcUC1qgdws3H.png"
-            },
-            {
-              "id": "1697629669",
-              "name": "بابلجم × أسود",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/fd62c150-4d64-4222-a4bc-deb29bd513d0-500x500-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg"
-            }
-          ]
-        },
-        {
-          "id": "1227274198",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "2134864158",
-              "name": "41.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "116389367",
-              "name": "42",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "589790591",
-              "name": "42.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "2098044024",
-              "name": "43.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1324006265",
-              "name": "44",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1225101343",
-              "name": "44.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1788672379",
-              "name": "45",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1148786756",
-              "name": "46",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "373696325",
-              "name": "47",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "451067672",
-              "name": "47.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1612924486",
-              "name": "48",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1388192480",
-              "name": "49",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p810346638",
-      "en": {
-        "name": "ASICS Metarise 2 Volleyball Shoe",
-        "brand": "ASICS",
-        "sport": null,
-        "tagline": null,
-        "subtitle": "ASICS' highest jump platform",
-        "description": "ASICS Metarise 2 The Metarise 2 is the peak of what ASICS builds for volleyball , designed end to end around one goal: the highest jump possible, and a landing you can take set after set . It comes in two colourways: Bubblegum and Black and Indigo Fog . The platform — and what it actually does FF BLAST PLUS midsole with a carbon plate — the foam returns part of each step's energy instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you at the very moment you need solid ground. And on landing — which is what really wears a player down over a match — the construction absorbs the repeated impact. MONO-SOCK upper — it merges the tongue with the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping during the approach steps. The practical result: the foot does not \"swim\" inside the shoe on the sudden stop before the jump. RISETRUSS structure — it resists midfoot twisting at the final push so energy does not leak sideways. What you drive into the floor comes back as height instead of being lost to a twist. Mid cut — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous situation for a player who jumps dozens of times in a single match. Who is it for? For continuous jumpers before anyone else: the opposite and the middle blocker — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you. And when does it not suit you? — frankly If you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is more restrictive than you need and its price does not justify it in your case; the better fit is the Sky Elite , ASICS' top tier among all-round volleyball shoes . The carbon plate also makes the feel firm and decisive underfoot — anyone who prefers a soft, plush midsole will not enjoy this platform.",
-        "desc": [
-          {
-            "t": "h",
-            "s": [
-              "ASICS Metarise 2"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "The Metarise 2 is ",
-              {
-                "b": "the peak of what ASICS builds for volleyball"
-              },
-              ", designed end to end around one goal: ",
-              {
-                "b": "the highest jump possible, and a landing you can take set after set"
-              },
-              ". It comes in two colourways: ",
-              {
-                "b": "Bubblegum and Black"
-              },
-              " and ",
-              {
-                "b": "Indigo Fog"
-              },
-              "."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "The platform — and what it actually does"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "FF BLAST PLUS midsole with a carbon plate"
-              },
-              " — the foam returns part of each step's energy instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you at the very moment you need solid ground. And on landing — which is what really wears a player down over a match — the construction absorbs the repeated impact."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "MONO-SOCK upper"
-              },
-              " — it merges the tongue with the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping during the approach steps. The practical result: the foot does not \"swim\" inside the shoe on the sudden stop before the jump."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "RISETRUSS structure"
-              },
-              " — it resists ",
-              {
-                "b": "midfoot twisting"
-              },
-              " at the final push so energy does not leak sideways. What you drive into the floor comes back as height instead of being lost to a twist."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "Mid cut"
-              },
-              " — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous situation for a player who jumps dozens of times in a single match."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Who is it for?"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "For continuous jumpers before anyone else: the ",
-              {
-                "b": "opposite"
-              },
-              " and the ",
-              {
-                "b": "middle blocker"
-              },
-              " — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "And when does it not suit you? — frankly"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "If you are a ",
-              {
-                "b": "libero"
-              },
-              " or a ",
-              {
-                "b": "setter"
-              },
-              " looking for lightness and free ankle movement more than maximum jump height, this shoe is more restrictive than you need and its price does not justify it in your case; the better fit is the ",
-              {
-                "b": "Sky Elite"
-              },
-              ", ASICS' ",
-              {
-                "b": "top tier among all-round volleyball shoes"
-              },
-              ". The carbon plate also makes the feel firm and decisive underfoot — anyone who prefers a soft, plush midsole will not enjoy this platform."
-            ]
-          }
-        ],
-        "tags": [
-          "Volleyball Shoes"
-        ],
-        "options": {
-          "1051301440": {
-            "name": "Color",
-            "values": {
-              "188917476": "Indigo Fog",
-              "1697629669": "Bubblegum × Black"
-            }
-          },
-          "1227274198": {
-            "name": "Size",
-            "values": {
-              "116389367": "42",
-              "373696325": "47",
-              "451067672": "47.5",
-              "589790591": "42.5",
-              "1148786756": "46",
-              "1225101343": "44.5",
-              "1324006265": "44",
-              "1388192480": "49",
-              "1612924486": "48",
-              "1788672379": "45",
-              "2098044024": "43.5",
-              "2134864158": "41.5"
             }
           }
         }
@@ -13051,294 +12608,6 @@
       }
     },
     {
-      "id": "651509262",
-      "sallaId": "651509262",
-      "sku": null,
-      "name": "كم ذراع أسيكس",
-      "brand": "أخرى",
-      "category": "gear",
-      "sport": null,
-      "tags": [
-        "معدات وإكسسوارات",
-        "حاميات الركبة وأكمام اليد"
-      ],
-      "price": 119,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": null,
-      "description": "كم ذراع منسوج من ASICS يمتدّ من الرسغ إلى أعلى الذراع ، بلون أسود وشعار ASICS الأبيض. نسيج مطاطي ضاغط بخفة يثبت على الذراع دون أربطة أو مشابك، فيبقى مكانه أثناء اللعب. الخامة 58% نايلون — للمتانة ونعومة الملمس. 35% بوليستر — يسحب العرق من الجلد ويجفّ بسرعة. 7% بولي يوريثان — يمنح المطاطية والشدّ الخفيف دون تقييد حركة المرفق. صناعة يابانية. المقاس مقاس واحد يناسب معظم المستخدمين: محيط الرسغ 15–18 سم، ومحيط أعلى الذراع 26–30 سم. قِس ذراعك قبل الطلب إذا كنت خارج هذا النطاق. لماذا يهمّ لاعب الكرة الطائرة الساعد هو نقطة التلامس في الاستقبال والدفاع، والارتماء على الأرضية يترك احتكاكاً وخدوشاً متكررة عليه. الكم يغطي الساعد كاملاً فيقلّل احتكاك الجلد بالأرضية، ويبقي عضلات الذراع دافئة بين الجولات وفي الصالات المكيّفة، ويمتصّ العرق فتبقى الذراع جافة أثناء اللعب. طريقة الارتداء اقلب الكم من الأعلى وأدخل يدك من الطرف الضيّق (جهة الرسغ) أولاً. اسحبه تدريجياً إلى أعلى الذراع حتى يستقرّ فوق المرفق دون طيّات. تأكد من عدم وجود شدّ زائد؛ إن ترك علامة عميقة على الجلد فالمقاس ضيّق عليك. يُلبس قبل الإحماء ويبقى طوال التمرين أو المباراة. العناية اغسله يدوياً بماء بارد بعد كل استخدام واتركه يجفّ في الهواء بعيداً عن الشمس المباشرة. تجنّب المجفّف الكهربائي والمبيّض والمكواة حفاظاً على مطاطية الخيوط. إن كان الألم شديداً أو مستمراً، راجع مختصاً.",
-      "desc": [
-        {
-          "t": "p",
-          "s": [
-            {
-              "b": "كم ذراع منسوج من ASICS يمتدّ من الرسغ إلى أعلى الذراع"
-            },
-            "، بلون أسود وشعار ASICS الأبيض. نسيج مطاطي ضاغط بخفة يثبت على الذراع دون أربطة أو مشابك، فيبقى مكانه أثناء اللعب."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "الخامة"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "58% نايلون"
-            },
-            " — للمتانة ونعومة الملمس."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "35% بوليستر"
-            },
-            " — يسحب العرق من الجلد ويجفّ بسرعة."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "7% بولي يوريثان"
-            },
-            " — يمنح المطاطية والشدّ الخفيف دون تقييد حركة المرفق."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "صناعة يابانية."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "المقاس"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "مقاس واحد يناسب معظم المستخدمين: محيط الرسغ 15–18 سم، ومحيط أعلى الذراع 26–30 سم. قِس ذراعك قبل الطلب إذا كنت خارج هذا النطاق."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "لماذا يهمّ لاعب الكرة الطائرة"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "الساعد هو نقطة التلامس في الاستقبال والدفاع، والارتماء على الأرضية يترك احتكاكاً وخدوشاً متكررة عليه. الكم يغطي الساعد كاملاً فيقلّل احتكاك الجلد بالأرضية، ويبقي عضلات الذراع دافئة بين الجولات وفي الصالات المكيّفة، ويمتصّ العرق فتبقى الذراع جافة أثناء اللعب."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "طريقة الارتداء"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "اقلب الكم من الأعلى وأدخل يدك من الطرف الضيّق (جهة الرسغ) أولاً."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "اسحبه تدريجياً إلى أعلى الذراع حتى يستقرّ فوق المرفق دون طيّات."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "تأكد من عدم وجود شدّ زائد؛ إن ترك علامة عميقة على الجلد فالمقاس ضيّق عليك."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "يُلبس قبل الإحماء ويبقى طوال التمرين أو المباراة."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "العناية"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "اغسله يدوياً بماء بارد بعد كل استخدام واتركه يجفّ في الهواء بعيداً عن الشمس المباشرة. تجنّب المجفّف الكهربائي والمبيّض والمكواة حفاظاً على مطاطية الخيوط."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "إن كان الألم شديداً أو مستمراً، راجع مختصاً. "
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/e67cc10e-4909-42cd-857c-83ab4def174f-1000x1000-3b8eiGKEPMYfgtc48ycYWOtYkVPCdCcwtzCGr8TQ.png"
-      ],
-      "optionNames": {
-        "size": null,
-        "color": null
-      },
-      "sizes": [],
-      "colors": [],
-      "options": [],
-      "model": null,
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p651509262",
-      "en": {
-        "name": "ASICS Sports Arm Sleeve",
-        "brand": null,
-        "sport": null,
-        "tagline": null,
-        "subtitle": null,
-        "description": "A woven ASICS arm sleeve running from the wrist to the upper arm , in black with the white ASICS logo. A lightly compressive stretch fabric holds it on the arm with no straps or clips, so it stays where you put it while you play. Material 58% nylon — for durability and a smooth feel. 35% polyester — wicks sweat off the skin and dries quickly. 7% polyurethane — provides the stretch and the light compression without restricting elbow movement. Made in Japan. Size One size fits most: wrist circumference 15–18 cm, upper-arm circumference 26–30 cm. Measure your arm before ordering if you fall outside that range. Why it matters for a volleyball player The forearm is the point of contact in reception and defence, and throwing yourself at the floor leaves it with repeated friction and scrapes. The sleeve covers the whole forearm, cutting skin friction against the floor, keeping the arm muscles warm between rallies and in air-conditioned halls, and absorbing sweat so the arm stays dry while you play. How to put it on Turn the sleeve down from the top and slide your hand in through the narrow end (the wrist side) first. Draw it gradually up the arm until it sits above the elbow without folds. Check that it is not over-tight; if it leaves a deep mark on the skin, the size is too small for you. Put it on before warming up and keep it on through the session or the match. Care Hand wash in cold water after every use and let it air dry away from direct sun. Avoid the tumble dryer, bleach and the iron to preserve the elasticity of the yarn. If pain is severe or persistent, see a specialist.",
-        "desc": [
-          {
-            "t": "p",
-            "s": [
-              {
-                "b": "A woven ASICS arm sleeve running from the wrist to the upper arm"
-              },
-              ", in black with the white ASICS logo. A lightly compressive stretch fabric holds it on the arm with no straps or clips, so it stays where you put it while you play."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Material"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "58% nylon"
-              },
-              " — for durability and a smooth feel."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "35% polyester"
-              },
-              " — wicks sweat off the skin and dries quickly."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "7% polyurethane"
-              },
-              " — provides the stretch and the light compression without restricting elbow movement."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Made in Japan."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Size"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "One size fits most: wrist circumference 15–18 cm, upper-arm circumference 26–30 cm. Measure your arm before ordering if you fall outside that range."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Why it matters for a volleyball player"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "The forearm is the point of contact in reception and defence, and throwing yourself at the floor leaves it with repeated friction and scrapes. The sleeve covers the whole forearm, cutting skin friction against the floor, keeping the arm muscles warm between rallies and in air-conditioned halls, and absorbing sweat so the arm stays dry while you play."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "How to put it on"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Turn the sleeve down from the top and slide your hand in through the narrow end (the wrist side) first."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Draw it gradually up the arm until it sits above the elbow without folds."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Check that it is not over-tight; if it leaves a deep mark on the skin, the size is too small for you."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Put it on before warming up and keep it on through the session or the match."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Care"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Hand wash in cold water after every use and let it air dry away from direct sun. Avoid the tumble dryer, bleach and the iron to preserve the elasticity of the yarn."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "If pain is severe or persistent, see a specialist. "
-            ]
-          }
-        ],
-        "tags": [
-          "Equipment & Accessories",
-          "Knee Pads & Sleeves"
-        ],
-        "options": {}
-      }
-    },
-    {
       "id": "193357464",
       "sallaId": "193357464",
       "sku": null,
@@ -14495,7 +13764,7 @@
         "ملابس رياضية",
         "شورتات"
       ],
-      "price": 185,
+      "price": 178,
       "compareAt": null,
       "tagline": null,
       "subtitle": "ديسنت موف سبورت · طول ساق ١٣٫٥ سم · تجفيف سريع",
@@ -16729,6 +15998,449 @@
       }
     },
     {
+      "id": "810346638",
+      "sallaId": "810346638",
+      "sku": "RSP-ASICS-METARISE2",
+      "name": "حذاء أسيكس ميتارايز 2",
+      "brand": "اسيكس",
+      "category": "shoes",
+      "sport": null,
+      "tags": [
+        "أحذية كرة طائرة"
+      ],
+      "price": 599,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "أقصى ارتفاع قفزة من أسيكس",
+      "description": "أسيكس ميتارايز 2 الميتارايز 2 هو قمة ما تصنعه أسيكس للكرة الطائرة ، مبنيّ من أوله لآخره حول هدف واحد: أعلى قفزة ممكنة، وهبوط تتحمّله شوطاً بعد شوط . ويأتي بلونين: بابلجم وأسود و إنديجو فوغ . المنصّة — وما تفعله فعلاً نعل FF BLAST PLUS مع لوح كربوني — الرغوة تعيد لك جزءاً من طاقة الخطوة بدل أن تبتلعها، واللوح الكربوني يمنح المنصّة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك في اللحظة التي تحتاج فيها أرضاً صلبة. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتصّ التركيب صدمة النزول المتكرر. جزء علوي بتقنية MONO-SOCK — يدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. النتيجة العملية: القدم لا «تسبح» داخل الحذاء عند التوقف المفاجئ قبل القفزة. هيكل RISETRUSS — يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً. فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الالتواء. قصّة متوسطة (Mid-cut) — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو أخطر موقف على لاعب يقفز عشرات المرات في المباراة الواحدة. لمن هذا الحذاء؟ للاعبي القفز المتواصل قبل أي أحد: الضارب المقابل (Opposite) و لاعب الوسط (Middle Blocker) — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب اقتراباً ثم دفعاً ثم هبوطاً ثم تكراراً فوراً، فهذا الحذاء مبنيّ لك بالتحديد. ومتى لا يناسبك؟ — بصراحة إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أكثر تقييداً مما تحتاج وسعره لا يُبرّر ذلك في حالتك؛ والبديل الأنسب هو سكاي إيليت ، وهو الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام . وكذلك اللوح الكربوني يجعل الإحساس صلباً وحاسماً تحت القدم — من يفضّل نعلاً ليّناً طريّاً لن يحبّ هذه المنصّة.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "أسيكس ميتارايز 2"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "الميتارايز 2 هو ",
+            {
+              "b": "قمة ما تصنعه أسيكس للكرة الطائرة"
+            },
+            "، مبنيّ من أوله لآخره حول هدف واحد: ",
+            {
+              "b": "أعلى قفزة ممكنة، وهبوط تتحمّله شوطاً بعد شوط"
+            },
+            ". ويأتي بلونين: ",
+            {
+              "b": "بابلجم وأسود"
+            },
+            " و",
+            {
+              "b": "إنديجو فوغ"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المنصّة — وما تفعله فعلاً"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل FF BLAST PLUS مع لوح كربوني"
+            },
+            " — الرغوة تعيد لك جزءاً من طاقة الخطوة بدل أن تبتلعها، واللوح الكربوني يمنح المنصّة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك في اللحظة التي تحتاج فيها أرضاً صلبة. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتصّ التركيب صدمة النزول المتكرر."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "جزء علوي بتقنية MONO-SOCK"
+            },
+            " — يدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. النتيجة العملية: القدم لا «تسبح» داخل الحذاء عند التوقف المفاجئ قبل القفزة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "هيكل RISETRUSS"
+            },
+            " — يقاوم ",
+            {
+              "b": "التواء منتصف القدم"
+            },
+            " في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً. فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الالتواء."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قصّة متوسطة (Mid-cut)"
+            },
+            " — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو أخطر موقف على لاعب يقفز عشرات المرات في المباراة الواحدة."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعبي القفز المتواصل قبل أي أحد: ",
+            {
+              "b": "الضارب المقابل (Opposite)"
+            },
+            " و",
+            {
+              "b": "لاعب الوسط (Middle Blocker)"
+            },
+            " — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب اقتراباً ثم دفعاً ثم هبوطاً ثم تكراراً فوراً، فهذا الحذاء مبنيّ لك بالتحديد."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "ومتى لا يناسبك؟ — بصراحة"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "إن كنت ",
+            {
+              "b": "ليبرو"
+            },
+            " أو ",
+            {
+              "b": "مُعِداً"
+            },
+            " تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أكثر تقييداً مما تحتاج وسعره لا يُبرّر ذلك في حالتك؛ والبديل الأنسب هو ",
+            {
+              "b": "سكاي إيليت"
+            },
+            "، وهو ",
+            {
+              "b": "الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام"
+            },
+            ". وكذلك اللوح الكربوني يجعل الإحساس صلباً وحاسماً تحت القدم — من يفضّل نعلاً ليّناً طريّاً لن يحبّ هذه المنصّة."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/fa9638dd-43d3-4943-9728-0e2ba074095a-1000x1000-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg",
+        "https://cdn.salla.sa/jZjwre/7e9698d9-841c-4e86-aab0-e390f0482d7a-1000x586.16904500549-t73tHy2nubg0QaHgr14C6PrfRcDnbcUC1qgdws3H.png",
+        "https://cdn.salla.sa/jZjwre/53d8e543-b3f8-4ac2-8cef-065d041ee30b-1000x1000-CLrW5k6BfqDOVh2lzmZPqoAICGFdw6JDA5aIJXqk.jpg",
+        "https://cdn.salla.sa/jZjwre/0b010271-fe78-4240-9289-4e98d96f119b-1000x1000-dbfBkirrPl3JdlDv51Qk8ThIPcHx58ap4ZiATomE.jpg",
+        "https://cdn.salla.sa/jZjwre/8dc4ef6a-506f-4b6f-94d3-516ce0301641-1000x1000-XCgyERTqafzJSdI206bfJllCNqe8rHU43fKtJXr6.jpg",
+        "https://cdn.salla.sa/jZjwre/499190e8-fec1-4bb8-8e81-0b1396279c4d-1000x1000-gEdqlbApj40Dvxb3qnpEWIq6HIY9NUyZuUpPkgyD.jpg",
+        "https://cdn.salla.sa/jZjwre/50f6ff2a-90f0-4199-a76d-c23f9b395eaf-1000x1000-LUNdn3zZgtAfEzZm2NGUOckx0wBPcoYkLt84E6FQ.jpg",
+        "https://cdn.salla.sa/jZjwre/8a3d25e6-4b40-4c71-a99e-3869599e8ad7-1000x1000-RlFASnSSuek2vmmoYlXLh6vrjoGFB30Y24PcoZjN.jpg",
+        "https://cdn.salla.sa/jZjwre/7b06515b-4ef5-446a-bf59-9b5efaa48d57-1000x1000-S630LhgP7NItkh54xgTjbhrz63YarrKx6Ivp1C5W.jpg",
+        "https://cdn.salla.sa/jZjwre/d2436757-7b94-420b-a84f-cb5b5dd0c4b9-839.37823834197x1000-IZLZY24NfrhaOINVOEGy0lHB7VbPWKICVmLsKX5m.png",
+        "https://cdn.salla.sa/jZjwre/f0101d6a-3372-4824-a531-c2340d2b4d36-1000x589.57952468007-xq21deTKSumiQxu82iuEWcMShbwvX4YB9fyxdDZO.png",
+        "https://cdn.salla.sa/jZjwre/e75f313f-1db1-4149-bcbb-2aaec55236a2-1000x597.80621572212-e1IUq6tMMCdJ4B6QyE1NgaipKXRzYwALdvmkII9W.png",
+        "https://cdn.salla.sa/jZjwre/cbbfb330-0079-4248-a054-68356f9ce267-949.67741935484x1000-uardPsLbl3LDXtfGHxL7IAh47bkS9yOixzAn3dFO.png",
+        "https://cdn.salla.sa/jZjwre/f0a757c3-33de-44b0-be77-65881cdfec03-1000x659.3707250342-wRW6E6P1paVCKm1jcRRcBMDbKnjrKZ2ipICyCu7U.png"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47",
+        "47.5",
+        "48",
+        "49"
+      ],
+      "colors": [
+        "إنديجو فوغ",
+        "بابلجم × أسود"
+      ],
+      "options": [
+        {
+          "id": "1051301440",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "188917476",
+              "name": "إنديجو فوغ",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/92a20629-a813-4c83-8383-c1f0d02055eb-500x293.08452250274-t73tHy2nubg0QaHgr14C6PrfRcDnbcUC1qgdws3H.png"
+            },
+            {
+              "id": "1697629669",
+              "name": "بابلجم × أسود",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/fd62c150-4d64-4222-a4bc-deb29bd513d0-500x500-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1227274198",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "2134864158",
+              "name": "41.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "116389367",
+              "name": "42",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "589790591",
+              "name": "42.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "2098044024",
+              "name": "43.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1324006265",
+              "name": "44",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1225101343",
+              "name": "44.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1788672379",
+              "name": "45",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1148786756",
+              "name": "46",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "373696325",
+              "name": "47",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "451067672",
+              "name": "47.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1612924486",
+              "name": "48",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1388192480",
+              "name": "49",
+              "out": true,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "status": "out",
+      "url": "https://risport-sa.com/ar/x/p810346638",
+      "en": {
+        "name": "ASICS Metarise 2 Volleyball Shoe",
+        "brand": "ASICS",
+        "sport": null,
+        "tagline": null,
+        "subtitle": "ASICS' highest jump platform",
+        "description": "ASICS Metarise 2 The Metarise 2 is the peak of what ASICS builds for volleyball , designed end to end around one goal: the highest jump possible, and a landing you can take set after set . It comes in two colourways: Bubblegum and Black and Indigo Fog . The platform — and what it actually does FF BLAST PLUS midsole with a carbon plate — the foam returns part of each step's energy instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you at the very moment you need solid ground. And on landing — which is what really wears a player down over a match — the construction absorbs the repeated impact. MONO-SOCK upper — it merges the tongue with the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping during the approach steps. The practical result: the foot does not \"swim\" inside the shoe on the sudden stop before the jump. RISETRUSS structure — it resists midfoot twisting at the final push so energy does not leak sideways. What you drive into the floor comes back as height instead of being lost to a twist. Mid cut — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous situation for a player who jumps dozens of times in a single match. Who is it for? For continuous jumpers before anyone else: the opposite and the middle blocker — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you. And when does it not suit you? — frankly If you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is more restrictive than you need and its price does not justify it in your case; the better fit is the Sky Elite , ASICS' top tier among all-round volleyball shoes . The carbon plate also makes the feel firm and decisive underfoot — anyone who prefers a soft, plush midsole will not enjoy this platform.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "ASICS Metarise 2"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The Metarise 2 is ",
+              {
+                "b": "the peak of what ASICS builds for volleyball"
+              },
+              ", designed end to end around one goal: ",
+              {
+                "b": "the highest jump possible, and a landing you can take set after set"
+              },
+              ". It comes in two colourways: ",
+              {
+                "b": "Bubblegum and Black"
+              },
+              " and ",
+              {
+                "b": "Indigo Fog"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "The platform — and what it actually does"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "FF BLAST PLUS midsole with a carbon plate"
+              },
+              " — the foam returns part of each step's energy instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you at the very moment you need solid ground. And on landing — which is what really wears a player down over a match — the construction absorbs the repeated impact."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "MONO-SOCK upper"
+              },
+              " — it merges the tongue with the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping during the approach steps. The practical result: the foot does not \"swim\" inside the shoe on the sudden stop before the jump."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "RISETRUSS structure"
+              },
+              " — it resists ",
+              {
+                "b": "midfoot twisting"
+              },
+              " at the final push so energy does not leak sideways. What you drive into the floor comes back as height instead of being lost to a twist."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Mid cut"
+              },
+              " — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous situation for a player who jumps dozens of times in a single match."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For continuous jumpers before anyone else: the ",
+              {
+                "b": "opposite"
+              },
+              " and the ",
+              {
+                "b": "middle blocker"
+              },
+              " — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "And when does it not suit you? — frankly"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "If you are a ",
+              {
+                "b": "libero"
+              },
+              " or a ",
+              {
+                "b": "setter"
+              },
+              " looking for lightness and free ankle movement more than maximum jump height, this shoe is more restrictive than you need and its price does not justify it in your case; the better fit is the ",
+              {
+                "b": "Sky Elite"
+              },
+              ", ASICS' ",
+              {
+                "b": "top tier among all-round volleyball shoes"
+              },
+              ". The carbon plate also makes the feel firm and decisive underfoot — anyone who prefers a soft, plush midsole will not enjoy this platform."
+            ]
+          }
+        ],
+        "tags": [
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1051301440": {
+            "name": "Color",
+            "values": {
+              "188917476": "Indigo Fog",
+              "1697629669": "Bubblegum × Black"
+            }
+          },
+          "1227274198": {
+            "name": "Size",
+            "values": {
+              "116389367": "42",
+              "373696325": "47",
+              "451067672": "47.5",
+              "589790591": "42.5",
+              "1148786756": "46",
+              "1225101343": "44.5",
+              "1324006265": "44",
+              "1388192480": "49",
+              "1612924486": "48",
+              "1788672379": "45",
+              "2098044024": "43.5",
+              "2134864158": "41.5"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "721119659",
       "sallaId": "721119659",
       "sku": "RSP-ASICS-MT3-FUTURITY",
@@ -17249,6 +16961,294 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "651509262",
+      "sallaId": "651509262",
+      "sku": null,
+      "name": "كم ذراع أسيكس",
+      "brand": "أخرى",
+      "category": "gear",
+      "sport": null,
+      "tags": [
+        "معدات وإكسسوارات",
+        "حاميات الركبة وأكمام اليد"
+      ],
+      "price": 119,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": null,
+      "description": "كم ذراع منسوج من ASICS يمتدّ من الرسغ إلى أعلى الذراع ، بلون أسود وشعار ASICS الأبيض. نسيج مطاطي ضاغط بخفة يثبت على الذراع دون أربطة أو مشابك، فيبقى مكانه أثناء اللعب. الخامة 58% نايلون — للمتانة ونعومة الملمس. 35% بوليستر — يسحب العرق من الجلد ويجفّ بسرعة. 7% بولي يوريثان — يمنح المطاطية والشدّ الخفيف دون تقييد حركة المرفق. صناعة يابانية. المقاس مقاس واحد يناسب معظم المستخدمين: محيط الرسغ 15–18 سم، ومحيط أعلى الذراع 26–30 سم. قِس ذراعك قبل الطلب إذا كنت خارج هذا النطاق. لماذا يهمّ لاعب الكرة الطائرة الساعد هو نقطة التلامس في الاستقبال والدفاع، والارتماء على الأرضية يترك احتكاكاً وخدوشاً متكررة عليه. الكم يغطي الساعد كاملاً فيقلّل احتكاك الجلد بالأرضية، ويبقي عضلات الذراع دافئة بين الجولات وفي الصالات المكيّفة، ويمتصّ العرق فتبقى الذراع جافة أثناء اللعب. طريقة الارتداء اقلب الكم من الأعلى وأدخل يدك من الطرف الضيّق (جهة الرسغ) أولاً. اسحبه تدريجياً إلى أعلى الذراع حتى يستقرّ فوق المرفق دون طيّات. تأكد من عدم وجود شدّ زائد؛ إن ترك علامة عميقة على الجلد فالمقاس ضيّق عليك. يُلبس قبل الإحماء ويبقى طوال التمرين أو المباراة. العناية اغسله يدوياً بماء بارد بعد كل استخدام واتركه يجفّ في الهواء بعيداً عن الشمس المباشرة. تجنّب المجفّف الكهربائي والمبيّض والمكواة حفاظاً على مطاطية الخيوط. إن كان الألم شديداً أو مستمراً، راجع مختصاً.",
+      "desc": [
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "كم ذراع منسوج من ASICS يمتدّ من الرسغ إلى أعلى الذراع"
+            },
+            "، بلون أسود وشعار ASICS الأبيض. نسيج مطاطي ضاغط بخفة يثبت على الذراع دون أربطة أو مشابك، فيبقى مكانه أثناء اللعب."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "الخامة"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "58% نايلون"
+            },
+            " — للمتانة ونعومة الملمس."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "35% بوليستر"
+            },
+            " — يسحب العرق من الجلد ويجفّ بسرعة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "7% بولي يوريثان"
+            },
+            " — يمنح المطاطية والشدّ الخفيف دون تقييد حركة المرفق."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "صناعة يابانية."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاس"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "مقاس واحد يناسب معظم المستخدمين: محيط الرسغ 15–18 سم، ومحيط أعلى الذراع 26–30 سم. قِس ذراعك قبل الطلب إذا كنت خارج هذا النطاق."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لماذا يهمّ لاعب الكرة الطائرة"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "الساعد هو نقطة التلامس في الاستقبال والدفاع، والارتماء على الأرضية يترك احتكاكاً وخدوشاً متكررة عليه. الكم يغطي الساعد كاملاً فيقلّل احتكاك الجلد بالأرضية، ويبقي عضلات الذراع دافئة بين الجولات وفي الصالات المكيّفة، ويمتصّ العرق فتبقى الذراع جافة أثناء اللعب."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "طريقة الارتداء"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "اقلب الكم من الأعلى وأدخل يدك من الطرف الضيّق (جهة الرسغ) أولاً."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "اسحبه تدريجياً إلى أعلى الذراع حتى يستقرّ فوق المرفق دون طيّات."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "تأكد من عدم وجود شدّ زائد؛ إن ترك علامة عميقة على الجلد فالمقاس ضيّق عليك."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "يُلبس قبل الإحماء ويبقى طوال التمرين أو المباراة."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "العناية"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "اغسله يدوياً بماء بارد بعد كل استخدام واتركه يجفّ في الهواء بعيداً عن الشمس المباشرة. تجنّب المجفّف الكهربائي والمبيّض والمكواة حفاظاً على مطاطية الخيوط."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "إن كان الألم شديداً أو مستمراً، راجع مختصاً. "
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/e67cc10e-4909-42cd-857c-83ab4def174f-1000x1000-3b8eiGKEPMYfgtc48ycYWOtYkVPCdCcwtzCGr8TQ.png"
+      ],
+      "optionNames": {
+        "size": null,
+        "color": null
+      },
+      "sizes": [],
+      "colors": [],
+      "options": [],
+      "model": null,
+      "status": "out",
+      "url": "https://risport-sa.com/ar/x/p651509262",
+      "en": {
+        "name": "ASICS Sports Arm Sleeve",
+        "brand": null,
+        "sport": null,
+        "tagline": null,
+        "subtitle": null,
+        "description": "A woven ASICS arm sleeve running from the wrist to the upper arm , in black with the white ASICS logo. A lightly compressive stretch fabric holds it on the arm with no straps or clips, so it stays where you put it while you play. Material 58% nylon — for durability and a smooth feel. 35% polyester — wicks sweat off the skin and dries quickly. 7% polyurethane — provides the stretch and the light compression without restricting elbow movement. Made in Japan. Size One size fits most: wrist circumference 15–18 cm, upper-arm circumference 26–30 cm. Measure your arm before ordering if you fall outside that range. Why it matters for a volleyball player The forearm is the point of contact in reception and defence, and throwing yourself at the floor leaves it with repeated friction and scrapes. The sleeve covers the whole forearm, cutting skin friction against the floor, keeping the arm muscles warm between rallies and in air-conditioned halls, and absorbing sweat so the arm stays dry while you play. How to put it on Turn the sleeve down from the top and slide your hand in through the narrow end (the wrist side) first. Draw it gradually up the arm until it sits above the elbow without folds. Check that it is not over-tight; if it leaves a deep mark on the skin, the size is too small for you. Put it on before warming up and keep it on through the session or the match. Care Hand wash in cold water after every use and let it air dry away from direct sun. Avoid the tumble dryer, bleach and the iron to preserve the elasticity of the yarn. If pain is severe or persistent, see a specialist.",
+        "desc": [
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "A woven ASICS arm sleeve running from the wrist to the upper arm"
+              },
+              ", in black with the white ASICS logo. A lightly compressive stretch fabric holds it on the arm with no straps or clips, so it stays where you put it while you play."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Material"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "58% nylon"
+              },
+              " — for durability and a smooth feel."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "35% polyester"
+              },
+              " — wicks sweat off the skin and dries quickly."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "7% polyurethane"
+              },
+              " — provides the stretch and the light compression without restricting elbow movement."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Made in Japan."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Size"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "One size fits most: wrist circumference 15–18 cm, upper-arm circumference 26–30 cm. Measure your arm before ordering if you fall outside that range."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Why it matters for a volleyball player"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The forearm is the point of contact in reception and defence, and throwing yourself at the floor leaves it with repeated friction and scrapes. The sleeve covers the whole forearm, cutting skin friction against the floor, keeping the arm muscles warm between rallies and in air-conditioned halls, and absorbing sweat so the arm stays dry while you play."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "How to put it on"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Turn the sleeve down from the top and slide your hand in through the narrow end (the wrist side) first."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Draw it gradually up the arm until it sits above the elbow without folds."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Check that it is not over-tight; if it leaves a deep mark on the skin, the size is too small for you."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Put it on before warming up and keep it on through the session or the match."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Care"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Hand wash in cold water after every use and let it air dry away from direct sun. Avoid the tumble dryer, bleach and the iron to preserve the elasticity of the yarn."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "If pain is severe or persistent, see a specialist. "
+            ]
+          }
+        ],
+        "tags": [
+          "Equipment & Accessories",
+          "Knee Pads & Sleeves"
+        ],
+        "options": {}
       }
     },
     {
