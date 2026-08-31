@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-29T18:34:33.104Z",
+  "generatedAt": "2026-08-31T06:51:01.144Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -21,140 +21,6 @@
     "كرة القدم"
   ],
   "products": [
-    {
-      "id": "991627747",
-      "sallaId": "991627747",
-      "sku": null,
-      "name": "طلب حذاء او مقاس خاص",
-      "brand": "أخرى",
-      "category": "shoes",
-      "sport": null,
-      "tags": [
-        "معدات وإكسسوارات"
-      ],
-      "price": null,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "للطلب يرجى التواصل عالواتساب",
-      "description": "لم تجد الموديل أو المقاس الذي تريده في المتجر؟ اطلبه منّا. خدمة الطلب الخاص من ري سبورت: إذا كان الحذاء الرياضي الذي تبحث عنه — أو مقاسك تحديداً — غير معروض ضمن منتجات المتجر، تواصل معنا عبر الواتساب ونبحث لك عنه ونوفّره. ما نحتاجه منك عند التواصل اسم الموديل، أو صورة أو رابط للمنتج المطلوب. مقاسك، ويفضّل ذكره بالسنتيمتر لدقّة المطابقة. اللون المفضّل إن كان متوفراً بأكثر من خيار. يتم الاتفاق على التفاصيل والتوفّر عبر الواتساب قبل تأكيد الطلب.",
-      "desc": [
-        {
-          "t": "p",
-          "s": [
-            {
-              "b": "لم تجد الموديل أو المقاس الذي تريده في المتجر؟ اطلبه منّا."
-            }
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "خدمة الطلب الخاص من ري سبورت: إذا كان الحذاء الرياضي الذي تبحث عنه — أو مقاسك تحديداً — غير معروض ضمن منتجات المتجر، تواصل معنا عبر الواتساب ونبحث لك عنه ونوفّره."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "ما نحتاجه منك عند التواصل"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "اسم الموديل، أو صورة أو رابط للمنتج المطلوب."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "مقاسك، ويفضّل ذكره بالسنتيمتر لدقّة المطابقة."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "اللون المفضّل إن كان متوفراً بأكثر من خيار."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "يتم الاتفاق على التفاصيل والتوفّر عبر الواتساب قبل تأكيد الطلب."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/564cbd17-ee82-472e-bfa5-b60903a395d9-846.57749803304x1000-vqd6EO1MPzboP9G1mvDh8r13hCRP1d7hugLRboVe.png"
-      ],
-      "optionNames": {
-        "size": null,
-        "color": null
-      },
-      "sizes": [],
-      "colors": [],
-      "options": [],
-      "model": null,
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p991627747",
-      "en": {
-        "name": "Special Shoe or Size Request",
-        "brand": null,
-        "sport": null,
-        "tagline": null,
-        "subtitle": "To order, message us on WhatsApp",
-        "description": "Cannot find the model or the size you want in the store? Ask us for it. Ri Sport's special-order service: if the shoe you are looking for — or your exact size — is not listed among the store's products, message us on WhatsApp and we will search for it and source it for you. What we need from you The model name, or a photo or link to the product you want. Your size, ideally given in centimetres so the match is exact. Your preferred colour, if it comes in more than one. Details and availability are agreed over WhatsApp before the order is confirmed.",
-        "desc": [
-          {
-            "t": "p",
-            "s": [
-              {
-                "b": "Cannot find the model or the size you want in the store? Ask us for it."
-              }
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Ri Sport's special-order service: if the shoe you are looking for — or your exact size — is not listed among the store's products, message us on WhatsApp and we will search for it and source it for you."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "What we need from you"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "The model name, or a photo or link to the product you want."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Your size, ideally given in centimetres so the match is exact."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "Your preferred colour, if it comes in more than one."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Details and availability are agreed over WhatsApp before the order is confirmed."
-            ]
-          }
-        ],
-        "tags": [
-          "Equipment & Accessories"
-        ],
-        "options": {}
-      }
-    },
     {
       "id": "1433881099",
       "sallaId": "1433881099",
@@ -12645,6 +12511,140 @@
       }
     },
     {
+      "id": "991627747",
+      "sallaId": "991627747",
+      "sku": null,
+      "name": "طلب حذاء او مقاس خاص",
+      "brand": "أخرى",
+      "category": "gear",
+      "sport": null,
+      "tags": [
+        "معدات وإكسسوارات"
+      ],
+      "price": null,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "للطلب يرجى التواصل عالواتساب",
+      "description": "لم تجد الموديل أو المقاس الذي تريده في المتجر؟ اطلبه منّا. خدمة الطلب الخاص من ري سبورت: إذا كان الحذاء الرياضي الذي تبحث عنه — أو مقاسك تحديداً — غير معروض ضمن منتجات المتجر، تواصل معنا عبر الواتساب ونبحث لك عنه ونوفّره. ما نحتاجه منك عند التواصل اسم الموديل، أو صورة أو رابط للمنتج المطلوب. مقاسك، ويفضّل ذكره بالسنتيمتر لدقّة المطابقة. اللون المفضّل إن كان متوفراً بأكثر من خيار. يتم الاتفاق على التفاصيل والتوفّر عبر الواتساب قبل تأكيد الطلب.",
+      "desc": [
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "لم تجد الموديل أو المقاس الذي تريده في المتجر؟ اطلبه منّا."
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "خدمة الطلب الخاص من ري سبورت: إذا كان الحذاء الرياضي الذي تبحث عنه — أو مقاسك تحديداً — غير معروض ضمن منتجات المتجر، تواصل معنا عبر الواتساب ونبحث لك عنه ونوفّره."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "ما نحتاجه منك عند التواصل"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "اسم الموديل، أو صورة أو رابط للمنتج المطلوب."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "مقاسك، ويفضّل ذكره بالسنتيمتر لدقّة المطابقة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "اللون المفضّل إن كان متوفراً بأكثر من خيار."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "يتم الاتفاق على التفاصيل والتوفّر عبر الواتساب قبل تأكيد الطلب."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/564cbd17-ee82-472e-bfa5-b60903a395d9-846.57749803304x1000-vqd6EO1MPzboP9G1mvDh8r13hCRP1d7hugLRboVe.png"
+      ],
+      "optionNames": {
+        "size": null,
+        "color": null
+      },
+      "sizes": [],
+      "colors": [],
+      "options": [],
+      "model": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p991627747",
+      "en": {
+        "name": "Special Shoe or Size Request",
+        "brand": null,
+        "sport": null,
+        "tagline": null,
+        "subtitle": "To order, message us on WhatsApp",
+        "description": "Cannot find the model or the size you want in the store? Ask us for it. Ri Sport's special-order service: if the shoe you are looking for — or your exact size — is not listed among the store's products, message us on WhatsApp and we will search for it and source it for you. What we need from you The model name, or a photo or link to the product you want. Your size, ideally given in centimetres so the match is exact. Your preferred colour, if it comes in more than one. Details and availability are agreed over WhatsApp before the order is confirmed.",
+        "desc": [
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Cannot find the model or the size you want in the store? Ask us for it."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Ri Sport's special-order service: if the shoe you are looking for — or your exact size — is not listed among the store's products, message us on WhatsApp and we will search for it and source it for you."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "What we need from you"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "The model name, or a photo or link to the product you want."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Your size, ideally given in centimetres so the match is exact."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "Your preferred colour, if it comes in more than one."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Details and availability are agreed over WhatsApp before the order is confirmed."
+            ]
+          }
+        ],
+        "tags": [
+          "Equipment & Accessories"
+        ],
+        "options": {}
+      }
+    },
+    {
       "id": "1902757006",
       "sallaId": "1902757006",
       "sku": null,
@@ -13048,7 +13048,7 @@
       "sku": "RSP-MIZUNO-32MAC196",
       "name": "تيشيرت ميزونو نصف كم نافي دراي",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -13306,7 +13306,7 @@
       "sku": "RSP-MIZUNO-32MAC195",
       "name": "تيشيرت ميزونو كم طويل نافي دراي",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -14451,7 +14451,7 @@
       "sku": "RSP-MIZUNO-BIOGEAR-SS",
       "name": "قميص ميزونو بايوغير الضاغط",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
@@ -14756,7 +14756,7 @@
       "sku": "RSP-MOVESPORT-ST5SHTT0M",
       "name": "تيشيرت موف سبورت شبكي",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
@@ -15040,7 +15040,7 @@
       "sku": "RSP-MIZUNO-V2MAB113",
       "name": "قميص مباريات ميزونو بجرافيك",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
@@ -15316,7 +15316,7 @@
       "sku": "RSP-MIZUNO-V2MAB101",
       "name": "تيشيرت ميزونو فَنتاست",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
@@ -15548,7 +15548,7 @@
       "sku": "RSP-MIZUNO-32MAA156",
       "name": "تيشيرت ميزونو TL نصف كم",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تيشيرتات وأطقم"
@@ -15829,7 +15829,7 @@
       "sku": "RSP-MIZUNO-32MAB158",
       "name": "تيشيرت ميزونو كم طويل دايناموشن فِت",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -16101,7 +16101,7 @@
       "sku": "RSP-MIZUNO-K2JDCM91",
       "name": "شورت ميزونو سويت خفيف",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -16335,7 +16335,7 @@
       "sku": "RSP-DESCENTE-DV5SHT02U",
       "name": "قميص تمرين ديسنت",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
@@ -16593,7 +16593,7 @@
       "sku": "RSP-MIZUNO-C2JFCZ01",
       "name": "شورت ميزونو طارد للماء",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -16818,7 +16818,7 @@
       "sku": "RSP-HUMMEL-HAG3017",
       "name": "قميص مباريات هيمل",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تيشيرتات وأطقم"
@@ -17100,7 +17100,7 @@
       "sku": "RSP-MOVESPORT-SV6SHP01M",
       "name": "بنطلون موف سبورت للكرة الطائرة",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "شورتات"
@@ -17358,7 +17358,7 @@
       "sku": "RSP-HUMMEL-HAG5040P",
       "name": "بنطلون مباريات هيمل",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "شورتات"
@@ -17640,7 +17640,7 @@
       "sku": "RSP-MOVESPORT-LS-SQUARE",
       "name": "قميص موف سبورت كم طويل",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -17857,7 +17857,7 @@
       "sku": "RSP-SPAZIO-VS0028",
       "name": "قميص تمرين سبازيو PIPPO",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
@@ -18105,7 +18105,7 @@
       "sku": "RSP-MOVESPORT-ST5SSWT1M",
       "name": "سويت شيرت موف سبورت بياقة دائرية",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -18363,7 +18363,7 @@
       "sku": "RSP-ASICS-2053A302",
       "name": "تيشيرت توقيعات المنتخب الياباني ٢٠٢٦",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
@@ -18599,7 +18599,7 @@
       "sku": "RSP-MIZUNO-32MCA140",
       "name": "جاكيت إحماء ميزونو",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": null,
       "tags": [
         "ملابس رياضية",
@@ -18890,7 +18890,7 @@
       "sku": "RSP-ASICS-2053A323",
       "name": "قميص المنتخب الياباني ريبليكا ٢٠٢٦",
       "brand": "أخرى",
-      "category": "gear",
+      "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
