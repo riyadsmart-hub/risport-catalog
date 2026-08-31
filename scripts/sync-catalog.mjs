@@ -200,18 +200,50 @@ async function fetchProductPage(productId, lang = 'ar') {
   }
 }
 
+/**
+ * فئة المنتج من **جذر** أوّل تصنيف يُعرف جذره؛ والاسم شبكة أمان أخيرة.
+ * `rootOf`/`ROOT_CATEGORY` تُمرَّران عبر الإغلاق من `main`.
+ */
+let categoryOf = (_names, isShoe) => (isShoe ? 'shoes' : 'gear');
+
 async function main() {
   // ── ١) شجرة التصنيفات ──────────────────────────────────────────────
   const catsRoot = (await getJson(`${API}/categories`))?.data ?? [];
   const cats = [];
-  (function walk(list) {
+  /**
+   * اسم التصنيف → اسم **جذره** في الشجرة.
+   *
+   * هذا ما يحسم فئة المنتج. واجهة المتجر تُرجع مع كل منتج **الورقة التي صُنّف
+   * تحتها فقط** — «تيشيرتات وأطقم» بلا أبيها «ملابس رياضية» — فالتصنيف الثنائي
+   * `isShoe ? shoes : gear` كان يرمي كل قطعة ملابس في «معدّات وإكسسوارات»
+   * (٢٠ من أصل ٢٨). الجذر يحسمها بلا تخمين ولا قوائم أسماء.
+   */
+  const rootOf = new Map();
+  (function walk(list, root) {
     for (const c of list) {
+      const name = clean(c.name);
       const id = (c.url ?? '').split('/c').pop();
-      if (/^\d+$/.test(id)) cats.push({ id, name: clean(c.name) });
-      walk(c.sub_categories ?? []);
+      const myRoot = root ?? name;
+      if (name) rootOf.set(name, myRoot);
+      if (/^\d+$/.test(id)) cats.push({ id, name });
+      walk(c.sub_categories ?? [], myRoot);
     }
-  })(catsRoot);
+  })(catsRoot, null);
   console.log(`… ${cats.length} تصنيفاً`);
+
+  /** جذور الشجرة التي تُترجَم إلى فئة منتج (البقية — «تسوّق حسب الرياضة» — عرضية) */
+  const ROOT_CATEGORY = new Map([
+    ['الأحذية', 'shoes'],
+    ['ملابس رياضية', 'apparel'],
+    ['معدات وإكسسوارات', 'gear'],
+  ]);
+  categoryOf = (names, isShoe) => {
+    for (const n of names) {
+      const cat = ROOT_CATEGORY.get(rootOf.get(n));
+      if (cat) return cat;
+    }
+    return isShoe ? 'shoes' : 'gear';       // متجر بلا شجرة صالحة: السلوك القديم
+  };
 
   // الشجرة بالإنجليزية — لأسماء التصنيفات/الرياضات المترجمة (اختيارية: فشلها لا يوقف البناء)
   const catEn = new Map();                      // catId → English name
@@ -336,7 +368,7 @@ async function main() {
       sku: clean(det.sku ?? p.sku),
       name: clean(det.name ?? p.name),
       brand: brandAr,
-      category: isShoe ? 'shoes' : 'gear',
+      category: categoryOf(names, isShoe),
       sport,
       tags: names.filter((n) => n && !SPORTS.includes(n)),
       price: price ? Number(price) : null,
