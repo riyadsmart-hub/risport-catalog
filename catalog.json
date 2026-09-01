@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-31T23:55:23.671Z",
+  "generatedAt": "2026-09-01T05:13:31.913Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -114,7 +114,7 @@
             {
               "id": "951881051",
               "name": "عيد الميلاد",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/bfcb3b6f-7a7f-45ef-bba4-f8d91f01aa8a-500x500-yh57UBriorJTp58Hg4w4obIvUqdqjm0KVS05csQW.jpg"
             }
           ]
@@ -1355,7 +1355,7 @@
             {
               "id": "1583206543",
               "name": "40",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -1409,19 +1409,19 @@
             {
               "id": "990111632",
               "name": "45.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "350750353",
               "name": "46",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1723147666",
               "name": "47",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
