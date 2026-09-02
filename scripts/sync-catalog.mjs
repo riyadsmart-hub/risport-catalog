@@ -40,7 +40,7 @@ const H_EN = { ...H, 'accept-language': 'en' };
 const SPORTS = ['كرة الطائرة', 'الجري', 'المشي', 'كرة السلة', 'كرة القدم'];
 
 /** خدمات تُباع كمنتجات على سلة (طلب مقاس/منتج خاص) — لا تدخل الكتالوج */
-const isService = (p) => /^\s*طلب\b/.test(p?.name ?? '') && /خاص/.test(p?.name ?? '');
+const isService = (p) => /^\s*طلب\s/.test(p?.name ?? '') && /خاص/.test(p?.name ?? '');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
