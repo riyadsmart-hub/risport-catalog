@@ -263,22 +263,31 @@ async function main() {
   const listEn = new Map();                      // id → { name, brand } بالإنجليزية (من قوائم التصنيفات)
   const catFails = [];
   for (const c of cats) {
-    // اتّبع الصفحات — تصنيف يتجاوز حدّ الصفحة يفقد الباقي بصمت
-    for (let page = 1; page <= 10; page++) {
-      const url = `${API}/products?source=categories&filterable=1&source_value%5B%5D=${c.id}&per_page=100&page=${page}`;
+    // ⚠️ الترقيم **بالمؤشّر** لا برقم الصفحة: الواجهة تتجاهل `page` و`per_page`
+    // وتعيد أول ١٥ منتجاً دائماً، ولا تُكمل إلا عبر رابط `cursor.next` الذي
+    // تُرجعه هي. الحلقة القديمة (`page=2,3…`) كانت تقرأ الصفحة الأولى عشر
+    // مرّات، فكل تصنيف يتجاوز ١٥ منتجاً يفقد بقيّته بصمت — هكذا خرجت ٨ أحذية
+    // كرة طائرة من أصل ١١ بلا رياضة (الملابس تسبقها في تصنيف «كرة الطائرة»).
+    const first = `${API}/products?source=categories&filterable=1&source_value%5B%5D=${c.id}&per_page=100`;
+    let url = first;
+    for (let page = 1; url && page <= 20; page++) {
       const d = await getJson(url);
       if (d === null) { catFails.push(c.name); break; }
-      const list = d?.data ?? [];
-      for (const p of list) {
+      for (const p of d?.data ?? []) {
         if (!found.has(p.id)) found.set(p.id, { p, cats: new Set() });
         found.get(p.id).cats.add(c.name);
       }
-      // النسخة الإنجليزية من نفس القائمة — الماركة بالإنجليزية لا تأتي إلا من هنا (details لا يحملها)
-      const dEn = await getJson(url, 2, H_EN);
+      url = d?.cursor?.next ?? null;             // آخر صفحة ⇒ null
+    }
+    // النسخة الإنجليزية من نفس القائمة — الماركة بالإنجليزية لا تأتي إلا من هنا (details لا يحملها)
+    // ومؤشّرها مستقلّ عن العربي، فتُتابَع على حدة
+    let urlEn = first;
+    for (let page = 1; urlEn && page <= 20; page++) {
+      const dEn = await getJson(urlEn, 2, H_EN);
       for (const p of dEn?.data ?? []) {
         if (!listEn.has(p.id)) listEn.set(p.id, { name: clean(p.name), brand: clean(p.brand?.name) });
       }
-      if (list.length < 15) break;                 // آخر صفحة
+      urlEn = dEn?.cursor?.next ?? null;
     }
   }
   // تصنيف فاشل = منتجاته غائبة. النشر حينها يحذفها من التطبيق ظلماً.
