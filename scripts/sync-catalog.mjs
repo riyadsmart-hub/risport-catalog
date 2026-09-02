@@ -39,6 +39,9 @@ const H_EN = { ...H, 'accept-language': 'en' };
 
 const SPORTS = ['كرة الطائرة', 'الجري', 'المشي', 'كرة السلة', 'كرة القدم'];
 
+/** خدمات تُباع كمنتجات على سلة (طلب مقاس/منتج خاص) — لا تدخل الكتالوج */
+const isService = (p) => /^\s*طلب\b/.test(p?.name ?? '') && /خاص/.test(p?.name ?? '');
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /**
@@ -307,7 +310,11 @@ async function main() {
   const products = [];
   const brandEnMap = new Map();                  // الماركة بالعربية → بالإنجليزية
   let done = 0, carried = 0;
+  const services = [];
   for (const [id, { p, cats: cnames }] of found) {
+    // «طلب حذاء او مقاس خاص» خدمة لا منتج (قرار المالك 2026-09-02): التطبيق
+    // له شاشة طلب خاص أصلية (واتساب)، فلا يُعرض هذا كبطاقة بين الأحذية.
+    if (isService(p)) { services.push(clean(p.name)); continue; }
     // النافد **يبقى** في الكتالوج بعلامة `status:'out'` لا يُحذف.
     // حذفه كان يعني ثلاثة أضرار: العميل يظنّ أنك لا تبيع الصنف أصلاً،
     // ولا يمكن رصد عودته للمخزون، ولا يمكن بناء «نبّهني عند التوفّر».
@@ -466,6 +473,7 @@ async function main() {
 
   const withOpts = products.filter((p) => p.options.length).length;
   const withImgs = products.filter((p) => p.images.length).length;
+  if (services.length) console.log(`\n  خدمات مستبعَدة: ${services.join(' · ')}`);
   console.log(`\n✓ ${products.length} منتجاً → ${path.relative(process.cwd(), OUT)}`);
   const outCount = products.filter((p) => p.status === 'out').length;
   console.log(`  خيارات: ${withOpts}/${products.length} · صور: ${withImgs}/${products.length} · نافد: ${outCount}`);
