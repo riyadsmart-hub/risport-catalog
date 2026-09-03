@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-03T18:45:28.150Z",
+  "generatedAt": "2026-09-03T21:47:24.492Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -7500,25 +7500,25 @@
             {
               "id": "942990849",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "168887554",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1744708611",
               "name": "43.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1099583410",
               "name": "44",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -13560,7 +13560,7 @@
             {
               "id": "2047267331",
               "name": "30.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -17533,19 +17533,19 @@
             {
               "id": "1668009662",
               "name": "23.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1026616767",
               "name": "24.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "253562040",
               "name": "24.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -17593,7 +17593,7 @@
             {
               "id": "434566272",
               "name": "28.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -17605,7 +17605,7 @@
             {
               "id": "1168650882",
               "name": "30.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -19186,13 +19186,13 @@
             {
               "id": "999351440",
               "name": "28.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "360514449",
               "name": "29.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -22610,7 +22610,7 @@
             {
               "id": "1371340515",
               "name": "رمادي لؤلؤي",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/258c81b5-1731-42a5-b6b6-d73dc1a3aa2e-500x230.50379572119-gQAYV2VWiTmQcFwoH4AYvszh8aiBwjXfAI8k5JDi.jpg"
             },
             {
