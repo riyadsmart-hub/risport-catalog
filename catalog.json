@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-03T14:40:15.783Z",
+  "generatedAt": "2026-09-03T18:45:28.150Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -13742,15 +13742,96 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/25b3301f-f2b2-4860-94c2-f5c18536212a-500x500-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png"
+        "https://cdn.salla.sa/jZjwre/8d887a6a-7a9b-42b7-9d01-0669b60c6f51-1000x1000-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png",
+        "https://cdn.salla.sa/jZjwre/df4b7cc5-19d8-46c3-afd5-70929d6c7255-1000x1000-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png"
       ],
       "optionNames": {
-        "size": null,
-        "color": null
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "sizes": [],
-      "colors": [],
-      "options": [],
+      "sizes": [
+        "36",
+        "36.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41"
+      ],
+      "colors": [
+        "متعدّد الألوان (007)",
+        "متعدّد الألوان (102)"
+      ],
+      "options": [
+        {
+          "id": "187631772",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1288887797",
+              "name": "متعدّد الألوان (007)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/25b3301f-f2b2-4860-94c2-f5c18536212a-500x500-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png"
+            },
+            {
+              "id": "515898614",
+              "name": "متعدّد الألوان (102)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/7c370015-5ad7-4f03-beca-3c0acdc0a086-500x500-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png"
+            }
+          ]
+        },
+        {
+          "id": "12473759",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1430921976",
+              "name": "36",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "655835641",
+              "name": "36.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1895588090",
+              "name": "38",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1121619963",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "480751300",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1854721477",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "946465990",
+              "name": "41",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
       "model": null,
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p598962598",
@@ -14121,15 +14202,61 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/6c6d8f42-926b-4ec4-9522-7f7ca57557aa-500x500-8jNcSXLh8bmVHYAVdDwRxhmfZekwKrfpO0vMfg0p.png"
+        "https://cdn.salla.sa/jZjwre/fb3a740d-b00f-429f-9bb8-c49fcd0f36c2-1000x1000-8jNcSXLh8bmVHYAVdDwRxhmfZekwKrfpO0vMfg0p.png",
+        "https://cdn.salla.sa/jZjwre/3c42e2b0-276b-44fc-a10c-79fda54c8a18-1000x1000-JVmsde2tgdjC8YPSJMVn4BsdJEgui0QCSlQkFp3h.png"
       ],
       "optionNames": {
-        "size": null,
-        "color": null
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "sizes": [],
-      "colors": [],
-      "options": [],
+      "sizes": [
+        "40",
+        "40.5"
+      ],
+      "colors": [
+        "متعدّد الألوان (100)",
+        "متعدّد الألوان (004)"
+      ],
+      "options": [
+        {
+          "id": "577258991",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1482337127",
+              "name": "متعدّد الألوان (100)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/6c6d8f42-926b-4ec4-9522-7f7ca57557aa-500x500-8jNcSXLh8bmVHYAVdDwRxhmfZekwKrfpO0vMfg0p.png"
+            },
+            {
+              "id": "707250784",
+              "name": "متعدّد الألوان (004)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/92aea17d-567a-4780-9f83-d59cd5d538db-500x500-JVmsde2tgdjC8YPSJMVn4BsdJEgui0QCSlQkFp3h.png"
+            }
+          ]
+        },
+        {
+          "id": "2083874024",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "67955041",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1374226530",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
       "model": null,
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1299014070",
@@ -14692,7 +14819,31 @@
           "Shoes",
           "Basketball Shoes"
         ],
-        "options": {}
+        "options": {
+          "496544657": {
+            "name": "المقاس",
+            "values": {
+              "90526185": "45",
+              "265745646": "43",
+              "373790691": "41",
+              "731394792": "44.5",
+              "839505389": "42.5",
+              "1148881122": "40",
+              "1504908271": "44",
+              "1613543148": "42",
+              "1788635617": "39"
+            }
+          },
+          "1135840400": {
+            "name": "اللون",
+            "values": {
+              "414665440": "متعدّد الألوان (004)",
+              "589360613": "متعدّد الألوان (006)",
+              "1323969511": "متعدّد الألوان (005)",
+              "2098007270": "متعدّد الألوان (008)"
+            }
+          }
+        }
       }
     },
     {
@@ -15801,7 +15952,25 @@
           "Shoes",
           "Basketball Shoes"
         ],
-        "options": {}
+        "options": {
+          "111544301": {
+            "name": "اللون",
+            "values": {
+              "459194904": "متعدّد الألوان (076)"
+            }
+          },
+          "1350772462": {
+            "name": "المقاس",
+            "values": {
+              "243108966": "44",
+              "283979547": "42",
+              "1016556901": "43",
+              "1191182362": "41",
+              "1657425508": "42.5",
+              "1966858521": "40.5"
+            }
+          }
+        }
       }
     },
     {
@@ -16875,7 +17044,27 @@
           "Shoes",
           "Basketball Shoes"
         ],
-        "options": {}
+        "options": {
+          "1201856756": {
+            "name": "المقاس",
+            "values": {
+              "350061439": "42.5",
+              "525149820": "40.5",
+              "814203257": "44",
+              "989291646": "42",
+              "1298138995": "40",
+              "1723507320": "43",
+              "1764377981": "41"
+            }
+          },
+          "1975894507": {
+            "name": "اللون",
+            "values": {
+              "566155633": "متعدّد الألوان (100)",
+              "1939601522": "متعدّد الألوان (001)"
+            }
+          }
+        }
       }
     },
     {
