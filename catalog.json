@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-05T00:12:08.800Z",
+  "generatedAt": "2026-09-05T12:48:08.467Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -15043,7 +15043,7 @@
             {
               "id": "636981420",
               "name": "28.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -22610,7 +22610,7 @@
             {
               "id": "1371340515",
               "name": "رمادي لؤلؤي",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/258c81b5-1731-42a5-b6b6-d73dc1a3aa2e-500x230.50379572119-gQAYV2VWiTmQcFwoH4AYvszh8aiBwjXfAI8k5JDi.jpg"
             },
             {
