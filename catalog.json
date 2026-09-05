@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-04T14:26:59.712Z",
+  "generatedAt": "2026-09-05T00:12:08.800Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -13106,25 +13106,25 @@
             {
               "id": "566759437",
               "name": "22.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1939160846",
               "name": "22.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1299340815",
               "name": "23.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "526351624",
               "name": "23.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -13184,7 +13184,7 @@
             {
               "id": "1132068893",
               "name": "28.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -13196,7 +13196,7 @@
             {
               "id": "1865174559",
               "name": "29.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -17533,19 +17533,19 @@
             {
               "id": "1668009662",
               "name": "23.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1026616767",
               "name": "24.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "253562040",
               "name": "24.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -17593,7 +17593,7 @@
             {
               "id": "434566272",
               "name": "28.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -17605,7 +17605,7 @@
             {
               "id": "1168650882",
               "name": "30.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -24240,19 +24240,19 @@
             {
               "id": "2057584955",
               "name": "S",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1417764868",
               "name": "M",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "644845317",
               "name": "L",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
