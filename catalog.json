@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-06T19:18:51.250Z",
+  "generatedAt": "2026-09-06T21:28:40.155Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -42312,15 +42312,97 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/2545b327-d447-4c4e-b6c3-995af9ee4eed-500x375-slguSlKknPQVFtHRbDK4briw5E9F3M465pcfYDp8.jpg"
+        "https://cdn.salla.sa/jZjwre/2785a1af-ac90-4a6b-b83a-f5554f07e691-1000x750-slguSlKknPQVFtHRbDK4briw5E9F3M465pcfYDp8.jpg",
+        "https://cdn.salla.sa/jZjwre/2dff90df-bf52-4761-931c-7d06eb21c59a-1000x750-svDSqjwxdflUcspE4wrHRWiUinmgZ408r3NNnSYs.jpg",
+        "https://cdn.salla.sa/jZjwre/1cf583d5-52b6-4d5f-90c2-4649bcba1e51-1000x750-btefNmor77oQ0eYOWxi0TLIZpXsVp7906lJ7VrZs.jpg"
       ],
       "optionNames": {
-        "size": null,
-        "color": null
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "sizes": [],
-      "colors": [],
-      "options": [],
+      "sizes": [
+        "2XL",
+        "3XL",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "كربوني فاتح × أسود",
+        "أحمر × أسود",
+        "أسود × أبيض"
+      ],
+      "options": [
+        {
+          "id": "822884873",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "477634741",
+              "name": "كربوني فاتح × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/2545b327-d447-4c4e-b6c3-995af9ee4eed-500x375-slguSlKknPQVFtHRbDK4briw5E9F3M465pcfYDp8.jpg"
+            },
+            {
+              "id": "1850036150",
+              "name": "أحمر × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/e5a44b03-5634-4de1-b74d-702a9a30466c-500x375-svDSqjwxdflUcspE4wrHRWiUinmgZ408r3NNnSYs.jpg"
+            },
+            {
+              "id": "941780663",
+              "name": "أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/15f5af14-7e4c-4f04-97dc-302d2b042583-500x375-btefNmor77oQ0eYOWxi0TLIZpXsVp7906lJ7VrZs.jpg"
+            }
+          ]
+        },
+        {
+          "id": "48847114",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1566837180",
+              "name": "2XL",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "792799421",
+              "name": "3XL",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "168332720",
+              "name": "S",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1742056625",
+              "name": "M",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "833801138",
+              "name": "L",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "60811955",
+              "name": "XL",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -42451,15 +42533,105 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/e4e8eacd-8c7f-4d10-812f-289b10627e5f-500x375-CYFQIBWvBbEAeiw3CYfQdZenQURBAVuq5vgAPrpO.jpg"
+        "https://cdn.salla.sa/jZjwre/31f96f61-42a7-466c-8773-4669f4c4b221-1000x750-CYFQIBWvBbEAeiw3CYfQdZenQURBAVuq5vgAPrpO.jpg",
+        "https://cdn.salla.sa/jZjwre/2a1dd0c5-784e-4065-bf87-0989ad04cb88-1000x750-uCnGVwyVjunXzwtNOIygauVCjk2OYYMoLUbk2VfN.jpg",
+        "https://cdn.salla.sa/jZjwre/74d0f382-3d05-42df-b679-0fd5c0a77d83-1000x750-MteYvKWsOql4ZobP8eLEvd915kchcrKLebUMbF2Z.jpg",
+        "https://cdn.salla.sa/jZjwre/29f8d1b6-affb-4cac-895e-57640c98c098-1000x750-xRquPvXzInoNgkzidPwiUC6l55DKMvNJr2HU0hcC.jpg"
       ],
       "optionNames": {
-        "size": null,
-        "color": null
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "sizes": [],
-      "colors": [],
-      "options": [],
+      "sizes": [
+        "2XL",
+        "3XL",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "أخضر كلوروفيل × عاجي فاتح",
+        "بنفسجي × بنفسجي فاتح × رمادي ألومنيوم",
+        "أسود × أبيض",
+        "كحلي ليلي × أحمر حارّ × أخضر مغبّر"
+      ],
+      "options": [
+        {
+          "id": "1555462155",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "2033072062",
+              "name": "أخضر كلوروفيل × عاجي فاتح",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/e4e8eacd-8c7f-4d10-812f-289b10627e5f-500x375-CYFQIBWvBbEAeiw3CYfQdZenQURBAVuq5vgAPrpO.jpg"
+            },
+            {
+              "id": "1259034303",
+              "name": "بنفسجي × بنفسجي فاتح × رمادي ألومنيوم",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/24845a5e-11dd-494c-ae76-00cba3e66c15-500x375-uCnGVwyVjunXzwtNOIygauVCjk2OYYMoLUbk2VfN.jpg"
+            },
+            {
+              "id": "617641400",
+              "name": "أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/bcf4a282-148a-41ac-ab48-2e5a68732900-500x375-MteYvKWsOql4ZobP8eLEvd915kchcrKLebUMbF2Z.jpg"
+            },
+            {
+              "id": "1992201401",
+              "name": "كحلي ليلي × أحمر حارّ × أخضر مغبّر",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/a3fa7f27-f79d-4e26-8392-55b121b9f49d-500x375-xRquPvXzInoNgkzidPwiUC6l55DKMvNJr2HU0hcC.jpg"
+            }
+          ]
+        },
+        {
+          "id": "782010132",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "200753030",
+              "name": "2XL",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1708940935",
+              "name": "3XL",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1083945914",
+              "name": "S",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "308335291",
+              "name": "M",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1817047428",
+              "name": "L",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1042944133",
+              "name": "XL",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -42513,7 +42685,28 @@
           "Sportswear",
           "Shorts"
         ],
-        "options": {}
+        "options": {
+          "782010132": {
+            "name": "Size",
+            "values": {
+              "200753030": "2XL",
+              "308335291": "M",
+              "1042944133": "XL",
+              "1083945914": "S",
+              "1708940935": "3XL",
+              "1817047428": "L"
+            }
+          },
+          "1555462155": {
+            "name": "Colour",
+            "values": {
+              "617641400": "Black / White / Black / White (010)",
+              "1259034303": "Vivid Purple / Barely Grape / Aluminum (551)",
+              "1992201401": "Deep Night / Picante Red / Dusty Cactus (539)",
+              "2033072062": "Chlorophyll / Pale Ivory / Pale Ivory (350)"
+            }
+          }
+        }
       }
     },
     {
