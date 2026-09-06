@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-06T11:02:53.004Z",
+  "generatedAt": "2026-09-06T14:17:20.958Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -10,10 +10,12 @@
   "brands": [
     "361°",
     "أخرى",
+    "أديداس",
     "أسيكس",
     "أنتا",
     "إيريا",
     "إيكوالايزر",
+    "بوما",
     "ديسنت",
     "ريغورر",
     "سبازيو",
@@ -236,6 +238,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p249507625",
       "en": {
         "name": "حذاء 361 درجة بيغ 3 7.0 برو لكرة السلة",
@@ -311,9 +315,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "956542164",
@@ -546,6 +548,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p956542164",
       "en": {
         "name": "حذاء 361 درجة جوكر 2 لكرة السلة",
@@ -625,9 +629,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "538036790",
@@ -872,6 +874,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p538036790",
       "en": {
         "name": "حذاء 361 درجة جوكر 2 GT لكرة السلة",
@@ -954,9 +958,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "71449820",
@@ -1187,6 +1189,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p71449820",
       "en": {
         "name": "حذاء لي نينغ ويد DLO 1 لكرة السلة",
@@ -1266,9 +1270,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "611232140",
@@ -1497,6 +1499,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p611232140",
       "en": {
         "name": "حذاء لي نينغ ويد 808 5 ألترا V2 لكرة السلة",
@@ -1576,9 +1580,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "173464063",
@@ -1813,6 +1815,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p173464063",
       "en": {
         "name": "حذاء لي نينغ ويد 808 6 ألترا لكرة السلة",
@@ -1893,9 +1897,956 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "1260474888",
+      "sallaId": "1260474888",
+      "sku": "RSP-ADIDAS-JR5905",
+      "name": "حذاء أديداس بريديتور ليغ FT لكرة القدم",
+      "brand": "أديداس",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 455,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "أديداس · خطّ التحكّم · مسامير HG/AG",
+      "description": "بريديتور ليغ FT بريديتور هو خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و FT اختصار اللسان القابل للطيّ فوق الرباط: يعطي سطحاً نظيفاً للتسديد. التقنيات عناصر مطاطية على منطقة التسديد — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة، وهي هويّة بريديتور منذ ثلاثين سنة — تُحسّ في الكرات الملتفّة والتمريرات الطويلة. لسان قابل للطيّ (FT) — يغطّي الرباط فيصير سطح التسديد مستوياً بلا حواف. نعل HG/AG — مسامير قصيرة كثيفة للأرضيات الصلبة والنجيل الصناعي — الأنسب لملاعبنا الترابية والصناعية. لمن هذا الحذاء؟ لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل JR5905 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "بريديتور ليغ FT"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "بريديتور"
+            },
+            " هو خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و",
+            {
+              "b": "FT"
+            },
+            " اختصار اللسان القابل للطيّ فوق الرباط: يعطي سطحاً نظيفاً للتسديد."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "عناصر مطاطية على منطقة التسديد"
+            },
+            " — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة، وهي هويّة بريديتور منذ ثلاثين سنة — تُحسّ في الكرات الملتفّة والتمريرات الطويلة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "لسان قابل للطيّ (FT)"
+            },
+            " — يغطّي الرباط فيصير سطح التسديد مستوياً بلا حواف."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل HG/AG"
+            },
+            " — مسامير قصيرة كثيفة للأرضيات الصلبة والنجيل الصناعي — الأنسب لملاعبنا الترابية والصناعية."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "JR5905"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/85e5410a-090e-4eef-a376-75632a199e79-1000x750-d92atxPZ9LqFy0NgtfxtzgXeg1Q6Lf3UykcToTfD.jpg",
+        "https://cdn.salla.sa/jZjwre/63feed72-9453-4696-b457-52298c81695c-1000x750-7nVfLFi8yxHIfmUiydGGnGm0BVZYz3dw7yeSqfky.jpg",
+        "https://cdn.salla.sa/jZjwre/6bbc2a63-b4f6-4bd0-a43d-bac8e635bc41-1000x750-GA2KB7jWSD807vJMfEVdsKZ5IgWxgg2N8VHtJCMn.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "origin": "CN",
-      "status": "live"
+      "sizes": [
+        "39⅓",
+        "40",
+        "40⅔",
+        "41⅓",
+        "42",
+        "42⅔",
+        "43⅓",
+        "44",
+        "44⅔",
+        "45⅓"
+      ],
+      "colors": [
+        "سماوي × أزرق",
+        "أسود × أبيض",
+        "أحمر × أسود × أبيض"
+      ],
+      "options": [
+        {
+          "id": "1779084265",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1233601280",
+              "name": "سماوي × أزرق",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/3cb460b3-c140-44e6-9ed9-cb10935db5bc-500x375-d92atxPZ9LqFy0NgtfxtzgXeg1Q6Lf3UykcToTfD.jpg"
+            },
+            {
+              "id": "460087809",
+              "name": "أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/d8c524e5-edc9-4a2c-a1b0-4257ba88e412-500x375-7nVfLFi8yxHIfmUiydGGnGm0BVZYz3dw7yeSqfky.jpg"
+            },
+            {
+              "id": "1967816962",
+              "name": "أحمر × أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/fc4b1030-76ff-428b-a400-9018d5c75c72-500x375-GA2KB7jWSD807vJMfEVdsKZ5IgWxgg2N8VHtJCMn.jpg"
+            }
+          ]
+        },
+        {
+          "id": "297593323",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1658449421",
+              "name": "39⅓",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1017515278",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "243477519",
+              "name": "40⅔",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1483229960",
+              "name": "41⅓",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "708143625",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "68389130",
+              "name": "42⅔",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1375250443",
+              "name": "43⅓",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "600160020",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2107823637",
+              "name": "44⅔",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1334834454",
+              "name": "45⅓",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1260474888",
+      "en": {
+        "name": "adidas Predator League FT HG/AG Football Boots",
+        "brand": "adidas",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "أديداس · خطّ التحكّم · مسامير HG/AG",
+        "description": "Predator League FT Predator is adidas' control and striking line — a playmaker's boot rather than a winger's. FT stands for the foldover tongue that covers the laces and gives you a clean striking surface. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades, felt most on curled balls and long passes. Foldover tongue (FT) — Covers the laces so the striking surface is flat and seamless. HG/AG outsole — Short, dense studs for hard ground and artificial grass — the right match for our pitches. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code JR5905 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Predator League FT"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Predator"
+              },
+              " is adidas' control and striking line — a playmaker's boot rather than a winger's. ",
+              {
+                "b": "FT"
+              },
+              " stands for the foldover tongue that covers the laces and gives you a clean striking surface."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Rubber elements on the strike zone"
+              },
+              " — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades, felt most on curled balls and long passes."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Foldover tongue (FT)"
+              },
+              " — Covers the laces so the striking surface is flat and seamless."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "HG/AG outsole"
+              },
+              " — Short, dense studs for hard ground and artificial grass — the right match for our pitches."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "JR5905"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "297593323": {
+            "name": "Size",
+            "values": {
+              "68389130": "27.0 cm",
+              "243477519": "25.5 cm",
+              "600160020": "28.0 cm",
+              "708143625": "26.5 cm",
+              "1017515278": "25.0 cm",
+              "1334834454": "29.0 cm",
+              "1375250443": "27.5 cm",
+              "1483229960": "26.0 cm",
+              "1658449421": "24.5 cm",
+              "2107823637": "28.5 cm"
+            }
+          },
+          "1779084265": {
+            "name": "Colour",
+            "values": {
+              "460087809": "Core Black / Cloud White",
+              "1233601280": "Crew Sky / Ray Blue",
+              "1967816962": "Lucid Red / Core Black / White"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1716650879",
+      "sallaId": "1716650879",
+      "sku": "RSP-ADIDAS-JS3824",
+      "name": "حذاء أديداس كوبا آيكون II ليغ لكرة القدم",
+      "brand": "أديداس",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 465,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "أديداس · خطّ اللمسة · مسامير HG/AG",
+      "description": "كوبا آيكون II ليغ كوبا هو خطّ اللمسة عند أديداس، وامتداد كوبا مونديال الأسطوري. و آيكون II نسخته الحديثة: نفس فلسفة الوجه الطريّ الملامس للكرة بقالب معاصر. التقنيات وجه طريّ ملامس — يعطي إحساساً مباشراً بالكرة في الاستلام والتمرير القصير. قالب مريح من أول يوم — خطّ كوبا لا يحتاج فترة «كسر» طويلة كأحذية السرعة الضيّقة. نعل HG/AG — مسامير للأرضيات الصلبة والنجيل الصناعي. لمن هذا الحذاء؟ لوسط الملعب ومن يقدّر اللمسة والراحة أكثر من الوزن. من يريد الخفّة القصوى فخطّ F50 أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل JS3824 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "كوبا آيكون II ليغ"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "كوبا"
+            },
+            " هو خطّ اللمسة عند أديداس، وامتداد كوبا مونديال الأسطوري. و",
+            {
+              "b": "آيكون II"
+            },
+            " نسخته الحديثة: نفس فلسفة الوجه الطريّ الملامس للكرة بقالب معاصر."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وجه طريّ ملامس"
+            },
+            " — يعطي إحساساً مباشراً بالكرة في الاستلام والتمرير القصير."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قالب مريح من أول يوم"
+            },
+            " — خطّ كوبا لا يحتاج فترة «كسر» طويلة كأحذية السرعة الضيّقة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل HG/AG"
+            },
+            " — مسامير للأرضيات الصلبة والنجيل الصناعي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لوسط الملعب ومن يقدّر اللمسة والراحة أكثر من الوزن. من يريد الخفّة القصوى فخطّ F50 أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "JS3824"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/b41201bd-30cc-4199-9b2f-229000c349e5-1000x750-hL29Sy4hxJYsBd7amTFEBDur7BVxytRGgXZRTOTH.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": null
+      },
+      "sizes": [
+        "39⅓",
+        "40",
+        "41⅓",
+        "42",
+        "42⅔",
+        "43⅓",
+        "44"
+      ],
+      "colors": [],
+      "options": [
+        {
+          "id": "471654604",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "153789319",
+              "name": "39⅓",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1526186624",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "886890881",
+              "name": "41⅓",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "112787586",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1350971267",
+              "name": "42⅔",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "576933516",
+              "name": "43⅓",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2085121421",
+              "name": "44",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1716650879",
+      "en": {
+        "name": "adidas Copa Icon II League HG/AG Football Boots",
+        "brand": "adidas",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "أديداس · خطّ اللمسة · مسامير HG/AG",
+        "description": "Copa Icon II League Copa is adidas' touch line and the descendant of the legendary Copa Mundial. Icon II is its modern take: the same soft, ball-hugging philosophy on a contemporary last. Technology Soft, ball-hugging upper — A direct feel on the ball when receiving and passing short. Comfortable from day one — The Copa line needs no long break-in like tight speed boots. HG/AG outsole — Studs for hard ground and artificial grass. Who is it for? For midfielders who value touch and comfort over weight. If you want minimum weight, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code JS3824 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Copa Icon II League"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Copa"
+              },
+              " is adidas' touch line and the descendant of the legendary Copa Mundial. ",
+              {
+                "b": "Icon II"
+              },
+              " is its modern take: the same soft, ball-hugging philosophy on a contemporary last."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Soft, ball-hugging upper"
+              },
+              " — A direct feel on the ball when receiving and passing short."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Comfortable from day one"
+              },
+              " — The Copa line needs no long break-in like tight speed boots."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "HG/AG outsole"
+              },
+              " — Studs for hard ground and artificial grass."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For midfielders who value touch and comfort over weight. If you want minimum weight, the F50 line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "JS3824"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "471654604": {
+            "name": "Size",
+            "values": {
+              "112787586": "26.5 cm",
+              "153789319": "24.5 cm",
+              "576933516": "27.5 cm",
+              "886890881": "26.0 cm",
+              "1350971267": "27.0 cm",
+              "1526186624": "25.0 cm",
+              "2085121421": "28.0 cm"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "40018897",
+      "sallaId": "40018897",
+      "sku": "RSP-adidas-HP9971",
+      "name": "حذاء أديداس بريديتور إيليت FT AG لكرة القدم",
+      "brand": "أديداس",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 720,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "أديداس · بريديتور إيليت FT AG",
+      "description": "بريديتور إيليت FT AG بريديتور خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و إيليت الفئة العليا — أخفّ الخامات وأقربها إلى القدم. التقنيات عناصر مطاطية على منطقة التسديد — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة. نعل AG — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية. لمن هذا الحذاء؟ لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل HP9971 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "بريديتور إيليت FT AG"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "بريديتور"
+            },
+            " خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و",
+            {
+              "b": "إيليت"
+            },
+            " الفئة العليا — أخفّ الخامات وأقربها إلى القدم."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "عناصر مطاطية على منطقة التسديد"
+            },
+            " — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل AG"
+            },
+            " — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "HP9971"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/171e8b15-5162-4527-9f96-85930ca71815-1000x750-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg",
+        "https://cdn.salla.sa/jZjwre/35e6feb3-2220-4a54-abc7-a94911a12abe-1000x750-8LxrX1A51UCnYVEanpdO4YfnQjYPAyzGOhn7ifXi.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم"
+      ],
+      "colors": [
+        "فيروزي × رمادي",
+        "سماوي × أزرق"
+      ],
+      "options": [
+        {
+          "id": "1228876137",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "217685449",
+              "name": "فيروزي × رمادي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
+            },
+            {
+              "id": "1590082762",
+              "name": "سماوي × أزرق",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c738377f-1914-4764-b1c7-e5ea809aab0d-500x375-8LxrX1A51UCnYVEanpdO4YfnQjYPAyzGOhn7ifXi.jpg"
+            }
+          ]
+        },
+        {
+          "id": "453265514",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "681827275",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2055797460",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1414863317",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "640825558",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1881098199",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1306814160",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p40018897",
+      "en": {
+        "name": "adidas Predator Elite FT AG Football Boots",
+        "brand": "adidas",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "أديداس · بريديتور إيليت FT AG",
+        "description": "Predator Elite FT AG Predator is adidas' control and striking line — a playmaker's boot, not a winger's. Elite is the top tier — the lightest materials, closest to the foot. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. AG outsole — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code HP9971 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Predator Elite FT AG"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Predator"
+              },
+              " is adidas' control and striking line — a playmaker's boot, not a winger's. ",
+              {
+                "b": "Elite"
+              },
+              " is the top tier — the lightest materials, closest to the foot."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Rubber elements on the strike zone"
+              },
+              " — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "AG outsole"
+              },
+              " — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "HP9971"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "453265514": {
+            "name": "Size",
+            "values": {
+              "640825558": "27.0 cm",
+              "681827275": "25.5 cm",
+              "1306814160": "28.0 cm",
+              "1414863317": "26.5 cm",
+              "1881098199": "27.5 cm",
+              "2055797460": "26.0 cm"
+            }
+          },
+          "1228876137": {
+            "name": "Colour",
+            "values": {
+              "217685449": "Solar Turquoise / Grey",
+              "1590082762": "Crew Sky / Ray Blue"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1752762768",
@@ -2187,6 +3138,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1752762768",
       "en": {
         "name": "ASICS V-Swift FF MT 4 Volleyball Shoe",
@@ -2350,9 +3303,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "173412987",
@@ -2615,6 +3566,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p173412987",
       "en": {
         "name": "Asics Sky Elite FF 3",
@@ -2745,9 +3698,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "65371974",
@@ -3038,6 +3989,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p65371974",
       "en": {
         "name": "Asics Sky Elite FF MT 3 (Mid-Cut)",
@@ -3191,9 +4144,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1106815625",
@@ -3397,15 +4348,15 @@
         "color": "اللون"
       },
       "sizes": [
-        "36 (22.5 سم)",
-        "37 (23.0 سم)",
-        "37.5 (23.5 سم)",
-        "38 (24.0 سم)",
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)"
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42"
       ],
       "colors": [
         "أسود × رمادي جرافيت",
@@ -3445,55 +4396,55 @@
           "values": [
             {
               "id": "474982024",
-              "name": "36 (22.5 سم)",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "1846855049",
-              "name": "37 (23.0 سم)",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "1005708426",
-              "name": "37.5 (23.5 سم)",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "366871435",
-              "name": "38 (24.0 سم)",
+              "name": "38",
               "out": false,
               "img": null
             },
             {
               "id": "1740317332",
-              "name": "39 (24.5 سم)",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "830488981",
-              "name": "40 (25.0 سم)",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "57499798",
-              "name": "40.5 (25.5 سم)",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1565233047",
-              "name": "41.5 (26.0 سم)",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "789622416",
-              "name": "42 (26.5 سم)",
+              "name": "42",
               "out": false,
               "img": null
             }
@@ -3501,6 +4452,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1106815625",
       "en": {
         "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
@@ -3703,9 +4656,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1031256474",
@@ -3930,17 +4881,17 @@
         "color": "اللون"
       },
       "sizes": [
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)",
-        "42.5 (27.0 سم)",
-        "43.5 (27.5 سم)",
-        "44 (28.0 سم)",
-        "44.5 (28.5 سم)",
-        "45 (29.0 سم)",
-        "47 (30.0 سم)"
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "47"
       ],
       "colors": [
         "أبيض × أزرق أكوا",
@@ -3987,67 +4938,67 @@
           "values": [
             {
               "id": "1321812214",
-              "name": "39 (24.5 سم)",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "412512247",
-              "name": "40 (25.0 سم)",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "1786547952",
-              "name": "40.5 (25.5 سم)",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1146727921",
-              "name": "41.5 (26.0 سم)",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "371641586",
-              "name": "42 (26.5 سم)",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1610869747",
-              "name": "42.5 (27.0 سم)",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1038617340",
-              "name": "43.5 (27.5 سم)",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "263531005",
-              "name": "44 (28.0 سم)",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1502759166",
-              "name": "44.5 (28.5 سم)",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "729765887",
-              "name": "45 (29.0 سم)",
+              "name": "45",
               "out": false,
               "img": null
             },
             {
               "id": "88372984",
-              "name": "47 (30.0 سم)",
+              "name": "47",
               "out": false,
               "img": null
             }
@@ -4055,6 +5006,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1031256474",
       "en": {
         "name": "ASICS GEL-KAYANO 33 Running Shoe — Men's",
@@ -4276,9 +5229,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1627587425",
@@ -4486,17 +5437,17 @@
         "color": "اللون"
       },
       "sizes": [
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)",
-        "42.5 (27.0 سم)",
-        "43.5 (27.5 سم)",
-        "44 (28.0 سم)",
-        "44.5 (28.5 سم)",
-        "45 (29.0 سم)",
-        "47 (30.0 سم)"
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "47"
       ],
       "colors": [
         "كريمي × أسود",
@@ -4543,67 +5494,67 @@
           "values": [
             {
               "id": "1316103083",
-              "name": "39 (24.5 سم)",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "408896180",
-              "name": "40 (25.0 سم)",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "1780769205",
-              "name": "40.5 (25.5 سم)",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1141014710",
-              "name": "41.5 (26.0 سم)",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "300920759",
-              "name": "42 (26.5 سم)",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1672793776",
-              "name": "42.5 (27.0 سم)",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1032973745",
-              "name": "43.5 (27.5 سم)",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "259919026",
-              "name": "44 (28.0 سم)",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1499147187",
-              "name": "44.5 (28.5 سم)",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "723536572",
-              "name": "45 (29.0 سم)",
+              "name": "45",
               "out": false,
               "img": null
             },
             {
               "id": "84765117",
-              "name": "47 (30.0 سم)",
+              "name": "47",
               "out": false,
               "img": null
             }
@@ -4611,6 +5562,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1627587425",
       "en": {
         "name": "ASICS GEL-NIMBUS 28 Running Shoe — Men's",
@@ -4816,9 +5769,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1662734611",
@@ -5039,15 +5990,15 @@
         "color": "اللون"
       },
       "sizes": [
-        "36 (22.5 سم)",
-        "37 (23.0 سم)",
-        "37.5 (23.5 سم)",
-        "38 (24.0 سم)",
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)"
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42"
       ],
       "colors": [
         "أبيض × ليلكي",
@@ -5087,55 +6038,55 @@
           "values": [
             {
               "id": "544836476",
-              "name": "36 (22.5 سم)",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "1917233789",
-              "name": "37 (23.0 سم)",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "1277413758",
-              "name": "37.5 (23.5 سم)",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "503900287",
-              "name": "38 (24.0 سم)",
+              "name": "38",
               "out": false,
               "img": null
             },
             {
               "id": "1809184632",
-              "name": "39 (24.5 سم)",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "1169299065",
-              "name": "40 (25.0 سم)",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "396309882",
-              "name": "40.5 (25.5 سم)",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1633965179",
-              "name": "41.5 (26.0 سم)",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "859927364",
-              "name": "42 (26.5 سم)",
+              "name": "42",
               "out": false,
               "img": null
             }
@@ -5143,6 +6094,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1662734611",
       "en": {
         "name": "ASICS GEL-KAYANO 33 Running Shoe — Women's",
@@ -5361,9 +6314,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1296629940",
@@ -5694,6 +6645,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1296629940",
       "en": {
         "name": "Asics Sky Elite FF 4 — New 2026 Generation",
@@ -5867,9 +6820,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1620547696",
@@ -6214,6 +7165,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1620547696",
       "en": {
         "name": "Asics Sky Elite FF MT 4 (Mid-Cut) — New 2026 Generation",
@@ -6400,9 +7353,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "391642680",
@@ -6518,16 +7469,16 @@
         "color": "اللون"
       },
       "sizes": [
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم"
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5"
       ],
       "colors": [
         "أبيض × ساكورا رقمي (101)",
@@ -6574,61 +7525,61 @@
           "values": [
             {
               "id": "1935545027",
-              "name": "24.0 سم",
+              "name": "38",
               "out": false,
               "img": null
             },
             {
               "id": "1295725004",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "520114381",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "1760395214",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "986422991",
-              "name": "26.0 سم",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "345030088",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1719524553",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "811269066",
-              "name": "27.5 سم",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "36117195",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1544305108",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             }
@@ -6636,6 +7587,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p391642680",
       "en": {
         "name": "ASICS DS LIGHT PRO AG Football Boots",
@@ -6759,9 +7712,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "768894154",
@@ -7102,6 +8053,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p768894154",
       "en": {
         "name": "Asics Sky Elite FF MT 4 — Exclusive Shine Pack (Ran Takahashi's Shoe)",
@@ -7325,9 +8278,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1691308859",
@@ -7588,6 +8539,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1691308859",
       "en": {
         "name": "Asics Metarise 2 — Exclusive Shine Pack (Yuji Nishida's Shoe)",
@@ -7749,9 +8702,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "810346638",
@@ -8034,6 +8985,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p810346638",
       "en": {
         "name": "ASICS Metarise 2 Volleyball Shoe",
@@ -8197,9 +9150,237 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "1298969347",
+      "sallaId": "1298969347",
+      "sku": "RSP-ASICS-METASPEED-SKY-TOKYO",
+      "name": "حذاء أسيكس ميتاسبيد سكاي طوكيو",
+      "brand": "أسيكس",
+      "category": "shoes",
+      "sport": "الجري",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية جري"
+      ],
+      "price": 900,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "حذاء السباق الأعلى فئة — لمن يطيل خطوته",
+      "description": "أسيكس ميتاسبيد سكاي طوكيو قمة ما تصنعه أسيكس للسباق. الميتاسبيد هو خطّ أسيكس المخصّص للمنافسة وحدها، و«طوكيو» هو جيله الأحدث. مبنيّ حول هدف واحد: أن تقطع المسافة نفسها بخطوات أطول وطاقة أقل. ووزنه 167 غراماً فقط — أخفّ من أغلب أحذية التدريب اليومية بثلثها. سكاي أم إيدج؟ اقرأ هذا أولاً أسيكس تصنع حذاءين في هذا الخطّ، والفرق بينهما ليس المستوى بل أسلوب جريك: سكاي (هذا الحذاء) — لمن يزيد سرعته بإطالة الخطوة. اللوح الكربوني هنا أكثر استواءً وموضوع أعلى في النعل، والنعل أسمك عند مقدمة القدم. النتيجة أن الحذاء يدفعك للأمام وللأعلى فتقطع مسافة أكبر في الخطوة الواحدة. إيدج — لمن يزيد سرعته برفع تواتر الخطوات لا بإطالتها. اعرف أيّهما أنت قبل الشراء: صوّر نفسك وأنت تتسارع. إن طالت خطوتك فهذا حذاؤك، وإن تسارعت قدماك دون أن تطول الخطوة فالإيدج أنسب لك. التقنيات رغوتان لا واحدة — FF LEAP في الطبقة السفلى و FF TURBO PLUS في العليا. الجديد هنا هو FF LEAP: أخفّ رغوة صنعتها أسيكس على الإطلاق، وهي أخفّ بـ15٪ وأكثر استجابة بـ14٪ وأطرى بـ30٪ من FF TURBO PLUS. والسبب في وضعها أسفل لا أعلى أن الطبقة السفلى هي التي تلامس الأرض وتستقبل الصدمة، فتمتصّها ثم تردّها، بينما تبقى الطبقة العليا الأكثر حزماً تحت قدمك مباشرةً فلا تشعر بالغوص. لوح كربوني مرفوع — أسيكس رفعت موضع اللوح داخل النعل وجعلته أكثر استواءً. ما يعنيه ذلك في السباق: عزم دفع أطول للأمام في كل خطوة بدل دفعة قصيرة حادّة، وهو ما يترجَم إلى خطوة أطول دون جهد إضافي منك. نعل أسمك عند المقدّمة — مقارنةً بالإيدج. عند لحظة الدفع الأخيرة من أصابع القدم تجد تحتك مادة أكثر ترتدّ، فتخرج من الخطوة بارتفاع أكبر. لمن هذا الحذاء؟ للسباق لا للتمرين اليومي. لعدّاء 5 و10 كيلومترات ونصف الماراثون والماراثون، ممن يستهدف رقماً شخصياً ويريد أن يوفّر ثوانيَ في كل كيلومتر. لمن يطيل خطوته عند التسارع — وهذا هو الشرط الأهم، وقد شرحناه أعلاه. لمن يعرف أن حذاء السباق يُستهلك بسرعة. أحذية الكربون عمرها الافتراضي أقصر بكثير من أحذية التدريب، لأن رغوتها مصمَّمة للارتداد لا للتحمّل. ومتى لا يناسبك؟ بصراحة: إن كنت تجري يومياً للياقة أو لإنقاص الوزن، فهذا ليس حذاءك. لا هو مصمَّم للاستخدام اليومي، ولا عمره يحتمله، وستدفع ثمن تقنيات لن تستفيد منها. حذاء التدريب اليومي أنسب لك وأدوم. إن كنت مبتدئاً لم يبنِ بعد قوة ساقيه، فاللوح الكربوني ينقل حِملاً أكبر إلى وتر أخيل وباطن القدم. ابدأ بحذاء تدريب واصعد إلى الكربون بعد أن تثبت مسافاتك. إن كنت ترفع تواترك لا طول خطوتك، فالإيدج هو حذاؤك لا هذا. الأصالة والتوريد أصلي 100٪، ويُجلب من متجر أسيكس الرسمي في اليابان بطلبك. كود الموديل 1013A162. ⏱️ مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+      "images": [
+        "https://cdn.salla.sa/jZjwre/2d7eadee-a95c-4819-9357-3c4591c46ee4-1000x1000-X5EJ0kLVFjYs2rg9xNvHHV6pesndoO7XuvTbHJLc.jpg",
+        "https://cdn.salla.sa/jZjwre/dc92c962-eb54-48dc-9c67-95abf14b10f0-1000x1000-He5a7uZXuMKHz2M80JS39FkbxWqYl98CJ0fxjbBS.jpg",
+        "https://cdn.salla.sa/jZjwre/a32a6d9d-0605-4a35-ba48-25de055ba20e-1000x1000-buM7PwQeT9RhoeqQ7Ha55QFbekT3JqhLScsunEbb.jpg",
+        "https://cdn.salla.sa/jZjwre/5f89f295-ba76-400c-8756-25df00297620-1000x1000-Egg0jA8aWAYvaOyQ3K4nTjOetlrsIsiIRAznHZfv.jpg",
+        "https://cdn.salla.sa/jZjwre/43e9f33f-6fde-4b4a-be16-464fb651fa14-1000x1000-EkJWKMwx46KO0vqyo3iKTNLYpLoilT4nJIRhG5OF.jpg",
+        "https://cdn.salla.sa/jZjwre/a24d22ee-8a59-4bd5-9851-cd6d53608a11-1000x1000-r1rRd4ZP4Ydc9nEJcnJXkABX7OMwWYJa6FlH6E9T.jpg",
+        "https://cdn.salla.sa/jZjwre/8fc2e1e4-7de8-4335-9ce3-63e267200a4b-1000x1000-vpCKxaXA1Noq9QCgV0gUYeixzzCPW6zvKp6O15Rr.jpg",
+        "https://cdn.salla.sa/jZjwre/b7dfe787-237f-4935-967a-2d9574c72f5a-1000x1000-qjUwvfRWlY1PvKTwTUpyjXjRgPev5lMe182LUrk0.jpg",
+        "https://cdn.salla.sa/jZjwre/eff84cb5-b63c-404c-b081-c4505602a8e8-1000x1000-AxKwC31PFRLpy6UwKXmRY9dcFrZMbkaKQIYS3dyS.jpg",
+        "https://cdn.salla.sa/jZjwre/8baaf4c5-ad69-4f6a-803a-64863a6a3f2a-1000x1000-00DLqalt5MzLelJIAhlmrmRfsg0ulEHJT67efvBJ.jpg",
+        "https://cdn.salla.sa/jZjwre/7b854f0c-a3a1-4b03-99e9-dcad4545d317-1000x1000-ZZXOwS1eAlqG23VlC1jjrSeVSpzfbKpCtTdC6r99.jpg",
+        "https://cdn.salla.sa/jZjwre/f9201cc7-c4d7-425e-8bad-9c483d2c35b9-1000x1000-pS0JT5Ct3CZ96xK6s74EcDxTo3WKxw4bmdQDlhdg.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
       },
+      "sizes": [
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "colors": [
+        "أخضر جيكو × أسود",
+        "أكواريوم × أبيض",
+        "أبيض × كوبالت"
+      ],
+      "options": [
+        {
+          "id": "166516021",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1646934773",
+              "name": "أخضر جيكو × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4390005e-c88b-44f2-99a8-ec36df9d261c-500x500-X5EJ0kLVFjYs2rg9xNvHHV6pesndoO7XuvTbHJLc.jpg"
+            },
+            {
+              "id": "1073175030",
+              "name": "أكواريوم × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/5cae6e48-6c75-45f6-85f3-6ac122706a54-500x500-EkJWKMwx46KO0vqyo3iKTNLYpLoilT4nJIRhG5OF.jpg"
+            },
+            {
+              "id": "467691274",
+              "name": "أبيض × كوبالت",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/0b2aa6e0-470a-469c-8267-ff055b63ba83-500x500-AxKwC31PFRLpy6UwKXmRY9dcFrZMbkaKQIYS3dyS.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1539961910",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "29662467",
+              "name": "38.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1403108364",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "764336909",
+              "name": "39.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2137782798",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1227888911",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "165443831",
+              "name": "41",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1538951152",
+              "name": "41.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "898082545",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "124569074",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1363797235",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "588645372",
+              "name": "43.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2096308989",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1322795518",
+              "name": "44.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "413491455",
+              "name": "45",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "454899720",
+              "name": "46",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
       "origin": "JP",
-      "status": "live"
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1298969347",
+      "en": {
+        "name": "حذاء أسيكس ميتاسبيد سكاي طوكيو",
+        "brand": "ASICS",
+        "sport": "Running",
+        "tagline": null,
+        "subtitle": "حذاء السباق الأعلى فئة — لمن يطيل خطوته",
+        "description": "أسيكس ميتاسبيد سكاي طوكيو قمة ما تصنعه أسيكس للسباق. الميتاسبيد هو خطّ أسيكس المخصّص للمنافسة وحدها، و«طوكيو» هو جيله الأحدث. مبنيّ حول هدف واحد: أن تقطع المسافة نفسها بخطوات أطول وطاقة أقل. ووزنه 167 غراماً فقط — أخفّ من أغلب أحذية التدريب اليومية بثلثها. سكاي أم إيدج؟ اقرأ هذا أولاً أسيكس تصنع حذاءين في هذا الخطّ، والفرق بينهما ليس المستوى بل أسلوب جريك: سكاي (هذا الحذاء) — لمن يزيد سرعته بإطالة الخطوة. اللوح الكربوني هنا أكثر استواءً وموضوع أعلى في النعل، والنعل أسمك عند مقدمة القدم. النتيجة أن الحذاء يدفعك للأمام وللأعلى فتقطع مسافة أكبر في الخطوة الواحدة. إيدج — لمن يزيد سرعته برفع تواتر الخطوات لا بإطالتها. اعرف أيّهما أنت قبل الشراء: صوّر نفسك وأنت تتسارع. إن طالت خطوتك فهذا حذاؤك، وإن تسارعت قدماك دون أن تطول الخطوة فالإيدج أنسب لك. التقنيات رغوتان لا واحدة — FF LEAP في الطبقة السفلى و FF TURBO PLUS في العليا. الجديد هنا هو FF LEAP: أخفّ رغوة صنعتها أسيكس على الإطلاق، وهي أخفّ بـ15٪ وأكثر استجابة بـ14٪ وأطرى بـ30٪ من FF TURBO PLUS. والسبب في وضعها أسفل لا أعلى أن الطبقة السفلى هي التي تلامس الأرض وتستقبل الصدمة، فتمتصّها ثم تردّها، بينما تبقى الطبقة العليا الأكثر حزماً تحت قدمك مباشرةً فلا تشعر بالغوص. لوح كربوني مرفوع — أسيكس رفعت موضع اللوح داخل النعل وجعلته أكثر استواءً. ما يعنيه ذلك في السباق: عزم دفع أطول للأمام في كل خطوة بدل دفعة قصيرة حادّة، وهو ما يترجَم إلى خطوة أطول دون جهد إضافي منك. نعل أسمك عند المقدّمة — مقارنةً بالإيدج. عند لحظة الدفع الأخيرة من أصابع القدم تجد تحتك مادة أكثر ترتدّ، فتخرج من الخطوة بارتفاع أكبر. لمن هذا الحذاء؟ للسباق لا للتمرين اليومي. لعدّاء 5 و10 كيلومترات ونصف الماراثون والماراثون، ممن يستهدف رقماً شخصياً ويريد أن يوفّر ثوانيَ في كل كيلومتر. لمن يطيل خطوته عند التسارع — وهذا هو الشرط الأهم، وقد شرحناه أعلاه. لمن يعرف أن حذاء السباق يُستهلك بسرعة. أحذية الكربون عمرها الافتراضي أقصر بكثير من أحذية التدريب، لأن رغوتها مصمَّمة للارتداد لا للتحمّل. ومتى لا يناسبك؟ بصراحة: إن كنت تجري يومياً للياقة أو لإنقاص الوزن، فهذا ليس حذاءك. لا هو مصمَّم للاستخدام اليومي، ولا عمره يحتمله، وستدفع ثمن تقنيات لن تستفيد منها. حذاء التدريب اليومي أنسب لك وأدوم. إن كنت مبتدئاً لم يبنِ بعد قوة ساقيه، فاللوح الكربوني ينقل حِملاً أكبر إلى وتر أخيل وباطن القدم. ابدأ بحذاء تدريب واصعد إلى الكربون بعد أن تثبت مسافاتك. إن كنت ترفع تواترك لا طول خطوتك، فالإيدج هو حذاؤك لا هذا. الأصالة والتوريد أصلي 100٪، ويُجلب من متجر أسيكس الرسمي في اليابان بطلبك. كود الموديل 1013A162. ⏱️ مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Running Shoes"
+        ],
+        "options": {
+          "166516021": {
+            "name": "Color",
+            "values": {
+              "467691274": "أبيض × كوبالت",
+              "1073175030": "أكواريوم × أبيض",
+              "1646934773": "أخضر جيكو × أسود"
+            }
+          },
+          "1539961910": {
+            "name": "Size",
+            "values": {
+              "29662467": "38.5",
+              "124569074": "42.5",
+              "165443831": "41",
+              "413491455": "45",
+              "454899720": "46",
+              "588645372": "43.5",
+              "764336909": "39.5",
+              "898082545": "42",
+              "1227888911": "40.5",
+              "1322795518": "44.5",
+              "1363797235": "43",
+              "1403108364": "39",
+              "1538951152": "41.5",
+              "2096308989": "44",
+              "2137782798": "40"
+            }
+          }
+        }
+      }
     },
     {
       "id": "68644841",
@@ -8389,6 +9570,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p68644841",
       "en": {
         "name": "حذاء أنتا KT 11 لكرة السلة",
@@ -8463,9 +9646,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "2052472378",
@@ -8631,6 +9812,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2052472378",
       "en": {
         "name": "حذاء أنتا كاي سبيد 3 لكرة السلة",
@@ -8702,9 +9885,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "1944492805",
@@ -8878,6 +10059,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1944492805",
       "en": {
         "name": "حذاء أنتا كاي 3 لكرة السلة",
@@ -8950,9 +10133,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "1446292277",
@@ -9146,6 +10327,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1446292277",
       "en": {
         "name": "حذاء إيكوالايزر 247 NXT لكرة السلة",
@@ -9221,9 +10404,348 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "1231036761",
+      "sallaId": "1231036761",
+      "sku": "RSP-PUMA-108898",
+      "name": "حذاء بوما فيوتشر 9 ألتيميت لكرة القدم",
+      "brand": "بوما",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 465,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "بوما · خطّ المراوغة · مسامير HG/AG",
+      "description": "فيوتشر 9 ألتيميت فيوتشر هو خطّ المراوغة وتغيير الاتجاه عند بوما — يقابل ألترا (السرعة) بفلسفة الثبات الجانبي. و ألتيميت فئته العليا. التقنيات شريط تثبيت متكيّف — يلفّ مشط القدم فيمنع انزلاقها داخل الحذاء عند التغيير المفاجئ للاتجاه. وجه محبوك بملمس مسنّن — يزيد احتكاك الكرة في المراوغة والتحكّم القريب. نعل HG/AG — مسامير مختلطة للأرضيات الصلبة والنجيل الصناعي. لمن هذا الحذاء؟ للاعب الذي يراوغ ويغيّر اتجاهه كثيراً في مساحة ضيّقة. من يلعب بالسرعة المستقيمة فخطّ ألترا أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل 108898 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "فيوتشر 9 ألتيميت"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "فيوتشر"
+            },
+            " هو خطّ المراوغة وتغيير الاتجاه عند بوما — يقابل ألترا (السرعة) بفلسفة الثبات الجانبي. و",
+            {
+              "b": "ألتيميت"
+            },
+            " فئته العليا."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "شريط تثبيت متكيّف"
+            },
+            " — يلفّ مشط القدم فيمنع انزلاقها داخل الحذاء عند التغيير المفاجئ للاتجاه."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وجه محبوك بملمس مسنّن"
+            },
+            " — يزيد احتكاك الكرة في المراوغة والتحكّم القريب."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل HG/AG"
+            },
+            " — مسامير مختلطة للأرضيات الصلبة والنجيل الصناعي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعب الذي يراوغ ويغيّر اتجاهه كثيراً في مساحة ضيّقة. من يلعب بالسرعة المستقيمة فخطّ ألترا أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "108898"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/41a53541-cbc3-45df-931e-251ec4816d68-1000x750-ASD2RQxdititqCUnzUSASum3JRmaZ9LCwmffd2Q9.jpg",
+        "https://cdn.salla.sa/jZjwre/bfc34614-0718-440b-b8ef-3245d3d734f4-1000x750-hSQRdHWM6OTLjNX9xfX8rKcC0nBRFdx2EVREMETH.jpg",
+        "https://cdn.salla.sa/jZjwre/ca323c9c-88b2-4b2f-8206-2e60c2119808-1000x750-A71bAUHFmuEHPQBnSu686aCXoMfOlh3lhKZs4wkx.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "origin": "CN",
-      "status": "live"
+      "sizes": [
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44"
+      ],
+      "colors": [
+        "وردي",
+        "أزرق ثلجي",
+        "أحمر × أبيض"
+      ],
+      "options": [
+        {
+          "id": "1877062099",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "365529385",
+              "name": "وردي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/f785edba-9413-42f7-9a55-cd8286ee7d49-500x375-ASD2RQxdititqCUnzUSASum3JRmaZ9LCwmffd2Q9.jpg"
+            },
+            {
+              "id": "1737926698",
+              "name": "أزرق ثلجي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/ba847645-474e-4bdd-8cc4-a1fc3ae28013-500x375-hSQRdHWM6OTLjNX9xfX8rKcC0nBRFdx2EVREMETH.jpg"
+            },
+            {
+              "id": "829667115",
+              "name": "أحمر × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c6c7e11f-b34d-48ab-89a6-c10ab0515538-500x375-A71bAUHFmuEHPQBnSu686aCXoMfOlh3lhKZs4wkx.jpg"
+            }
+          ]
+        },
+        {
+          "id": "195821533",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "304209468",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1812921661",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "971709502",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "196098879",
+              "name": "41",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1704811064",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "930773305",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "21010490",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1395500859",
+              "name": "44",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1231036761",
+      "en": {
+        "name": "PUMA Future 9 Ultimate HG/AG Football Boots",
+        "brand": "Puma",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "بوما · خطّ المراوغة · مسامير HG/AG",
+        "description": "Future 9 Ultimate Future is PUMA's agility line — the counterpart to Ultra's straight-line speed, built around lateral lockdown. Ultimate is its top tier. Technology Adaptive lockdown band — Wraps the midfoot so it does not slide inside the boot on sharp changes of direction. Textured knit upper — Adds grip on the ball for dribbling and close control. HG/AG outsole — Mixed studs for hard ground and artificial grass. Who is it for? For the player who dribbles and turns in tight spaces. If you play in straight lines, the Ultra line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code 108898 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Future 9 Ultimate"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Future"
+              },
+              " is PUMA's agility line — the counterpart to Ultra's straight-line speed, built around lateral lockdown. ",
+              {
+                "b": "Ultimate"
+              },
+              " is its top tier."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Adaptive lockdown band"
+              },
+              " — Wraps the midfoot so it does not slide inside the boot on sharp changes of direction."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Textured knit upper"
+              },
+              " — Adds grip on the ball for dribbling and close control."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "HG/AG outsole"
+              },
+              " — Mixed studs for hard ground and artificial grass."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For the player who dribbles and turns in tight spaces. If you play in straight lines, the Ultra line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "108898"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "195821533": {
+            "name": "Size",
+            "values": {
+              "21010490": "27.5 cm",
+              "196098879": "26.0 cm",
+              "304209468": "24.5 cm",
+              "930773305": "27.0 cm",
+              "971709502": "25.5 cm",
+              "1395500859": "28.0 cm",
+              "1704811064": "26.5 cm",
+              "1812921661": "25.0 cm"
+            }
+          },
+          "1877062099": {
+            "name": "Colour",
+            "values": {
+              "365529385": "Poison Pink / Sun Stream",
+              "829667115": "Glowing Red / Puma White",
+              "1737926698": "Icy Blue / Blue Jewel"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1441587918",
@@ -9452,6 +10974,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1441587918",
       "en": {
         "name": "حذاء ريغورر AR3 لكرة السلة",
@@ -9531,9 +11055,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "2013774797",
@@ -9707,6 +11229,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2013774797",
       "en": {
         "name": "حذاء لي نينغ ويد شادو 7 لكرة السلة",
@@ -9779,9 +11303,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "713125163",
@@ -10011,6 +11533,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p713125163",
       "en": {
         "name": "حذاء لي نينغ ويد أول سيتي 14 لكرة السلة",
@@ -10090,9 +11614,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "1905664200",
@@ -10324,6 +11846,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1905664200",
       "en": {
         "name": "حذاء لي نينغ ويد DLO 2 لكرة السلة",
@@ -10403,9 +11927,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "1304672774",
@@ -10623,6 +12145,8 @@
         }
       ],
       "model": null,
+      "origin": "CN",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1304672774",
       "en": {
         "name": "حذاء لي نينغ ويد أوف ويد 12 لكرة السلة",
@@ -10701,9 +12225,7 @@
             }
           }
         }
-      },
-      "origin": "CN",
-      "status": "live"
+      }
     },
     {
       "id": "1556818954",
@@ -10815,12 +12337,12 @@
         "color": "اللون"
       },
       "sizes": [
-        "23.0 سم",
-        "24.5 سم",
-        "25.5 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم"
+        "37",
+        "39",
+        "40.5",
+        "43.5",
+        "44",
+        "44.5"
       ],
       "colors": [
         "أبيض × ذهبي (50)"
@@ -10846,37 +12368,37 @@
           "values": [
             {
               "id": "1900463313",
-              "name": "23.0 سم",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "1126425554",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "487064275",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1859461596",
-              "name": "27.5 سم",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "951206109",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "178221022",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             }
@@ -10884,6 +12406,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1556818954",
       "en": {
         "name": "Mizuno Morelia Sala Pro TF Football Shoes",
@@ -11000,9 +12524,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1101323016",
@@ -11309,6 +12831,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1101323016",
       "en": {
         "name": "Mizuno Wave Lightning Elite — Light & Fast, All Sizes Available",
@@ -11480,9 +13004,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1728971313",
@@ -11830,6 +13352,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1728971313",
       "en": {
         "name": "Mizuno Wave Momentum Elite — All Sizes Available",
@@ -12013,9 +13537,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "578858863",
@@ -12128,23 +13650,23 @@
         "color": "اللون"
       },
       "sizes": [
-        "22.0 سم",
-        "22.5 سم",
-        "23.0 سم",
-        "23.5 سم",
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم",
-        "29.5 سم",
-        "30.0 سم"
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47"
       ],
       "colors": [
         "أبيض × ذهبي (50)",
@@ -12177,103 +13699,103 @@
           "values": [
             {
               "id": "1268467749",
-              "name": "22.0 سم",
+              "name": "35.5",
               "out": false,
               "img": null
             },
             {
               "id": "627070758",
-              "name": "22.5 سم",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "2001565223",
-              "name": "23.0 سم",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "1093375264",
-              "name": "23.5 سم",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "317764641",
-              "name": "24.0 سم",
+              "name": "38",
               "out": false,
               "img": null
             },
             {
               "id": "1826476834",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "1052439075",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "143069484",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1517039661",
-              "name": "26.0 سم",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "877223726",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "102137391",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1409064232",
-              "name": "27.5 سم",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "769244201",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "2141641514",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "1233386027",
-              "name": "29.0 سم",
+              "name": "45",
               "out": false,
               "img": null
             },
             {
               "id": "459807028",
-              "name": "29.5 سم",
+              "name": "46",
               "out": false,
               "img": null
             },
             {
               "id": "1966422069",
-              "name": "30.0 سم",
+              "name": "47",
               "out": false,
               "img": null
             }
@@ -12281,6 +13803,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p578858863",
       "en": {
         "name": "Mizuno Monarcida Neo 3 Pro Football Boots",
@@ -12405,9 +13929,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "231046445",
@@ -12627,21 +14149,21 @@
         "color": "اللون"
       },
       "sizes": [
-        "36 (22.5 سم)",
-        "37 (23.0 سم)",
-        "37.5 (23.5 سم)",
-        "38 (24.0 سم)",
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)",
-        "42.5 (27.0 سم)",
-        "43.5 (27.5 سم)",
-        "44 (28.0 سم)",
-        "44.5 (28.5 سم)",
-        "45 (29.0 سم)",
-        "47 (30.0 سم)"
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "47"
       ],
       "colors": [
         "أسود × أبيض",
@@ -12681,91 +14203,91 @@
           "values": [
             {
               "id": "280761330",
-              "name": "36 (22.5 سم)",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "1654207219",
-              "name": "37 (23.0 سم)",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "1013338620",
-              "name": "37.5 (23.5 سم)",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "239300861",
-              "name": "38 (24.0 سم)",
+              "name": "38",
               "out": false,
               "img": null
             },
             {
               "id": "1479122942",
-              "name": "39 (24.5 سم)",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "905363199",
-              "name": "40 (25.0 سم)",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "131325432",
-              "name": "40.5 (25.5 سم)",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1371077881",
-              "name": "41.5 (26.0 سم)",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "595926010",
-              "name": "42 (26.5 سم)",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "2103589627",
-              "name": "42.5 (27.0 سم)",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1330600388",
-              "name": "43.5 (27.5 سم)",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "420772037",
-              "name": "44 (28.0 سم)",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1794279366",
-              "name": "44.5 (28.5 سم)",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "1155507911",
-              "name": "45 (29.0 سم)",
+              "name": "45",
               "out": false,
               "img": null
             },
             {
               "id": "379897280",
-              "name": "47 (30.0 سم)",
+              "name": "47",
               "out": false,
               "img": null
             }
@@ -12773,6 +14295,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p231046445",
       "en": {
         "name": "Mizuno Wave Rider 30 — Running & Walking Shoe",
@@ -12997,9 +14521,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1111048525",
@@ -13100,23 +14622,23 @@
         "color": "اللون"
       },
       "sizes": [
-        "22.0 سم",
-        "22.5 سم",
-        "23.0 سم",
-        "23.5 سم",
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم",
-        "29.5 سم",
-        "30.0 سم"
+        "35.5",
+        "36",
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47"
       ],
       "colors": [
         "أبيض × ذهبي (50)"
@@ -13142,103 +14664,103 @@
           "values": [
             {
               "id": "566759437",
-              "name": "22.0 سم",
+              "name": "35.5",
               "out": false,
               "img": null
             },
             {
               "id": "1939160846",
-              "name": "22.5 سم",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "1299340815",
-              "name": "23.0 سم",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "526351624",
-              "name": "23.5 سم",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "1764072457",
-              "name": "24.0 سم",
+              "name": "38",
               "out": true,
               "img": null
             },
             {
               "id": "351263243",
-              "name": "24.5 سم",
+              "name": "39",
               "out": true,
               "img": null
             },
             {
               "id": "814815253",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "1549485591",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "773874960",
-              "name": "26.0 سم",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "2014217233",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1441506066",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "665895443",
-              "name": "27.5 سم",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "1906172188",
-              "name": "28.0 سم",
+              "name": "44",
               "out": true,
               "img": null
             },
             {
               "id": "1132068893",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "491204382",
-              "name": "29.0 سم",
+              "name": "45",
               "out": true,
               "img": null
             },
             {
               "id": "1865174559",
-              "name": "29.5 سم",
+              "name": "46",
               "out": false,
               "img": null
             },
             {
               "id": "956919064",
-              "name": "30.0 سم",
+              "name": "47",
               "out": false,
               "img": null
             }
@@ -13246,6 +14768,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1111048525",
       "en": {
         "name": "Mizuno Monarcida Neo 3 Elite Football Boots",
@@ -13362,9 +14886,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1218004902",
@@ -13466,21 +14988,21 @@
         "color": "اللون"
       },
       "sizes": [
-        "23.0 سم",
-        "23.5 سم",
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم",
-        "29.5 سم",
-        "30.0 سم"
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47"
       ],
       "colors": [
         "أسود (09)",
@@ -13513,91 +15035,91 @@
           "values": [
             {
               "id": "69083197",
-              "name": "23.0 سم",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "1375424318",
-              "name": "23.5 سم",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "599813695",
-              "name": "24.0 سم",
+              "name": "38",
               "out": false,
               "img": null
             },
             {
               "id": "2108591416",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "1334553657",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "424725306",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1799219771",
-              "name": "26.0 سم",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "1159334148",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "384247813",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1623996166",
-              "name": "27.5 سم",
+              "name": "43.5",
               "out": false,
               "img": null
             },
             {
               "id": "849958407",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "209089792",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "1583125505",
-              "name": "29.0 سم",
+              "name": "45",
               "out": false,
               "img": null
             },
             {
               "id": "674870018",
-              "name": "29.5 سم",
+              "name": "46",
               "out": false,
               "img": null
             },
             {
               "id": "2047267331",
-              "name": "30.0 سم",
+              "name": "47",
               "out": false,
               "img": null
             }
@@ -13605,6 +15127,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1218004902",
       "en": {
         "name": "Mizuno Morelia Sala Elite TF Football Shoes",
@@ -13720,9 +15244,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "598962598",
@@ -13872,6 +15394,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p598962598",
       "en": {
         "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
@@ -13944,9 +15468,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1016973400",
@@ -14112,6 +15634,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1016973400",
       "en": {
         "name": "حذاء نايكي ريأكت إكس ريجوفينيت لكرة السلة",
@@ -14186,9 +15710,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1299014070",
@@ -14299,6 +15821,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1299014070",
       "en": {
         "name": "حذاء نايكي إس تي فلير لكرة السلة",
@@ -14362,9 +15886,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "847542702",
@@ -14561,6 +16083,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p847542702",
       "en": {
         "name": "حذاء نايكي جيانيس فريك 7 لكرة السلة",
@@ -14636,9 +16160,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "707532123",
@@ -14814,6 +16336,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p707532123",
       "en": {
         "name": "حذاء نايكي إس تي جلو لكرة السلة",
@@ -14886,9 +16410,355 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "2004539792",
+      "sallaId": "2004539792",
+      "sku": "RSP-NIKE-HQ2325",
+      "name": "حذاء نايكي فانتوم 6 لو أكاديمي TF لكرة القدم",
+      "brand": "نايكي",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 410,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · خطّ الدقّة · تيرف",
+      "description": "فانتوم 6 لو أكاديمي TF فانتوم هو خطّ الدقّة عند نايكي — حذاء التسديد والتمرير الحاسم. و لو نسخته المنخفضة بلا ياقة، و أكاديمي فئته اليومية بخامات أمتن للّعب المتكرّر. التقنيات منطقة لمس محكمة — وجه بملمس دقيق فوق مشط القدم يعطي ثباتاً في التمرير والتسديد. نعل تيرف (TF) — نتوءات مطاطية قصيرة وكثيفة للنجيل الصناعي. قصّة منخفضة — بلا ياقة: دخول وخروج سريع. لمن هذا الحذاء؟ لصانع اللعب والمهاجم الذي يعتمد على دقّة اللمسة. من يعتمد على السرعة فخطّ ميركوريال أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل HQ2325 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "فانتوم 6 لو أكاديمي TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "فانتوم"
+            },
+            " هو خطّ الدقّة عند نايكي — حذاء التسديد والتمرير الحاسم. و",
+            {
+              "b": "لو"
+            },
+            " نسخته المنخفضة بلا ياقة، و",
+            {
+              "b": "أكاديمي"
+            },
+            " فئته اليومية بخامات أمتن للّعب المتكرّر."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "منطقة لمس محكمة"
+            },
+            " — وجه بملمس دقيق فوق مشط القدم يعطي ثباتاً في التمرير والتسديد."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف (TF)"
+            },
+            " — نتوءات مطاطية قصيرة وكثيفة للنجيل الصناعي."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قصّة منخفضة"
+            },
+            " — بلا ياقة: دخول وخروج سريع."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لصانع اللعب والمهاجم الذي يعتمد على دقّة اللمسة. من يعتمد على السرعة فخطّ ميركوريال أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "HQ2325"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/785e4720-1ea5-48cb-ad1b-deac99e17bdc-1000x750-m1XRxhlwlGfHEKBTLDdb0Eq3GqpasBLYBbWUG4lV.jpg",
+        "https://cdn.salla.sa/jZjwre/3678ef1a-f237-4c1a-b0d6-294d75571655-1000x750-qZayrYkF5uN3cScljJ9EGZfVKL8Ghukar0SKnj6F.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
       },
+      "sizes": [
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5"
+      ],
+      "colors": [
+        "أحمر (600)",
+        "أزرق (446)"
+      ],
+      "options": [
+        {
+          "id": "1143920437",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "4146052",
+              "name": "أحمر (600)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/5b04c033-d329-4664-9c16-1fc73fdf48b6-500x375-m1XRxhlwlGfHEKBTLDdb0Eq3GqpasBLYBbWUG4lV.jpg"
+            },
+            {
+              "id": "1376019077",
+              "name": "أزرق (446)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c5335d62-ef21-4078-8e34-1d9e8a2b44db-500x375-qZayrYkF5uN3cScljJ9EGZfVKL8Ghukar0SKnj6F.jpg"
+            }
+          ]
+        },
+        {
+          "id": "369882678",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "803373446",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2043650183",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1268043648",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "628223617",
+              "name": "41",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2002652546",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1094397059",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "318786444",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1827498637",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1053526414",
+              "name": "44.5",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
       "origin": "JP",
-      "status": "live"
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p2004539792",
+      "en": {
+        "name": "Nike Phantom 6 Low Academy TF Football Shoes",
+        "brand": "Nike",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "نايكي · خطّ الدقّة · تيرف",
+        "description": "Phantom 6 Low Academy TF Phantom is Nike's precision line — the boot for striking and the decisive pass. Low is the collar-less version and Academy the everyday tier, with tougher materials for repeated play. Technology Precise touch zone — A finely textured upper across the instep for a consistent feel when passing and striking. Turf (TF) outsole — Short, dense rubber studs for artificial turf. Low cut — No collar: quick on and off. Who is it for? For playmakers and strikers who rely on precision. If you rely on speed, the Mercurial line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code HQ2325 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Phantom 6 Low Academy TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Phantom"
+              },
+              " is Nike's precision line — the boot for striking and the decisive pass. ",
+              {
+                "b": "Low"
+              },
+              " is the collar-less version and ",
+              {
+                "b": "Academy"
+              },
+              " the everyday tier, with tougher materials for repeated play."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Precise touch zone"
+              },
+              " — A finely textured upper across the instep for a consistent feel when passing and striking."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf (TF) outsole"
+              },
+              " — Short, dense rubber studs for artificial turf."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Low cut"
+              },
+              " — No collar: quick on and off."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For playmakers and strikers who rely on precision. If you rely on speed, the Mercurial line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "HQ2325"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "369882678": {
+            "name": "Size",
+            "values": {
+              "318786444": "27.5 cm",
+              "628223617": "26.0 cm",
+              "803373446": "24.5 cm",
+              "1053526414": "28.5 cm",
+              "1094397059": "27.0 cm",
+              "1268043648": "25.5 cm",
+              "1827498637": "28.0 cm",
+              "2002652546": "26.5 cm",
+              "2043650183": "25.0 cm"
+            }
+          },
+          "1143920437": {
+            "name": "Colour",
+            "values": {
+              "4146052": "Bright Crimson (600)",
+              "1376019077": "Racer Blue (446)"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1433881099",
@@ -14997,16 +16867,16 @@
         "color": "اللون"
       },
       "sizes": [
-        "23.0 سم",
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم"
+        "36",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44"
       ],
       "colors": [
         "أزرق (146)"
@@ -15032,61 +16902,61 @@
           "values": [
             {
               "id": "960596571",
-              "name": "23.0 سم",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "187607204",
-              "name": "24.0 سم",
+              "name": "38.5",
               "out": false,
               "img": null
             },
             {
               "id": "1695266725",
-              "name": "24.5 سم",
+              "name": "39",
               "out": true,
               "img": null
             },
             {
               "id": "919656102",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "12449191",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1385829536",
-              "name": "26.0 سم",
+              "name": "41",
               "out": false,
               "img": null
             },
             {
               "id": "744960929",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "2118931106",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1210675619",
-              "name": "27.5 سم",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "636981420",
-              "name": "28.0 سم",
+              "name": "44",
               "out": true,
               "img": null
             }
@@ -15094,6 +16964,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1433881099",
       "en": {
         "name": "Nike Tiempo Maestro Academy TF Football Shoes (146)",
@@ -15211,9 +17083,405 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "1037620251",
+      "sallaId": "1037620251",
+      "sku": "RSP-NIKE-IO5002",
+      "name": "حذاء نايكي ميركوريال فيبور 17 أكاديمي TF لكرة القدم",
+      "brand": "نايكي",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 430,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · خطّ السرعة · تيرف · فئة أكاديمي",
+      "description": "ميركوريال فيبور 17 أكاديمي TF ميركوريال هو خطّ السرعة عند نايكي — الخطّ الذي يلبسه الأجنحة والمهاجمون. فيبور نسخته المنخفضة بلا ياقة، و 17 جيله الحالي، و أكاديمي فئته اليومية: نفس القالب والشكل بخامات أمتن للّعب المتكرّر. التقنيات وجه NIKESKIN — طبقة رقيقة فوق شبكة الوجه تعطي لمسة ثابتة على الكرة وتحفظ شكل الحذاء مع الاستعمال المتكرّر. وسط Cushlon — رغوة تمتصّ صدمة الأرضية الصلبة تحت الوبر الصناعي، وهي ما يجعل الأكاديمي أريح من الفئات النحيلة في المباريات الطويلة. نعل تيرف (TF) — نتوءات مطاطية قصيرة وكثيفة للانطلاق على الوبر الصناعي بلا أن تغرز وتعلق. قصّة منخفضة — بلا ياقة: دخول وخروج سريع وحرّية عند الكاحل. لمن هذا الحذاء؟ للجناح والمهاجم الذي يعتمد على الانطلاقات والسرعة أكثر من التمرير القصير، ولمن يلعب على النجيل الصناعي أسبوعياً ويريد حذاءً يتحمّل بلا أن يفقد إحساس الميركوريال. من يريد اللمسة والتحكّم فخطّ تيمبو أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل IO5002 · نايكي · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "ميركوريال فيبور 17 أكاديمي TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "ميركوريال"
+            },
+            " هو خطّ السرعة عند نايكي — الخطّ الذي يلبسه الأجنحة والمهاجمون. ",
+            {
+              "b": "فيبور"
+            },
+            " نسخته المنخفضة بلا ياقة، و",
+            {
+              "b": "17"
+            },
+            " جيله الحالي، و",
+            {
+              "b": "أكاديمي"
+            },
+            " فئته اليومية: نفس القالب والشكل بخامات أمتن للّعب المتكرّر."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وجه NIKESKIN"
+            },
+            " — طبقة رقيقة فوق شبكة الوجه تعطي لمسة ثابتة على الكرة وتحفظ شكل الحذاء مع الاستعمال المتكرّر."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وسط Cushlon"
+            },
+            " — رغوة تمتصّ صدمة الأرضية الصلبة تحت الوبر الصناعي، وهي ما يجعل الأكاديمي أريح من الفئات النحيلة في المباريات الطويلة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف (TF)"
+            },
+            " — نتوءات مطاطية قصيرة وكثيفة للانطلاق على الوبر الصناعي بلا أن تغرز وتعلق."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قصّة منخفضة"
+            },
+            " — بلا ياقة: دخول وخروج سريع وحرّية عند الكاحل."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للجناح والمهاجم الذي يعتمد على الانطلاقات والسرعة أكثر من التمرير القصير، ولمن يلعب على النجيل الصناعي أسبوعياً ويريد حذاءً يتحمّل بلا أن يفقد إحساس الميركوريال. من يريد اللمسة والتحكّم فخطّ تيمبو أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IO5002"
+            },
+            " · نايكي · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/48581f3e-bd11-4a39-ab8b-0dc92e091153-1000x1000-YAJVCk26RLCcMvq4Y0EE1CKzQAqgnItzkEp4zuzJ.jpg",
+        "https://cdn.salla.sa/jZjwre/ef7a5d24-64e2-4bc4-b56a-caf452b904b0-1000x1000-Pqjh7cBsDBx9FDJlGEeA6ifaCdvRX2UIe2IYUdHo.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
       },
+      "sizes": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "colors": [
+        "أحمر (600)",
+        "أسود (001)"
+      ],
+      "options": [
+        {
+          "id": "687960578",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1849763042",
+              "name": "أحمر (600)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/3dbeb020-cb11-46ab-afbb-a199e6d44f73-500x500-YAJVCk26RLCcMvq4Y0EE1CKzQAqgnItzkEp4zuzJ.jpg"
+            },
+            {
+              "id": "942556131",
+              "name": "أسود (001)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/9581a2fc-1dda-4d65-9adc-0ce0a429fa75-500x500-Pqjh7cBsDBx9FDJlGEeA6ifaCdvRX2UIe2IYUdHo.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2062520579",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "168518380",
+              "name": "38.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1741783533",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "834576622",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "60542959",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1566633704",
+              "name": "41",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "793578985",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2032807146",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1257720811",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "618425076",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1991936501",
+              "name": "44.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1082632438",
+              "name": "45",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "309114871",
+              "name": "46",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
       "origin": "JP",
-      "status": "live"
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1037620251",
+      "en": {
+        "name": "Nike Mercurial Vapor 17 Academy TF Football Shoes",
+        "brand": "Nike",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "Nike · Speed line · Turf · Academy tier",
+        "description": "Mercurial Vapor 17 Academy TF Mercurial is Nike's speed line — the boot of wingers and strikers. Vapor is the low-cut version with no collar, 17 is the current generation, and Academy is the everyday tier: the same last and silhouette in tougher materials built for repeated play. Technology NIKESKIN upper — a thin skin over the mesh for a consistent touch on the ball that holds the boot's shape through heavy use. Cushlon midsole — foam that absorbs the hard surface under artificial turf, which is what makes the Academy more comfortable than the slimmer tiers over a long match. Turf (TF) outsole — short, dense rubber studs for quick acceleration on artificial turf without digging in or catching. Low-cut fit — no collar: quick on and off, and freedom at the ankle. Who is it for? For the winger and striker who lives on runs and speed rather than short passing, and for anyone playing weekly on artificial turf who wants a boot that lasts without losing the Mercurial feel. If touch and control are what you want, the Tiempo line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code IO5002 · Nike · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Mercurial Vapor 17 Academy TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Mercurial"
+              },
+              " is Nike's speed line — the boot of wingers and strikers. ",
+              {
+                "b": "Vapor"
+              },
+              " is the low-cut version with no collar, ",
+              {
+                "b": "17"
+              },
+              " is the current generation, and ",
+              {
+                "b": "Academy"
+              },
+              " is the everyday tier: the same last and silhouette in tougher materials built for repeated play."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "NIKESKIN upper"
+              },
+              " — a thin skin over the mesh for a consistent touch on the ball that holds the boot's shape through heavy use."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Cushlon midsole"
+              },
+              " — foam that absorbs the hard surface under artificial turf, which is what makes the Academy more comfortable than the slimmer tiers over a long match."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf (TF) outsole"
+              },
+              " — short, dense rubber studs for quick acceleration on artificial turf without digging in or catching."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Low-cut fit"
+              },
+              " — no collar: quick on and off, and freedom at the ankle."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For the winger and striker who lives on runs and speed rather than short passing, and for anyone playing weekly on artificial turf who wants a boot that lasts without losing the Mercurial feel. If touch and control are what you want, the Tiempo line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IO5002"
+              },
+              " · Nike · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "687960578": {
+            "name": "Colour",
+            "values": {
+              "942556131": "Black (001)",
+              "1849763042": "Bright Crimson (600)"
+            }
+          },
+          "2062520579": {
+            "name": "Size",
+            "values": {
+              "60542959": "25.5 cm",
+              "168518380": "24.0 cm",
+              "309114871": "30.0 cm",
+              "618425076": "28.0 cm",
+              "793578985": "26.5 cm",
+              "834576622": "25.0 cm",
+              "1082632438": "29.0 cm",
+              "1257720811": "27.5 cm",
+              "1566633704": "26.0 cm",
+              "1741783533": "24.5 cm",
+              "1991936501": "28.5 cm",
+              "2032807146": "27.0 cm"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1266678809",
@@ -15318,18 +17586,18 @@
         "color": "اللون"
       },
       "sizes": [
-        "23.0 سم",
-        "23.5 سم",
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم"
+        "36",
+        "37.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5"
       ],
       "colors": [
         "متعدّد الألوان (901)"
@@ -15355,73 +17623,73 @@
           "values": [
             {
               "id": "1061698473",
-              "name": "23.0 سم",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "152394410",
-              "name": "23.5 سم",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "1525840299",
-              "name": "24.0 سم",
+              "name": "38.5",
               "out": false,
               "img": null
             },
             {
               "id": "886610100",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "111519669",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "1350747830",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "577758647",
-              "name": "26.0 سم",
+              "name": "41",
               "out": false,
               "img": null
             },
             {
               "id": "2083783856",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1309746097",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "469648050",
-              "name": "27.5 سم",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "1977311667",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1201766588",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             }
@@ -15429,6 +17697,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1266678809",
       "en": {
         "name": "Nike Tiempo Maestro Academy TF Football Shoes (901)",
@@ -15544,9 +17814,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "40454845",
@@ -15743,6 +18011,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p40454845",
       "en": {
         "name": "حذاء نايكي تيتوم 4 لكرة السلة",
@@ -15818,9 +18088,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1474167979",
@@ -15951,6 +18219,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1474167979",
       "en": {
         "name": "حذاء نايكي جوردان هير سيريز لكرة السلة",
@@ -16017,9 +18287,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1762701232",
@@ -16199,6 +18467,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1762701232",
       "en": {
         "name": "حذاء نايكي تويلف تايم لكرة السلة",
@@ -16272,9 +18542,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1972072285",
@@ -16509,6 +18777,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1972072285",
       "en": {
         "name": "Nike LeBron Witness 9 Basketball Shoes",
@@ -16603,9 +18873,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1722223795",
@@ -16823,6 +19091,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1722223795",
       "en": {
         "name": "حذاء نايكي سابرينا 3 لكرة السلة",
@@ -16901,9 +19171,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "989712049",
@@ -17048,6 +19316,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p989712049",
       "en": {
         "name": "حذاء نايكي جوردان أول جيم لكرة السلة",
@@ -17115,9 +19385,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1136146053",
@@ -17347,6 +19615,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1136146053",
       "en": {
         "name": "Nike Book 2 Basketball Shoes",
@@ -17436,9 +19706,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "378322750",
@@ -17547,19 +19815,19 @@
         "color": "اللون"
       },
       "sizes": [
-        "23.0 سم",
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.5 سم",
-        "30.0 سم"
+        "36",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45.5",
+        "46"
       ],
       "colors": [
         "أصفر مبابي (701)"
@@ -17585,79 +19853,79 @@
           "values": [
             {
               "id": "1668009662",
-              "name": "23.0 سم",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "1026616767",
-              "name": "24.0 سم",
+              "name": "38.5",
               "out": false,
               "img": null
             },
             {
               "id": "253562040",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "1492790201",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "717703866",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "78408123",
-              "name": "26.0 سم",
+              "name": "41",
               "out": false,
               "img": null
             },
             {
               "id": "1451919492",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "542611333",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1916581510",
-              "name": "27.5 سم",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "1276761479",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "434566272",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "1807946625",
-              "name": "29.5 سم",
+              "name": "45.5",
               "out": true,
               "img": null
             },
             {
               "id": "1168650882",
-              "name": "30.0 سم",
+              "name": "46",
               "out": false,
               "img": null
             }
@@ -17665,6 +19933,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p378322750",
       "en": {
         "name": "Nike Mercurial Mbappé TF Football Shoes",
@@ -17785,9 +20055,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1424031885",
@@ -17895,19 +20163,19 @@
         "color": "اللون"
       },
       "sizes": [
-        "23.0 سم",
-        "23.5 سم",
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم"
+        "36",
+        "37.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45"
       ],
       "colors": [
         "متعدّد الألوان (901)"
@@ -17933,79 +20201,79 @@
           "values": [
             {
               "id": "2046113383",
-              "name": "23.0 سم",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "1272075616",
-              "name": "23.5 سم",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "633304161",
-              "name": "24.0 سم",
+              "name": "38.5",
               "out": false,
               "img": null
             },
             {
               "id": "2005242722",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "1096987235",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "323998060",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1830088813",
-              "name": "26.0 سم",
+              "name": "41",
               "out": false,
               "img": null
             },
             {
               "id": "1055989614",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "148782703",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1522228584",
-              "name": "27.5 سم",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "880835689",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "107912042",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "1347140203",
-              "name": "29.0 سم",
+              "name": "45",
               "out": false,
               "img": null
             }
@@ -18013,6 +20281,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1424031885",
       "en": {
         "name": "Nike Tiempo Ligera Pro TF Football Shoes (901)",
@@ -18132,9 +20402,325 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "771035034",
+      "sallaId": "771035034",
+      "sku": "RSP-NIKE-IO9609",
+      "name": "حذاء نايكي تيمبو ليغيرا برو AG لكرة القدم",
+      "brand": "نايكي",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 600,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · خطّ اللمسة · نجيل صناعي",
+      "description": "تيمبو ليغيرا برو AG تيمبو هو خطّ اللمسة عند نايكي، و ليغيرا نسخته الخفيفة: إحساس تيمبو بوزن أقرب إلى أحذية السرعة. و AG نعل مخصّص للنجيل الصناعي. التقنيات وجه طريّ ملامس — إحساس مباشر بالكرة في الاستلام والتمرير القصير — هوية خطّ تيمبو. أخفّ من التيمبو التقليدي — ليغيرا تقلّل الوزن دون التخلّي عن اللمسة. نعل AG — مسامير مصمّمة للعشب الصناعي الطويل تحديداً — أطول عمراً عليه من نعل الأرض الطبيعية. لمن هذا الحذاء؟ لوسط الملعب على النجيل الصناعي الطويل. إن كان ملعبك وبراً قصيراً فالتيرف (TF) أنسب. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل IO9609 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "تيمبو ليغيرا برو AG"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "تيمبو"
+            },
+            " هو خطّ اللمسة عند نايكي، و",
+            {
+              "b": "ليغيرا"
+            },
+            " نسخته الخفيفة: إحساس تيمبو بوزن أقرب إلى أحذية السرعة. و",
+            {
+              "b": "AG"
+            },
+            " نعل مخصّص للنجيل الصناعي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "وجه طريّ ملامس"
+            },
+            " — إحساس مباشر بالكرة في الاستلام والتمرير القصير — هوية خطّ تيمبو."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "أخفّ من التيمبو التقليدي"
+            },
+            " — ليغيرا تقلّل الوزن دون التخلّي عن اللمسة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل AG"
+            },
+            " — مسامير مصمّمة للعشب الصناعي الطويل تحديداً — أطول عمراً عليه من نعل الأرض الطبيعية."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لوسط الملعب على النجيل الصناعي الطويل. إن كان ملعبك وبراً قصيراً فالتيرف (TF) أنسب."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IO9609"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/adb01788-dd57-4588-acaf-ad5461333eea-1000x750-XwPMjDJlsst4FOGEBpL7581XBbUd1H5yMkZAcQwF.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": null
       },
+      "sizes": [
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5"
+      ],
+      "colors": [],
+      "options": [
+        {
+          "id": "1499951666",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1374996121",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "600958362",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2109605019",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1335567332",
+              "name": "41",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "425738981",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1800233446",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1160478951",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "384872416",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1625149153",
+              "name": "44.5",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
       "origin": "JP",
-      "status": "live"
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p771035034",
+      "en": {
+        "name": "Nike Tiempo Legera Pro AG Football Boots",
+        "brand": "Nike",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "نايكي · خطّ اللمسة · نجيل صناعي",
+        "description": "Tiempo Legera Pro AG Tiempo is Nike's touch line and Legera its light version: the Tiempo feel at a weight closer to speed boots. AG is a sole built for artificial grass. Technology Soft, ball-hugging upper — A direct feel on the ball when receiving and passing short — the Tiempo signature. Lighter than a classic Tiempo — Legera sheds weight without giving up the touch. AG outsole — Studs designed specifically for long artificial grass — and longer-lasting on it than a firm-ground sole. Who is it for? For midfielders on long artificial grass. If your pitch is short turf, TF suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code IO9609 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Tiempo Legera Pro AG"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Tiempo"
+              },
+              " is Nike's touch line and ",
+              {
+                "b": "Legera"
+              },
+              " its light version: the Tiempo feel at a weight closer to speed boots. ",
+              {
+                "b": "AG"
+              },
+              " is a sole built for artificial grass."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Soft, ball-hugging upper"
+              },
+              " — A direct feel on the ball when receiving and passing short — the Tiempo signature."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Lighter than a classic Tiempo"
+              },
+              " — Legera sheds weight without giving up the touch."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "AG outsole"
+              },
+              " — Studs designed specifically for long artificial grass — and longer-lasting on it than a firm-ground sole."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For midfielders on long artificial grass. If your pitch is short turf, TF suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IO9609"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "1499951666": {
+            "name": "Size",
+            "values": {
+              "384872416": "28.0 cm",
+              "425738981": "26.5 cm",
+              "600958362": "25.0 cm",
+              "1160478951": "27.5 cm",
+              "1335567332": "26.0 cm",
+              "1374996121": "24.5 cm",
+              "1625149153": "28.5 cm",
+              "1800233446": "27.0 cm",
+              "2109605019": "25.5 cm"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1439086265",
@@ -18330,6 +20916,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1439086265",
       "en": {
         "name": "حذاء نايكي سابرينا 4 لكرة السلة",
@@ -18405,9 +20993,283 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "182061092",
+      "sallaId": "182061092",
+      "sku": "RSP-NIKE-IM5810",
+      "name": "حذاء نايكي ميركوريال فيبور 17 برو AG لكرة القدم",
+      "brand": "نايكي",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 650,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نايكي · ميركوريال فيبور 17 برو AG",
+      "description": "ميركوريال فيبور 17 برو AG ميركوريال فيبور خطّ السرعة عند نايكي — الخطّ الذي يلبسه الأجنحة والمهاجمون، وفيبور نسخته المنخفضة بلا ياقة. و برو فئة احترافية تحت الإيليت مباشرةً بنفس القالب والشكل. التقنيات بناء خفيف مشدود — كل غرام أقلّ يُحسّ في العشرين متراً الأولى. نعل AG — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية. لمن هذا الحذاء؟ للجناح والمهاجم الذي يعتمد على الانطلاقات. من يريد اللمسة والتحكّم فخطّ تيمبو أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل IM5810 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "ميركوريال فيبور 17 برو AG"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "ميركوريال فيبور"
+            },
+            " خطّ السرعة عند نايكي — الخطّ الذي يلبسه الأجنحة والمهاجمون، وفيبور نسخته المنخفضة بلا ياقة. و",
+            {
+              "b": "برو"
+            },
+            " فئة احترافية تحت الإيليت مباشرةً بنفس القالب والشكل."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "بناء خفيف مشدود"
+            },
+            " — كل غرام أقلّ يُحسّ في العشرين متراً الأولى."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل AG"
+            },
+            " — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للجناح والمهاجم الذي يعتمد على الانطلاقات. من يريد اللمسة والتحكّم فخطّ تيمبو أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "IM5810"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/c597dedf-9bfa-41e8-90f9-7ff40f06d2d4-1000x750-N7ZlhyLbAZVunwH1rkp97JjsnouynJyqIE9X600J.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": null
       },
+      "sizes": [
+        "25.0 سم",
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم"
+      ],
+      "colors": [],
+      "options": [
+        {
+          "id": "1651618934",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1556967128",
+              "name": "25.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "782994905",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2020650202",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1247661019",
+              "name": "26.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "607840804",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1980172581",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1139550246",
+              "name": "28.0 سم",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
       "origin": "JP",
-      "status": "live"
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p182061092",
+      "en": {
+        "name": "Nike Mercurial Vapor 17 Pro AG Football Boots",
+        "brand": "Nike",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "نايكي · ميركوريال فيبور 17 برو AG",
+        "description": "Mercurial Vapor 17 Pro AG Mercurial Vapor is Nike's speed line — the boot of wingers and strikers, with Vapor the low-cut, collar-less version. Pro is the professional tier just below Elite, on the same last. Technology Light, tight build — Every gram less is felt in the first twenty metres. AG outsole — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole. Who is it for? For wingers and strikers who live on runs. If you want touch and control, the Tiempo line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code IM5810 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Mercurial Vapor 17 Pro AG"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Mercurial Vapor"
+              },
+              " is Nike's speed line — the boot of wingers and strikers, with Vapor the low-cut, collar-less version. ",
+              {
+                "b": "Pro"
+              },
+              " is the professional tier just below Elite, on the same last."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Light, tight build"
+              },
+              " — Every gram less is felt in the first twenty metres."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "AG outsole"
+              },
+              " — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For wingers and strikers who live on runs. If you want touch and control, the Tiempo line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "IM5810"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "1651618934": {
+            "name": "Size",
+            "values": {
+              "607840804": "27.0 cm",
+              "782994905": "25.5 cm",
+              "1139550246": "28.0 cm",
+              "1247661019": "26.5 cm",
+              "1556967128": "25.0 cm",
+              "1980172581": "27.5 cm",
+              "2020650202": "26.0 cm"
+            }
+          }
+        }
+      }
     },
     {
       "id": "1690023239",
@@ -18634,6 +21496,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1690023239",
       "en": {
         "name": "Nike Giannis Freak 8 Basketball Shoes",
@@ -18724,9 +21588,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1221616865",
@@ -18835,17 +21697,17 @@
         "color": "اللون"
       },
       "sizes": [
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم"
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45"
       ],
       "colors": [
         "أبيض (101)"
@@ -18871,67 +21733,67 @@
           "values": [
             {
               "id": "214864451",
-              "name": "24.0 سم",
+              "name": "38.5",
               "out": false,
               "img": null
             },
             {
               "id": "1588310348",
-              "name": "24.5 سم",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "678481997",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "2052980558",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1413094991",
-              "name": "26.0 سم",
+              "name": "41",
               "out": false,
               "img": null
             },
             {
               "id": "638008648",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1944869961",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "1305049930",
-              "name": "27.5 سم",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "530029131",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1769781588",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "995743829",
-              "name": "29.0 سم",
+              "name": "45",
               "out": false,
               "img": null
             }
@@ -18939,6 +21801,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1221616865",
       "en": {
         "name": "Nike Tiempo Ligera Pro TF Football Shoes (101)",
@@ -19057,9 +21921,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "137148453",
@@ -19167,15 +22029,15 @@
         "color": "اللون"
       },
       "sizes": [
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم"
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45"
       ],
       "colors": [
         "أحمر (600)"
@@ -19201,55 +22063,55 @@
           "values": [
             {
               "id": "2056526729",
-              "name": "25.0 سم",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "1416706698",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "643717515",
-              "name": "26.0 سم",
+              "name": "41",
               "out": false,
               "img": null
             },
             {
               "id": "1882945684",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1107396501",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "535733910",
-              "name": "27.5 سم",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "1774962071",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "999351440",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "360514449",
-              "name": "29.0 سم",
+              "name": "45",
               "out": false,
               "img": null
             }
@@ -19257,6 +22119,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p137148453",
       "en": {
         "name": "Nike Phantom 6 Pro AG Football Boots",
@@ -19372,9 +22236,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "489828997",
@@ -19547,6 +22409,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p489828997",
       "en": {
         "name": "حذاء نايكي إيه تو لكرة السلة",
@@ -19619,9 +22483,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "251926245",
@@ -19821,6 +22683,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p251926245",
       "en": {
         "name": "Nike Ja 4 Basketball Shoes",
@@ -19907,9 +22771,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1287706821",
@@ -20017,17 +22879,17 @@
         "color": "اللون"
       },
       "sizes": [
-        "24.0 سم",
-        "24.5 سم",
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم"
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45"
       ],
       "colors": [
         "أحمر (600)"
@@ -20053,67 +22915,67 @@
           "values": [
             {
               "id": "1972127088",
-              "name": "24.0 سم",
+              "name": "38.5",
               "out": true,
               "img": null
             },
             {
               "id": "1198089329",
-              "name": "24.5 سم",
+              "name": "39",
               "out": true,
               "img": null
             },
             {
               "id": "288850802",
-              "name": "25.0 سم",
+              "name": "40",
               "out": true,
               "img": null
             },
             {
               "id": "1662820979",
-              "name": "25.5 سم",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1023000956",
-              "name": "26.0 سم",
+              "name": "41",
               "out": false,
               "img": null
             },
             {
               "id": "247914621",
-              "name": "26.5 سم",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1487081342",
-              "name": "27.0 سم",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "713567871",
-              "name": "27.5 سم",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "72699256",
-              "name": "28.0 سم",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1446145145",
-              "name": "28.5 سم",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "538479482",
-              "name": "29.0 سم",
+              "name": "45",
               "out": false,
               "img": null
             }
@@ -20121,6 +22983,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1287706821",
       "en": {
         "name": "Nike Mercurial Vapor 17 Pro TF Football Shoes",
@@ -20238,9 +23102,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1486754533",
@@ -20412,6 +23274,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1486754533",
       "en": {
         "name": "حذاء نايكي جوردان ترايانغل لكرة السلة",
@@ -20483,9 +23347,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1864323462",
@@ -20661,6 +23523,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1864323462",
       "en": {
         "name": "حذاء نايكي ليبرون 23 لكرة السلة",
@@ -20733,9 +23597,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1060586902",
@@ -20934,6 +23796,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1060586902",
       "en": {
         "name": "Nike G.T. Cut 4 Basketball Shoes",
@@ -21018,9 +23882,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "462571934",
@@ -21172,6 +24034,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p462571934",
       "en": {
         "name": "حذاء نايكي إير جوردان 40 لكرة السلة",
@@ -21241,9 +24105,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "71323879",
@@ -21381,6 +24243,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p71323879",
       "en": {
         "name": "حذاء نايكي إير زوم فلايت ذا جلوف لكرة السلة",
@@ -21448,9 +24312,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "180526976",
@@ -21602,6 +24464,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p180526976",
       "en": {
         "name": "حذاء نايكي كوبي 9 بروترو لو لكرة السلة",
@@ -21671,9 +24535,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1195669400",
@@ -21841,6 +24703,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1195669400",
       "en": {
         "name": "حذاء نايكي ليبرون 23 إيليت لكرة السلة",
@@ -21912,9 +24776,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1020581019",
@@ -22130,6 +24992,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1020581019",
       "en": {
         "name": "حذاء نايكي كوبي 3 بروترو لو لكرة السلة",
@@ -22208,9 +25072,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "2110832098",
@@ -22390,6 +25252,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2110832098",
       "en": {
         "name": "حذاء نايكي شوكس BB4 لكرة السلة",
@@ -22463,9 +25327,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1999971783",
@@ -22643,16 +25505,16 @@
         "color": "اللون"
       },
       "sizes": [
-        "35.5 (22.0 سم)",
-        "36 (22.5 سم)",
-        "37 (23.0 سم)",
-        "37.5 (23.5 سم)",
-        "38 (24.0 سم)",
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)"
+        "35.5",
+        "36",
+        "36.5",
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40",
+        "40.5",
+        "41"
       ],
       "colors": [
         "أسود",
@@ -22699,61 +25561,61 @@
           "values": [
             {
               "id": "1619388139",
-              "name": "35.5 (22.0 سم)",
+              "name": "35.5",
               "out": false,
               "img": null
             },
             {
               "id": "845284852",
-              "name": "36 (22.5 سم)",
+              "name": "36",
               "out": false,
               "img": null
             },
             {
               "id": "206513397",
-              "name": "37 (23.0 سم)",
+              "name": "36.5",
               "out": false,
               "img": null
             },
             {
               "id": "1578386422",
-              "name": "37.5 (23.5 سم)",
+              "name": "37",
               "out": false,
               "img": null
             },
             {
               "id": "737239799",
-              "name": "38 (24.0 سم)",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "98533872",
-              "name": "39 (24.5 سم)",
+              "name": "38",
               "out": false,
               "img": null
             },
             {
               "id": "1470406897",
-              "name": "40 (25.0 سم)",
+              "name": "39",
               "out": false,
               "img": null
             },
             {
               "id": "562155506",
-              "name": "40.5 (25.5 سم)",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "1936649971",
-              "name": "41.5 (26.0 سم)",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "1296764412",
-              "name": "42 (26.5 سم)",
+              "name": "41",
               "out": false,
               "img": null
             }
@@ -22761,6 +25623,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1999971783",
       "en": {
         "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Women's",
@@ -22930,9 +25794,323 @@
             }
           }
         }
+      }
+    },
+    {
+      "id": "664078465",
+      "sallaId": "664078465",
+      "sku": "RSP-NB-U43T9",
+      "name": "حذاء نيوبالانس 442 تيم TF لكرة القدم",
+      "brand": "نيو بالانس",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 440,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "نيوبالانس · حذاء فريق · تيرف",
+      "description": "442 تيم TF 442 هو حذاء الفريق عند نيوبالانس — تسمية مأخوذة من خطّة اللعب الكلاسيكية. فلسفته بسيطة: راحة وقالب واسع نسبياً بلا تعقيد تقني. التقنيات قالب مريح — نيوبالانس تقيس على قدم أعرض قليلاً من المعتاد، وهذا ما يجعلها مريحة لمن يجد الموديلات الأوروبية ضيّقة. نعل تيرف (TF) — نتوءات مطاطية قصيرة وكثيفة للنجيل الصناعي — لا تغرز ولا تعلق. قصّة منخفضة — بلا ياقة، حرّية عند الكاحل. لمن هذا الحذاء؟ لمن يلعب على الوبر الصناعي أسبوعياً ويريد راحة وقالباً غير ضيّق. علامة قليلة الانتشار في ملاعبنا. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل U43T9PD2E · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "442 تيم TF"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "442"
+            },
+            " هو حذاء الفريق عند نيوبالانس — تسمية مأخوذة من خطّة اللعب الكلاسيكية. فلسفته بسيطة: راحة وقالب واسع نسبياً بلا تعقيد تقني."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قالب مريح"
+            },
+            " — نيوبالانس تقيس على قدم أعرض قليلاً من المعتاد، وهذا ما يجعلها مريحة لمن يجد الموديلات الأوروبية ضيّقة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل تيرف (TF)"
+            },
+            " — نتوءات مطاطية قصيرة وكثيفة للنجيل الصناعي — لا تغرز ولا تعلق."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قصّة منخفضة"
+            },
+            " — بلا ياقة، حرّية عند الكاحل."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لمن يلعب على الوبر الصناعي أسبوعياً ويريد راحة وقالباً غير ضيّق. علامة قليلة الانتشار في ملاعبنا."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "U43T9PD2E"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/760b09f6-e053-4617-ae73-abe1d9fb7ebe-1000x750-xflAj6GdpCJyUYntCbr7SQkO6hOEZ4v38xhoAbrl.jpg",
+        "https://cdn.salla.sa/jZjwre/35e6b471-13f0-4285-af92-0fbe653180d0-1000x750-wCuiVW8BjlJxzwdYEwcMaptk7tfuFfSQwDhO9tha.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
       },
+      "sizes": [
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "44"
+      ],
+      "colors": [
+        "أبيض × وردي",
+        "أسود"
+      ],
+      "options": [
+        {
+          "id": "1319078442",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1545449655",
+              "name": "أبيض × وردي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/1740e05e-c7c1-405d-bf3f-3f21ed10af1a-500x375-xflAj6GdpCJyUYntCbr7SQkO6hOEZ4v38xhoAbrl.jpg"
+            },
+            {
+              "id": "704307120",
+              "name": "أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4de0b8a2-7927-4507-8482-6eabbef1fd98-500x375-wCuiVW8BjlJxzwdYEwcMaptk7tfuFfSQwDhO9tha.jpg"
+            }
+          ]
+        },
+        {
+          "id": "409250091",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "2076704433",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1437343154",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "663305395",
+              "name": "41.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1901484988",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1127447229",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "488217022",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1860614335",
+              "name": "44",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
       "origin": "JP",
-      "status": "live"
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p664078465",
+      "en": {
+        "name": "New Balance 442 Team TF V3 Football Boots",
+        "brand": "New Balance",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "نيوبالانس · حذاء فريق · تيرف",
+        "description": "442 Team TF 442 is New Balance's team boot — named after the classic formation. Its philosophy is simple: comfort and a relatively roomy last without technical complication. Technology Comfortable last — New Balance builds on a slightly wider foot, which makes it comfortable for anyone who finds European lasts narrow. Turf (TF) outsole — Short, dense rubber studs for artificial turf — no digging in, no catching. Low cut — No collar, freedom at the ankle. Who is it for? For weekly turf players who want comfort and a boot that is not narrow. A brand you rarely see on our pitches. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code U43T9PD2E · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "442 Team TF"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "442"
+              },
+              " is New Balance's team boot — named after the classic formation. Its philosophy is simple: comfort and a relatively roomy last without technical complication."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Comfortable last"
+              },
+              " — New Balance builds on a slightly wider foot, which makes it comfortable for anyone who finds European lasts narrow."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Turf (TF) outsole"
+              },
+              " — Short, dense rubber studs for artificial turf — no digging in, no catching."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Low cut"
+              },
+              " — No collar, freedom at the ankle."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For weekly turf players who want comfort and a boot that is not narrow. A brand you rarely see on our pitches."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "U43T9PD2E"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "409250091": {
+            "name": "Size",
+            "values": {
+              "488217022": "27.5 cm",
+              "663305395": "26.0 cm",
+              "1127447229": "27.0 cm",
+              "1437343154": "25.5 cm",
+              "1860614335": "28.0 cm",
+              "1901484988": "26.5 cm",
+              "2076704433": "25.0 cm"
+            }
+          },
+          "1319078442": {
+            "name": "Colour",
+            "values": {
+              "704307120": "Black",
+              "1545449655": "White / Pink"
+            }
+          }
+        }
+      }
     },
     {
       "id": "932287941",
@@ -23102,18 +26280,18 @@
         "color": "اللون"
       },
       "sizes": [
-        "38 (24.0 سم)",
-        "39 (24.5 سم)",
-        "40 (25.0 سم)",
-        "40.5 (25.5 سم)",
-        "41.5 (26.0 سم)",
-        "42 (26.5 سم)",
-        "42.5 (27.0 سم)",
-        "43.5 (27.5 سم)",
-        "44 (28.0 سم)",
-        "44.5 (28.5 سم)",
-        "45 (29.0 سم)",
-        "47 (30.0 سم)"
+        "38.5",
+        "39.5",
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46.5"
       ],
       "colors": [
         "أسود كامل",
@@ -23153,73 +26331,73 @@
           "values": [
             {
               "id": "1615513478",
-              "name": "38 (24.0 سم)",
+              "name": "38.5",
               "out": false,
               "img": null
             },
             {
               "id": "268174720",
-              "name": "39 (24.5 سم)",
+              "name": "39.5",
               "out": false,
               "img": null
             },
             {
               "id": "732316546",
-              "name": "40 (25.0 سم)",
+              "name": "40",
               "out": false,
               "img": null
             },
             {
               "id": "92496515",
-              "name": "40.5 (25.5 سم)",
+              "name": "40.5",
               "out": false,
               "img": null
             },
             {
               "id": "557228173",
-              "name": "41.5 (26.0 سم)",
+              "name": "41.5",
               "out": false,
               "img": null
             },
             {
               "id": "1291382415",
-              "name": "42 (26.5 سم)",
+              "name": "42",
               "out": false,
               "img": null
             },
             {
               "id": "1755458697",
-              "name": "42.5 (27.0 سم)",
+              "name": "42.5",
               "out": false,
               "img": null
             },
             {
               "id": "341076619",
-              "name": "43.5 (27.5 سم)",
+              "name": "43",
               "out": false,
               "img": null
             },
             {
               "id": "807381141",
-              "name": "44 (28.0 سم)",
+              "name": "44",
               "out": false,
               "img": null
             },
             {
               "id": "1606538903",
-              "name": "44.5 (28.5 سم)",
+              "name": "44.5",
               "out": false,
               "img": null
             },
             {
               "id": "699331984",
-              "name": "45 (29.0 سم)",
+              "name": "45",
               "out": false,
               "img": null
             },
             {
               "id": "2072712337",
-              "name": "47 (30.0 سم)",
+              "name": "46.5",
               "out": false,
               "img": null
             }
@@ -23227,6 +26405,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p932287941",
       "en": {
         "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Men's",
@@ -23397,9 +26577,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1902757006",
@@ -23608,6 +26786,8 @@
       "colors": [],
       "options": [],
       "model": null,
+      "origin": "local",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1902757006",
       "en": {
         "name": "Shoulder Ice Wrap with Refillable Bag",
@@ -23798,9 +26978,7 @@
           "Recovery Gear"
         ],
         "options": {}
-      },
-      "origin": "local",
-      "status": "live"
+      }
     },
     {
       "id": "1518191014",
@@ -24013,6 +27191,8 @@
         }
       ],
       "model": null,
+      "origin": "local",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1518191014",
       "en": {
         "name": "ASICS 3-Layer Volleyball Knee Pads (3053A145)",
@@ -24192,9 +27372,7 @@
             }
           }
         }
-      },
-      "origin": "local",
-      "status": "live"
+      }
     },
     {
       "id": "473246387",
@@ -24340,6 +27518,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p473246387",
       "en": {
         "name": "تيشيرت توقيعات المنتخب الياباني ٢٠٢٦",
@@ -24429,9 +27609,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1813707650",
@@ -24619,6 +27797,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1813707650",
       "en": {
         "name": "قميص المنتخب الياباني ريبليكا ٢٠٢٦",
@@ -24718,9 +27898,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1803690320",
@@ -25020,6 +28198,8 @@
         }
       ],
       "model": null,
+      "origin": "local",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1803690320",
       "en": {
         "name": "ERREÀ Tokyo Volleyball Knee Pads — Pair",
@@ -25258,9 +28438,7 @@
             }
           }
         }
-      },
-      "origin": "local",
-      "status": "live"
+      }
     },
     {
       "id": "1253762719",
@@ -25552,6 +28730,8 @@
         }
       ],
       "model": null,
+      "origin": "local",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1253762719",
       "en": {
         "name": "ERREÀ Tokyo Evolution Volleyball Knee Pads — Pair",
@@ -25779,9 +28959,7 @@
             }
           }
         }
-      },
-      "origin": "local",
-      "status": "live"
+      }
     },
     {
       "id": "2145772275",
@@ -25946,6 +29124,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2145772275",
       "en": {
         "name": "قميص تمرين ديسنت",
@@ -26038,9 +29218,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "207283236",
@@ -26201,6 +29379,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p207283236",
       "en": {
         "name": "قميص تمرين سبازيو PIPPO",
@@ -26289,9 +29469,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "193357464",
@@ -26501,6 +29679,8 @@
       "colors": [],
       "options": [],
       "model": null,
+      "origin": "local",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p193357464",
       "en": {
         "name": "Comfytemp Knee Ice Wrap",
@@ -26691,9 +29871,7 @@
           "Recovery Gear"
         ],
         "options": {}
-      },
-      "origin": "local",
-      "status": "live"
+      }
     },
     {
       "id": "1175934981",
@@ -26933,6 +30111,8 @@
       "colors": [],
       "options": [],
       "model": null,
+      "origin": "local",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1175934981",
       "en": {
         "name": "Comfytemp 3D Hot & Cold Shoulder Pack",
@@ -27154,9 +30334,7 @@
           "Recovery Gear"
         ],
         "options": {}
-      },
-      "origin": "local",
-      "status": "live"
+      }
     },
     {
       "id": "749099882",
@@ -27344,6 +30522,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p749099882",
       "en": {
         "name": "تيشيرت موف سبورت شبكي",
@@ -27439,9 +30619,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "483619319",
@@ -27615,6 +30793,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p483619319",
       "en": {
         "name": "بنطلون موف سبورت للكرة الطائرة",
@@ -27702,9 +30882,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "449110515",
@@ -27839,6 +31017,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p449110515",
       "en": {
         "name": "قميص موف سبورت كم طويل",
@@ -27920,9 +31100,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1878171310",
@@ -28090,6 +31268,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1878171310",
       "en": {
         "name": "سويت شيرت موف سبورت بياقة دائرية",
@@ -28179,9 +31359,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1633319690",
@@ -28349,6 +31527,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1633319690",
       "en": {
         "name": "تيشيرت ميزونو نصف كم نافي دراي",
@@ -28438,9 +31618,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "637508394",
@@ -28633,6 +31811,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p637508394",
       "en": {
         "name": "تيشيرت ميزونو كم طويل نافي دراي",
@@ -28725,9 +31905,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "638527446",
@@ -28929,6 +32107,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p638527446",
       "en": {
         "name": "قميص ميزونو بايوغير الضاغط",
@@ -29031,9 +32211,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "784312676",
@@ -29217,6 +32395,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p784312676",
       "en": {
         "name": "قميص مباريات ميزونو بجرافيك",
@@ -29308,9 +32488,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1581555343",
@@ -29452,6 +32630,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1581555343",
       "en": {
         "name": "تيشيرت ميزونو فَنتاست",
@@ -29541,9 +32721,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1230399951",
@@ -29735,6 +32913,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1230399951",
       "en": {
         "name": "تيشيرت ميزونو TL نصف كم",
@@ -29827,9 +33007,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1280900424",
@@ -30004,6 +33182,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1280900424",
       "en": {
         "name": "تيشيرت ميزونو كم طويل دايناموشن فِت",
@@ -30100,9 +33280,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "511457428",
@@ -30252,6 +33430,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p511457428",
       "en": {
         "name": "شورت ميزونو سويت خفيف",
@@ -30335,9 +33515,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "388382670",
@@ -30476,6 +33654,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p388382670",
       "en": {
         "name": "شورت ميزونو طارد للماء",
@@ -30561,9 +33741,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1535749567",
@@ -30761,6 +33939,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1535749567",
       "en": {
         "name": "جاكيت إحماء ميزونو",
@@ -30853,9 +34033,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "1603898285",
@@ -31048,6 +34226,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1603898285",
       "en": {
         "name": "قميص مباريات هيمل",
@@ -31140,9 +34320,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "128610966",
@@ -31335,6 +34513,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "live",
       "url": "https://risport-sa.com/ar/x/p128610966",
       "en": {
         "name": "بنطلون مباريات هيمل",
@@ -31427,9 +34607,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "live"
+      }
     },
     {
       "id": "721119659",
@@ -31729,6 +34907,8 @@
         }
       ],
       "model": null,
+      "origin": "JP",
+      "status": "out",
       "url": "https://risport-sa.com/ar/x/p721119659",
       "en": {
         "name": "Asics FUTURITY — Limited Edition Designed by Ran Takahashi",
@@ -31955,9 +35135,7 @@
             }
           }
         }
-      },
-      "origin": "JP",
-      "status": "out"
+      }
     },
     {
       "id": "651509262",
@@ -32110,6 +35288,8 @@
       "colors": [],
       "options": [],
       "model": null,
+      "origin": "JP",
+      "status": "out",
       "url": "https://risport-sa.com/ar/x/p651509262",
       "en": {
         "name": "ASICS Sports Arm Sleeve",
@@ -32246,9 +35426,7 @@
           "Knee Pads and Arm Sleeves"
         ],
         "options": {}
-      },
-      "origin": "JP",
-      "status": "out"
+      }
     },
     {
       "id": "1893563966",
@@ -32512,6 +35690,8 @@
       "colors": [],
       "options": [],
       "model": null,
+      "origin": "JP",
+      "status": "out",
       "url": "https://risport-sa.com/ar/x/p1893563966",
       "en": {
         "name": "Mikasa V200W Volleyball — JVA Stamped, FIVB Approved",
@@ -32758,9 +35938,7 @@
           "Balls"
         ],
         "options": {}
-      },
-      "origin": "JP",
-      "status": "out"
+      }
     }
   ],
   "i18n": {
@@ -32780,6 +35958,8 @@
         "أنتا": "ANTA",
         "إيكوالايزر": "Equalizer",
         "ريغورر": "Rigorer",
+        "أديداس": "adidas",
+        "بوما": "Puma",
         "ميكاسا": "MIKASA"
       },
       "sports": {
