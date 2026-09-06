@@ -33,6 +33,10 @@
     "كرة الطائرة",
     "كرة القدم"
   ],
+  "leadWeeks": [
+    2,
+    4
+  ],
   "products": [
     {
       "id": "249507625",
@@ -232,7 +236,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p249507625",
       "en": {
         "name": "حذاء 361 درجة بيغ 3 7.0 برو لكرة السلة",
@@ -308,7 +311,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "956542164",
@@ -541,7 +546,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p956542164",
       "en": {
         "name": "حذاء 361 درجة جوكر 2 لكرة السلة",
@@ -621,7 +625,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "538036790",
@@ -866,7 +872,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p538036790",
       "en": {
         "name": "حذاء 361 درجة جوكر 2 GT لكرة السلة",
@@ -949,7 +954,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "71449820",
@@ -1180,7 +1187,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p71449820",
       "en": {
         "name": "حذاء لي نينغ ويد DLO 1 لكرة السلة",
@@ -1260,7 +1266,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "611232140",
@@ -1489,7 +1497,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p611232140",
       "en": {
         "name": "حذاء لي نينغ ويد 808 5 ألترا V2 لكرة السلة",
@@ -1569,7 +1576,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "173464063",
@@ -1804,7 +1813,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p173464063",
       "en": {
         "name": "حذاء لي نينغ ويد 808 6 ألترا لكرة السلة",
@@ -1885,7 +1893,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "1752762768",
@@ -2177,7 +2187,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1752762768",
       "en": {
         "name": "ASICS V-Swift FF MT 4 Volleyball Shoe",
@@ -2341,7 +2350,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "173412987",
@@ -2604,7 +2615,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p173412987",
       "en": {
         "name": "Asics Sky Elite FF 3",
@@ -2735,7 +2745,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "65371974",
@@ -3026,7 +3038,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p65371974",
       "en": {
         "name": "Asics Sky Elite FF MT 3 (Mid-Cut)",
@@ -3180,7 +3191,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1106815625",
@@ -3488,7 +3501,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1106815625",
       "en": {
         "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
@@ -3691,7 +3703,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1031256474",
@@ -4041,7 +4055,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1031256474",
       "en": {
         "name": "ASICS GEL-KAYANO 33 Running Shoe — Men's",
@@ -4263,7 +4276,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1627587425",
@@ -4596,7 +4611,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1627587425",
       "en": {
         "name": "ASICS GEL-NIMBUS 28 Running Shoe — Men's",
@@ -4802,7 +4816,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1662734611",
@@ -5127,7 +5143,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1662734611",
       "en": {
         "name": "ASICS GEL-KAYANO 33 Running Shoe — Women's",
@@ -5346,7 +5361,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1296629940",
@@ -5677,7 +5694,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1296629940",
       "en": {
         "name": "Asics Sky Elite FF 4 — New 2026 Generation",
@@ -5851,7 +5867,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1620547696",
@@ -6196,7 +6214,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1620547696",
       "en": {
         "name": "Asics Sky Elite FF MT 4 (Mid-Cut) — New 2026 Generation",
@@ -6383,7 +6400,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "391642680",
@@ -6617,7 +6636,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p391642680",
       "en": {
         "name": "ASICS DS LIGHT PRO AG Football Boots",
@@ -6741,7 +6759,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "768894154",
@@ -7082,7 +7102,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p768894154",
       "en": {
         "name": "Asics Sky Elite FF MT 4 — Exclusive Shine Pack (Ran Takahashi's Shoe)",
@@ -7306,7 +7325,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1691308859",
@@ -7567,7 +7588,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1691308859",
       "en": {
         "name": "Asics Metarise 2 — Exclusive Shine Pack (Yuji Nishida's Shoe)",
@@ -7729,7 +7749,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "810346638",
@@ -8012,7 +8034,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p810346638",
       "en": {
         "name": "ASICS Metarise 2 Volleyball Shoe",
@@ -8176,7 +8197,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "68644841",
@@ -8366,7 +8389,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p68644841",
       "en": {
         "name": "حذاء أنتا KT 11 لكرة السلة",
@@ -8441,7 +8463,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "2052472378",
@@ -8607,7 +8631,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2052472378",
       "en": {
         "name": "حذاء أنتا كاي سبيد 3 لكرة السلة",
@@ -8679,7 +8702,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "1944492805",
@@ -8853,7 +8878,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1944492805",
       "en": {
         "name": "حذاء أنتا كاي 3 لكرة السلة",
@@ -8926,7 +8950,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "1446292277",
@@ -9120,7 +9146,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1446292277",
       "en": {
         "name": "حذاء إيكوالايزر 247 NXT لكرة السلة",
@@ -9196,7 +9221,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "1441587918",
@@ -9425,7 +9452,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1441587918",
       "en": {
         "name": "حذاء ريغورر AR3 لكرة السلة",
@@ -9505,7 +9531,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "2013774797",
@@ -9679,7 +9707,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2013774797",
       "en": {
         "name": "حذاء لي نينغ ويد شادو 7 لكرة السلة",
@@ -9752,7 +9779,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "713125163",
@@ -9982,7 +10011,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p713125163",
       "en": {
         "name": "حذاء لي نينغ ويد أول سيتي 14 لكرة السلة",
@@ -10062,7 +10090,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "1905664200",
@@ -10294,7 +10324,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1905664200",
       "en": {
         "name": "حذاء لي نينغ ويد DLO 2 لكرة السلة",
@@ -10374,7 +10403,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "1304672774",
@@ -10592,7 +10623,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1304672774",
       "en": {
         "name": "حذاء لي نينغ ويد أوف ويد 12 لكرة السلة",
@@ -10671,7 +10701,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "CN",
+      "status": "live"
     },
     {
       "id": "1556818954",
@@ -10852,7 +10884,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1556818954",
       "en": {
         "name": "Mizuno Morelia Sala Pro TF Football Shoes",
@@ -10969,7 +11000,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1101323016",
@@ -11276,7 +11309,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1101323016",
       "en": {
         "name": "Mizuno Wave Lightning Elite — Light & Fast, All Sizes Available",
@@ -11448,7 +11480,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1728971313",
@@ -11796,7 +11830,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1728971313",
       "en": {
         "name": "Mizuno Wave Momentum Elite — All Sizes Available",
@@ -11980,7 +12013,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "578858863",
@@ -12246,7 +12281,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p578858863",
       "en": {
         "name": "Mizuno Monarcida Neo 3 Pro Football Boots",
@@ -12371,7 +12405,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "231046445",
@@ -12737,7 +12773,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p231046445",
       "en": {
         "name": "Mizuno Wave Rider 30 — Running & Walking Shoe",
@@ -12962,7 +12997,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1111048525",
@@ -13209,7 +13246,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1111048525",
       "en": {
         "name": "Mizuno Monarcida Neo 3 Elite Football Boots",
@@ -13326,7 +13362,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1218004902",
@@ -13567,7 +13605,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1218004902",
       "en": {
         "name": "Mizuno Morelia Sala Elite TF Football Shoes",
@@ -13683,7 +13720,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "598962598",
@@ -13833,7 +13872,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p598962598",
       "en": {
         "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
@@ -13906,7 +13944,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1016973400",
@@ -14072,7 +14112,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1016973400",
       "en": {
         "name": "حذاء نايكي ريأكت إكس ريجوفينيت لكرة السلة",
@@ -14147,7 +14186,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1299014070",
@@ -14258,7 +14299,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1299014070",
       "en": {
         "name": "حذاء نايكي إس تي فلير لكرة السلة",
@@ -14322,7 +14362,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "847542702",
@@ -14519,7 +14561,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p847542702",
       "en": {
         "name": "حذاء نايكي جيانيس فريك 7 لكرة السلة",
@@ -14595,7 +14636,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "707532123",
@@ -14771,7 +14814,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p707532123",
       "en": {
         "name": "حذاء نايكي إس تي جلو لكرة السلة",
@@ -14844,7 +14886,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1433881099",
@@ -15050,7 +15094,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1433881099",
       "en": {
         "name": "Nike Tiempo Maestro Academy TF Football Shoes (146)",
@@ -15168,7 +15211,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1266678809",
@@ -15384,7 +15429,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1266678809",
       "en": {
         "name": "Nike Tiempo Maestro Academy TF Football Shoes (901)",
@@ -15500,7 +15544,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "40454845",
@@ -15697,7 +15743,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p40454845",
       "en": {
         "name": "حذاء نايكي تيتوم 4 لكرة السلة",
@@ -15773,7 +15818,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1474167979",
@@ -15904,7 +15951,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1474167979",
       "en": {
         "name": "حذاء نايكي جوردان هير سيريز لكرة السلة",
@@ -15971,7 +16017,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1762701232",
@@ -16151,7 +16199,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1762701232",
       "en": {
         "name": "حذاء نايكي تويلف تايم لكرة السلة",
@@ -16225,7 +16272,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1972072285",
@@ -16460,7 +16509,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1972072285",
       "en": {
         "name": "Nike LeBron Witness 9 Basketball Shoes",
@@ -16555,7 +16603,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1722223795",
@@ -16773,7 +16823,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1722223795",
       "en": {
         "name": "حذاء نايكي سابرينا 3 لكرة السلة",
@@ -16852,7 +16901,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "989712049",
@@ -16997,7 +17048,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p989712049",
       "en": {
         "name": "حذاء نايكي جوردان أول جيم لكرة السلة",
@@ -17065,7 +17115,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1136146053",
@@ -17295,7 +17347,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1136146053",
       "en": {
         "name": "Nike Book 2 Basketball Shoes",
@@ -17385,7 +17436,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "378322750",
@@ -17612,7 +17665,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p378322750",
       "en": {
         "name": "Nike Mercurial Mbappé TF Football Shoes",
@@ -17733,7 +17785,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1424031885",
@@ -17959,7 +18013,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1424031885",
       "en": {
         "name": "Nike Tiempo Ligera Pro TF Football Shoes (901)",
@@ -18079,7 +18132,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1439086265",
@@ -18275,7 +18330,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1439086265",
       "en": {
         "name": "حذاء نايكي سابرينا 4 لكرة السلة",
@@ -18351,7 +18405,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1690023239",
@@ -18578,7 +18634,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1690023239",
       "en": {
         "name": "Nike Giannis Freak 8 Basketball Shoes",
@@ -18669,7 +18724,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1221616865",
@@ -18882,7 +18939,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1221616865",
       "en": {
         "name": "Nike Tiempo Ligera Pro TF Football Shoes (101)",
@@ -19001,7 +19057,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "137148453",
@@ -19199,7 +19257,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p137148453",
       "en": {
         "name": "Nike Phantom 6 Pro AG Football Boots",
@@ -19315,7 +19372,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "489828997",
@@ -19488,7 +19547,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p489828997",
       "en": {
         "name": "حذاء نايكي إيه تو لكرة السلة",
@@ -19561,7 +19619,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "251926245",
@@ -19761,7 +19821,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p251926245",
       "en": {
         "name": "Nike Ja 4 Basketball Shoes",
@@ -19848,7 +19907,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1287706821",
@@ -20060,7 +20121,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1287706821",
       "en": {
         "name": "Nike Mercurial Vapor 17 Pro TF Football Shoes",
@@ -20178,7 +20238,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1486754533",
@@ -20350,7 +20412,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1486754533",
       "en": {
         "name": "حذاء نايكي جوردان ترايانغل لكرة السلة",
@@ -20422,7 +20483,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1864323462",
@@ -20598,7 +20661,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1864323462",
       "en": {
         "name": "حذاء نايكي ليبرون 23 لكرة السلة",
@@ -20671,7 +20733,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1060586902",
@@ -20870,7 +20934,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1060586902",
       "en": {
         "name": "Nike G.T. Cut 4 Basketball Shoes",
@@ -20955,7 +21018,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "462571934",
@@ -21107,7 +21172,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p462571934",
       "en": {
         "name": "حذاء نايكي إير جوردان 40 لكرة السلة",
@@ -21177,7 +21241,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "71323879",
@@ -21315,7 +21381,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p71323879",
       "en": {
         "name": "حذاء نايكي إير زوم فلايت ذا جلوف لكرة السلة",
@@ -21383,7 +21448,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "180526976",
@@ -21535,7 +21602,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p180526976",
       "en": {
         "name": "حذاء نايكي كوبي 9 بروترو لو لكرة السلة",
@@ -21605,7 +21671,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1195669400",
@@ -21773,7 +21841,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1195669400",
       "en": {
         "name": "حذاء نايكي ليبرون 23 إيليت لكرة السلة",
@@ -21845,7 +21912,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1020581019",
@@ -22061,7 +22130,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1020581019",
       "en": {
         "name": "حذاء نايكي كوبي 3 بروترو لو لكرة السلة",
@@ -22140,7 +22208,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "2110832098",
@@ -22320,7 +22390,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2110832098",
       "en": {
         "name": "حذاء نايكي شوكس BB4 لكرة السلة",
@@ -22394,7 +22463,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1999971783",
@@ -22690,7 +22761,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1999971783",
       "en": {
         "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Women's",
@@ -22860,7 +22930,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "932287941",
@@ -23155,7 +23227,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p932287941",
       "en": {
         "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Men's",
@@ -23326,7 +23397,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1902757006",
@@ -23535,7 +23608,6 @@
       "colors": [],
       "options": [],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1902757006",
       "en": {
         "name": "Shoulder Ice Wrap with Refillable Bag",
@@ -23726,7 +23798,9 @@
           "Recovery Gear"
         ],
         "options": {}
-      }
+      },
+      "origin": "local",
+      "status": "live"
     },
     {
       "id": "1518191014",
@@ -23939,7 +24013,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1518191014",
       "en": {
         "name": "ASICS 3-Layer Volleyball Knee Pads (3053A145)",
@@ -24119,7 +24192,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "local",
+      "status": "live"
     },
     {
       "id": "473246387",
@@ -24265,7 +24340,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p473246387",
       "en": {
         "name": "تيشيرت توقيعات المنتخب الياباني ٢٠٢٦",
@@ -24355,7 +24429,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1813707650",
@@ -24543,7 +24619,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1813707650",
       "en": {
         "name": "قميص المنتخب الياباني ريبليكا ٢٠٢٦",
@@ -24643,7 +24718,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1803690320",
@@ -24943,7 +25020,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1803690320",
       "en": {
         "name": "ERREÀ Tokyo Volleyball Knee Pads — Pair",
@@ -25182,7 +25258,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "local",
+      "status": "live"
     },
     {
       "id": "1253762719",
@@ -25474,7 +25552,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1253762719",
       "en": {
         "name": "ERREÀ Tokyo Evolution Volleyball Knee Pads — Pair",
@@ -25702,7 +25779,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "local",
+      "status": "live"
     },
     {
       "id": "2145772275",
@@ -25867,7 +25946,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p2145772275",
       "en": {
         "name": "قميص تمرين ديسنت",
@@ -25960,7 +26038,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "207283236",
@@ -26121,7 +26201,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p207283236",
       "en": {
         "name": "قميص تمرين سبازيو PIPPO",
@@ -26210,7 +26289,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "193357464",
@@ -26420,7 +26501,6 @@
       "colors": [],
       "options": [],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p193357464",
       "en": {
         "name": "Comfytemp Knee Ice Wrap",
@@ -26611,7 +26691,9 @@
           "Recovery Gear"
         ],
         "options": {}
-      }
+      },
+      "origin": "local",
+      "status": "live"
     },
     {
       "id": "1175934981",
@@ -26851,7 +26933,6 @@
       "colors": [],
       "options": [],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1175934981",
       "en": {
         "name": "Comfytemp 3D Hot & Cold Shoulder Pack",
@@ -27073,7 +27154,9 @@
           "Recovery Gear"
         ],
         "options": {}
-      }
+      },
+      "origin": "local",
+      "status": "live"
     },
     {
       "id": "749099882",
@@ -27261,7 +27344,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p749099882",
       "en": {
         "name": "تيشيرت موف سبورت شبكي",
@@ -27357,7 +27439,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "483619319",
@@ -27531,7 +27615,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p483619319",
       "en": {
         "name": "بنطلون موف سبورت للكرة الطائرة",
@@ -27619,7 +27702,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "449110515",
@@ -27754,7 +27839,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p449110515",
       "en": {
         "name": "قميص موف سبورت كم طويل",
@@ -27836,7 +27920,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1878171310",
@@ -28004,7 +28090,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1878171310",
       "en": {
         "name": "سويت شيرت موف سبورت بياقة دائرية",
@@ -28094,7 +28179,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1633319690",
@@ -28262,7 +28349,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1633319690",
       "en": {
         "name": "تيشيرت ميزونو نصف كم نافي دراي",
@@ -28352,7 +28438,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "637508394",
@@ -28545,7 +28633,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p637508394",
       "en": {
         "name": "تيشيرت ميزونو كم طويل نافي دراي",
@@ -28638,7 +28725,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "638527446",
@@ -28840,7 +28929,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p638527446",
       "en": {
         "name": "قميص ميزونو بايوغير الضاغط",
@@ -28943,7 +29031,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "784312676",
@@ -29127,7 +29217,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p784312676",
       "en": {
         "name": "قميص مباريات ميزونو بجرافيك",
@@ -29219,7 +29308,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1581555343",
@@ -29361,7 +29452,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1581555343",
       "en": {
         "name": "تيشيرت ميزونو فَنتاست",
@@ -29451,7 +29541,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1230399951",
@@ -29643,7 +29735,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1230399951",
       "en": {
         "name": "تيشيرت ميزونو TL نصف كم",
@@ -29736,7 +29827,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1280900424",
@@ -29911,7 +30004,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1280900424",
       "en": {
         "name": "تيشيرت ميزونو كم طويل دايناموشن فِت",
@@ -30008,7 +30100,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "511457428",
@@ -30158,7 +30252,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p511457428",
       "en": {
         "name": "شورت ميزونو سويت خفيف",
@@ -30242,7 +30335,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "388382670",
@@ -30381,7 +30476,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p388382670",
       "en": {
         "name": "شورت ميزونو طارد للماء",
@@ -30467,7 +30561,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1535749567",
@@ -30665,7 +30761,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1535749567",
       "en": {
         "name": "جاكيت إحماء ميزونو",
@@ -30758,7 +30853,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "1603898285",
@@ -30951,7 +31048,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p1603898285",
       "en": {
         "name": "قميص مباريات هيمل",
@@ -31044,7 +31140,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "128610966",
@@ -31237,7 +31335,6 @@
         }
       ],
       "model": null,
-      "status": "live",
       "url": "https://risport-sa.com/ar/x/p128610966",
       "en": {
         "name": "بنطلون مباريات هيمل",
@@ -31330,7 +31427,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "live"
     },
     {
       "id": "721119659",
@@ -31630,7 +31729,6 @@
         }
       ],
       "model": null,
-      "status": "out",
       "url": "https://risport-sa.com/ar/x/p721119659",
       "en": {
         "name": "Asics FUTURITY — Limited Edition Designed by Ran Takahashi",
@@ -31857,7 +31955,9 @@
             }
           }
         }
-      }
+      },
+      "origin": "JP",
+      "status": "out"
     },
     {
       "id": "651509262",
@@ -32010,7 +32110,6 @@
       "colors": [],
       "options": [],
       "model": null,
-      "status": "out",
       "url": "https://risport-sa.com/ar/x/p651509262",
       "en": {
         "name": "ASICS Sports Arm Sleeve",
@@ -32147,7 +32246,9 @@
           "Knee Pads and Arm Sleeves"
         ],
         "options": {}
-      }
+      },
+      "origin": "JP",
+      "status": "out"
     },
     {
       "id": "1893563966",
@@ -32411,7 +32512,6 @@
       "colors": [],
       "options": [],
       "model": null,
-      "status": "out",
       "url": "https://risport-sa.com/ar/x/p1893563966",
       "en": {
         "name": "Mikasa V200W Volleyball — JVA Stamped, FIVB Approved",
@@ -32658,7 +32758,9 @@
           "Balls"
         ],
         "options": {}
-      }
+      },
+      "origin": "JP",
+      "status": "out"
     }
   ],
   "i18n": {

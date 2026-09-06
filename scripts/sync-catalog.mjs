@@ -39,6 +39,19 @@ const H_EN = { ...H, 'accept-language': 'en' };
 
 const SPORTS = ['كرة الطائرة', 'الجري', 'المشي', 'كرة السلة', 'كرة القدم'];
 
+/**
+ * مصدر التوريد لكل منتج (JP · CN · local) — يُولَّد من قاعدة stockd بـ
+ * `risport-tracker/scripts/export-sourcing.mjs`. يُدمَج في كل منتج ليعرف التطبيق
+ * أن يقول «نطلبه لك من اليابان» بدل صمتٍ يفاجئ العميل بعد الشراء.
+ * غيابه لا يُفشل المزامنة — المنتج يخرج بلا `origin` فلا تظهر كتلة.
+ */
+let SOURCING = { origin: {}, brandOrigin: {}, leadWeeks: [2, 4] };
+try {
+  SOURCING = { ...SOURCING, ...JSON.parse(fs.readFileSync(path.join(import.meta.dirname, '../sourcing.json'), 'utf8')) };
+} catch { console.warn('⚠ sourcing.json غير موجود — الكتالوج بلا بلد توريد'); }
+
+const originOf = (id, brand) => SOURCING.origin?.[String(id)] ?? SOURCING.brandOrigin?.[brand] ?? null;
+
 /** خدمات تُباع كمنتجات على سلة (طلب مقاس/منتج خاص) — لا تدخل الكتالوج */
 const isService = (p) => /^\s*طلب\s/.test(p?.name ?? '') && /خاص/.test(p?.name ?? '');
 
@@ -399,6 +412,7 @@ async function main() {
       colors: colorOpt?.values.map((v) => v.name) ?? [],
       options,
       model: null,
+      origin: originOf(id, brandAr),
       status: isOut ? 'out' : 'live',
       url: `${SITE}/ar/x/p${id}`,
       ...(en ? { en } : {}),
@@ -419,6 +433,8 @@ async function main() {
     store: { name: 'ري سبورت', url: SITE, currency: 'SAR' },
     brands: [...new Set(products.map((p) => p.brand))].sort(),
     sports: sportsAr,
+    /** مدّة التوريد المعلَنة للمنتجات التي تُطلب من الخارج (أسابيع) */
+    leadWeeks: SOURCING.leadWeeks ?? [2, 4],
     products,
     // خرائط الترجمة على مستوى الكتالوج — التطبيق يعرض بها المرشّحات والتصنيفات بالإنجليزية
     i18n: {
@@ -478,6 +494,10 @@ async function main() {
   const outCount = products.filter((p) => p.status === 'out').length;
   console.log(`  خيارات: ${withOpts}/${products.length} · صور: ${withImgs}/${products.length} · نافد: ${outCount}`);
   console.log(`  ماركات: ${catalog.brands.join(' · ')}`);
+  const org = (v) => products.filter((p) => p.origin === v).length;
+  const noOrigin = products.filter((p) => !p.origin);
+  console.log(`  توريد: ${org('JP')} اليابان · ${org('CN')} الصين · ${org('local')} مستودع الرياض`
+    + (noOrigin.length ? ` · ⚠ ${noOrigin.length} بلا مصدر (${noOrigin.map((p) => p.id).join(' ')})` : ''));
   const withEn = products.filter((p) => p.en?.name).length;
   console.log(`  إنجليزي: ${withEn}/${products.length} منتجاً مترجَماً · ${brandEnMap.size} ماركات · ${Object.keys(catalog.i18n.en.sports).length} رياضات`);
   if (carried) console.log(`  ⚠ ${carried} منتجاً تعذّرت صفحته — استُعملت بيانات النسخة السابقة`);
