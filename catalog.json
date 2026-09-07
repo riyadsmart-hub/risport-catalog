@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-06T21:28:40.155Z",
+  "generatedAt": "2026-09-07T00:02:04.022Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -11557,19 +11557,19 @@
             {
               "id": "942990849",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "168887554",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1744708611",
               "name": "43.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -12033,25 +12033,25 @@
             {
               "id": "1788672379",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1148786756",
               "name": "46",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "373696325",
               "name": "47",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "451067672",
               "name": "47.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -18099,7 +18099,7 @@
             {
               "id": "698940536",
               "name": "حارس المدينة",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/37ccb488-bbe5-4816-a321-cd9513a746d7-426.47058823529x500-yxgx49erAubXHuqKK3jm05n7OXWvHwYmeju8wrC4.jpg"
             },
             {
@@ -18190,7 +18190,7 @@
             {
               "id": "798010958",
               "name": "43.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -18202,7 +18202,7 @@
             {
               "id": "1264249928",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
