@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-07T00:02:04.022Z",
+  "generatedAt": "2026-09-07T04:50:12.357Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5168,7 +5168,7 @@
             {
               "id": "640825558",
               "name": "27.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -11997,7 +11997,7 @@
             {
               "id": "2134864158",
               "name": "41.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -12027,7 +12027,7 @@
             {
               "id": "1225101343",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -16348,7 +16348,7 @@
             {
               "id": "408972155",
               "name": "24.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
