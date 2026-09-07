@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-07T10:27:09.542Z",
+  "generatedAt": "2026-09-07T16:34:49.877Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5180,7 +5180,7 @@
             {
               "id": "1306814160",
               "name": "28.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
