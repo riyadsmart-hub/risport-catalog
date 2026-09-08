@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-08T09:48:44.856Z",
+  "generatedAt": "2026-09-08T14:40:03.117Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -15727,7 +15727,7 @@
             {
               "id": "304209468",
               "name": "39",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -21138,31 +21138,31 @@
             {
               "id": "1939160846",
               "name": "36",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1299340815",
               "name": "37",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "526351624",
               "name": "37.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1764072457",
               "name": "38",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "351263243",
               "name": "39",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -21210,13 +21210,13 @@
             {
               "id": "1132068893",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "491204382",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
