@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-09T09:53:46.916Z",
+  "generatedAt": "2026-09-09T14:44:26.788Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -39788,6 +39788,297 @@
       }
     },
     {
+      "id": "637508394",
+      "sallaId": "637508394",
+      "sku": "RSP-MIZUNO-32MAC195",
+      "name": "تيشيرت ميزونو كم طويل نافي دراي",
+      "brand": "ميزونو",
+      "category": "apparel",
+      "sport": null,
+      "tags": [
+        "ملابس رياضية",
+        "تيشيرتات وأطقم"
+      ],
+      "price": 135,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "ميزونو · نسيج نافي دراي · سبعة ألوان",
+      "description": "تيشيرت كمّ طويل بياقة U ونسيج نافي دراي — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء. نافي دراي — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً. ياقة U أوسع قليلاً، أريح في الحرّ. يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب. كود الموديل 32MAC195 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "p",
+          "s": [
+            "تيشيرت كمّ طويل بياقة U ونسيج ",
+            {
+              "b": "نافي دراي"
+            },
+            " — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نافي دراي"
+            },
+            " — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "ياقة U"
+            },
+            " أوسع قليلاً، أريح في الحرّ."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            "يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "32MAC195"
+            },
+            " · ميزونو · بضاعة أصلية من اليابان "
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "تُطلب من اليابان وتصلك خلال ",
+            {
+              "b": "٧ إلى ٢١ يوم عمل"
+            },
+            ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/610e5e47-8ca1-4604-ad9b-d6718bffc42f-1000x750-8vorEJd0jYQPzvkScvOhLTfzGhLOlvVaUinEzMAA.png",
+        "https://cdn.salla.sa/jZjwre/13b1a957-0e09-4508-bdbe-d366957055a5-1000x750-taXQfLuFOEztiPcDnqgeo92A4ubwS9ZXVbh1KoTM.png",
+        "https://cdn.salla.sa/jZjwre/931cd68f-a869-450b-936c-d0c67b5ceccf-1000x750-zgvyVGuDrWahj6v4yqdacnauWhkwrmhR1U7NcQZZ.png",
+        "https://cdn.salla.sa/jZjwre/1ab4930f-430c-483d-a351-026a260ce7cc-1000x750-7Zm9CkRwbkteZuayPtTTC9GzkHBnqCR7sHgOiqKK.png",
+        "https://cdn.salla.sa/jZjwre/ffa29970-7663-4c66-97b3-21596409e8b6-1000x750-4RK4rEV9ujZiqQekdkGrbKYGCxSeAKlyo801xnLl.png",
+        "https://cdn.salla.sa/jZjwre/366be727-d3a2-4b88-80a1-04f02e34b293-1000x750-JQYmcHAfqw6cY29WjUy5qv5s3AyhUyXxofDHQqCE.png",
+        "https://cdn.salla.sa/jZjwre/22e155f1-191d-42ee-a642-0d420fb299e9-1000x750-dWy64ahFtuEgwpYK8TjE4A2N1H25zzIhzlAqiAZd.png",
+        "https://cdn.salla.sa/jZjwre/291fb95b-8651-49ec-b7d0-4900eea1ac4c-1000x1000-qC7YjHvc5ejpKoKOqcOtu0SzhtW6PvFVQvEu5iPC.jpg",
+        "https://cdn.salla.sa/jZjwre/46c73340-2f57-450d-9096-223fff11560b-1000x1000-m86iSzLR0suhCDZYhglCyDfWuE89deJ3KbCxGKY4.jpg",
+        "https://cdn.salla.sa/jZjwre/ac896be0-d16a-4b85-a5b0-f00e76c14904-1000x1000-bAAiVTmxyny43WL8442JzsspYBMQMyfusC8BXLQa.jpg",
+        "https://cdn.salla.sa/jZjwre/cdedc2f5-a56a-497c-b440-01a5c2f8753a-1000x1000-Ou5BwdJh8KVIOjLlGtJ92tqRXEeDMT4BBCJ7v9aw.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "2XL",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "أبيض × أسود",
+        "أبيض",
+        "أبيض × رمادي",
+        "أسود × ذهبي",
+        "أسود × أبيض",
+        "كحلي غامق × أبيض",
+        "كحلي غامق × رمادي فاتح"
+      ],
+      "options": [
+        {
+          "id": "1637499935",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "204962695",
+              "name": "أبيض × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/9f189924-92b8-4cc9-b831-fdbf2d9e473d-500x375-8vorEJd0jYQPzvkScvOhLTfzGhLOlvVaUinEzMAA.png"
+            },
+            {
+              "id": "1578998400",
+              "name": "أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c31a9e37-31f3-439f-8649-c0e59e279898-500x375-taXQfLuFOEztiPcDnqgeo92A4ubwS9ZXVbh1KoTM.png"
+            },
+            {
+              "id": "737851777",
+              "name": "أبيض × رمادي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/bf4fb754-5ab5-4c06-90ae-dafb77df30c3-500x375-zgvyVGuDrWahj6v4yqdacnauWhkwrmhR1U7NcQZZ.png"
+            },
+            {
+              "id": "96983170",
+              "name": "أسود × ذهبي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/974559d5-3857-45f4-b956-0739244e871c-500x375-7Zm9CkRwbkteZuayPtTTC9GzkHBnqCR7sHgOiqKK.png"
+            },
+            {
+              "id": "1470949251",
+              "name": "أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/e080a83d-5b19-4707-aff5-bd8b3c6739d9-500x375-4RK4rEV9ujZiqQekdkGrbKYGCxSeAKlyo801xnLl.png"
+            },
+            {
+              "id": "562628236",
+              "name": "كحلي غامق × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/9d10f29b-c0de-412f-b8b0-7fc97bf6a824-500x375-JQYmcHAfqw6cY29WjUy5qv5s3AyhUyXxofDHQqCE.png"
+            },
+            {
+              "id": "1935025549",
+              "name": "كحلي غامق × رمادي فاتح",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/232f4409-9662-47d1-a76f-806fd413c922-500x375-dWy64ahFtuEgwpYK8TjE4A2N1H25zzIhzlAqiAZd.png"
+            }
+          ]
+        },
+        {
+          "id": "223183385",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "37694869",
+              "name": "2XL",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "985899401",
+              "name": "S",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "346603658",
+              "name": "M",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1719005067",
+              "name": "L",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "810684052",
+              "name": "XL",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p637508394",
+      "en": {
+        "name": "تيشيرت ميزونو كم طويل نافي دراي",
+        "brand": "Mizuno",
+        "sport": null,
+        "tagline": null,
+        "subtitle": "ميزونو · نسيج نافي دراي · سبعة ألوان",
+        "description": "تيشيرت كمّ طويل بياقة U ونسيج نافي دراي — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء. نافي دراي — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً. ياقة U أوسع قليلاً، أريح في الحرّ. يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب. كود الموديل 32MAC195 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+        "desc": [
+          {
+            "t": "p",
+            "s": [
+              "تيشيرت كمّ طويل بياقة U ونسيج ",
+              {
+                "b": "نافي دراي"
+              },
+              " — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "نافي دراي"
+              },
+              " — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "ياقة U"
+              },
+              " أوسع قليلاً، أريح في الحرّ."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              "يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "كود الموديل ",
+              {
+                "b": "32MAC195"
+              },
+              " · ميزونو · بضاعة أصلية من اليابان "
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "تُطلب من اليابان وتصلك خلال ",
+              {
+                "b": "٧ إلى ٢١ يوم عمل"
+              },
+              ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
+            ]
+          }
+        ],
+        "tags": [
+          "Sportswear",
+          "T-shirts and Kits"
+        ],
+        "options": {
+          "223183385": {
+            "name": "المقاس",
+            "values": {
+              "37694869": "2XL",
+              "346603658": "M",
+              "810684052": "XL",
+              "985899401": "S",
+              "1719005067": "L"
+            }
+          },
+          "1637499935": {
+            "name": "اللون",
+            "values": {
+              "96983170": "أسود × ذهبي",
+              "204962695": "أبيض × أسود",
+              "562628236": "كحلي غامق × أبيض",
+              "737851777": "أبيض × رمادي",
+              "1470949251": "أسود × أبيض",
+              "1578998400": "أبيض",
+              "1935025549": "كحلي غامق × رمادي فاتح"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "638527446",
       "sallaId": "638527446",
       "sku": "RSP-MIZUNO-BIOGEAR-SS",
@@ -44171,297 +44462,6 @@
           "Knee Pads and Arm Sleeves"
         ],
         "options": {}
-      }
-    },
-    {
-      "id": "637508394",
-      "sallaId": "637508394",
-      "sku": "RSP-MIZUNO-32MAC195",
-      "name": "تيشيرت ميزونو كم طويل نافي دراي",
-      "brand": "ميزونو",
-      "category": "apparel",
-      "sport": null,
-      "tags": [
-        "ملابس رياضية",
-        "تيشيرتات وأطقم"
-      ],
-      "price": 135,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "ميزونو · نسيج نافي دراي · سبعة ألوان",
-      "description": "تيشيرت كمّ طويل بياقة U ونسيج نافي دراي — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء. نافي دراي — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً. ياقة U أوسع قليلاً، أريح في الحرّ. يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب. كود الموديل 32MAC195 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
-      "desc": [
-        {
-          "t": "p",
-          "s": [
-            "تيشيرت كمّ طويل بياقة U ونسيج ",
-            {
-              "b": "نافي دراي"
-            },
-            " — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "نافي دراي"
-            },
-            " — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "ياقة U"
-            },
-            " أوسع قليلاً، أريح في الحرّ."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            "يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "كود الموديل ",
-            {
-              "b": "32MAC195"
-            },
-            " · ميزونو · بضاعة أصلية من اليابان "
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "تُطلب من اليابان وتصلك خلال ",
-            {
-              "b": "٧ إلى ٢١ يوم عمل"
-            },
-            ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/610e5e47-8ca1-4604-ad9b-d6718bffc42f-1000x750-8vorEJd0jYQPzvkScvOhLTfzGhLOlvVaUinEzMAA.png",
-        "https://cdn.salla.sa/jZjwre/13b1a957-0e09-4508-bdbe-d366957055a5-1000x750-taXQfLuFOEztiPcDnqgeo92A4ubwS9ZXVbh1KoTM.png",
-        "https://cdn.salla.sa/jZjwre/931cd68f-a869-450b-936c-d0c67b5ceccf-1000x750-zgvyVGuDrWahj6v4yqdacnauWhkwrmhR1U7NcQZZ.png",
-        "https://cdn.salla.sa/jZjwre/1ab4930f-430c-483d-a351-026a260ce7cc-1000x750-7Zm9CkRwbkteZuayPtTTC9GzkHBnqCR7sHgOiqKK.png",
-        "https://cdn.salla.sa/jZjwre/ffa29970-7663-4c66-97b3-21596409e8b6-1000x750-4RK4rEV9ujZiqQekdkGrbKYGCxSeAKlyo801xnLl.png",
-        "https://cdn.salla.sa/jZjwre/366be727-d3a2-4b88-80a1-04f02e34b293-1000x750-JQYmcHAfqw6cY29WjUy5qv5s3AyhUyXxofDHQqCE.png",
-        "https://cdn.salla.sa/jZjwre/22e155f1-191d-42ee-a642-0d420fb299e9-1000x750-dWy64ahFtuEgwpYK8TjE4A2N1H25zzIhzlAqiAZd.png",
-        "https://cdn.salla.sa/jZjwre/291fb95b-8651-49ec-b7d0-4900eea1ac4c-1000x1000-qC7YjHvc5ejpKoKOqcOtu0SzhtW6PvFVQvEu5iPC.jpg",
-        "https://cdn.salla.sa/jZjwre/46c73340-2f57-450d-9096-223fff11560b-1000x1000-m86iSzLR0suhCDZYhglCyDfWuE89deJ3KbCxGKY4.jpg",
-        "https://cdn.salla.sa/jZjwre/ac896be0-d16a-4b85-a5b0-f00e76c14904-1000x1000-bAAiVTmxyny43WL8442JzsspYBMQMyfusC8BXLQa.jpg",
-        "https://cdn.salla.sa/jZjwre/cdedc2f5-a56a-497c-b440-01a5c2f8753a-1000x1000-Ou5BwdJh8KVIOjLlGtJ92tqRXEeDMT4BBCJ7v9aw.jpg"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "2XL",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "أبيض × أسود",
-        "أبيض",
-        "أبيض × رمادي",
-        "أسود × ذهبي",
-        "أسود × أبيض",
-        "كحلي غامق × أبيض",
-        "كحلي غامق × رمادي فاتح"
-      ],
-      "options": [
-        {
-          "id": "1637499935",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "204962695",
-              "name": "أبيض × أسود",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/9f189924-92b8-4cc9-b831-fdbf2d9e473d-500x375-8vorEJd0jYQPzvkScvOhLTfzGhLOlvVaUinEzMAA.png"
-            },
-            {
-              "id": "1578998400",
-              "name": "أبيض",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/c31a9e37-31f3-439f-8649-c0e59e279898-500x375-taXQfLuFOEztiPcDnqgeo92A4ubwS9ZXVbh1KoTM.png"
-            },
-            {
-              "id": "737851777",
-              "name": "أبيض × رمادي",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/bf4fb754-5ab5-4c06-90ae-dafb77df30c3-500x375-zgvyVGuDrWahj6v4yqdacnauWhkwrmhR1U7NcQZZ.png"
-            },
-            {
-              "id": "96983170",
-              "name": "أسود × ذهبي",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/974559d5-3857-45f4-b956-0739244e871c-500x375-7Zm9CkRwbkteZuayPtTTC9GzkHBnqCR7sHgOiqKK.png"
-            },
-            {
-              "id": "1470949251",
-              "name": "أسود × أبيض",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/e080a83d-5b19-4707-aff5-bd8b3c6739d9-500x375-4RK4rEV9ujZiqQekdkGrbKYGCxSeAKlyo801xnLl.png"
-            },
-            {
-              "id": "562628236",
-              "name": "كحلي غامق × أبيض",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/9d10f29b-c0de-412f-b8b0-7fc97bf6a824-500x375-JQYmcHAfqw6cY29WjUy5qv5s3AyhUyXxofDHQqCE.png"
-            },
-            {
-              "id": "1935025549",
-              "name": "كحلي غامق × رمادي فاتح",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/232f4409-9662-47d1-a76f-806fd413c922-500x375-dWy64ahFtuEgwpYK8TjE4A2N1H25zzIhzlAqiAZd.png"
-            }
-          ]
-        },
-        {
-          "id": "223183385",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "37694869",
-              "name": "2XL",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "985899401",
-              "name": "S",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "346603658",
-              "name": "M",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1719005067",
-              "name": "L",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "810684052",
-              "name": "XL",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "origin": "JP",
-      "status": "out",
-      "url": "https://risport-sa.com/ar/x/p637508394",
-      "en": {
-        "name": "تيشيرت ميزونو كم طويل نافي دراي",
-        "brand": "Mizuno",
-        "sport": null,
-        "tagline": null,
-        "subtitle": "ميزونو · نسيج نافي دراي · سبعة ألوان",
-        "description": "تيشيرت كمّ طويل بياقة U ونسيج نافي دراي — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء. نافي دراي — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً. ياقة U أوسع قليلاً، أريح في الحرّ. يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب. كود الموديل 32MAC195 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
-        "desc": [
-          {
-            "t": "p",
-            "s": [
-              "تيشيرت كمّ طويل بياقة U ونسيج ",
-              {
-                "b": "نافي دراي"
-              },
-              " — سبعة ألوان تصلح لتوحيد لون الفريق في الإحماء."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "نافي دراي"
-              },
-              " — نسيج ميزونو الأساسي: يسحب العرق ويجفّ سريعاً."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "ياقة U"
-              },
-              " أوسع قليلاً، أريح في الحرّ."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              "يبقي العضلة دافئة قبل المباراة ويُخلع في اللعب."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "كود الموديل ",
-              {
-                "b": "32MAC195"
-              },
-              " · ميزونو · بضاعة أصلية من اليابان "
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "تُطلب من اليابان وتصلك خلال ",
-              {
-                "b": "٧ إلى ٢١ يوم عمل"
-              },
-              ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
-            ]
-          }
-        ],
-        "tags": [
-          "Sportswear",
-          "T-shirts and Kits"
-        ],
-        "options": {
-          "223183385": {
-            "name": "المقاس",
-            "values": {
-              "37694869": "2XL",
-              "346603658": "M",
-              "810684052": "XL",
-              "985899401": "S",
-              "1719005067": "L"
-            }
-          },
-          "1637499935": {
-            "name": "اللون",
-            "values": {
-              "96983170": "أسود × ذهبي",
-              "204962695": "أبيض × أسود",
-              "562628236": "كحلي غامق × أبيض",
-              "737851777": "أبيض × رمادي",
-              "1470949251": "أسود × أبيض",
-              "1578998400": "أبيض",
-              "1935025549": "كحلي غامق × رمادي فاتح"
-            }
-          }
-        }
       }
     },
     {
