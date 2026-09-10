@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-10T14:34:14.930Z",
+  "generatedAt": "2026-09-10T18:36:35.652Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5131,7 +5131,7 @@
             {
               "id": "217685449",
               "name": "فيروزي × رمادي",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
             },
             {
@@ -5156,7 +5156,7 @@
             {
               "id": "2055797460",
               "name": "26.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -5806,31 +5806,31 @@
             {
               "id": "1992764427",
               "name": "36",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1085033236",
               "name": "37",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "310995477",
               "name": "37.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1817676054",
               "name": "38",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1044162583",
               "name": "39",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -9760,7 +9760,7 @@
             {
               "id": "2123431852",
               "name": "27.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -9778,7 +9778,7 @@
             {
               "id": "1948736687",
               "name": "29.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -12057,7 +12057,7 @@
             {
               "id": "1612924486",
               "name": "48",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -27794,7 +27794,7 @@
             {
               "id": "1625149153",
               "name": "44.5",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -40788,13 +40788,13 @@
             {
               "id": "288722805",
               "name": "2XL",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "463807082",
               "name": "M",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
