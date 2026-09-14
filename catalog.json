@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-14T14:10:50.628Z",
+  "generatedAt": "2026-09-14T19:29:10.990Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -3269,7 +3269,7 @@
       ],
       "colors": [
         "أبيض × بنفسجي",
-        "فيروزي × أسود"
+        "وردي سولار توربو × أسود"
       ],
       "options": [
         {
@@ -3285,7 +3285,7 @@
             },
             {
               "id": "28657654",
-              "name": "فيروزي × أسود",
+              "name": "وردي سولار توربو × أسود",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/092c3417-19d5-4839-b7f1-60205babb3c0-500x375-RhEx4MOqZtPetPtxXjDTwCDRprFo9sosXA7KWN4Y.jpg"
             }
@@ -3466,7 +3466,7 @@
           "1577002843": {
             "name": "Colour",
             "values": {
-              "28657654": "Solar Turquoise / Core Black",
+              "28657654": "Solar Turbo / Core Black / Gold Metallic",
               "937965813": "White / Solar Purple"
             }
           }
@@ -5119,7 +5119,7 @@
         "28.0 سم"
       ],
       "colors": [
-        "فيروزي × رمادي",
+        "وردي سولار توربو × رمادي فحمي",
         "سماوي × أزرق"
       ],
       "options": [
@@ -5130,7 +5130,7 @@
           "values": [
             {
               "id": "217685449",
-              "name": "فيروزي × رمادي",
+              "name": "وردي سولار توربو × رمادي فحمي",
               "out": true,
               "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
             },
@@ -5296,7 +5296,7 @@
           "1228876137": {
             "name": "Colour",
             "values": {
-              "217685449": "Solar Turquoise / Grey",
+              "217685449": "Solar Turbo / Charcoal / Core Black",
               "1590082762": "Crew Sky / Ray Blue"
             }
           }
@@ -10119,7 +10119,7 @@
               "id": "745711889",
               "name": "أبيض × أسود",
               "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/dabbe0b4-06c5-423a-b296-d4071c796f53-500x327.23279648609-Qy8HRbKJhaqHZIAzRMmPZ0oueNmy7NYwIoSrULHK.png"
+              "img": "https://cdn.salla.sa/jZjwre/e4c112eb-cb4e-401c-b26b-ba11a90d6e22-500x280.42959427208-Fthe1XZgEsxneHbjbRGFmu1QdH0p29tLJd7ERDlO.png"
             },
             {
               "id": "2120206354",
@@ -21454,8 +21454,7 @@
         "https://cdn.salla.sa/jZjwre/6c049cc2-3003-4246-9d36-59a6e0fca226-1000x1000-39iQZz1O3mCGzF2oikXJZU5h3AKbI8H551LZ9VFr.jpg",
         "https://cdn.salla.sa/jZjwre/6c3e5017-dff0-4716-a35f-d4cd6c6a3b5d-1000x1000-W7ydhTszz13vOuGmct4PYnvSuYUnJ8NpWqwKbqsz.jpg",
         "https://cdn.salla.sa/jZjwre/bf4e7d80-853a-4a92-a1a7-833bfbcaec11-1000x750-mOTUvNLjuvyh6CqwD6gc4vVcmrgXCXR98J05zCrs.jpg",
-        "https://cdn.salla.sa/jZjwre/b5f6cfd5-1c96-49ef-b13f-7b80243c8686-1000x750-UVCEuBAJqUL6k2ziFQYjTrVeFEal6vAUgAOv899c.jpg",
-        "https://cdn.salla.sa/jZjwre/38236cc4-151f-485f-91f6-956f40e73e16-1000x750-76hze8TohETaULAHYTE57xaxwSZL6cGKDvNTk8Wz.jpg"
+        "https://cdn.salla.sa/jZjwre/b5f6cfd5-1c96-49ef-b13f-7b80243c8686-1000x750-UVCEuBAJqUL6k2ziFQYjTrVeFEal6vAUgAOv899c.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -21479,8 +21478,8 @@
         "47"
       ],
       "colors": [
-        "أسود (09)",
-        "أبيض (01)",
+        "أبيض لؤلؤي × أسود (09)",
+        "أسود × أبيض (01)",
         "أبيض لؤلؤي × أخضر (35)",
         "أبيض × ذهبي (50)"
       ],
@@ -21492,13 +21491,13 @@
           "values": [
             {
               "id": "1192380214",
-              "name": "أسود (09)",
+              "name": "أبيض لؤلؤي × أسود (09)",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/5767af1d-f8b8-492e-a21a-df379f695158-500x500-rSklwCQd3WXkvK10795H7Asy9G0Hlrji1dUYC1fI.jpg"
             },
             {
               "id": "285173303",
-              "name": "أبيض (01)",
+              "name": "أسود × أبيض (01)",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/bf225981-9e31-47f3-a586-985b82d9c706-500x500-xVp4SOE7PG1ASGp875WLJWZEbok0PLu7JXNphQqU.jpg"
             },
@@ -21727,9 +21726,9 @@
           "1891132491": {
             "name": "Colour",
             "values": {
-              "285173303": "White (01)",
+              "285173303": "Black / White (01)",
               "421616908": "أبيض لؤلؤي × أخضر (35)",
-              "1192380214": "Black (09)",
+              "1192380214": "Super White Pearl / Black (09)",
               "1796111373": "أبيض × ذهبي (50)"
             }
           }
@@ -23060,7 +23059,7 @@
       "colors": [
         "أحمر (600)",
         "أزرق (446)",
-        "وردي (603)",
+        "هوت بانش × أخضر (603)",
         "متعدّد (900)"
       ],
       "options": [
@@ -23083,7 +23082,7 @@
             },
             {
               "id": "870080657",
-              "name": "وردي (603)",
+              "name": "هوت بانش × أخضر (603)",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/93431200-7d9a-4bf3-a184-225a86d635ab-500x375-iASh2qvKSXvyQ9wXz1SURFdJlQ233BS4fROMFv5A.jpg"
             },
@@ -23285,7 +23284,7 @@
             "values": {
               "4146052": "Bright Crimson (600)",
               "27911158": "متعدّد (900)",
-              "870080657": "وردي (603)",
+              "870080657": "Hot Punch / Green Strike / Black (603) · Erling Haaland",
               "1376019077": "Racer Blue (446)"
             }
           }
@@ -28803,6 +28802,312 @@
       }
     },
     {
+      "id": "251926245",
+      "sallaId": "251926245",
+      "sku": "RSP-NIKE-JA4",
+      "name": "حذاء نايكي جا 4 لكرة السلة",
+      "brand": "نايكي",
+      "category": "shoes",
+      "sport": "كرة السلة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة سلة"
+      ],
+      "price": 677,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "جا مورانت — امتصاص الهبوط",
+      "description": "الجيل الرابع من توقيع جا مورانت — مبنيّ للاعب المتفجّر الطويل الطيران. رغوة Cushlon 3.0 عالية الارتداد تدعم الوثب المتفجّر وتخفّف صدمة الهبوط ، مع نظام تثبيت محكم وجزء علوي داعم يثبّت القدم. ونعل مطاطي متين للتماسك على الملاعب الخارجية . جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+      "desc": [
+        {
+          "t": "p",
+          "s": [
+            "الجيل الرابع من توقيع ",
+            {
+              "b": "جا مورانت"
+            },
+            " — مبنيّ للاعب المتفجّر الطويل الطيران."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "رغوة ",
+            {
+              "b": "Cushlon 3.0"
+            },
+            " عالية الارتداد تدعم الوثب المتفجّر ",
+            {
+              "b": "وتخفّف صدمة الهبوط"
+            },
+            "، مع نظام تثبيت محكم وجزء علوي داعم يثبّت القدم. ونعل مطاطي متين للتماسك على ",
+            {
+              "b": "الملاعب الخارجية"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "⏱️ ",
+            {
+              "b": "يُجلب من المصدر بطلبك"
+            },
+            " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/a75cc7b5-24a0-4881-87a7-1fa55e5a683b-1000x750-0JIBDAY2DRtnjZkAuiVR6rIgL5fD4QVNcSJnkkIL.jpg",
+        "https://cdn.salla.sa/jZjwre/ba03efae-1835-4ab7-8391-c2bf5201ba2f-1000x1000-mh39wHpgTvazOh0gQrHy8bOS2tQrjdDnMsEJIwQ0.jpg",
+        "https://cdn.salla.sa/jZjwre/c0f5d820-a30d-444f-a264-11287f61ab3c-1000x1000-uI1I0GnlfGevkMMhCFXD0OQYsRP3aH5jNwQpuS6S.jpg",
+        "https://cdn.salla.sa/jZjwre/fc39df01-1202-4779-bc43-b313f86fbba7-1000x1000-WPfj4e6qJOjlx39rW4j5P5IsjsxGfdIWV7Nik4xL.jpg",
+        "https://cdn.salla.sa/jZjwre/59448066-6e50-4b80-ba6a-30695cb7de6f-1000x1000-6LNb9NGS183ySU5cwIpbuXmVdtpoWiHDBgrcL01p.jpg",
+        "https://cdn.salla.sa/jZjwre/3943f6fb-be0a-49bc-b962-3200506cfe64-1000x1000-msGGViPGDrUnIHrbOEwR2iOSpoXGamwrEnZQSFpk.jpg",
+        "https://cdn.salla.sa/jZjwre/1aa04cd3-52c0-40e3-84b0-2c814bcd6821-1000x1000-MzuKRBFkczKP4CD1RiSHpGJL6X5KWUfkJ0QRXccT.jpg",
+        "https://cdn.salla.sa/jZjwre/6370db16-ac9d-496e-bca9-efd1c0fc0f12-1000x1000-zRZYnstqcbf6KgmoGlZ8Uma76Rk9y7idC949pLto.jpg",
+        "https://cdn.salla.sa/jZjwre/aa714fff-5e40-4466-bb9e-89dc58748168-1000x1000-FcM0CPqZOb9Kr4gBTCJ4MVIqZuTxEkOoRDCQyp5m.jpg",
+        "https://cdn.salla.sa/jZjwre/8bdb6d2f-68ef-42f1-8149-4f42ba494171-1000x1000-RLP8evkyNCbJbNFgJVJIuUycPgOjK1J1GOZWfX8p.jpg",
+        "https://cdn.salla.sa/jZjwre/750ebbad-573d-43f9-ab68-3a5085a138d9-1000x1000-9f3YU6jVOERxIqMoiBLsqbexDNsslsuImzSVF35A.jpg",
+        "https://cdn.salla.sa/jZjwre/6e58ee0f-84c4-4e12-bb07-50b77d432416-1000x1000-TzYiyqAwYT6zJ04Khlr57DnMVP8AGbit59B37Vxn.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "36",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+      ],
+      "colors": [
+        "كحلي × أخضر",
+        "أزرق فاتح × كحلي"
+      ],
+      "options": [
+        {
+          "id": "928060967",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "307130915",
+              "name": "كحلي × أخضر",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/e2187806-6629-400c-ab2a-7d5cdb6e2b7f-500x375-0JIBDAY2DRtnjZkAuiVR6rIgL5fD4QVNcSJnkkIL.jpg"
+            },
+            {
+              "id": "575282511",
+              "name": "أزرق فاتح × كحلي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/98b63e69-14d1-4dda-b245-81abec9a05f8-500x500-mh39wHpgTvazOh0gQrHy8bOS2tQrjdDnMsEJIwQ0.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1394299937",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "23936041",
+              "name": "36",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1397381930",
+              "name": "38.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "756513323",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2130549044",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1222293557",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "447203126",
+              "name": "41",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1955391031",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1181287728",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "271983665",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1645429554",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1073242675",
+              "name": "44.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "164004156",
+              "name": "45",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1537450045",
+              "name": "46",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "898158398",
+              "name": "47.5",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p251926245",
+      "en": {
+        "name": "Nike Ja 4 Basketball Shoes",
+        "brand": "Nike",
+        "sport": "Basketball",
+        "tagline": null,
+        "subtitle": "Ja Morant — Cushlon 3.0",
+        "description": "The fourth Ja Morant signature shoe — built for the explosive, high-flying guard. Responsive Cushlon 3.0 foam supports explosive elevation and softens landing impact , with a secure hold system and supportive upper locking the foot down. A durable rubber outsole grips outdoor courts . All colours and sizes shown are 100% authentic and imported from source. ⏱️ Sourced to order — delivery takes two to four weeks. We keep you updated on your order, and if your size cannot be secured you get a full refund.",
+        "desc": [
+          {
+            "t": "p",
+            "s": [
+              "The fourth ",
+              {
+                "b": "Ja Morant"
+              },
+              " signature shoe — built for the explosive, high-flying guard."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Responsive ",
+              {
+                "b": "Cushlon 3.0"
+              },
+              " foam supports explosive elevation and ",
+              {
+                "b": "softens landing impact"
+              },
+              ", with a secure hold system and supportive upper locking the foot down. A durable rubber outsole grips ",
+              {
+                "b": "outdoor courts"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "All colours and sizes shown are 100% authentic and imported from source."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "⏱️ ",
+              {
+                "b": "Sourced to order"
+              },
+              " — delivery takes two to four weeks. We keep you updated on your order, and if your size cannot be secured you get a full refund."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Basketball Shoes"
+        ],
+        "options": {
+          "928060967": {
+            "name": "Colour",
+            "values": {
+              "307130915": "Obsidian / Voltage Green",
+              "575282511": "Diffused Blue / Blackened Blue (Deep Water)"
+            }
+          },
+          "1394299937": {
+            "name": "Size",
+            "values": {
+              "23936041": "36",
+              "164004156": "45",
+              "271983665": "43",
+              "447203126": "41",
+              "756513323": "39",
+              "898158398": "47.5",
+              "1073242675": "44.5",
+              "1181287728": "42.5",
+              "1222293557": "40.5",
+              "1397381930": "38.5",
+              "1537450045": "46",
+              "1645429554": "44",
+              "1955391031": "42",
+              "2130549044": "40"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "1221616865",
       "sallaId": "1221616865",
       "sku": "RSP-NIKE-IB4477",
@@ -29704,294 +30009,6 @@
               "1694003337": "41",
               "1869157262": "38",
               "2117213078": "44.5"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "251926245",
-      "sallaId": "251926245",
-      "sku": "RSP-NIKE-JA4",
-      "name": "حذاء نايكي جا 4 لكرة السلة",
-      "brand": "نايكي",
-      "category": "shoes",
-      "sport": "كرة السلة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة سلة"
-      ],
-      "price": 699,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "جا مورانت — امتصاص الهبوط",
-      "description": "الجيل الرابع من توقيع جا مورانت — مبنيّ للاعب المتفجّر الطويل الطيران. رغوة Cushlon 3.0 عالية الارتداد تدعم الوثب المتفجّر وتخفّف صدمة الهبوط ، مع نظام تثبيت محكم وجزء علوي داعم يثبّت القدم. ونعل مطاطي متين للتماسك على الملاعب الخارجية . جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
-      "desc": [
-        {
-          "t": "p",
-          "s": [
-            "الجيل الرابع من توقيع ",
-            {
-              "b": "جا مورانت"
-            },
-            " — مبنيّ للاعب المتفجّر الطويل الطيران."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "رغوة ",
-            {
-              "b": "Cushlon 3.0"
-            },
-            " عالية الارتداد تدعم الوثب المتفجّر ",
-            {
-              "b": "وتخفّف صدمة الهبوط"
-            },
-            "، مع نظام تثبيت محكم وجزء علوي داعم يثبّت القدم. ونعل مطاطي متين للتماسك على ",
-            {
-              "b": "الملاعب الخارجية"
-            },
-            "."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "⏱️ ",
-            {
-              "b": "يُجلب من المصدر بطلبك"
-            },
-            " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/a75cc7b5-24a0-4881-87a7-1fa55e5a683b-1000x750-0JIBDAY2DRtnjZkAuiVR6rIgL5fD4QVNcSJnkkIL.jpg",
-        "https://cdn.salla.sa/jZjwre/1fc62833-c533-4a49-af64-77f761855a2e-1000x1000-6ot9gvidSKtSRLYpHpOosSYZe657jOvxj1hcBOR4.png"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "36",
-        "38.5",
-        "39",
-        "40",
-        "40.5",
-        "41",
-        "42",
-        "42.5",
-        "43",
-        "44",
-        "44.5",
-        "45",
-        "46",
-        "47.5"
-      ],
-      "colors": [
-        "كحلي × أخضر"
-      ],
-      "options": [
-        {
-          "id": "928060967",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "307130915",
-              "name": "كحلي × أخضر",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/6b6f15ef-e449-4ec2-b848-3a8cb25d9f89-500x500-6ot9gvidSKtSRLYpHpOosSYZe657jOvxj1hcBOR4.png"
-            }
-          ]
-        },
-        {
-          "id": "1394299937",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "23936041",
-              "name": "36",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1397381930",
-              "name": "38.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "756513323",
-              "name": "39",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "2130549044",
-              "name": "40",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1222293557",
-              "name": "40.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "447203126",
-              "name": "41",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1955391031",
-              "name": "42",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1181287728",
-              "name": "42.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "271983665",
-              "name": "43",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1645429554",
-              "name": "44",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1073242675",
-              "name": "44.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "164004156",
-              "name": "45",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1537450045",
-              "name": "46",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "898158398",
-              "name": "47.5",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "origin": "JP",
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p251926245",
-      "en": {
-        "name": "Nike Ja 4 Basketball Shoes",
-        "brand": "Nike",
-        "sport": "Basketball",
-        "tagline": null,
-        "subtitle": "Ja Morant — Cushlon 3.0",
-        "description": "The fourth Ja Morant signature shoe — built for the explosive, high-flying guard. Responsive Cushlon 3.0 foam supports explosive elevation and softens landing impact , with a secure hold system and supportive upper locking the foot down. A durable rubber outsole grips outdoor courts . All colours and sizes shown are 100% authentic and imported from source. ⏱️ Sourced to order — delivery takes two to four weeks. We keep you updated on your order, and if your size cannot be secured you get a full refund.",
-        "desc": [
-          {
-            "t": "p",
-            "s": [
-              "The fourth ",
-              {
-                "b": "Ja Morant"
-              },
-              " signature shoe — built for the explosive, high-flying guard."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Responsive ",
-              {
-                "b": "Cushlon 3.0"
-              },
-              " foam supports explosive elevation and ",
-              {
-                "b": "softens landing impact"
-              },
-              ", with a secure hold system and supportive upper locking the foot down. A durable rubber outsole grips ",
-              {
-                "b": "outdoor courts"
-              },
-              "."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "All colours and sizes shown are 100% authentic and imported from source."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "⏱️ ",
-              {
-                "b": "Sourced to order"
-              },
-              " — delivery takes two to four weeks. We keep you updated on your order, and if your size cannot be secured you get a full refund."
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Basketball Shoes"
-        ],
-        "options": {
-          "928060967": {
-            "name": "Colour",
-            "values": {
-              "307130915": "Obsidian / Voltage Green"
-            }
-          },
-          "1394299937": {
-            "name": "Size",
-            "values": {
-              "23936041": "36",
-              "164004156": "45",
-              "271983665": "43",
-              "447203126": "41",
-              "756513323": "39",
-              "898158398": "47.5",
-              "1073242675": "44.5",
-              "1181287728": "42.5",
-              "1222293557": "40.5",
-              "1397381930": "38.5",
-              "1537450045": "46",
-              "1645429554": "44",
-              "1955391031": "42",
-              "2130549044": "40"
             }
           }
         }
