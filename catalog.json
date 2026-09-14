@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-12T14:14:58.095Z",
+  "generatedAt": "2026-09-14T14:10:50.628Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5150,7 +5150,7 @@
             {
               "id": "681827275",
               "name": "25.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -5162,7 +5162,7 @@
             {
               "id": "1414863317",
               "name": "26.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -6650,7 +6650,7 @@
             {
               "id": "116481405",
               "name": "40",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -9307,13 +9307,13 @@
             {
               "id": "608470118",
               "name": "37",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1981916007",
               "name": "37.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -11984,7 +11984,7 @@
             {
               "id": "1697629669",
               "name": "بابلجم × أسود",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/fd62c150-4d64-4222-a4bc-deb29bd513d0-500x500-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg"
             }
           ]
@@ -12003,19 +12003,19 @@
             {
               "id": "116389367",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "589790591",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "2098044024",
               "name": "43.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -18078,7 +18078,7 @@
             {
               "id": "698940536",
               "name": "حارس المدينة",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/37ccb488-bbe5-4816-a321-cd9513a746d7-426.47058823529x500-yxgx49erAubXHuqKK3jm05n7OXWvHwYmeju8wrC4.jpg"
             },
             {
@@ -19454,7 +19454,7 @@
             {
               "id": "474717124",
               "name": "32.0",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -29870,13 +29870,13 @@
             {
               "id": "271983665",
               "name": "43",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1645429554",
               "name": "44",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -31029,7 +31029,7 @@
             {
               "id": "1080120098",
               "name": "47.5",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
