@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-15T13:40:56.766Z",
+  "generatedAt": "2026-09-15T21:29:24.277Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5930,13 +5930,13 @@
             {
               "id": "1207772740",
               "name": "39",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "299517253",
               "name": "40",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -6014,13 +6014,13 @@
             {
               "id": "723312706",
               "name": "49",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "83431235",
               "name": "50",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -11228,31 +11228,31 @@
             {
               "id": "1852819200",
               "name": "41.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "942990849",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "168887554",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1744708611",
               "name": "43.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1099583410",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -11288,13 +11288,13 @@
             {
               "id": "1260252681",
               "name": "48",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "620367114",
               "name": "49",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -12202,7 +12202,7 @@
             {
               "id": "467691274",
               "name": "أبيض × كوبالت",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/8a1e9cc8-5aef-41e0-8d87-8705ea5a8af5-500x500-NC8T0vD8DySqHUNji3x8rkCASM2UHy4Ds2xlsjUJ.jpg"
             }
           ]
@@ -12257,7 +12257,7 @@
             {
               "id": "588645372",
               "name": "43.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -12667,13 +12667,13 @@
             {
               "id": "201297173",
               "name": "دالاس",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/a9445133-4094-4fe4-830e-46d837224551-500x340-jpKY1hMUPl8d1Czk2gbLaJn2EpUk4OSp1133yBNp.jpg"
             },
             {
               "id": "1707387926",
               "name": "أبيض وأزرق فاتح",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/b015d322-4215-407c-ad62-a6263bc44103-500x340-jmiKVBWfBRCGsdes8oduAjkjLygDZPjd7kwr5kk9.jpg"
             },
             {
@@ -12685,7 +12685,7 @@
             {
               "id": "1006054061",
               "name": "قارب التنين",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/60a139a5-c1ea-402f-8e5f-14a586aec4f8-500x380-NgdB8U3jcx4hLQTTNN1iRxRiteFnXhsXVQ7cfxfL.jpg"
             }
           ]
@@ -21758,234 +21758,6 @@
       }
     },
     {
-      "id": "598962598",
-      "sallaId": "598962598",
-      "sku": "RSP-NIKE-GT-JUMP-ACA",
-      "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
-      "brand": "نايكي",
-      "category": "shoes",
-      "sport": "كرة السلة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة سلة"
-      ],
-      "price": 299,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "G.T. — للارتقاء العالي",
-      "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
-      "desc": [
-        {
-          "t": "p",
-          "s": [
-            "نسخة ",
-            {
-              "b": "أكاديمي"
-            },
-            " من خطّ G.T. Jump المصمَّم حول ",
-            {
-              "b": "الارتقاء"
-            },
-            "."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "⏱️ ",
-            {
-              "b": "يُجلب من المصدر بطلبك"
-            },
-            " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/8d887a6a-7a9b-42b7-9d01-0669b60c6f51-1000x1000-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png",
-        "https://cdn.salla.sa/jZjwre/df4b7cc5-19d8-46c3-afd5-70929d6c7255-1000x1000-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png",
-        "https://cdn.salla.sa/jZjwre/6a6ef673-6c32-4a7a-98ca-d1643c0db320-1000x1000-4u7KzCwrWfpxq9uRe0hWLpImeOX5hK2af0E5T1cL.jpg",
-        "https://cdn.salla.sa/jZjwre/06b6a0f3-ae53-4a06-ab19-7b4de514e402-1000x1000-8gsM5ibf0h2GurdbJLqGaJVhHMztErsMJTSFMSZH.jpg",
-        "https://cdn.salla.sa/jZjwre/62eae765-be75-4013-a6f8-69ebc1fe1bb6-1000x1000-WsWnSksQ6bHTk2cRtA3gmikngTV61XrbixRIryVH.jpg",
-        "https://cdn.salla.sa/jZjwre/fb90d014-8364-4a18-94d2-ac16644974b0-1000x1000-bZH3KgbmvrqJXCjdu8h2EqP6x1wuKdb4CAPulckU.jpg"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "36",
-        "37.5",
-        "38.5",
-        "39",
-        "40",
-        "40.5",
-        "41"
-      ],
-      "colors": [
-        "متعدّد الألوان (007)",
-        "متعدّد الألوان (102)"
-      ],
-      "options": [
-        {
-          "id": "187631772",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "1288887797",
-              "name": "متعدّد الألوان (007)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/25b3301f-f2b2-4860-94c2-f5c18536212a-500x500-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png"
-            },
-            {
-              "id": "515898614",
-              "name": "متعدّد الألوان (102)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/7c370015-5ad7-4f03-beca-3c0acdc0a086-500x500-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png"
-            }
-          ]
-        },
-        {
-          "id": "12473759",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1430921976",
-              "name": "36",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "655835641",
-              "name": "37.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1895588090",
-              "name": "38.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1121619963",
-              "name": "39",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "480751300",
-              "name": "40",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1854721477",
-              "name": "40.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "946465990",
-              "name": "41",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "origin": "JP",
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p598962598",
-      "en": {
-        "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
-        "brand": "Nike",
-        "sport": "Basketball",
-        "tagline": null,
-        "subtitle": "G.T. — للارتقاء العالي",
-        "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
-        "desc": [
-          {
-            "t": "p",
-            "s": [
-              "نسخة ",
-              {
-                "b": "أكاديمي"
-              },
-              " من خطّ G.T. Jump المصمَّم حول ",
-              {
-                "b": "الارتقاء"
-              },
-              "."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "⏱️ ",
-              {
-                "b": "يُجلب من المصدر بطلبك"
-              },
-              " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Basketball Shoes"
-        ],
-        "options": {
-          "12473759": {
-            "name": "المقاس",
-            "values": {
-              "480751300": "40",
-              "655835641": "37.5",
-              "946465990": "41",
-              "1121619963": "39",
-              "1430921976": "36",
-              "1854721477": "40.5",
-              "1895588090": "38.5"
-            }
-          },
-          "187631772": {
-            "name": "اللون",
-            "values": {
-              "515898614": "متعدّد الألوان (102)",
-              "1288887797": "متعدّد الألوان (007)"
-            }
-          }
-        }
-      }
-    },
-    {
       "id": "1016973400",
       "sallaId": "1016973400",
       "sku": "RSP-NIKE-REACTX-REJ",
@@ -22085,7 +21857,7 @@
             {
               "id": "1955964819",
               "name": "متعدّد الألوان (006)",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/99bf01d9-2062-487a-9a7f-907d6c48ed79-500x500-d9JkbdZXYQG7oBpWmOctlp0DLo46lpbN8KgvhNk2.png"
             },
             {
@@ -25882,7 +25654,7 @@
             {
               "id": "665226055",
               "name": "36.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -29887,7 +29659,7 @@
             {
               "id": "1135072652",
               "name": "36",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -31700,7 +31472,7 @@
             {
               "id": "292776161",
               "name": "40",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -32284,7 +32056,7 @@
             {
               "id": "1778399010",
               "name": "47.5",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -35665,7 +35437,7 @@
             {
               "id": "1108462855",
               "name": "2XL",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -44268,6 +44040,234 @@
               "1715492068": "45",
               "1756493721": "43.5",
               "1931651742": "41.5"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "598962598",
+      "sallaId": "598962598",
+      "sku": "RSP-NIKE-GT-JUMP-ACA",
+      "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
+      "brand": "نايكي",
+      "category": "shoes",
+      "sport": "كرة السلة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة سلة"
+      ],
+      "price": 299,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "G.T. — للارتقاء العالي",
+      "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+      "desc": [
+        {
+          "t": "p",
+          "s": [
+            "نسخة ",
+            {
+              "b": "أكاديمي"
+            },
+            " من خطّ G.T. Jump المصمَّم حول ",
+            {
+              "b": "الارتقاء"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "⏱️ ",
+            {
+              "b": "يُجلب من المصدر بطلبك"
+            },
+            " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/8d887a6a-7a9b-42b7-9d01-0669b60c6f51-1000x1000-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png",
+        "https://cdn.salla.sa/jZjwre/df4b7cc5-19d8-46c3-afd5-70929d6c7255-1000x1000-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png",
+        "https://cdn.salla.sa/jZjwre/6a6ef673-6c32-4a7a-98ca-d1643c0db320-1000x1000-4u7KzCwrWfpxq9uRe0hWLpImeOX5hK2af0E5T1cL.jpg",
+        "https://cdn.salla.sa/jZjwre/06b6a0f3-ae53-4a06-ab19-7b4de514e402-1000x1000-8gsM5ibf0h2GurdbJLqGaJVhHMztErsMJTSFMSZH.jpg",
+        "https://cdn.salla.sa/jZjwre/62eae765-be75-4013-a6f8-69ebc1fe1bb6-1000x1000-WsWnSksQ6bHTk2cRtA3gmikngTV61XrbixRIryVH.jpg",
+        "https://cdn.salla.sa/jZjwre/fb90d014-8364-4a18-94d2-ac16644974b0-1000x1000-bZH3KgbmvrqJXCjdu8h2EqP6x1wuKdb4CAPulckU.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "36",
+        "37.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41"
+      ],
+      "colors": [
+        "متعدّد الألوان (007)",
+        "متعدّد الألوان (102)"
+      ],
+      "options": [
+        {
+          "id": "187631772",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1288887797",
+              "name": "متعدّد الألوان (007)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/25b3301f-f2b2-4860-94c2-f5c18536212a-500x500-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png"
+            },
+            {
+              "id": "515898614",
+              "name": "متعدّد الألوان (102)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/7c370015-5ad7-4f03-beca-3c0acdc0a086-500x500-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png"
+            }
+          ]
+        },
+        {
+          "id": "12473759",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1430921976",
+              "name": "36",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "655835641",
+              "name": "37.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1895588090",
+              "name": "38.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1121619963",
+              "name": "39",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "480751300",
+              "name": "40",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1854721477",
+              "name": "40.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "946465990",
+              "name": "41",
+              "out": true,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "out",
+      "url": "https://risport-sa.com/ar/x/p598962598",
+      "en": {
+        "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
+        "brand": "Nike",
+        "sport": "Basketball",
+        "tagline": null,
+        "subtitle": "G.T. — للارتقاء العالي",
+        "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+        "desc": [
+          {
+            "t": "p",
+            "s": [
+              "نسخة ",
+              {
+                "b": "أكاديمي"
+              },
+              " من خطّ G.T. Jump المصمَّم حول ",
+              {
+                "b": "الارتقاء"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "⏱️ ",
+              {
+                "b": "يُجلب من المصدر بطلبك"
+              },
+              " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Basketball Shoes"
+        ],
+        "options": {
+          "12473759": {
+            "name": "المقاس",
+            "values": {
+              "480751300": "40",
+              "655835641": "37.5",
+              "946465990": "41",
+              "1121619963": "39",
+              "1430921976": "36",
+              "1854721477": "40.5",
+              "1895588090": "38.5"
+            }
+          },
+          "187631772": {
+            "name": "اللون",
+            "values": {
+              "515898614": "متعدّد الألوان (102)",
+              "1288887797": "متعدّد الألوان (007)"
             }
           }
         }
