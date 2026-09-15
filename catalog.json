@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-15T01:35:30.157Z",
+  "generatedAt": "2026-09-15T13:40:56.766Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -4098,16 +4098,16 @@
           "297593323": {
             "name": "Size",
             "values": {
-              "68389130": "27.0 cm",
-              "243477519": "25.5 cm",
-              "600160020": "28.0 cm",
-              "708143625": "26.5 cm",
-              "1017515278": "25.0 cm",
-              "1334834454": "29.0 cm",
-              "1375250443": "27.5 cm",
-              "1483229960": "26.0 cm",
-              "1658449421": "24.5 cm",
-              "2107823637": "28.5 cm"
+              "68389130": "42⅔",
+              "243477519": "40⅔",
+              "600160020": "44",
+              "708143625": "42",
+              "1017515278": "40",
+              "1334834454": "45⅓",
+              "1375250443": "43⅓",
+              "1483229960": "41⅓",
+              "1658449421": "39⅓",
+              "2107823637": "44⅔"
             }
           },
           "1779084265": {
@@ -4403,13 +4403,13 @@
           "471654604": {
             "name": "Size",
             "values": {
-              "112787586": "26.5 cm",
-              "153789319": "24.5 cm",
-              "576933516": "27.5 cm",
-              "886890881": "26.0 cm",
-              "1350971267": "27.0 cm",
-              "1526186624": "25.0 cm",
-              "2085121421": "28.0 cm"
+              "112787586": "42",
+              "153789319": "39⅓",
+              "576933516": "43⅓",
+              "886890881": "41⅓",
+              "1350971267": "42⅔",
+              "1526186624": "40",
+              "2085121421": "44"
             }
           }
         }
@@ -6153,12 +6153,12 @@
               "258646592": "47.5",
               "299517253": "40",
               "723312706": "49",
-              "758559869": "46",
+              "758559869": "45",
               "933648242": "43.5",
               "1032684359": "47",
               "1041697399": "41.5",
               "1207772740": "39",
-              "1399428476": "45",
+              "1399428476": "44.5",
               "1496826177": "48",
               "1671914566": "46",
               "1708738673": "42.5",
@@ -6604,13 +6604,13 @@
               "323220819": "42",
               "407631994": "49",
               "581213055": "47",
-              "881168472": "46",
+              "881168472": "45",
               "890519164": "39",
               "1056256861": "43.5",
               "1097258578": "41.5",
               "1315887481": "48",
               "1356758142": "46",
-              "1522495839": "45",
+              "1522495839": "44.5",
               "1779435387": "50",
               "1831343196": "42.5",
               "2006562641": "40.5",
@@ -9274,7 +9274,7 @@
             "name": "Size",
             "values": {
               "17476463": "49",
-              "126230957": "45",
+              "126230957": "44.5",
               "167232674": "42.5",
               "192564844": "47",
               "275212199": "40.5",
@@ -9285,7 +9285,7 @@
               "966602595": "46",
               "1009427873": "42",
               "1074709088": "38",
-              "1365459118": "46",
+              "1365459118": "45",
               "1541202851": "43.5",
               "1649247904": "41.5",
               "1699179885": "47.5",
@@ -10109,7 +10109,7 @@
             "name": "Size",
             "values": {
               "21084074": "47.5",
-              "41181708": "45",
+              "41181708": "44.5",
               "196176559": "40",
               "304221612": "37.5",
               "350553345": "42.5",
@@ -10121,7 +10121,7 @@
               "991487488": "42",
               "1078324899": "37",
               "1395578539": "48",
-              "1548910861": "46",
+              "1548910861": "45",
               "1704954280": "46",
               "1723999234": "43.5",
               "1765000967": "41.5",
@@ -10487,16 +10487,16 @@
           "1641512003": {
             "name": "Size",
             "values": {
-              "36117195": "28.0 cm",
-              "345030088": "26.5 cm",
-              "520114381": "25.0 cm",
-              "811269066": "27.5 cm",
-              "986422991": "26.0 cm",
-              "1295725004": "24.5 cm",
-              "1544305108": "28.5 cm",
-              "1719524553": "27.0 cm",
-              "1760395214": "25.5 cm",
-              "1935545027": "24.0 cm"
+              "36117195": "44",
+              "345030088": "42",
+              "520114381": "40",
+              "811269066": "43.5",
+              "986422991": "41.5",
+              "1295725004": "39",
+              "1544305108": "44.5",
+              "1719524553": "42.5",
+              "1760395214": "40.5",
+              "1935545027": "38"
             }
           }
         }
@@ -10519,12 +10519,12 @@
       "compareAt": null,
       "tagline": null,
       "subtitle": "إصدار شاين باك الياباني الحصري",
-      "description": "الحذاء الذي يقفز به ران تاكاهاشي — إصدار اليابان الحصري هذا هو إصدار SHINE PACK من حذاء Asics Sky Elite FF MT 4 (كود الموديل 1051A101 ) — الإصدار الرسمي الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة، وهو الموديل الذي يلعب به نجم المنتخب ران تاكاهاشي . ويُشحن إليك مباشرة من اليابان بالطلب المسبق. اللون والتصميم جسم أبيض بلمسات فضية لامعة، مع نعل وسطي فيروزي ولمسات بنفسجية (أميثيست) على الأربطة وحلقات المشط. هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره. ما الذي يميّز إصدار شاين باك؟ حصرية فعلية لا تسويقية — كل نسخة تأتي من السوق الياباني مباشرة. إصدار المنتخب الرسمي — شاين باك هو الطقم اللوني الذي ظهر به لاعبو المنتخب الياباني في حملة أسيكس الرسمية لهذا الموسم، لا مجرد لون تجاري. حذاء لاعب، لا حذاء «مستوحى» من لاعب — ليست نسخة تجارية تحمل اسمه، بل الموديل نفسه الذي يظهر به تاكاهاشي في المباريات الدولية. ماذا يعني الاسم؟ — Sky Elite FF هو خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام (وفوقه في التشكيلة الميتارايز المتخصّص في القفز وحده)، و MT ترمز إلى القصّة المتوسطة (Mid-cut) التي ترتفع فوق الكاحل. التقنيات FF BLAST MAX — أول رغوة من أحذية الجري تدخل حذاء كرة طائرة رغوة عالية الارتداد مأخوذة من أحذية الجري، وهذه أول مرة تعتمدها أسيكس في حذاء كرة طائرة. ما يعنيه ذلك لك على الأرض: دفعة أوضح في الخطوة الأخيرة من الاقتراب قبل الضربة، وهبوط أنعم يمتص صدمة النزول بدل أن ينقلها كاملة إلى قدمك — وهو ما تشعر به في الأشواط المتأخرة حين تبدأ الأرجل بالتعب. RISETRUSS المحدّثة — ثبات لحظة الدفع هيكل يقاوم التواء منتصف القدم لحظة الدفع الأخيرة. ما يعنيه ذلك لك على الأرض: القوة الأفقية التي جمعتها في خطوات الاقتراب تتحوّل إلى ارتفاع عمودي بدل أن تتبدد في اهتزاز جانبي، وقدمك لا تتزحزح داخل الحذاء عند الهبوط بعد البلوك أو عند التوقف المفاجئ — فتخرج بانطلاقة أنظف في التغطية والدفاع. DYNALACING — إحكام يلتف حول القدم نظام رباط يوزّع شدّ الأربطة على مشط القدم بدل حصره في نقطة واحدة. ما يعنيه ذلك لك على الأرض: تستطيع شدّ الحذاء بقوة للحصول على تثبيت كامل دون نقاط ضغط مؤلمة فوق القدم، ويبقى الإحكام ثابتاً خلال الشوط بدل أن يرتخي فيقطع عليك اللعب لإعادة الربط. قصّة متوسطة (Mid-cut) — دعم فوق الكاحل رقبة الحذاء ترتفع فوق عظمة الكاحل وتحيط بها. ما يعنيه ذلك لك على الأرض: طمأنينة إضافية في الهبوط غير المستوي قرب الشبكة أو فوق قدم زميل أو خصم، وهو الموقف الذي يقلق المهاجمين ولاعبي الوسط أكثر من غيره. الإحساس العام أكثر حزماً حول الكاحل مقارنة بالقصّة المنخفضة. لمن هذا الحذاء؟ القصّة المتوسطة تخدم اللاعب الذي يقفز كثيراً ويهبط أكثر: الضارب الطرف (Outside Hitter) — مركز ران تاكاهاشي نفسه: اقتراب واندفاع وقفزات متكرّرة من الأطراف مع هبوط قريب من الخط. الأوبوزيت (Opposite) — حجم هجوم عالٍ وقفزات متتالية طوال المباراة؛ الارتداد ودعم الهبوط يخدمانه مباشرة. لاعب الوسط (Middle Blocker) — تنقّل جانبي سريع بمحاذاة الشبكة وهبوط متكرّر في زحمة الأقدام تحتها، وهنا يظهر دعم الكاحل في أوضح صوره. من يريد طمأنينة إضافية عند الكاحل — إن كنت تفضّل الإحساس بالحزم والدعم فوق الكاحل بدل الشعور بالانكشاف، فهذه القصّة صُمّمت لذلك. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً وتبحث عن أقصى خفّة وحرية حركة للكاحل، فقد تكون القصّة المنخفضة أقرب إلى أسلوبك — هذا الحذاء موجّه لمن يريد الدعم.",
+      "description": "الحذاء الذي يقفز به المنتخب الياباني — إصدار اليابان الحصري هذا هو إصدار SHINE PACK من حذاء Asics Sky Elite FF MT 4 (كود الموديل 1051A101 ) — الإصدار الرسمي الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة. ويُشحن إليك مباشرة من اليابان بالطلب المسبق. اللون والتصميم جسم أبيض بلمسات فضية لامعة، مع نعل وسطي فيروزي ولمسات بنفسجية (أميثيست) على الأربطة وحلقات المشط. هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره. ما الذي يميّز إصدار شاين باك؟ حصرية فعلية لا تسويقية — كل نسخة تأتي من السوق الياباني مباشرة. إصدار المنتخب الرسمي — شاين باك هو الطقم اللوني الذي ظهر به لاعبو المنتخب الياباني في حملة أسيكس الرسمية لهذا الموسم، لا مجرد لون تجاري. ماذا يعني الاسم؟ — Sky Elite FF هو خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام (وفوقه في التشكيلة الميتارايز المتخصّص في القفز وحده)، و MT ترمز إلى القصّة المتوسطة (Mid-cut) التي ترتفع فوق الكاحل. التقنيات FF BLAST MAX — أول رغوة من أحذية الجري تدخل حذاء كرة طائرة رغوة عالية الارتداد مأخوذة من أحذية الجري، وهذه أول مرة تعتمدها أسيكس في حذاء كرة طائرة. ما يعنيه ذلك لك على الأرض: دفعة أوضح في الخطوة الأخيرة من الاقتراب قبل الضربة، وهبوط أنعم يمتص صدمة النزول بدل أن ينقلها كاملة إلى قدمك — وهو ما تشعر به في الأشواط المتأخرة حين تبدأ الأرجل بالتعب. RISETRUSS المحدّثة — ثبات لحظة الدفع هيكل يقاوم التواء منتصف القدم لحظة الدفع الأخيرة. ما يعنيه ذلك لك على الأرض: القوة الأفقية التي جمعتها في خطوات الاقتراب تتحوّل إلى ارتفاع عمودي بدل أن تتبدد في اهتزاز جانبي، وقدمك لا تتزحزح داخل الحذاء عند الهبوط بعد البلوك أو عند التوقف المفاجئ — فتخرج بانطلاقة أنظف في التغطية والدفاع. DYNALACING — إحكام يلتف حول القدم نظام رباط يوزّع شدّ الأربطة على مشط القدم بدل حصره في نقطة واحدة. ما يعنيه ذلك لك على الأرض: تستطيع شدّ الحذاء بقوة للحصول على تثبيت كامل دون نقاط ضغط مؤلمة فوق القدم، ويبقى الإحكام ثابتاً خلال الشوط بدل أن يرتخي فيقطع عليك اللعب لإعادة الربط. قصّة متوسطة (Mid-cut) — دعم فوق الكاحل رقبة الحذاء ترتفع فوق عظمة الكاحل وتحيط بها. ما يعنيه ذلك لك على الأرض: طمأنينة إضافية في الهبوط غير المستوي قرب الشبكة أو فوق قدم زميل أو خصم، وهو الموقف الذي يقلق المهاجمين ولاعبي الوسط أكثر من غيره. الإحساس العام أكثر حزماً حول الكاحل مقارنة بالقصّة المنخفضة. لمن هذا الحذاء؟ القصّة المتوسطة تخدم اللاعب الذي يقفز كثيراً ويهبط أكثر: الضارب الطرف (Outside Hitter) — اقتراب واندفاع وقفزات متكرّرة من الأطراف مع هبوط قريب من الخط. الأوبوزيت (Opposite) — حجم هجوم عالٍ وقفزات متتالية طوال المباراة؛ الارتداد ودعم الهبوط يخدمانه مباشرة. لاعب الوسط (Middle Blocker) — تنقّل جانبي سريع بمحاذاة الشبكة وهبوط متكرّر في زحمة الأقدام تحتها، وهنا يظهر دعم الكاحل في أوضح صوره. من يريد طمأنينة إضافية عند الكاحل — إن كنت تفضّل الإحساس بالحزم والدعم فوق الكاحل بدل الشعور بالانكشاف، فهذه القصّة صُمّمت لذلك. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً وتبحث عن أقصى خفّة وحرية حركة للكاحل، فقد تكون القصّة المنخفضة أقرب إلى أسلوبك — هذا الحذاء موجّه لمن يريد الدعم.",
       "desc": [
         {
           "t": "h",
           "s": [
-            "الحذاء الذي يقفز به ران تاكاهاشي — إصدار اليابان الحصري"
+            "الحذاء الذي يقفز به المنتخب الياباني — إصدار اليابان الحصري"
           ]
         },
         {
@@ -10542,11 +10542,7 @@
             {
               "b": "1051A101"
             },
-            ") — الإصدار الرسمي الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة، وهو الموديل الذي يلعب به نجم المنتخب ",
-            {
-              "b": "ران تاكاهاشي"
-            },
-            ". ويُشحن إليك مباشرة من اليابان بالطلب المسبق."
+            ") — الإصدار الرسمي الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة. ويُشحن إليك مباشرة من اليابان بالطلب المسبق."
           ]
         },
         {
@@ -10591,15 +10587,6 @@
               "b": "إصدار المنتخب الرسمي"
             },
             " — شاين باك هو الطقم اللوني الذي ظهر به لاعبو المنتخب الياباني في حملة أسيكس الرسمية لهذا الموسم، لا مجرد لون تجاري."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "حذاء لاعب، لا حذاء «مستوحى» من لاعب"
-            },
-            " — ليست نسخة تجارية تحمل اسمه، بل الموديل نفسه الذي يظهر به تاكاهاشي في المباريات الدولية."
           ]
         },
         {
@@ -10671,7 +10658,7 @@
             {
               "b": "الضارب الطرف (Outside Hitter)"
             },
-            " — مركز ران تاكاهاشي نفسه: اقتراب واندفاع وقفزات متكرّرة من الأطراف مع هبوط قريب من الخط."
+            " — اقتراب واندفاع وقفزات متكرّرة من الأطراف مع هبوط قريب من الخط."
           ]
         },
         {
@@ -10845,17 +10832,17 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p768894154",
       "en": {
-        "name": "Asics Sky Elite FF MT 4 — Exclusive Shine Pack (Ran Takahashi's Shoe)",
+        "name": "Asics Sky Elite FF MT 4 — Exclusive Shine Pack",
         "brand": "ASICS",
         "sport": "Volleyball",
         "tagline": null,
         "subtitle": "Japan-exclusive Shine Pack edition",
-        "description": "The shoe Ran Takahashi jumps in — the Japan-exclusive edition This is the SHINE PACK edition of the Asics Sky Elite FF MT 4 (model code 1051A101 ) — the official release ASICS made with the Japan Volleyball Association, and the model worn by national-team star Ran Takahashi . It ships to you directly from Japan by pre-order. Colour and design A white body with bright silver touches, a turquoise midsole and amethyst purple accents on the laces and eyelets. This is the only colourway the edition was released in, and it is not offered in any other. What makes the Shine Pack edition different? Genuine exclusivity, not a marketing line — every pair comes straight from the Japanese market. The official national-team edition — Shine Pack is the colour set the Japanese national team wore in ASICS' official campaign this season, not just a commercial colourway. A player's shoe, not a shoe \"inspired by\" a player — this is not a commercial version carrying his name; it is the same model Takahashi appears in at international matches. What the name means — Sky Elite FF is ASICS' top tier among all-round volleyball shoes (above it in the range sits the Metarise, specialised purely in jumping), and MT stands for the mid cut that rises above the ankle. The technology FF BLAST MAX — the first running-shoe foam in a volleyball shoe A high-rebound foam taken from running shoes, used here by ASICS in a volleyball shoe for the first time. What that means for you on court: a clearer push on the last step of your approach before the spike, and a softer landing that absorbs the impact instead of passing all of it into your foot — which is what you feel in the late sets when legs begin to tire. Updated RISETRUSS — stability at the moment you drive A structure that resists midfoot twisting at the final push. What that means for you on court: the horizontal force you gathered in your approach steps turns into vertical height instead of leaking into sideways wobble, and your foot does not shift inside the shoe when you land after a block or stop suddenly — so you break away more cleanly into coverage and defence. DYNALACING — a wrap that holds all the way round A lacing system that spreads lace tension across the instep instead of concentrating it in one spot. What that means for you on court: you can pull the shoe tight for a complete lockdown without painful pressure points on top of the foot, and the hold stays put through the set instead of loosening and forcing you to stop and re-tie. Mid cut — support above the ankle The collar rises above the ankle bone and wraps it. What that means for you on court: extra reassurance on uneven landings near the net or on a team-mate's or opponent's foot, the situation that worries hitters and middle blockers most. The overall feel is firmer around the ankle than a low cut. Who is it for? The mid cut serves the player who jumps a lot and lands even more: Outside hitter — Ran Takahashi's own position: approach, drive and repeated jumps from the wings, with landings close to the line. Opposite — a high attacking volume and back-to-back jumps all match long; rebound and landing support serve you directly. Middle blocker — fast lateral movement along the net and repeated landings in the crowd of feet under it, where ankle support shows at its clearest. Anyone who wants extra reassurance at the ankle — if you prefer the feeling of firmness and support above the ankle to feeling exposed, this cut was designed for that. A frank note: if you are a libero or a setter looking for maximum lightness and ankle freedom, a low cut may be closer to your style — this shoe is aimed at players who want support.",
+        "description": "The shoe Japan's national team jumps in — the Japan-exclusive edition This is the SHINE PACK edition of the Asics Sky Elite FF MT 4 (model code 1051A101 ) — the official release ASICS made with the Japan Volleyball Association. It ships to you directly from Japan by pre-order. Colour and design A white body with bright silver touches, a turquoise midsole and amethyst purple accents on the laces and eyelets. This is the only colourway the edition was released in, and it is not offered in any other. What makes the Shine Pack edition different? Genuine exclusivity, not a marketing line — every pair comes straight from the Japanese market. The official national-team edition — Shine Pack is the colour set the Japanese national team wore in ASICS' official campaign this season, not just a commercial colourway. What the name means — Sky Elite FF is ASICS' top tier among all-round volleyball shoes (above it in the range sits the Metarise, specialised purely in jumping), and MT stands for the mid cut that rises above the ankle. The technology FF BLAST MAX — the first running-shoe foam in a volleyball shoe A high-rebound foam taken from running shoes, used here by ASICS in a volleyball shoe for the first time. What that means for you on court: a clearer push on the last step of your approach before the spike, and a softer landing that absorbs the impact instead of passing all of it into your foot — which is what you feel in the late sets when legs begin to tire. Updated RISETRUSS — stability at the moment you drive A structure that resists midfoot twisting at the final push. What that means for you on court: the horizontal force you gathered in your approach steps turns into vertical height instead of leaking into sideways wobble, and your foot does not shift inside the shoe when you land after a block or stop suddenly — so you break away more cleanly into coverage and defence. DYNALACING — a wrap that holds all the way round A lacing system that spreads lace tension across the instep instead of concentrating it in one spot. What that means for you on court: you can pull the shoe tight for a complete lockdown without painful pressure points on top of the foot, and the hold stays put through the set instead of loosening and forcing you to stop and re-tie. Mid cut — support above the ankle The collar rises above the ankle bone and wraps it. What that means for you on court: extra reassurance on uneven landings near the net or on a team-mate's or opponent's foot, the situation that worries hitters and middle blockers most. The overall feel is firmer around the ankle than a low cut. Who is it for? The mid cut serves the player who jumps a lot and lands even more: Outside hitter — approach, drive and repeated jumps from the wings, with landings close to the line. Opposite — a high attacking volume and back-to-back jumps all match long; rebound and landing support serve you directly. Middle blocker — fast lateral movement along the net and repeated landings in the crowd of feet under it, where ankle support shows at its clearest. Anyone who wants extra reassurance at the ankle — if you prefer the feeling of firmness and support above the ankle to feeling exposed, this cut was designed for that. A frank note: if you are a libero or a setter looking for maximum lightness and ankle freedom, a low cut may be closer to your style — this shoe is aimed at players who want support.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "The shoe Ran Takahashi jumps in — the Japan-exclusive edition"
+              "The shoe Japan's national team jumps in — the Japan-exclusive edition"
             ]
           },
           {
@@ -10873,11 +10860,7 @@
               {
                 "b": "1051A101"
               },
-              ") — the official release ASICS made with the Japan Volleyball Association, and the model worn by national-team star ",
-              {
-                "b": "Ran Takahashi"
-              },
-              ". It ships to you directly from Japan by pre-order."
+              ") — the official release ASICS made with the Japan Volleyball Association. It ships to you directly from Japan by pre-order."
             ]
           },
           {
@@ -10922,15 +10905,6 @@
                 "b": "The official national-team edition"
               },
               " — Shine Pack is the colour set the Japanese national team wore in ASICS' official campaign this season, not just a commercial colourway."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "A player's shoe, not a shoe \"inspired by\" a player"
-              },
-              " — this is not a commercial version carrying his name; it is the same model Takahashi appears in at international matches."
             ]
           },
           {
@@ -11002,7 +10976,7 @@
               {
                 "b": "Outside hitter"
               },
-              " — Ran Takahashi's own position: approach, drive and repeated jumps from the wings, with landings close to the line."
+              " — approach, drive and repeated jumps from the wings, with landings close to the line."
             ]
           },
           {
@@ -11055,10 +11029,10 @@
               "473586782": "40",
               "830269275": "48",
               "1005427288": "46",
-              "1014174981": "46",
+              "1014174981": "45",
               "1113406813": "39",
               "1189922874": "43.5",
-              "1654060548": "45",
+              "1654060548": "44.5",
               "1738004570": "47.5",
               "1845984095": "40.5",
               "1852798437": "41.5",
@@ -11687,7 +11661,7 @@
             {
               "id": "1697629669",
               "name": "بابلجم × أسود",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/fd62c150-4d64-4222-a4bc-deb29bd513d0-500x500-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg"
             }
           ]
@@ -11706,19 +11680,19 @@
             {
               "id": "116389367",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "589790591",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "2098044024",
               "name": "43.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -12283,7 +12257,7 @@
             {
               "id": "588645372",
               "name": "43.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -12705,13 +12679,13 @@
             {
               "id": "1848249260",
               "name": "أزرق مبهر وأحمر وردي",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/3c9f502c-ba1b-4b28-8467-83d7851423f3-500x380-EzDJzDsBScJ5RLOp30tSop18dPHaPDZJ25ZlJGLX.jpg"
             },
             {
               "id": "1006054061",
               "name": "قارب التنين",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/60a139a5-c1ea-402f-8e5f-14a586aec4f8-500x380-NgdB8U3jcx4hLQTTNN1iRxRiteFnXhsXVQ7cfxfL.jpg"
             }
           ]
@@ -15622,14 +15596,14 @@
           "195821533": {
             "name": "Size",
             "values": {
-              "21010490": "27.5 cm",
-              "196098879": "26.0 cm",
-              "304209468": "24.5 cm",
-              "930773305": "27.0 cm",
-              "971709502": "25.5 cm",
-              "1395500859": "28.0 cm",
-              "1704811064": "26.5 cm",
-              "1812921661": "25.0 cm"
+              "21010490": "43",
+              "196098879": "41",
+              "304209468": "39",
+              "930773305": "42.5",
+              "971709502": "40.5",
+              "1395500859": "44",
+              "1704811064": "42",
+              "1812921661": "40"
             }
           },
           "1877062099": {
@@ -18138,7 +18112,7 @@
             {
               "id": "1431452282",
               "name": "التألّق",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/953b1583-1a04-4472-b167-bab46ec6c46e-426.47058823529x500-UTPZTqgEAsT6NxToCMuAzwUo71wb0nvpIh7JfKuB.jpg"
             },
             {
@@ -18229,13 +18203,13 @@
             {
               "id": "1264249928",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "623315785",
               "name": "46",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -18669,15 +18643,15 @@
             "name": "Size",
             "values": {
               "48165606": "42",
-              "178221022": "28.5 cm",
-              "487064275": "25.5 cm",
+              "178221022": "44.5",
+              "487064275": "40.5",
               "821154789": "41.5",
-              "951206109": "28.0 cm",
-              "1126425554": "24.5 cm",
+              "951206109": "44",
+              "1126425554": "39",
               "1555763687": "42.5",
               "1729410276": "40",
-              "1859461596": "27.5 cm",
-              "1900463313": "23.0 cm"
+              "1859461596": "43.5",
+              "1900463313": "37"
             }
           }
         }
@@ -20063,23 +20037,23 @@
           "651380042": {
             "name": "Size",
             "values": {
-              "102137391": "27.0 cm",
-              "143069484": "25.5 cm",
-              "317764641": "24.0 cm",
-              "459807028": "29.5 cm",
-              "627070758": "22.5 cm",
-              "769244201": "28.0 cm",
-              "877223726": "26.5 cm",
-              "1052439075": "25.0 cm",
-              "1093375264": "23.5 cm",
-              "1233386027": "29.0 cm",
-              "1268467749": "22.0 cm",
-              "1409064232": "27.5 cm",
-              "1517039661": "26.0 cm",
-              "1826476834": "24.5 cm",
-              "1966422069": "30.0 cm",
-              "2001565223": "23.0 cm",
-              "2141641514": "28.5 cm"
+              "102137391": "42.5",
+              "143069484": "40.5",
+              "317764641": "38",
+              "459807028": "46",
+              "627070758": "36",
+              "769244201": "44",
+              "877223726": "42",
+              "1052439075": "40",
+              "1093375264": "37.5",
+              "1233386027": "45",
+              "1268467749": "35.5",
+              "1409064232": "43.5",
+              "1517039661": "41.5",
+              "1826476834": "39",
+              "1966422069": "47",
+              "2001565223": "37",
+              "2141641514": "44.5"
             }
           },
           "2066286408": {
@@ -21375,23 +21349,23 @@
           "368185168": {
             "name": "Size",
             "values": {
-              "351263243": "24.5 cm",
-              "491204382": "29.0 cm",
-              "526351624": "23.5 cm",
-              "566759437": "22.0 cm",
-              "665895443": "27.5 cm",
-              "773874960": "26.0 cm",
-              "814815253": "25.0 cm",
-              "956919064": "30.0 cm",
-              "1132068893": "28.5 cm",
-              "1299340815": "23.0 cm",
-              "1441506066": "27.0 cm",
-              "1549485591": "25.5 cm",
-              "1764072457": "24.0 cm",
-              "1865174559": "29.5 cm",
-              "1906172188": "28.0 cm",
-              "1939160846": "22.5 cm",
-              "2014217233": "26.5 cm"
+              "351263243": "39",
+              "491204382": "45",
+              "526351624": "37.5",
+              "566759437": "35.5",
+              "665895443": "43.5",
+              "773874960": "41.5",
+              "814815253": "40",
+              "956919064": "47",
+              "1132068893": "44.5",
+              "1299340815": "37",
+              "1441506066": "42.5",
+              "1549485591": "40.5",
+              "1764072457": "38",
+              "1865174559": "46",
+              "1906172188": "44",
+              "1939160846": "36",
+              "2014217233": "42"
             }
           },
           "940957783": {
@@ -21754,21 +21728,21 @@
           "1850261846": {
             "name": "Size",
             "values": {
-              "69083197": "23.0 cm",
-              "209089792": "28.5 cm",
-              "384247813": "27.0 cm",
-              "424725306": "25.5 cm",
-              "599813695": "24.0 cm",
-              "674870018": "29.5 cm",
-              "849958407": "28.0 cm",
-              "1159334148": "26.5 cm",
-              "1334553657": "25.0 cm",
-              "1375424318": "23.5 cm",
-              "1583125505": "29.0 cm",
-              "1623996166": "27.5 cm",
-              "1799219771": "26.0 cm",
-              "2047267331": "30.0 cm",
-              "2108591416": "24.5 cm"
+              "69083197": "37",
+              "209089792": "44.5",
+              "384247813": "42.5",
+              "424725306": "40.5",
+              "599813695": "38",
+              "674870018": "46",
+              "849958407": "44",
+              "1159334148": "42",
+              "1334553657": "40",
+              "1375424318": "37.5",
+              "1583125505": "45",
+              "1623996166": "43.5",
+              "1799219771": "41.5",
+              "2047267331": "47",
+              "2108591416": "39"
             }
           },
           "1891132491": {
@@ -21853,8 +21827,8 @@
       },
       "sizes": [
         "36",
-        "36.5",
-        "38",
+        "37.5",
+        "38.5",
         "39",
         "40",
         "40.5",
@@ -21897,13 +21871,13 @@
             },
             {
               "id": "655835641",
-              "name": "36.5",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "1895588090",
-              "name": "38",
+              "name": "38.5",
               "out": false,
               "img": null
             },
@@ -21993,12 +21967,12 @@
             "name": "المقاس",
             "values": {
               "480751300": "40",
-              "655835641": "36.5",
+              "655835641": "37.5",
               "946465990": "41",
               "1121619963": "39",
               "1430921976": "36",
               "1854721477": "40.5",
-              "1895588090": "38"
+              "1895588090": "38.5"
             }
           },
           "187631772": {
@@ -22082,7 +22056,7 @@
         "color": "اللون"
       },
       "sizes": [
-        "38",
+        "38.5",
         "40",
         "41",
         "42.5",
@@ -22135,7 +22109,7 @@
           "values": [
             {
               "id": "1646527646",
-              "name": "38",
+              "name": "38.5",
               "out": false,
               "img": null
             },
@@ -22251,7 +22225,7 @@
               "1006707615": "40",
               "1364971236": "46",
               "1540055449": "42.5",
-              "1646527646": "38"
+              "1646527646": "38.5"
             }
           }
         }
@@ -22504,7 +22478,7 @@
         "color": "اللون"
       },
       "sizes": [
-        "38",
+        "38.5",
         "39",
         "40",
         "40.5",
@@ -22562,7 +22536,7 @@
           "values": [
             {
               "id": "595528224",
-              "name": "38",
+              "name": "38.5",
               "out": false,
               "img": null
             },
@@ -22692,7 +22666,7 @@
               "204280105": "44.5",
               "379499566": "42.5",
               "420370211": "40.5",
-              "595528224": "38",
+              "595528224": "38.5",
               "735534891": "47.5",
               "843117096": "44",
               "1152488749": "42",
@@ -23316,15 +23290,15 @@
           "369882678": {
             "name": "Size",
             "values": {
-              "318786444": "27.5 cm",
-              "628223617": "26.0 cm",
-              "803373446": "24.5 cm",
-              "1053526414": "28.5 cm",
-              "1094397059": "27.0 cm",
-              "1268043648": "25.5 cm",
-              "1827498637": "28.0 cm",
-              "2002652546": "26.5 cm",
-              "2043650183": "25.0 cm"
+              "318786444": "43",
+              "628223617": "41",
+              "803373446": "39",
+              "1053526414": "44.5",
+              "1094397059": "42.5",
+              "1268043648": "40.5",
+              "1827498637": "44",
+              "2002652546": "42",
+              "2043650183": "40"
             }
           },
           "1143920437": {
@@ -23647,16 +23621,16 @@
           "934084256": {
             "name": "Size",
             "values": {
-              "12449191": "25.5 cm",
-              "187607204": "24.0 cm",
-              "636981420": "28.0 cm",
-              "744960929": "26.5 cm",
-              "919656102": "25.0 cm",
-              "960596571": "23.0 cm",
-              "1210675619": "27.5 cm",
-              "1385829536": "26.0 cm",
-              "1695266725": "24.5 cm",
-              "2118931106": "27.0 cm"
+              "12449191": "40.5",
+              "187607204": "38.5",
+              "636981420": "44",
+              "744960929": "42",
+              "919656102": "40",
+              "960596571": "36",
+              "1210675619": "43",
+              "1385829536": "41",
+              "1695266725": "39",
+              "2118931106": "42.5"
             }
           },
           "1042125221": {
@@ -24150,7 +24124,7 @@
             {
               "id": "168518380",
               "name": "38.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -24354,18 +24328,18 @@
           "2062520579": {
             "name": "Size",
             "values": {
-              "60542959": "25.5 cm",
-              "168518380": "24.0 cm",
-              "309114871": "30.0 cm",
-              "618425076": "28.0 cm",
-              "793578985": "26.5 cm",
-              "834576622": "25.0 cm",
-              "1082632438": "29.0 cm",
-              "1257720811": "27.5 cm",
-              "1566633704": "26.0 cm",
-              "1741783533": "24.5 cm",
-              "1991936501": "28.5 cm",
-              "2032807146": "27.0 cm"
+              "60542959": "40.5",
+              "168518380": "38.5",
+              "309114871": "46",
+              "618425076": "44",
+              "793578985": "42",
+              "834576622": "40",
+              "1082632438": "45",
+              "1257720811": "43",
+              "1566633704": "41",
+              "1741783533": "39",
+              "1991936501": "44.5",
+              "2032807146": "42.5"
             }
           }
         }
@@ -24685,18 +24659,18 @@
           "758340515": {
             "name": "Size",
             "values": {
-              "111519669": "25.0 cm",
-              "152394410": "23.5 cm",
-              "469648050": "27.5 cm",
-              "577758647": "26.0 cm",
-              "886610100": "24.5 cm",
-              "1061698473": "23.0 cm",
-              "1201766588": "28.5 cm",
-              "1309746097": "27.0 cm",
-              "1350747830": "25.5 cm",
-              "1525840299": "24.0 cm",
-              "1977311667": "28.0 cm",
-              "2083783856": "26.5 cm"
+              "111519669": "40",
+              "152394410": "37.5",
+              "469648050": "43",
+              "577758647": "41",
+              "886610100": "39",
+              "1061698473": "36",
+              "1201766588": "44.5",
+              "1309746097": "42.5",
+              "1350747830": "40.5",
+              "1525840299": "38.5",
+              "1977311667": "44",
+              "2083783856": "42"
             }
           },
           "1398160546": {
@@ -25254,8 +25228,8 @@
       },
       "sizes": [
         "36",
-        "36.5",
-        "38",
+        "37.5",
+        "38.5",
         "39",
         "40",
         "40.5",
@@ -25297,13 +25271,13 @@
             },
             {
               "id": "1333286253",
-              "name": "36.5",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "423982190",
-              "name": "38",
+              "name": "38.5",
               "out": false,
               "img": null
             },
@@ -25427,11 +25401,11 @@
               "99916663": "44.5",
               "207896180": "42.5",
               "383111529": "40.5",
-              "423982190": "38",
+              "423982190": "38.5",
               "674135158": "44",
               "849289067": "42",
               "1158197864": "40",
-              "1333286253": "36.5",
+              "1333286253": "37.5",
               "1473362544": "45",
               "1581342069": "43",
               "1622339690": "41",
@@ -26524,7 +26498,7 @@
             {
               "id": "1889370835",
               "name": "47.5",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -26953,19 +26927,19 @@
           "1223072173": {
             "name": "Size",
             "values": {
-              "78408123": "26.0 cm",
-              "253562040": "24.5 cm",
-              "434566272": "28.5 cm",
-              "542611333": "27.0 cm",
-              "717703866": "25.5 cm",
-              "1026616767": "24.0 cm",
-              "1168650882": "30.0 cm",
-              "1276761479": "28.0 cm",
-              "1451919492": "26.5 cm",
-              "1492790201": "25.0 cm",
-              "1668009662": "23.0 cm",
-              "1807946625": "29.5 cm",
-              "1916581510": "27.5 cm"
+              "78408123": "41",
+              "253562040": "39",
+              "434566272": "44.5",
+              "542611333": "42.5",
+              "717703866": "40.5",
+              "1026616767": "38.5",
+              "1168650882": "46",
+              "1276761479": "44",
+              "1451919492": "42",
+              "1492790201": "40",
+              "1668009662": "36",
+              "1807946625": "45.5",
+              "1916581510": "43"
             }
           },
           "2132310700": {
@@ -27633,19 +27607,19 @@
           "1567591260": {
             "name": "Size",
             "values": {
-              "107912042": "28.5 cm",
-              "148782703": "27.0 cm",
-              "323998060": "25.5 cm",
-              "633304161": "24.0 cm",
-              "880835689": "28.0 cm",
-              "1055989614": "26.5 cm",
-              "1096987235": "25.0 cm",
-              "1272075616": "23.5 cm",
-              "1347140203": "29.0 cm",
-              "1522228584": "27.5 cm",
-              "1830088813": "26.0 cm",
-              "2005242722": "24.5 cm",
-              "2046113383": "23.0 cm"
+              "107912042": "44.5",
+              "148782703": "42.5",
+              "323998060": "40.5",
+              "633304161": "38.5",
+              "880835689": "44",
+              "1055989614": "42",
+              "1096987235": "40",
+              "1272075616": "37.5",
+              "1347140203": "45",
+              "1522228584": "43",
+              "1830088813": "41",
+              "2005242722": "39",
+              "2046113383": "36"
             }
           }
         }
@@ -27959,15 +27933,15 @@
           "1499951666": {
             "name": "Size",
             "values": {
-              "384872416": "28.0 cm",
-              "425738981": "26.5 cm",
-              "600958362": "25.0 cm",
-              "1160478951": "27.5 cm",
-              "1335567332": "26.0 cm",
-              "1374996121": "24.5 cm",
-              "1625149153": "28.5 cm",
-              "1800233446": "27.0 cm",
-              "2109605019": "25.5 cm"
+              "384872416": "44",
+              "425738981": "42",
+              "600958362": "40",
+              "1160478951": "43",
+              "1335567332": "41",
+              "1374996121": "39",
+              "1625149153": "44.5",
+              "1800233446": "42.5",
+              "2109605019": "40.5"
             }
           }
         }
@@ -29470,17 +29444,17 @@
           "308958299": {
             "name": "Size",
             "values": {
-              "214864451": "24.0 cm",
-              "530029131": "28.0 cm",
-              "638008648": "26.5 cm",
-              "678481997": "25.0 cm",
-              "995743829": "29.0 cm",
-              "1305049930": "27.5 cm",
-              "1413094991": "26.0 cm",
-              "1588310348": "24.5 cm",
-              "1769781588": "28.5 cm",
-              "1944869961": "27.0 cm",
-              "2052980558": "25.5 cm"
+              "214864451": "38.5",
+              "530029131": "44",
+              "638008648": "42",
+              "678481997": "40",
+              "995743829": "45",
+              "1305049930": "43",
+              "1413094991": "41",
+              "1588310348": "39",
+              "1769781588": "44.5",
+              "1944869961": "42.5",
+              "2052980558": "40.5"
             }
           },
           "1990202969": {
@@ -29791,15 +29765,15 @@
           "273810857": {
             "name": "Size",
             "values": {
-              "360514449": "29.0 cm",
-              "535733910": "27.5 cm",
-              "643717515": "26.0 cm",
-              "999351440": "28.5 cm",
-              "1107396501": "27.0 cm",
-              "1416706698": "25.5 cm",
-              "1774962071": "28.0 cm",
-              "1882945684": "26.5 cm",
-              "2056526729": "25.0 cm"
+              "360514449": "45",
+              "535733910": "43",
+              "643717515": "41",
+              "999351440": "44.5",
+              "1107396501": "42.5",
+              "1416706698": "40.5",
+              "1774962071": "44",
+              "1882945684": "42",
+              "2056526729": "40"
             }
           },
           "1182131880": {
@@ -30227,7 +30201,7 @@
             {
               "id": "1662820979",
               "name": "40.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -30375,17 +30349,17 @@
           "1258219615": {
             "name": "Size",
             "values": {
-              "72699256": "28.0 cm",
-              "247914621": "26.5 cm",
-              "288850802": "25.0 cm",
-              "538479482": "29.0 cm",
-              "713567871": "27.5 cm",
-              "1023000956": "26.0 cm",
-              "1198089329": "24.5 cm",
-              "1446145145": "28.5 cm",
-              "1487081342": "27.0 cm",
-              "1662820979": "25.5 cm",
-              "1972127088": "24.0 cm"
+              "72699256": "44",
+              "247914621": "42",
+              "288850802": "40",
+              "538479482": "45",
+              "713567871": "43",
+              "1023000956": "41",
+              "1198089329": "39",
+              "1446145145": "44.5",
+              "1487081342": "42.5",
+              "1662820979": "40.5",
+              "1972127088": "38.5"
             }
           },
           "2031208798": {
@@ -30460,7 +30434,7 @@
         "color": "اللون"
       },
       "sizes": [
-        "38",
+        "38.5",
         "39",
         "40",
         "40.5",
@@ -30497,7 +30471,7 @@
           "values": [
             {
               "id": "82394922",
-              "name": "38",
+              "name": "38.5",
               "out": false,
               "img": null
             },
@@ -30623,7 +30597,7 @@
           "51298516": {
             "name": "المقاس",
             "values": {
-              "82394922": "38",
+              "82394922": "38.5",
               "222463037": "45.5",
               "397551410": "44",
               "505666103": "42",
@@ -31094,7 +31068,7 @@
             {
               "id": "1080120098",
               "name": "47.5",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -32165,8 +32139,8 @@
       },
       "sizes": [
         "36",
-        "36.5",
-        "38",
+        "37.5",
+        "38.5",
         "39",
         "40",
         "40.5",
@@ -32219,13 +32193,13 @@
             },
             {
               "id": "439576275",
-              "name": "36.5",
+              "name": "37.5",
               "out": false,
               "img": null
             },
             {
               "id": "1947829724",
-              "name": "38",
+              "name": "38.5",
               "out": false,
               "img": null
             },
@@ -32374,7 +32348,7 @@
               "156377305": "42",
               "331596766": "40",
               "406530081": "47",
-              "439576275": "36.5",
+              "439576275": "37.5",
               "580176678": "45",
               "889482971": "43",
               "1064632792": "41",
@@ -32385,7 +32359,7 @@
               "1530875866": "42.5",
               "1778399010": "47.5",
               "1839784671": "40.5",
-              "1947829724": "38",
+              "1947829724": "38.5",
               "2087840295": "45.5"
             }
           },
@@ -32463,7 +32437,7 @@
         "color": "اللون"
       },
       "sizes": [
-        "38",
+        "38.5",
         "39",
         "40",
         "40.5",
@@ -32501,7 +32475,7 @@
           "values": [
             {
               "id": "1004390919",
-              "name": "38",
+              "name": "38.5",
               "out": false,
               "img": null
             },
@@ -32640,7 +32614,7 @@
               "612618504": "44.5",
               "787706893": "42.5",
               "829167362": "40.5",
-              "1004390919": "38",
+              "1004390919": "38.5",
               "1077223178": "45.5",
               "1252438543": "44",
               "1561744652": "42",
@@ -32834,7 +32808,7 @@
         "color": "اللون"
       },
       "sizes": [
-        "35.5",
+        "35",
         "36",
         "36.5",
         "37",
@@ -32890,7 +32864,7 @@
           "values": [
             {
               "id": "1619388139",
-              "name": "35.5",
+              "name": "35",
               "out": false,
               "img": null
             },
@@ -33110,16 +33084,16 @@
           "703699188": {
             "name": "Size",
             "values": {
-              "98533872": "39 (24.5 cm)",
-              "206513397": "37 (23.0 cm)",
-              "562155506": "40.5 (25.5 cm)",
-              "737239799": "38 (24.0 cm)",
-              "845284852": "36 (22.5 cm)",
-              "1296764412": "42 (26.5 cm)",
-              "1470406897": "40 (25.0 cm)",
-              "1578386422": "37.5 (23.5 cm)",
-              "1619388139": "35.5 (22.0 cm)",
-              "1936649971": "41.5 (26.0 cm)"
+              "98533872": "38",
+              "206513397": "36.5",
+              "562155506": "40",
+              "737239799": "37.5",
+              "845284852": "36",
+              "1296764412": "41",
+              "1470406897": "39",
+              "1578386422": "37",
+              "1619388139": "35",
+              "1936649971": "40.5"
             }
           }
         }
@@ -33422,13 +33396,13 @@
           "409250091": {
             "name": "Size",
             "values": {
-              "488217022": "27.5 cm",
-              "663305395": "26.0 cm",
-              "1127447229": "27.0 cm",
-              "1437343154": "25.5 cm",
-              "1860614335": "28.0 cm",
-              "1901484988": "26.5 cm",
-              "2076704433": "25.0 cm"
+              "488217022": "43",
+              "663305395": "41.5",
+              "1127447229": "42.5",
+              "1437343154": "40.5",
+              "1860614335": "44",
+              "1901484988": "42",
+              "2076704433": "40"
             }
           },
           "1319078442": {
@@ -33891,18 +33865,18 @@
           "1863650941": {
             "name": "Size",
             "values": {
-              "92496515": "40.5 (25.5 cm)",
-              "268174720": "39 (24.5 cm)",
-              "341076619": "43.5 (27.5 cm)",
-              "557228173": "41.5 (26.0 cm)",
-              "699331984": "45 (29.0 cm)",
-              "732316546": "40 (25.0 cm)",
-              "807381141": "44 (28.0 cm)",
-              "1291382415": "42 (26.5 cm)",
-              "1606538903": "44.5 (28.5 cm)",
-              "1615513478": "38 (24.0 cm)",
-              "1755458697": "42.5 (27.0 cm)",
-              "2072712337": "47 (30.0 cm)"
+              "92496515": "40.5",
+              "268174720": "39.5",
+              "341076619": "43",
+              "557228173": "41.5",
+              "699331984": "45",
+              "732316546": "40",
+              "807381141": "44",
+              "1291382415": "42",
+              "1606538903": "44.5",
+              "1615513478": "38.5",
+              "1755458697": "42.5",
+              "2072712337": "46.5"
             }
           }
         }
@@ -44286,12 +44260,12 @@
           "1746521653": {
             "name": "Size",
             "values": {
-              "343618971": "45",
+              "343618971": "44.5",
               "517269656": "42.5",
               "983439002": "44",
               "1292880287": "42",
               "1499121163": "40.5",
-              "1715492068": "46",
+              "1715492068": "45",
               "1756493721": "43.5",
               "1931651742": "41.5"
             }
