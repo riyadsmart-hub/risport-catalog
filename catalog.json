@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-18T15:07:45.643Z",
+  "generatedAt": "2026-09-24T04:58:39.157Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -25879,100 +25879,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/3a51982e-2e30-493a-a137-20a52d78495d-1000x1000-rVeEKFXtvoxKDdRIjmV0QMQAxDgOabhbqbRPmKh3.png",
-        "https://cdn.salla.sa/jZjwre/e86f875f-6043-4c91-a063-6f5ceb775597-1000x1000-1a1xRviJV7dEGWJIUt1G61ut6qz0kBK36B6Ym4tk.png",
-        "https://cdn.salla.sa/jZjwre/29f7f631-c118-4b97-b19c-ad73fbb3cc9d-1000x1000-BGZ4NvU7gxVVFtS5ZZd2W9wdqN9ZwtUEV2Qwh6q9.jpg",
-        "https://cdn.salla.sa/jZjwre/f69a59ea-1994-4da6-a2f5-d36730612d6f-1000x1000-74exHa3QDMED97SbjWI882WseXWbleTLdZNrj2y5.jpg",
-        "https://cdn.salla.sa/jZjwre/18c6d589-f607-4106-ab85-316822df31f5-1000x1000-vJPSq4945SLNtopWWCwHVd290LfCVUdmCSzOHvJC.jpg",
-        "https://cdn.salla.sa/jZjwre/32bbfce5-9f1a-492f-9ca7-144c1edca6de-1000x1000-WokrVbWgYrUSQLYlr3MsClGc5XRHwBi4vlAsInaP.jpg"
+        "https://cdn.salla.sa/jZjwre/67d36752-f52f-4792-b8fd-07c50e359677-500x500-rVeEKFXtvoxKDdRIjmV0QMQAxDgOabhbqbRPmKh3.png"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "40",
-        "40.5",
-        "41",
-        "42",
-        "42.5",
-        "43",
-        "44"
-      ],
-      "colors": [
-        "متعدّد الألوان (100)",
-        "متعدّد الألوان (001)"
-      ],
-      "options": [
-        {
-          "id": "1975894507",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "566155633",
-              "name": "متعدّد الألوان (100)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/67d36752-f52f-4792-b8fd-07c50e359677-500x500-rVeEKFXtvoxKDdRIjmV0QMQAxDgOabhbqbRPmKh3.png"
-            },
-            {
-              "id": "1939601522",
-              "name": "متعدّد الألوان (001)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/1d97d69d-ac09-43f6-9df2-69209d249a6c-500x500-1a1xRviJV7dEGWJIUt1G61ut6qz0kBK36B6Ym4tk.png"
-            }
-          ]
-        },
-        {
-          "id": "1201856756",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1298138995",
-              "name": "40",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "525149820",
-              "name": "40.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1764377981",
-              "name": "41",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "989291646",
-              "name": "42",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "350061439",
-              "name": "42.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1723507320",
-              "name": "43",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "814203257",
-              "name": "44",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
