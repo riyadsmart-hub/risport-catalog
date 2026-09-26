@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-26T17:18:05.905Z",
+  "generatedAt": "2026-09-26T22:57:16.597Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -8253,13 +8253,13 @@
       ],
       "images": [
         "https://cdn.salla.sa/jZjwre/d77ad6b1-51cc-4ee7-b4e3-032e083ab32b-1000x619.62692619627-gwCHaN6kCLut7UN9mwXWhO19JD79hT5nuwFoMhJT.jpg",
-        "https://cdn.salla.sa/jZjwre/e34f3d87-5f75-47f7-bc93-3083e2029b1c-1000x516.23376623377-kiJ3nYfQGHr6PRyZdRIWkfFyv3x4pmvl7JUIXuBE.jpg",
+        "https://cdn.salla.sa/jZjwre/4489dc17-c3de-4602-9ad8-9eecff159d6e-1000x520.68126520681-oA5ZrppTKdzlQjEQRKgRXE2eIbDvxN6KoNBBy14F.jpg",
         "https://cdn.salla.sa/jZjwre/7b8c7678-118d-43f8-8a21-aaa2b9439ec9-1000x510.53484602917-HB8EaXVJwMZXa9oVd4ksqlSDdmFBbx7kCjCCD7tb.jpg",
         "https://cdn.salla.sa/jZjwre/627a1e1f-58e6-4f57-a32c-75608ac09da3-1000x521.06969205835-3hNI074KF1tMm1uUcNdMtVvDWQ4o6H7y1b3Z5YMQ.jpg",
         "https://cdn.salla.sa/jZjwre/385aac51-d8ff-4b8e-9f40-a09e4cd904fc-1000x497.56493506494-CXofUPWW7cQQxDvZoCVBaKT4ZHz2QbXAiDqapy53.jpg",
         "https://cdn.salla.sa/jZjwre/75078987-c897-4b1a-8943-70767e20ead7-1000x520.64777327935-elkrTM0GmogtvFc2AXVmW2zT1glzknrSRuegXQ2P.jpg",
         "https://cdn.salla.sa/jZjwre/ad12b45e-8b96-4c8f-a30b-69fc66d7c78d-1000x522.15954875101-YQeSestywexgkF4NJ0Kotg1s4cJBxBwOOzBvV80W.jpg",
-        "https://cdn.salla.sa/jZjwre/4489dc17-c3de-4602-9ad8-9eecff159d6e-1000x520.68126520681-oA5ZrppTKdzlQjEQRKgRXE2eIbDvxN6KoNBBy14F.jpg",
+        "https://cdn.salla.sa/jZjwre/e34f3d87-5f75-47f7-bc93-3083e2029b1c-1000x516.23376623377-kiJ3nYfQGHr6PRyZdRIWkfFyv3x4pmvl7JUIXuBE.jpg",
         "https://cdn.salla.sa/jZjwre/102c9d71-7413-45a4-a9bd-b7b3a6c32ebb-1000x521.1038961039-KBIdlt07a2Ez8b141DfPTnsZahNe4fefj7cUn5pI.jpg",
         "https://cdn.salla.sa/jZjwre/5ea803de-d3d5-4ca3-9101-61de3c20bade-1000x533.27922077922-lV0PGEzDKjYGNRDN5ZRSdbMG6WPlIHuCkFqLtTb0.jpg",
         "https://cdn.salla.sa/jZjwre/13d9f33f-73b7-483a-ae1e-fe41506cef55-1000x524.31118314425-b64TniGHGEFvtv6GJNhMpJWAeHhG2oCqhmgm8pQn.jpg",
@@ -8287,7 +8287,12 @@
         "https://cdn.salla.sa/jZjwre/705e8ba3-d1aa-4c5c-ae6f-eef6e988b666-1000x559.375-adHBDvDHKUnXI1VURK4xWP8sMItHLNIdfWIENCY6.jpg",
         "https://cdn.salla.sa/jZjwre/9caa17cf-9a70-4659-9057-30d8fe7f40cd-1000x610.625-4jc2kPRY5OKDsEJINUYKszxMw4J2xbeG5tUug0XE.jpg",
         "https://cdn.salla.sa/jZjwre/2eba0419-8423-42fd-801f-9281937edc88-1000x937.5-cOAczRgExXKj6csB6QVIrloFAnoHydR48QjVImC1.jpg",
-        "https://cdn.salla.sa/jZjwre/d4f8ac83-d472-44fa-ba55-fe967ac7d9bf-1000x937.5-PDFUt0qlQYhKelYi67l1gZWcQiJ9hxh0MXmgg4RE.jpg"
+        "https://cdn.salla.sa/jZjwre/d4f8ac83-d472-44fa-ba55-fe967ac7d9bf-1000x937.5-PDFUt0qlQYhKelYi67l1gZWcQiJ9hxh0MXmgg4RE.jpg",
+        "https://cdn.salla.sa/jZjwre/fd437ab8-a1f2-4b4d-8488-26a7c8386229-1000x551.25-IsEaxCbwG4CgLo1jBsrEnyZHBoWr3d01RpsW1gmj.jpg",
+        "https://cdn.salla.sa/jZjwre/2807e7c7-3111-4de2-9def-80bbf0ad70ea-1000x547.5-kRhkBF66NLQO7TrPOCYfkaSJLlggluR3zLdnx8cl.jpg",
+        "https://cdn.salla.sa/jZjwre/d7446efa-ffa9-4f43-b282-acd4a14feda1-1000x589.375-6jHNmQYxxj7tUh1b9Gcq1u3YeIhtafNukZBbpL17.jpg",
+        "https://cdn.salla.sa/jZjwre/f02e633b-2dcb-4f8b-960f-220b89089775-1000x937.5-NLxIe38ASoB5JDUaGfbE9OrIpjvvOa5ENUe5U8Q8.jpg",
+        "https://cdn.salla.sa/jZjwre/82589218-577b-48d5-b437-4be88868d985-1000x937.5-eGBqbh0HIAmoJBTjFRzrFuVVRcIEkwzPFkxdfSti.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -8314,7 +8319,8 @@
         "أبيض × برتقالي ستاديوم (102)",
         "أزرق هوائي × كحلي (404)",
         "أصفر مضيء × أزرق ضبابي (750)",
-        "خاكي عتيق × أخضر خاكي (200)"
+        "خاكي عتيق × أخضر خاكي (200)",
+        "أخضر زاهٍ × أسود (300)"
       ],
       "options": [
         {
@@ -8369,6 +8375,12 @@
               "name": "خاكي عتيق × أخضر خاكي (200)",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/19013e73-5c93-4283-9113-f541091e8a7f-500x280.9375-3hh722rlqn83LS2BKIhKUrJs3s72hIsMhUKOcMUp.jpg"
+            },
+            {
+              "id": "527520622",
+              "name": "أخضر زاهٍ × أسود (300)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/dcc4b02f-904e-4db1-a1dd-66f66efae65f-500x275.625-IsEaxCbwG4CgLo1jBsrEnyZHBoWr3d01RpsW1gmj.jpg"
             }
           ]
         },
@@ -8632,6 +8644,7 @@
             "name": "Color",
             "values": {
               "117876655": "White × White",
+              "527520622": "Green / Black",
               "583591337": "Moss Green × Bright Green",
               "620415761": "Vintage Khaki / Khaki Green",
               "795504150": "White / Stadium Orange",
