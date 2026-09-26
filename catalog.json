@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-26T07:49:36.743Z",
+  "generatedAt": "2026-09-26T13:12:56.155Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -27715,7 +27715,7 @@
             {
               "id": "880835689",
               "name": "44",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -36139,13 +36139,13 @@
             {
               "id": "336904379",
               "name": "إيشيكاوا يوكي ١٤",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/f9184186-92eb-47a4-a108-6c1a13793e6e-500x375-VxChNimsADrTVBWmQqDgftojgSvBNXXhRepFhOTg.png"
             },
             {
               "id": "1643245444",
               "name": "نيشيدا يوجي ١",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/a7284a2a-536a-4706-9e77-0cc8094d3f29-500x375-DEDzrHDvBXnHx4LP5FzORQLhpF7JFxsmi0eHSllg.png"
             },
             {
@@ -36157,13 +36157,13 @@
             {
               "id": "230370694",
               "name": "ميّاورا كينتارو ٤",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/1249ede8-a2f2-4f27-b8cd-41c8c92c76b2-500x375-u9VUGvaAYBUc0ZZjlZLXZwalaEqM3JY0sOgRLWM1.png"
             },
             {
               "id": "1602243719",
               "name": "كاي تاتسونوري ١٥",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/6b6ed513-7df5-4c93-baf7-af3d4fe0ec53-500x375-Cp9kMa1oa2tg8h1nTc894x6Wh2rJljDVsnaBzrYW.png"
             }
           ]
