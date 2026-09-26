@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-25T22:28:14.781Z",
+  "generatedAt": "2026-09-26T07:49:36.743Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -744,7 +744,7 @@
             {
               "id": "897362596",
               "name": "الأقحوان",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/a080c607-2df5-4eb4-9eb9-22eb6b3194d6-500x375-cFUlW429WJ6GWVEfJPDhQNq21Bpg8e4AorznOInl.jpg"
             },
             {
@@ -1467,7 +1467,7 @@
             {
               "id": "624480865",
               "name": "26.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -3300,7 +3300,7 @@
             {
               "id": "1402103543",
               "name": "24.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -5007,6 +5007,304 @@
       }
     },
     {
+      "id": "40018897",
+      "sallaId": "40018897",
+      "sku": "RSP-adidas-HP9971",
+      "name": "حذاء أديداس بريديتور إيليت FT AG لكرة القدم",
+      "brand": "أديداس",
+      "category": "shoes",
+      "sport": "كرة القدم",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
+      ],
+      "price": 720,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "أديداس · بريديتور إيليت FT AG",
+      "description": "بريديتور إيليت FT AG بريديتور خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و إيليت الفئة العليا — أخفّ الخامات وأقربها إلى القدم. التقنيات عناصر مطاطية على منطقة التسديد — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة. نعل AG — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية. لمن هذا الحذاء؟ لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل HP9971 · بضاعة أصلية من اليابان.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "بريديتور إيليت FT AG"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "بريديتور"
+            },
+            " خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و",
+            {
+              "b": "إيليت"
+            },
+            " الفئة العليا — أخفّ الخامات وأقربها إلى القدم."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "عناصر مطاطية على منطقة التسديد"
+            },
+            " — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل AG"
+            },
+            " — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "المقاسات"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "HP9971"
+            },
+            " · بضاعة أصلية من اليابان."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/171e8b15-5162-4527-9f96-85930ca71815-1000x750-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg",
+        "https://cdn.salla.sa/jZjwre/35e6feb3-2220-4a54-abc7-a94911a12abe-1000x750-8LxrX1A51UCnYVEanpdO4YfnQjYPAyzGOhn7ifXi.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "25.5 سم",
+        "26.0 سم",
+        "26.5 سم",
+        "27.0 سم",
+        "27.5 سم",
+        "28.0 سم"
+      ],
+      "colors": [
+        "وردي سولار توربو × رمادي فحمي",
+        "سماوي × أزرق"
+      ],
+      "options": [
+        {
+          "id": "1228876137",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "217685449",
+              "name": "وردي سولار توربو × رمادي فحمي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
+            },
+            {
+              "id": "1590082762",
+              "name": "سماوي × أزرق",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c738377f-1914-4764-b1c7-e5ea809aab0d-500x375-8LxrX1A51UCnYVEanpdO4YfnQjYPAyzGOhn7ifXi.jpg"
+            }
+          ]
+        },
+        {
+          "id": "453265514",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "681827275",
+              "name": "25.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2055797460",
+              "name": "26.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1414863317",
+              "name": "26.5 سم",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "640825558",
+              "name": "27.0 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1881098199",
+              "name": "27.5 سم",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1306814160",
+              "name": "28.0 سم",
+              "out": true,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": null,
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p40018897",
+      "en": {
+        "name": "adidas Predator Elite FT AG Football Boots",
+        "brand": "adidas",
+        "sport": "Football",
+        "tagline": null,
+        "subtitle": "أديداس · بريديتور إيليت FT AG",
+        "description": "Predator Elite FT AG Predator is adidas' control and striking line — a playmaker's boot, not a winger's. Elite is the top tier — the lightest materials, closest to the foot. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. AG outsole — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code HP9971 · authentic stock from Japan.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Predator Elite FT AG"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              {
+                "b": "Predator"
+              },
+              " is adidas' control and striking line — a playmaker's boot, not a winger's. ",
+              {
+                "b": "Elite"
+              },
+              " is the top tier — the lightest materials, closest to the foot."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Rubber elements on the strike zone"
+              },
+              " — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "AG outsole"
+              },
+              " — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Sizing"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Model code ",
+              {
+                "b": "HP9971"
+              },
+              " · authentic stock from Japan."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
+        ],
+        "options": {
+          "453265514": {
+            "name": "Size",
+            "values": {
+              "640825558": "27.0 cm",
+              "681827275": "25.5 cm",
+              "1306814160": "28.0 cm",
+              "1414863317": "26.5 cm",
+              "1881098199": "27.5 cm",
+              "2055797460": "26.0 cm"
+            }
+          },
+          "1228876137": {
+            "name": "Colour",
+            "values": {
+              "217685449": "Solar Turbo / Charcoal / Core Black",
+              "1590082762": "Crew Sky / Ray Blue"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "1259681980",
       "sallaId": "1259681980",
       "sku": "RSP-ASICS-1113A045",
@@ -5527,7 +5825,7 @@
             {
               "id": "1817676054",
               "name": "38",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -6014,7 +6312,7 @@
             {
               "id": "723312706",
               "name": "50.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -6347,13 +6645,13 @@
             {
               "id": "890519164",
               "name": "39",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "116481405",
               "name": "39.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -6805,17 +7103,37 @@
       ],
       "images": [
         "https://cdn.salla.sa/jZjwre/3c8294ce-dc6e-45ee-b242-b57c84dd51a6-1000x626.62337662338-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg",
-        "https://cdn.salla.sa/jZjwre/b9c17160-5d0f-4c21-b378-07728debbc18-1000x611.33333333333-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg",
-        "https://cdn.salla.sa/jZjwre/1b9da767-1a59-4452-ac26-9f1ddc30af3a-1000x584.41558441558-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg",
-        "https://cdn.salla.sa/jZjwre/0d22d285-4a8e-461c-af2e-3af62645dca1-1000x532.84671532847-z0nHyvkXRk8utzUYlyuxv0og4ADv5tS6s8T8rHSr.jpg",
-        "https://cdn.salla.sa/jZjwre/baf7b1c1-90de-4a6d-87d3-4ebf60721a79-1000x545.01216545012-XaN1lavLs7MOEWErbXFyKJLcRcLcHr2ZuqgqA4q0.jpg",
-        "https://cdn.salla.sa/jZjwre/71a7e548-e433-462d-96d5-bc9b2272fccd-1000x538.52392538524-T9U6WWniwVUoGVgXTAyzQmmv3gTxb8EatoA9Y8PJ.jpg",
-        "https://cdn.salla.sa/jZjwre/1511cb8d-180d-422e-af80-704915610a04-1000x613.89337641357-joDsiyNkz5N1CB6NDjn38ZyLabV03SkXtElNvZLg.jpg",
-        "https://cdn.salla.sa/jZjwre/679d7e5c-0aef-4c2d-ad1f-a434510c8ea9-1000x517.85714285714-vSLLFZeMRYDhwtlQ1ByV6WC7iGxVzrsGtWK8ARfh.jpg",
         "https://cdn.salla.sa/jZjwre/5491e5bf-5ad1-4f34-a4ee-e7d1e1d0e1e9-1000x531.22465531225-NWeDmEIohhDkJEeDs7ETatR8ILBs3N6h9v4mzXgV.jpg",
-        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
+        "https://cdn.salla.sa/jZjwre/365ee585-0e1c-4045-b131-973f0f336013-1000x530.84415584416-Nu9zvW9sXamEwX8S5dRePt9n0B4jKzIdLGjrsohu.jpg",
         "https://cdn.salla.sa/jZjwre/4683c45b-0f16-4b27-a046-c59b24fac95b-1000x534.9025974026-P8uBb35f5hzmkkq0TvJilmsGv9y0PxCH12MTbD1k.jpg",
-        "https://cdn.salla.sa/jZjwre/365ee585-0e1c-4045-b131-973f0f336013-1000x530.84415584416-Nu9zvW9sXamEwX8S5dRePt9n0B4jKzIdLGjrsohu.jpg"
+        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
+        "https://cdn.salla.sa/jZjwre/679d7e5c-0aef-4c2d-ad1f-a434510c8ea9-1000x517.85714285714-vSLLFZeMRYDhwtlQ1ByV6WC7iGxVzrsGtWK8ARfh.jpg",
+        "https://cdn.salla.sa/jZjwre/1511cb8d-180d-422e-af80-704915610a04-1000x613.89337641357-joDsiyNkz5N1CB6NDjn38ZyLabV03SkXtElNvZLg.jpg",
+        "https://cdn.salla.sa/jZjwre/71a7e548-e433-462d-96d5-bc9b2272fccd-1000x538.52392538524-T9U6WWniwVUoGVgXTAyzQmmv3gTxb8EatoA9Y8PJ.jpg",
+        "https://cdn.salla.sa/jZjwre/baf7b1c1-90de-4a6d-87d3-4ebf60721a79-1000x545.01216545012-XaN1lavLs7MOEWErbXFyKJLcRcLcHr2ZuqgqA4q0.jpg",
+        "https://cdn.salla.sa/jZjwre/0d22d285-4a8e-461c-af2e-3af62645dca1-1000x532.84671532847-z0nHyvkXRk8utzUYlyuxv0og4ADv5tS6s8T8rHSr.jpg",
+        "https://cdn.salla.sa/jZjwre/1b9da767-1a59-4452-ac26-9f1ddc30af3a-1000x584.41558441558-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg",
+        "https://cdn.salla.sa/jZjwre/b9c17160-5d0f-4c21-b378-07728debbc18-1000x611.33333333333-LENcbp6WXhm0UuTbXDqpkV9kdrUdz8tHmhHRCBX3.jpg",
+        "https://cdn.salla.sa/jZjwre/a9ad216a-7837-4846-8391-4b8776969261-1000x569.375-yoNuHzoCo3jL4iCTN2ORlHlgDdc1BeW0oUvVV1ow.jpg",
+        "https://cdn.salla.sa/jZjwre/cd85257a-03fe-47df-87f9-7b3fd76d8275-1000x568.125-x6uvWhXRAle0kKBdrxmdW7PhKEnYxQM6UJkO3eM7.jpg",
+        "https://cdn.salla.sa/jZjwre/bac9d441-ed9b-4119-9035-290bb3bf5ea9-1000x603.75-MJ4wozlJSDKD5xihQ2slTfHFYbtEvyqSFZEnU9P2.jpg",
+        "https://cdn.salla.sa/jZjwre/eea06494-86c6-4f65-88e1-093da3f67896-1000x937.5-1z3yrNeiVrLsNppvob0SQWgLDG0TEKoPvc54roVB.jpg",
+        "https://cdn.salla.sa/jZjwre/139616fa-d9e6-4ffd-b544-c7584fec1ed8-1000x937.5-2K8ttQZfB7oVo0VvXc6KN01RPIkGjCmvmBgYCPDz.jpg",
+        "https://cdn.salla.sa/jZjwre/4eaf9366-87ad-4888-b10d-3aec73901afa-1000x554.375-1AkwTSrrXGXGY0cGfglNZAfTfUjyCdoDBm2xcPTN.jpg",
+        "https://cdn.salla.sa/jZjwre/9104ffad-a15d-4b22-aea6-2f905284bf3d-1000x546.25-htu8DYjiPuqBUWY92STNOuIro1sHhb6Q6FHmeEt7.jpg",
+        "https://cdn.salla.sa/jZjwre/d9cbf6a5-a3e1-4c06-8dc2-fec8e022fcc3-1000x605-QeA6UHpArrHVZ9ijc76Esyd5bDvGoTuxn5VgUm5C.jpg",
+        "https://cdn.salla.sa/jZjwre/a120cf41-27b1-42b6-915f-827de2d5e6cc-1000x937.5-4crD93CuhTynoXfMv4GniB9vrNyb6CvZFzreuwFS.jpg",
+        "https://cdn.salla.sa/jZjwre/68c702bf-3e01-49b5-9521-ddd066926098-1000x937.5-V4ITmFnBtVvmyAQyQJD6xKDJqwwD87TgoTu3tKGR.jpg",
+        "https://cdn.salla.sa/jZjwre/a6d071bd-ebd9-48c3-b8c0-0a85e3c5eb44-1000x560-e9mH0m3F8K8oFBJB8ewiTqQW0pGi6qejaiJQ6fsd.jpg",
+        "https://cdn.salla.sa/jZjwre/1d8d0c3d-5e52-435c-8beb-206029e69230-1000x557.5-URhZGugXX1yEZMfkARpEQdjGEJcghFlqASWWpiea.jpg",
+        "https://cdn.salla.sa/jZjwre/892de8b2-a5d4-4bc6-a2db-3195d5c9b592-1000x608.75-mdHtJNkygCNQlT2XfRZUpKMElvek14vq2cC2mSWU.jpg",
+        "https://cdn.salla.sa/jZjwre/70409166-e13d-4934-803e-31fa302da16d-1000x937.5-CUHpA1k5NKfOFumX8fJPl1lRPbwoikzXiuLskLpZ.jpg",
+        "https://cdn.salla.sa/jZjwre/7b508087-d3a6-4a50-86ae-64127b15ca76-1000x937.5-LQCPITeEkG2pZ12vveHYC6zIM5AYH4vb3zRzbk2n.jpg",
+        "https://cdn.salla.sa/jZjwre/248c464a-7707-45fe-988b-a7f7f15f7b7e-1000x565-eoIebNpMqMD18yaWcGDY5yHX0SB1QMqklzTrdP9Q.jpg",
+        "https://cdn.salla.sa/jZjwre/1b26b395-b107-4057-b544-7bb1339056cf-1000x563.125-BMozNLXAEFkgInYK226a5HlpxM9PCTzmeZZnzxxj.jpg",
+        "https://cdn.salla.sa/jZjwre/886a517a-366d-4550-a2f8-000bfb8bae8d-1000x610-SV1S6DHqr5w6YLSxym4qM8HdiQzQgzRjhJhwYXop.jpg",
+        "https://cdn.salla.sa/jZjwre/c02dd768-4231-4758-9f2d-b6fc52edbcd3-1000x937.5-qrEOcxiSmpCJkhAkNUTSKM6g3JH9oX79V7EM8179.jpg",
+        "https://cdn.salla.sa/jZjwre/f9da9325-22d1-4e40-8bb7-e617f8c79c06-1000x937.5-ijsnzw7FCyJjYFB9ccArNBx22sOQpCLaabAO1kW2.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -6835,7 +7153,11 @@
       "colors": [
         "أسود × رمادي جرافيت",
         "أسود × وردي لؤلؤي",
-        "أبيض × أبيض"
+        "أبيض × أبيض",
+        "أبيض × مرجاني شمسي (102)",
+        "أسود × بنفسجي تارو (004)",
+        "شوفاني ناعم × كريمي (251)",
+        "رمادي (021)"
       ],
       "options": [
         {
@@ -6860,6 +7182,30 @@
               "name": "أبيض × أبيض",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/8f6426df-13cf-40e6-bd8b-15d5e582a0b6-500x292.20779220779-PePa5WWyNYrWCR6vkxVaUERVL1U54kSOkCnmuuRH.jpg"
+            },
+            {
+              "id": "1197855396",
+              "name": "أبيض × مرجاني شمسي (102)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/01f3c720-24fa-4556-a0a7-c984e1c9237f-500x284.6875-yoNuHzoCo3jL4iCTN2ORlHlgDdc1BeW0oUvVV1ow.jpg"
+            },
+            {
+              "id": "289599909",
+              "name": "أسود × بنفسجي تارو (004)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/27cd2d2a-d681-453e-8d4d-33e3499f35c3-500x277.1875-1AkwTSrrXGXGY0cGfglNZAfTfUjyCdoDBm2xcPTN.jpg"
+            },
+            {
+              "id": "1664028838",
+              "name": "شوفاني ناعم × كريمي (251)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/428dc342-88f6-4bdf-b112-c929e7c3b107-500x280-e9mH0m3F8K8oFBJB8ewiTqQW0pGi6qejaiJQ6fsd.jpg"
+            },
+            {
+              "id": "1022640039",
+              "name": "رمادي (021)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/2d082350-ccc4-4445-af18-a64bf89e61b5-500x282.5-eoIebNpMqMD18yaWcGDY5yHX0SB1QMqklzTrdP9Q.jpg"
             }
           ]
         },
@@ -6901,13 +7247,13 @@
             {
               "id": "830488981",
               "name": "39.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "57499798",
               "name": "40",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -7124,8 +7470,12 @@
           "922687301": {
             "name": "Color",
             "values": {
+              "289599909": "Black / Taro Purple",
               "650074509": "Black × Graphite Grey",
+              "1022640039": "Grey",
               "1113753487": "White × White",
+              "1197855396": "White / Sun Coral",
+              "1664028838": "Soft Oat / Cream",
               "1887729806": "Black × Pearl Pink"
             }
           }
@@ -7333,7 +7683,7 @@
       ],
       "images": [
         "https://cdn.salla.sa/jZjwre/e18e9626-d105-4cde-82d5-8f55a22fbdcb-1000x480.03992015968-38JnRvueEgeegtVtCQa3YmYKlp9siOKQOpMCtSeP.jpg",
-        "https://cdn.salla.sa/jZjwre/c86d12ab-9484-4ccb-a5df-811144c75cf9-1000x479.41888619855-D8NlCGt5XlDaLontxgcYg4TicvPCthmFknFdHebr.jpg",
+        "https://cdn.salla.sa/jZjwre/19ee1bf7-cdcc-405b-90e7-887bde85271c-1000x593.01380991064-jWXySYR61AXsMvD5rFog3hWDDAs6LANLDXGDM3Ty.jpg",
         "https://cdn.salla.sa/jZjwre/367e87b0-04d0-4edb-aa2a-93fa59d09439-807.40740740741x1000-AXTcQOBAXpiyxgQ7xDOFSbjWGFTgZjGIea291bgm.jpg",
         "https://cdn.salla.sa/jZjwre/d7866c36-a0c3-4391-b2d0-b6f1bd6ddb00-1000x490.89068825911-04Jig9OyOLMUB3De9q3hrA9eC9NvKSY3f56fIFuu.jpg",
         "https://cdn.salla.sa/jZjwre/eaf9e4ee-7841-4952-8969-b6712ecf767c-1000x489.93963782696-HFz7Jgeu6GKv2WEM0uj7xnNRfB7FFFHbvp9YQUdm.jpg",
@@ -7342,13 +7692,18 @@
         "https://cdn.salla.sa/jZjwre/5ceade3c-7b96-4adc-b19d-d65c3c76fdc3-1000x485.09266720387-jPveRagRdwPIya6cdt01qzYlQXmr7u5dJGYpxidA.jpg",
         "https://cdn.salla.sa/jZjwre/f8ff5ac1-fb85-4bdb-876d-a85b5c37d4bd-1000x500.81168831169-htUlYL5gpJ6zoSWjMnPZC50KK3VGv1jdvK3Cz1rM.jpg",
         "https://cdn.salla.sa/jZjwre/6c663ad4-f5dd-4d58-a663-b2b73d26523d-1000x485.04446240905-ZdjQ9Pq3O5BMhmHbqlPwPn9hteQCjFIfWbogM1EY.jpg",
+        "https://cdn.salla.sa/jZjwre/c86d12ab-9484-4ccb-a5df-811144c75cf9-1000x479.41888619855-D8NlCGt5XlDaLontxgcYg4TicvPCthmFknFdHebr.jpg",
         "https://cdn.salla.sa/jZjwre/da802105-08a8-4328-848d-d11cd63253be-1000x495.12987012987-axCtmgTXgzwczyScT5JycWuMmE0rToKUQLtI7G4o.jpg",
         "https://cdn.salla.sa/jZjwre/704e7ebe-6f64-4413-8fe7-5ab6348947c3-1000x482.93172690763-RrHgzDpqbru2PSvlMYcYj4Kbbh5jlBbgETBkxwLO.jpg",
         "https://cdn.salla.sa/jZjwre/5bce97f1-3560-4ead-aa73-e18cef1bdae9-1000x497.98387096774-0lMkLUgB08uiVk4AIecnMKCwo6bRz80dKnFcUroH.jpg",
         "https://cdn.salla.sa/jZjwre/c37acc2f-3c31-4e92-9a0b-672eb93585bf-1000x593.7813440321-VPGwnh6FGaGTnJS6AwJMEemhuXxGdAUAO2ZSyBzy.jpg",
         "https://cdn.salla.sa/jZjwre/6e24f547-44cd-42b7-ae9a-125dc2eb36f8-1000x497.5024975025-rRTRkL1qohHauQFbaK3mVzyPHt0h75HTVMz5sWRI.jpg",
         "https://cdn.salla.sa/jZjwre/63990bc7-a86a-434e-b60b-bb4645fd9a5f-1000x588.84462151394-NmXJ0wxxpQnEZLIErsDTNxGKJ17tAXpo7o6KqApn.jpg",
-        "https://cdn.salla.sa/jZjwre/19ee1bf7-cdcc-405b-90e7-887bde85271c-1000x593.01380991064-jWXySYR61AXsMvD5rFog3hWDDAs6LANLDXGDM3Ty.jpg"
+        "https://cdn.salla.sa/jZjwre/7b9e00fb-17bc-443f-aa04-f49ab2692a3a-1000x523.125-a6vPqtGZePweKkiKJVDYTkO1j9urh4GigqdGdt12.jpg",
+        "https://cdn.salla.sa/jZjwre/c584f347-37a0-4221-a46b-4843408768bd-1000x523.75-UHah3sC2N2nrzlB3vXuqROmEzqLpKNsJm3E8gv7s.jpg",
+        "https://cdn.salla.sa/jZjwre/2ae6479b-34aa-4a98-8370-51e47eed038d-1000x567.5-OcH68DpG8LrTCf1NjFYJLOS6vkkrzCiaypobxOSx.jpg",
+        "https://cdn.salla.sa/jZjwre/2e7889bd-e4c0-4628-bade-82f84b909134-1000x937.5-t8w4qEo7ez5rhTVpi5dAKJeXtUd0SPQVGEsivdUg.jpg",
+        "https://cdn.salla.sa/jZjwre/1ae18e18-1812-4e2f-a345-bc25ffd44b8d-1000x937.5-7F5xt4TmbkJ1jSqOtVxdIi6sfj56aanavlFXpATw.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -7371,7 +7726,8 @@
         "أبيض × أزرق أكوا",
         "أسود × أبيض",
         "شوفاني × كريمي",
-        "أصفر مضيء × أبيض"
+        "أصفر مضيء × أبيض",
+        "أبيض × برتقالي ستاديوم (101)"
       ],
       "options": [
         {
@@ -7402,6 +7758,12 @@
               "name": "أصفر مضيء × أبيض",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/868780c1-ab35-4c23-abb2-0115bdce5ad5-500x248.75124875125-rRTRkL1qohHauQFbaK3mVzyPHt0h75HTVMz5sWRI.jpg"
+            },
+            {
+              "id": "1037348151",
+              "name": "أبيض × برتقالي ستاديوم (101)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/a9b96ae1-8dfd-4cdd-bee8-bcd481b37e86-500x261.5625-a6vPqtGZePweKkiKJVDYTkO1j9urh4GigqdGdt12.jpg"
             }
           ]
         },
@@ -7698,6 +8060,7 @@
             "values": {
               "123585770": "White × Aqua Blue",
               "587662068": "Oatmeal × Cream",
+              "1037348151": "White / Stadium Orange",
               "1362813931": "Black × White",
               "2095849973": "Bright Yellow × White"
             }
@@ -7890,21 +8253,41 @@
       ],
       "images": [
         "https://cdn.salla.sa/jZjwre/d77ad6b1-51cc-4ee7-b4e3-032e083ab32b-1000x619.62692619627-gwCHaN6kCLut7UN9mwXWhO19JD79hT5nuwFoMhJT.jpg",
-        "https://cdn.salla.sa/jZjwre/61593598-f2de-45a5-8aa2-fb93212c0b24-1000x624.49310624493-LERMc9j1FqCwSCN3YFNZlJvWZIrMXXhJVdez95b4.jpg",
-        "https://cdn.salla.sa/jZjwre/24139415-c30c-463c-9d46-9c6011c2a1d9-1000x612.82467532468-T9HdVnOhjEhADxO8aiZ8Tg1ycNsGt3cdHDisU4d4.jpg",
-        "https://cdn.salla.sa/jZjwre/591cf01c-50f2-4677-98ce-5ed729e29887-1000x589.66074313409-CwPhWmx1SG3KsUCHutIcPYQ0N5bQyBZWIhdp81BF.jpg",
-        "https://cdn.salla.sa/jZjwre/640fbdb2-c05e-4e90-aa59-4927f98a8ccc-1000x521.31938857603-7JRUuXFAjpvG6PqhDYX8wyZULAr5MRg4cIqgsOAW.jpg",
-        "https://cdn.salla.sa/jZjwre/20b95cfe-5526-4a77-9f9b-262eb0165e5c-1000x534.03565640194-Mbpym4nb7ZRVOLgDDZVMsiJXOPQQ6tQT21OYVlBK.jpg",
-        "https://cdn.salla.sa/jZjwre/13d9f33f-73b7-483a-ae1e-fe41506cef55-1000x524.31118314425-b64TniGHGEFvtv6GJNhMpJWAeHhG2oCqhmgm8pQn.jpg",
-        "https://cdn.salla.sa/jZjwre/5ea803de-d3d5-4ca3-9101-61de3c20bade-1000x533.27922077922-lV0PGEzDKjYGNRDN5ZRSdbMG6WPlIHuCkFqLtTb0.jpg",
-        "https://cdn.salla.sa/jZjwre/102c9d71-7413-45a4-a9bd-b7b3a6c32ebb-1000x521.1038961039-KBIdlt07a2Ez8b141DfPTnsZahNe4fefj7cUn5pI.jpg",
         "https://cdn.salla.sa/jZjwre/e34f3d87-5f75-47f7-bc93-3083e2029b1c-1000x516.23376623377-kiJ3nYfQGHr6PRyZdRIWkfFyv3x4pmvl7JUIXuBE.jpg",
-        "https://cdn.salla.sa/jZjwre/4489dc17-c3de-4602-9ad8-9eecff159d6e-1000x520.68126520681-oA5ZrppTKdzlQjEQRKgRXE2eIbDvxN6KoNBBy14F.jpg",
-        "https://cdn.salla.sa/jZjwre/ad12b45e-8b96-4c8f-a30b-69fc66d7c78d-1000x522.15954875101-YQeSestywexgkF4NJ0Kotg1s4cJBxBwOOzBvV80W.jpg",
-        "https://cdn.salla.sa/jZjwre/75078987-c897-4b1a-8943-70767e20ead7-1000x520.64777327935-elkrTM0GmogtvFc2AXVmW2zT1glzknrSRuegXQ2P.jpg",
-        "https://cdn.salla.sa/jZjwre/385aac51-d8ff-4b8e-9f40-a09e4cd904fc-1000x497.56493506494-CXofUPWW7cQQxDvZoCVBaKT4ZHz2QbXAiDqapy53.jpg",
+        "https://cdn.salla.sa/jZjwre/7b8c7678-118d-43f8-8a21-aaa2b9439ec9-1000x510.53484602917-HB8EaXVJwMZXa9oVd4ksqlSDdmFBbx7kCjCCD7tb.jpg",
         "https://cdn.salla.sa/jZjwre/627a1e1f-58e6-4f57-a32c-75608ac09da3-1000x521.06969205835-3hNI074KF1tMm1uUcNdMtVvDWQ4o6H7y1b3Z5YMQ.jpg",
-        "https://cdn.salla.sa/jZjwre/7b8c7678-118d-43f8-8a21-aaa2b9439ec9-1000x510.53484602917-HB8EaXVJwMZXa9oVd4ksqlSDdmFBbx7kCjCCD7tb.jpg"
+        "https://cdn.salla.sa/jZjwre/385aac51-d8ff-4b8e-9f40-a09e4cd904fc-1000x497.56493506494-CXofUPWW7cQQxDvZoCVBaKT4ZHz2QbXAiDqapy53.jpg",
+        "https://cdn.salla.sa/jZjwre/75078987-c897-4b1a-8943-70767e20ead7-1000x520.64777327935-elkrTM0GmogtvFc2AXVmW2zT1glzknrSRuegXQ2P.jpg",
+        "https://cdn.salla.sa/jZjwre/ad12b45e-8b96-4c8f-a30b-69fc66d7c78d-1000x522.15954875101-YQeSestywexgkF4NJ0Kotg1s4cJBxBwOOzBvV80W.jpg",
+        "https://cdn.salla.sa/jZjwre/4489dc17-c3de-4602-9ad8-9eecff159d6e-1000x520.68126520681-oA5ZrppTKdzlQjEQRKgRXE2eIbDvxN6KoNBBy14F.jpg",
+        "https://cdn.salla.sa/jZjwre/102c9d71-7413-45a4-a9bd-b7b3a6c32ebb-1000x521.1038961039-KBIdlt07a2Ez8b141DfPTnsZahNe4fefj7cUn5pI.jpg",
+        "https://cdn.salla.sa/jZjwre/5ea803de-d3d5-4ca3-9101-61de3c20bade-1000x533.27922077922-lV0PGEzDKjYGNRDN5ZRSdbMG6WPlIHuCkFqLtTb0.jpg",
+        "https://cdn.salla.sa/jZjwre/13d9f33f-73b7-483a-ae1e-fe41506cef55-1000x524.31118314425-b64TniGHGEFvtv6GJNhMpJWAeHhG2oCqhmgm8pQn.jpg",
+        "https://cdn.salla.sa/jZjwre/20b95cfe-5526-4a77-9f9b-262eb0165e5c-1000x534.03565640194-Mbpym4nb7ZRVOLgDDZVMsiJXOPQQ6tQT21OYVlBK.jpg",
+        "https://cdn.salla.sa/jZjwre/640fbdb2-c05e-4e90-aa59-4927f98a8ccc-1000x521.31938857603-7JRUuXFAjpvG6PqhDYX8wyZULAr5MRg4cIqgsOAW.jpg",
+        "https://cdn.salla.sa/jZjwre/591cf01c-50f2-4677-98ce-5ed729e29887-1000x589.66074313409-CwPhWmx1SG3KsUCHutIcPYQ0N5bQyBZWIhdp81BF.jpg",
+        "https://cdn.salla.sa/jZjwre/24139415-c30c-463c-9d46-9c6011c2a1d9-1000x612.82467532468-T9HdVnOhjEhADxO8aiZ8Tg1ycNsGt3cdHDisU4d4.jpg",
+        "https://cdn.salla.sa/jZjwre/61593598-f2de-45a5-8aa2-fb93212c0b24-1000x624.49310624493-LERMc9j1FqCwSCN3YFNZlJvWZIrMXXhJVdez95b4.jpg",
+        "https://cdn.salla.sa/jZjwre/b9b158b5-ace0-45a3-aeca-864aae59d9fb-1000x564.375-N64eCQsMSGvANauuY2b9AzfyN7fkzZZlaCa5amS7.jpg",
+        "https://cdn.salla.sa/jZjwre/492bccc2-7c03-4c59-b15a-e23117e98953-1000x558.75-5dbEDoyUuxEQpZjktCzbw70LMIFM4YJVf1tW8BEc.jpg",
+        "https://cdn.salla.sa/jZjwre/3e9895ee-42e7-4c34-b145-1d2e233101ad-1000x618.75-am4ZLTPD0LTbF3VomEwaldMXbdssSXU8QZAQ3Bgf.jpg",
+        "https://cdn.salla.sa/jZjwre/20adde1a-20b2-40ad-939a-f2a95db04434-1000x937.5-xbJLCqZQWaNzl1BK1ggTfsR8NWUaOIQBhoXWdTkd.jpg",
+        "https://cdn.salla.sa/jZjwre/9765f211-93ee-4899-8ab7-d072fde19eb8-1000x937.5-sp2KLVQc1bEHpts1RmuVWjb9WwzlYjDzR6KRBBtp.jpg",
+        "https://cdn.salla.sa/jZjwre/3618cead-2d8c-4548-9782-34690a0964b2-1000x557.5-zhrTifCHtwWDRG9TV6fOuIreop93RNh7LTUMKazq.jpg",
+        "https://cdn.salla.sa/jZjwre/e8f1a62f-aebd-4a82-bc89-30e7113b0278-1000x554.375-Dw18E0hpAJIdc3OToomRIfeyC57LVP2dz0zBxW5U.jpg",
+        "https://cdn.salla.sa/jZjwre/78aeb8c2-6336-4f74-ae9b-59a2840cb8a9-1000x612.5-B4rOityWjyuAdzsI5Mh8ZNoSuBMt0W6TbFBhgZ3C.jpg",
+        "https://cdn.salla.sa/jZjwre/f670ba0d-f0a5-4e7e-bd6e-2a7014ad140d-1000x937.5-U0BsD5M8hxbCDW9nrHHsuWTVLuymGpkuKnvVNvx0.jpg",
+        "https://cdn.salla.sa/jZjwre/48f5ba2f-d8d4-4e1d-80c2-080545548678-1000x937.5-w72jygBAkrSh4Rl0U6GHMPfKYnQqNh8AnOZy5NoE.jpg",
+        "https://cdn.salla.sa/jZjwre/188b3329-93ee-4265-9bdc-78a30e5e2ba8-1000x545-2GDeDBsfJQKqk1MrlKjEbd2ACHighE6f04XrQKy6.jpg",
+        "https://cdn.salla.sa/jZjwre/5d30049d-90ae-4113-a867-86886dc9b8e1-1000x538.75-ykSYIiIybrSS47RJAXZ3FP5h98ORRzbUehDgu5mP.jpg",
+        "https://cdn.salla.sa/jZjwre/0b4e3349-b918-4d25-a100-1a3852ee25c2-1000x602.5-NGHS8dFCtP7RJEU6nVKQXF8QjO9PNntaAunE6RCJ.jpg",
+        "https://cdn.salla.sa/jZjwre/5517a4bc-891f-48e6-b6e8-05ef3b6d141d-1000x937.5-5aj9yvLfKpjKTujQcve5iOHtck9XLXNcLlEqqr8v.jpg",
+        "https://cdn.salla.sa/jZjwre/fca4c96b-bfd6-43dc-ad32-b78191e27018-1000x937.5-eh8j4HYsivXVPoSlUlt0Dz9V7yZAtvWuq7gYrnm9.jpg",
+        "https://cdn.salla.sa/jZjwre/a49ba833-1612-49ea-95e7-12d77308a910-1000x561.875-3hh722rlqn83LS2BKIhKUrJs3s72hIsMhUKOcMUp.jpg",
+        "https://cdn.salla.sa/jZjwre/705e8ba3-d1aa-4c5c-ae6f-eef6e988b666-1000x559.375-adHBDvDHKUnXI1VURK4xWP8sMItHLNIdfWIENCY6.jpg",
+        "https://cdn.salla.sa/jZjwre/9caa17cf-9a70-4659-9057-30d8fe7f40cd-1000x610.625-4jc2kPRY5OKDsEJINUYKszxMw4J2xbeG5tUug0XE.jpg",
+        "https://cdn.salla.sa/jZjwre/2eba0419-8423-42fd-801f-9281937edc88-1000x937.5-cOAczRgExXKj6csB6QVIrloFAnoHydR48QjVImC1.jpg",
+        "https://cdn.salla.sa/jZjwre/d4f8ac83-d472-44fa-ba55-fe967ac7d9bf-1000x937.5-PDFUt0qlQYhKelYi67l1gZWcQiJ9hxh0MXmgg4RE.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -7927,7 +8310,11 @@
         "كريمي × أسود",
         "أبيض × أبيض",
         "أسود × رمادي جرافيت",
-        "أخضر موس × أخضر مضيء"
+        "أخضر موس × أخضر مضيء",
+        "أبيض × برتقالي ستاديوم (102)",
+        "أزرق هوائي × كحلي (404)",
+        "أصفر مضيء × أزرق ضبابي (750)",
+        "خاكي عتيق × أخضر خاكي (200)"
       ],
       "options": [
         {
@@ -7958,6 +8345,30 @@
               "name": "أخضر موس × أخضر مضيء",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/8ff5cf81-e95b-447c-a752-f74cb665405d-500x294.83037156704-CwPhWmx1SG3KsUCHutIcPYQ0N5bQyBZWIhdp81BF.jpg"
+            },
+            {
+              "id": "795504150",
+              "name": "أبيض × برتقالي ستاديوم (102)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/3db1357d-4f90-446e-a6a0-822a55d62002-500x282.1875-N64eCQsMSGvANauuY2b9AzfyN7fkzZZlaCa5amS7.jpg"
+            },
+            {
+              "id": "2033224983",
+              "name": "أزرق هوائي × كحلي (404)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/aec64d96-7b88-46fc-8397-b484a7623ad4-500x278.75-zhrTifCHtwWDRG9TV6fOuIreop93RNh7LTUMKazq.jpg"
+            },
+            {
+              "id": "1260235792",
+              "name": "أصفر مضيء × أزرق ضبابي (750)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c2e01a96-e06b-492f-8429-05f3c65e7913-500x272.5-2GDeDBsfJQKqk1MrlKjEbd2ACHighE6f04XrQKy6.jpg"
+            },
+            {
+              "id": "620415761",
+              "name": "خاكي عتيق × أخضر خاكي (200)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/19013e73-5c93-4283-9113-f541091e8a7f-500x280.9375-3hh722rlqn83LS2BKIhKUrJs3s72hIsMhUKOcMUp.jpg"
             }
           ]
         },
@@ -8222,8 +8633,12 @@
             "values": {
               "117876655": "White × White",
               "583591337": "Moss Green × Bright Green",
+              "620415761": "Vintage Khaki / Khaki Green",
+              "795504150": "White / Stadium Orange",
               "892967086": "Cream × Black",
-              "1357104808": "Black × Graphite Grey"
+              "1260235792": "Illuminate Yellow / Foggy Teal",
+              "1357104808": "Black × Graphite Grey",
+              "2033224983": "Solid Air / Midnight"
             }
           },
           "963168890": {
@@ -10761,7 +11176,7 @@
             {
               "id": "456821304",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -10773,7 +11188,7 @@
             {
               "id": "1189922874",
               "name": "43.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -10785,7 +11200,7 @@
             {
               "id": "1654060548",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -10797,25 +11212,25 @@
             {
               "id": "1005427288",
               "name": "46.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "365607257",
               "name": "47",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1738004570",
               "name": "48",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "830269275",
               "name": "49",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -11622,7 +12037,21 @@
         "https://cdn.salla.sa/jZjwre/f0101d6a-3372-4824-a531-c2340d2b4d36-1000x589.57952468007-xq21deTKSumiQxu82iuEWcMShbwvX4YB9fyxdDZO.png",
         "https://cdn.salla.sa/jZjwre/e75f313f-1db1-4149-bcbb-2aaec55236a2-1000x597.80621572212-e1IUq6tMMCdJ4B6QyE1NgaipKXRzYwALdvmkII9W.png",
         "https://cdn.salla.sa/jZjwre/cbbfb330-0079-4248-a054-68356f9ce267-949.67741935484x1000-uardPsLbl3LDXtfGHxL7IAh47bkS9yOixzAn3dFO.png",
-        "https://cdn.salla.sa/jZjwre/f0a757c3-33de-44b0-be77-65881cdfec03-1000x659.3707250342-wRW6E6P1paVCKm1jcRRcBMDbKnjrKZ2ipICyCu7U.png"
+        "https://cdn.salla.sa/jZjwre/f0a757c3-33de-44b0-be77-65881cdfec03-1000x659.3707250342-wRW6E6P1paVCKm1jcRRcBMDbKnjrKZ2ipICyCu7U.png",
+        "https://cdn.salla.sa/jZjwre/79c99b4e-4085-4899-9726-ecaad4bfb294-1000x585.625-rEsmLsoW8Fsbt9JTX8KfoJDGWhvnG2desIKjowtB.jpg",
+        "https://cdn.salla.sa/jZjwre/b7bb6556-c7f5-4623-b860-ec67c8ce0a31-1000x586.875-Bur0BA76uA7B2Edif2Cntbo0Mrc6PDNZ1JVHvOhj.jpg",
+        "https://cdn.salla.sa/jZjwre/0428152c-3712-457d-b38f-d0ae4757d36e-1000x649.375-EkH6UQOl9R1uY47yPPp3UBVHfVz8z2eLbnImFwdL.jpg",
+        "https://cdn.salla.sa/jZjwre/1570c797-5484-49f0-9270-16f5699dc9ae-1000x937.5-b2dGhJGoRQ0WchdZabItmIFf76dJWjv04LAlYUP5.jpg",
+        "https://cdn.salla.sa/jZjwre/88ec78fe-b50e-4c17-a891-b7d677d51937-1000x937.5-XyoloChuipUAqAOLD6HEkBV37fh8RO5hifS1pvLI.jpg",
+        "https://cdn.salla.sa/jZjwre/381b6cb0-6cd8-411c-a0c3-d2cb7abf4e8f-1000x601.25-1QojBldhDe8wLM9KAly010N07cFsjCEcJ8Ty8tov.jpg",
+        "https://cdn.salla.sa/jZjwre/2fe99dca-f1b5-4716-aa6c-ba683acd81ce-1000x601.25-b02xwxXWxQXWrsps6QDGC3d6JE9VbgIJHoI21bMw.jpg",
+        "https://cdn.salla.sa/jZjwre/fb9798c6-00fe-487b-b068-30d4ae160fcd-1000x662.5-OTvnUFdV4MVe8mIUxLJqzu3hl0cJYyPSZlmJhDVU.jpg",
+        "https://cdn.salla.sa/jZjwre/d993a070-28f0-4648-998f-b2742ec83659-1000x937.5-WSI3HjESz5HFhtBN10OU3JGiMO5wrp7Qx275vHep.jpg",
+        "https://cdn.salla.sa/jZjwre/39311c27-50b9-4e0a-9cae-cea8a291a947-1000x523.75-pZ5q35bNxvmedu7ExAAAzb6NE6VUh6e6m7OZsQu1.jpg",
+        "https://cdn.salla.sa/jZjwre/5aaccd77-d566-4307-a313-d3e29f6b10fd-1000x524.375-5jV6VnvyNsjawDoS8ZBVwBWciTgKzwFmLSVOAWsl.jpg",
+        "https://cdn.salla.sa/jZjwre/d5f214bb-b03a-44a0-ab9d-f363820f1656-1000x630.625-lLUB7TWopjF5NBoLYdWhCNDFkE1bkyobwYbchQoY.jpg",
+        "https://cdn.salla.sa/jZjwre/bceef8aa-0873-4d16-9b1f-4d9e311ff4b0-1000x937.5-ECXYBH4qcKA6CznGt3XiO9fRvqmgjyMVhfAwedtJ.jpg",
+        "https://cdn.salla.sa/jZjwre/f5a53c10-69dc-4379-99a8-bea0809d373a-1000x937.5-myy2vYy54fCQUEwUndubijyLNJKx3EuBWETI93p8.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -11644,7 +12073,10 @@
       ],
       "colors": [
         "إنديجو فوغ",
-        "بابلجم × أسود"
+        "بابلجم × أسود",
+        "أبيض × أزرق ماكريل (102)",
+        "منثول × أزرق ماكريل (300)",
+        "أبيض × بنفسجي أميثيست"
       ],
       "options": [
         {
@@ -11661,8 +12093,26 @@
             {
               "id": "1697629669",
               "name": "بابلجم × أسود",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/fd62c150-4d64-4222-a4bc-deb29bd513d0-500x500-6Y8QOlKrPfnrN1M2oKOTL6mHG0ZL4Te9LBrhsWUv.jpg"
+            },
+            {
+              "id": "929636915",
+              "name": "أبيض × أزرق ماكريل (102)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/2413b986-f6fe-4e9b-b932-89efc126a013-500x292.8125-rEsmLsoW8Fsbt9JTX8KfoJDGWhvnG2desIKjowtB.jpg"
+            },
+            {
+              "id": "20332860",
+              "name": "منثول × أزرق ماكريل (300)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/a8022488-59e5-47b7-aa0f-7c97f6cfe9c8-500x300.625-1QojBldhDe8wLM9KAly010N07cFsjCEcJ8Ty8tov.jpg"
+            },
+            {
+              "id": "1393778749",
+              "name": "أبيض × بنفسجي أميثيست",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/19691e4c-9b88-424f-995d-a32899e09afc-500x261.875-pZ5q35bNxvmedu7ExAAAzb6NE6VUh6e6m7OZsQu1.jpg"
             }
           ]
         },
@@ -11674,13 +12124,13 @@
             {
               "id": "2134864158",
               "name": "41.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "116389367",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -11692,7 +12142,7 @@
             {
               "id": "2098044024",
               "name": "43.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -11704,7 +12154,7 @@
             {
               "id": "1225101343",
               "name": "45",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -11734,13 +12184,13 @@
             {
               "id": "1612924486",
               "name": "49",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1388192480",
               "name": "50.5",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -11890,7 +12340,10 @@
           "1051301440": {
             "name": "Color",
             "values": {
+              "20332860": "Menthol / Saba Blue",
               "188917476": "Indigo Fog",
+              "929636915": "White / Saba Blue",
+              "1393778749": "White / Radiant Amethyst",
               "1697629669": "Bubblegum × Black"
             }
           },
@@ -12202,7 +12655,7 @@
             {
               "id": "467691274",
               "name": "أبيض × كوبالت",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/8a1e9cc8-5aef-41e0-8d87-8705ea5a8af5-500x500-NC8T0vD8DySqHUNji3x8rkCASM2UHy4Ds2xlsjUJ.jpg"
             }
           ]
@@ -12281,7 +12734,7 @@
             {
               "id": "454899720",
               "name": "46.5",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -12649,7 +13102,7 @@
             {
               "id": "327986105",
               "name": "عيد الميلاد",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/026323b1-9fd5-42db-b14f-9599990de4b0-500x352.27272727273-v3U7POMFlQ8ZlR9m441fyDjXdDg1yl7cily75WNb.jpg"
             },
             {
@@ -12900,7 +13353,10 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/e0e666a8-725b-4651-aa34-b1e7bb2dbfa5-1000x812.5-sgQsGnFZxXGWobzgLEZUw5CTMErxxMnQt2pgawIU.jpg"
+        "https://cdn.salla.sa/jZjwre/e0e666a8-725b-4651-aa34-b1e7bb2dbfa5-1000x812.5-sgQsGnFZxXGWobzgLEZUw5CTMErxxMnQt2pgawIU.jpg",
+        "https://cdn.salla.sa/jZjwre/29c66f3b-bec4-497d-b907-37ee6d9725a3-1000x1000-gJEScXr1IXNRhOZn4ZHvjZF8mUxHFVcihksJqtkh.jpg",
+        "https://cdn.salla.sa/jZjwre/00958e8b-2817-4d56-ae3b-a60f1de60cf6-1000x1000-n6BQzRcDcnkOSrHx4QGyqf2furtecJi29LlSPnEj.jpg",
+        "https://cdn.salla.sa/jZjwre/0be72cab-1dd6-4102-8a75-919a26ea6623-1000x1000-VXg9WEqjUqbliAi37iOoEl6xGiARIypEhdWZzHLS.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -12920,7 +13376,10 @@
         "47"
       ],
       "colors": [
-        "بني كاكاو ورمادي كتاني"
+        "بني كاكاو ورمادي كتاني",
+        "بنفسجي سحري",
+        "أسود كامل",
+        "أبيض وأحمر"
       ],
       "options": [
         {
@@ -12933,6 +13392,24 @@
               "name": "بني كاكاو ورمادي كتاني",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/8de3d2ef-a043-4baa-8aab-abfa3828d3be-500x406.25-sgQsGnFZxXGWobzgLEZUw5CTMErxxMnQt2pgawIU.jpg"
+            },
+            {
+              "id": "538039014",
+              "name": "بنفسجي سحري",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/17b54528-3a4e-4c8f-843a-1149200fe79c-500x500-gJEScXr1IXNRhOZn4ZHvjZF8mUxHFVcihksJqtkh.jpg"
+            },
+            {
+              "id": "2113860071",
+              "name": "أسود كامل",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/f0869441-6ca6-4e00-914c-7eec3e14483b-500x500-n6BQzRcDcnkOSrHx4QGyqf2furtecJi29LlSPnEj.jpg"
+            },
+            {
+              "id": "1339756768",
+              "name": "أبيض وأحمر",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/75825f5f-b98b-4763-be68-5d484e9d190b-500x500-VXg9WEqjUqbliAi37iOoEl6xGiARIypEhdWZzHLS.jpg"
             }
           ]
         },
@@ -13080,7 +13557,10 @@
           "1809419953": {
             "name": "اللون",
             "values": {
-              "247890552": "بني كاكاو ورمادي كتاني"
+              "247890552": "بني كاكاو ورمادي كتاني",
+              "538039014": "Magic Purple",
+              "1339756768": "White Red",
+              "2113860071": "Triple Black"
             }
           }
         }
@@ -13339,281 +13819,6 @@
       }
     },
     {
-      "id": "1446292277",
-      "sallaId": "1446292277",
-      "sku": "RSP-EQLZ-247NXT",
-      "name": "حذاء إيكوالايزر 247 NXT لكرة السلة",
-      "brand": "إيكوالايزر",
-      "category": "shoes",
-      "sport": "كرة السلة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة سلة"
-      ],
-      "price": 679,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "نعل جلد القرش الحيوي ودعم TPU مزدوج",
-      "description": "حذاء كرة سلة أصلي 100٪ من إيكوالايزر — طراز 247 NXT عالي الأداء. نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
-      "desc": [
-        {
-          "t": "p",
-          "s": [
-            "حذاء كرة سلة ",
-            {
-              "b": "أصلي 100٪"
-            },
-            " من إيكوالايزر — طراز 247 NXT عالي الأداء."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "⏱️ ",
-            {
-              "b": "يُجلب من المصدر بطلبك"
-            },
-            " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/5812c892-c48f-4e8e-9405-2678fef35484-1000x1000-EE0FuN8AxgmbxbvKVfhnQqNRgJjeuJOta62MTxJg.jpg",
-        "https://cdn.salla.sa/jZjwre/0af51d0e-17d8-4325-93f8-a14de259c996-750x1000-5FStW0JI6PvLBg8A3xmMSIeTHtke58f0ZmxDH4D7.jpg",
-        "https://cdn.salla.sa/jZjwre/b1594784-a204-4e81-810b-18ff28d2f64f-750x1000-FH96u0tt3VmPjAFL7xSbZ4WnfSFqOUZeyrVygsdl.jpg",
-        "https://cdn.salla.sa/jZjwre/d1f1e4f9-402b-46dd-9546-836d2147c1e8-750x1000-AbGLsMKOsnGJ4a6i6K6LdjFTWnIzluHSVN0D7Bug.jpg",
-        "https://cdn.salla.sa/jZjwre/db99f046-7e4c-4800-8b47-dda1a91f1a78-750x1000-XGAPT8RncEo8ZbEets5k6QaUPNEyFDIcNNywDFwr.jpg"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "40",
-        "40.5",
-        "41",
-        "42",
-        "42.5",
-        "43",
-        "44",
-        "44.5",
-        "45",
-        "45.5",
-        "46",
-        "47",
-        "47.5",
-        "48.5",
-        "49.5"
-      ],
-      "colors": [
-        "الفارس الأسود"
-      ],
-      "options": [
-        {
-          "id": "1381524245",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "1583961335",
-              "name": "الفارس الأسود",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/2c4a7ec1-2fcd-48e0-93ba-53f787502516-500x500-EE0FuN8AxgmbxbvKVfhnQqNRgJjeuJOta62MTxJg.jpg"
-            }
-          ]
-        },
-        {
-          "id": "355684934",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "566677747",
-              "name": "40",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1940127740",
-              "name": "40.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1300766461",
-              "name": "41",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "525680126",
-              "name": "42",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1764908287",
-              "name": "42.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "991919096",
-              "name": "43",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "350591737",
-              "name": "44",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1724037626",
-              "name": "44.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "816830715",
-              "name": "45",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "41215940",
-              "name": "45.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1548814021",
-              "name": "46",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "775824838",
-              "name": "47",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "2015052999",
-              "name": "47.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1440768960",
-              "name": "48.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "667845313",
-              "name": "49.5",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "origin": "CN",
-      "status": "live",
-      "url": "https://risport-sa.com/ar/x/p1446292277",
-      "en": {
-        "name": "حذاء إيكوالايزر 247 NXT لكرة السلة",
-        "brand": "Equalizer",
-        "sport": "Basketball",
-        "tagline": null,
-        "subtitle": "نعل جلد القرش الحيوي ودعم TPU مزدوج",
-        "description": "حذاء كرة سلة أصلي 100٪ من إيكوالايزر — طراز 247 NXT عالي الأداء. نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
-        "desc": [
-          {
-            "t": "p",
-            "s": [
-              "حذاء كرة سلة ",
-              {
-                "b": "أصلي 100٪"
-              },
-              " من إيكوالايزر — طراز 247 NXT عالي الأداء."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "⏱️ ",
-              {
-                "b": "يُجلب من المصدر بطلبك"
-              },
-              " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Basketball Shoes"
-        ],
-        "options": {
-          "355684934": {
-            "name": "المقاس",
-            "values": {
-              "41215940": "45.5",
-              "350591737": "44",
-              "525680126": "42",
-              "566677747": "40",
-              "667845313": "49.5",
-              "775824838": "47",
-              "816830715": "45",
-              "991919096": "43",
-              "1300766461": "41",
-              "1440768960": "48.5",
-              "1548814021": "46",
-              "1724037626": "44.5",
-              "1764908287": "42.5",
-              "1940127740": "40.5",
-              "2015052999": "47.5"
-            }
-          },
-          "1381524245": {
-            "name": "اللون",
-            "values": {
-              "1583961335": "الفارس الأسود"
-            }
-          }
-        }
-      }
-    },
-    {
       "id": "983346145",
       "sallaId": "983346145",
       "sku": "RSP-PUMA-108918",
@@ -13751,7 +13956,7 @@
             {
               "id": "1498335419",
               "name": "أزرق ثلجي",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/20e90c0e-5ab3-46fe-9d37-6ed3e76b5b95-500x375-9vmnb4TMlTcQU9GI6HGtrBxYZRJSiZdHJcF1Rwuf.jpg"
             },
             {
@@ -13770,7 +13975,7 @@
             {
               "id": "82900613",
               "name": "24.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -16273,7 +16478,8 @@
         "https://cdn.salla.sa/jZjwre/8e99f9de-4c03-4cf9-a2c2-85be1fedde79-1000x1000-spyCbnGKa9KXGxinoJFTNWhcEUI4ZMNFl1j3jEwk.jpg",
         "https://cdn.salla.sa/jZjwre/4668df6f-f426-4843-8d5f-bdae8640338f-1000x1000-jWrY18smfdQiCrAfUfRxZhJN80LqVWsfeyjSQnkA.jpg",
         "https://cdn.salla.sa/jZjwre/b5651ae6-cc2d-48dd-9263-8744975c581e-1000x1000-6oVWlCc9u5E7OIppPevsi0OboPGrnimpHir1HSca.jpg",
-        "https://cdn.salla.sa/jZjwre/a7d6d7df-1b58-48f8-a61e-c9406f4b928f-1000x1000-cZtWrIBRFUb4EtBynIL9LAwnMZ6Om8M7AbVAz9si.jpg"
+        "https://cdn.salla.sa/jZjwre/a7d6d7df-1b58-48f8-a61e-c9406f4b928f-1000x1000-cZtWrIBRFUb4EtBynIL9LAwnMZ6Om8M7AbVAz9si.jpg",
+        "https://cdn.salla.sa/jZjwre/ce83a563-d535-4975-9a70-2d102b79384d-1000x1000-8FfKDJkOOqSO124RIRBqUcdVC0XX4YOknnJ4L3Gk.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -16297,11 +16503,11 @@
         "HBK فيليدج مامبا",
         "الحصان الأسود",
         "عيد الحبّ",
-        "أصفر الغروب",
         "هيتمان",
         "الفتى المدهش",
         "أحلام",
-        "الجبل الجليدي"
+        "الجبل الجليدي",
+        "الشفق القطبي"
       ],
       "options": [
         {
@@ -16328,12 +16534,6 @@
               "img": "https://cdn.salla.sa/jZjwre/de4fb706-3f14-49c3-981f-7cbe1b89aec1-500x500-wbrYISB270GEqD74c1xuNI41EY295ajLgSnz6Mqu.jpg"
             },
             {
-              "id": "204059819",
-              "name": "أصفر الغروب",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/20c8a362-6991-47ee-a145-be583ae7e337-500x500-JDieII4ofSbnFueIhJ0R6yz8vk3G8imvf2Gwl2Hi.jpg"
-            },
-            {
               "id": "1509348276",
               "name": "هيتمان",
               "out": false,
@@ -16356,6 +16556,12 @@
               "name": "الجبل الجليدي",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/3a701110-5f4e-47f8-ba97-6b10cf4ebc5e-500x500-WFarFdXGJDLXh37xeWVwkjg80a6bbCsv4wlp20ub.jpg"
+            },
+            {
+              "id": "765267665",
+              "name": "الشفق القطبي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4429b7f7-300a-42c3-bd28-6a41afd01c8f-500x500-8FfKDJkOOqSO124RIRBqUcdVC0XX4YOknnJ4L3Gk.jpg"
             }
           ]
         },
@@ -16494,9 +16700,9 @@
             "name": "اللون",
             "values": {
               "95949238": "أحلام",
-              "204059819": "أصفر الغروب",
               "379148200": "HBK فيليدج مامبا",
               "735310517": "الفتى المدهش",
+              "765267665": "Northern Lights",
               "843879850": "عيد الحبّ",
               "1468346551": "الجبل الجليدي",
               "1509348276": "هيتمان",
@@ -18100,7 +18306,7 @@
             {
               "id": "698940536",
               "name": "حارس المدينة",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/37ccb488-bbe5-4816-a321-cd9513a746d7-426.47058823529x500-yxgx49erAubXHuqKK3jm05n7OXWvHwYmeju8wrC4.jpg"
             },
             {
@@ -18118,7 +18324,7 @@
             {
               "id": "658463099",
               "name": "ليمون",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/85439083-1ea3-4e00-b9fe-6617362c4833-426.47058823529x500-ZCENp4C6BZrlUlVFS6SFkNFHsa0E4wMlMc9OjRdN.jpg"
             }
           ]
@@ -18179,7 +18385,7 @@
             {
               "id": "65888332",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -18470,7 +18676,7 @@
             {
               "id": "1900463313",
               "name": "37",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -19925,7 +20131,7 @@
             {
               "id": "459807028",
               "name": "46",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -20339,7 +20545,7 @@
             {
               "id": "280761330",
               "name": "36",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -21758,6 +21964,260 @@
       }
     },
     {
+      "id": "598962598",
+      "sallaId": "598962598",
+      "sku": "RSP-NIKE-GT-JUMP-ACA",
+      "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
+      "brand": "نايكي",
+      "category": "shoes",
+      "sport": "كرة السلة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة سلة"
+      ],
+      "price": 299,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "G.T. — للارتقاء العالي",
+      "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+      "desc": [
+        {
+          "t": "p",
+          "s": [
+            "نسخة ",
+            {
+              "b": "أكاديمي"
+            },
+            " من خطّ G.T. Jump المصمَّم حول ",
+            {
+              "b": "الارتقاء"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "⏱️ ",
+            {
+              "b": "يُجلب من المصدر بطلبك"
+            },
+            " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/8d887a6a-7a9b-42b7-9d01-0669b60c6f51-1000x1000-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png",
+        "https://cdn.salla.sa/jZjwre/df4b7cc5-19d8-46c3-afd5-70929d6c7255-1000x1000-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png",
+        "https://cdn.salla.sa/jZjwre/6a6ef673-6c32-4a7a-98ca-d1643c0db320-1000x1000-4u7KzCwrWfpxq9uRe0hWLpImeOX5hK2af0E5T1cL.jpg",
+        "https://cdn.salla.sa/jZjwre/06b6a0f3-ae53-4a06-ab19-7b4de514e402-1000x1000-8gsM5ibf0h2GurdbJLqGaJVhHMztErsMJTSFMSZH.jpg",
+        "https://cdn.salla.sa/jZjwre/62eae765-be75-4013-a6f8-69ebc1fe1bb6-1000x1000-WsWnSksQ6bHTk2cRtA3gmikngTV61XrbixRIryVH.jpg",
+        "https://cdn.salla.sa/jZjwre/fb90d014-8364-4a18-94d2-ac16644974b0-1000x1000-bZH3KgbmvrqJXCjdu8h2EqP6x1wuKdb4CAPulckU.jpg",
+        "https://cdn.salla.sa/jZjwre/8121f9af-2ea4-4b26-9f35-c133df03d57e-1000x1000-HpDMsFNf0e1PDp47irRi9RQWQRNbq3v1K8t0NM9K.jpg",
+        "https://cdn.salla.sa/jZjwre/d6832b94-1c25-45a1-af9c-48ed9066f809-1000x1000-yU7sNq8zTuSk1cNZHOLDpEMk1k4FiesgTH3NeMDs.jpg",
+        "https://cdn.salla.sa/jZjwre/04772b64-d64e-40e2-be01-4fc3d8bfc214-1000x1000-peUKXFwtFaLUYmd2puBOSOqCmwQanm82EtTgXo1P.jpg",
+        "https://cdn.salla.sa/jZjwre/ee1ee49c-56ae-4a1b-8220-1263d42a2d0f-1000x1000-IJ8tJAhr6b818vUlcTL7UTr9GTirV48o3JzTUVlA.jpg",
+        "https://cdn.salla.sa/jZjwre/af1d4323-c423-4732-b4df-54c4c84202ea-1000x1000-xR5JvXULnFSZjb5uftOTzBvu2WexNJdAZSIgSXai.jpg",
+        "https://cdn.salla.sa/jZjwre/213cca77-c788-47ed-8afc-23f5f695a432-1000x1000-4UeNTMfvQ7E34PquRXev6KPgbhzHfxGyk123VwMY.jpg",
+        "https://cdn.salla.sa/jZjwre/32639ea5-4476-46f6-adf0-31ec2e412c94-1000x1000-zmnWiiKVA9KyxwR75euMfoXi6ncES3iOli7YXh8A.jpg",
+        "https://cdn.salla.sa/jZjwre/efe8d8bc-ef5b-4c95-83fa-61bf7bd0d6af-1000x1000-qhkHQ8PmOuyz6rYzJC0Y7hy2PRshQncE11UHmp3c.jpg",
+        "https://cdn.salla.sa/jZjwre/89bb5c04-4851-4737-bce4-2e63400d8768-1000x1000-xOqqPWotll6t8ozD7LIrpdEutfCIPUwpZW57NMeS.jpg",
+        "https://cdn.salla.sa/jZjwre/a61335da-84f4-450c-8ec4-22676754d55e-1000x1000-spCh3x23BbsSUxjjLKb9rVZhbZLCNDDWbPzTZ9Z7.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "36",
+        "37.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41"
+      ],
+      "colors": [
+        "متعدّد الألوان (007)",
+        "متعدّد الألوان (102)",
+        "أسود × أبيض × فضي (003)",
+        "أسود × أخضر (001)"
+      ],
+      "options": [
+        {
+          "id": "187631772",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1288887797",
+              "name": "متعدّد الألوان (007)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/25b3301f-f2b2-4860-94c2-f5c18536212a-500x500-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png"
+            },
+            {
+              "id": "515898614",
+              "name": "متعدّد الألوان (102)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/7c370015-5ad7-4f03-beca-3c0acdc0a086-500x500-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png"
+            },
+            {
+              "id": "1692092627",
+              "name": "أسود × أبيض × فضي (003)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/27a609fe-ece8-474c-8549-70226d4a16b0-500x500-HpDMsFNf0e1PDp47irRi9RQWQRNbq3v1K8t0NM9K.jpg"
+            },
+            {
+              "id": "916477916",
+              "name": "أسود × أخضر (001)",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/6f240776-dc6d-4cdf-9e4b-350c267955c8-500x500-4UeNTMfvQ7E34PquRXev6KPgbhzHfxGyk123VwMY.jpg"
+            }
+          ]
+        },
+        {
+          "id": "12473759",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1430921976",
+              "name": "36",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "655835641",
+              "name": "37.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1895588090",
+              "name": "38.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1121619963",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "480751300",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1854721477",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "946465990",
+              "name": "41",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p598962598",
+      "en": {
+        "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
+        "brand": "Nike",
+        "sport": "Basketball",
+        "tagline": null,
+        "subtitle": "G.T. — للارتقاء العالي",
+        "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+        "desc": [
+          {
+            "t": "p",
+            "s": [
+              "نسخة ",
+              {
+                "b": "أكاديمي"
+              },
+              " من خطّ G.T. Jump المصمَّم حول ",
+              {
+                "b": "الارتقاء"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "⏱️ ",
+              {
+                "b": "يُجلب من المصدر بطلبك"
+              },
+              " — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Basketball Shoes"
+        ],
+        "options": {
+          "12473759": {
+            "name": "المقاس",
+            "values": {
+              "480751300": "40",
+              "655835641": "37.5",
+              "946465990": "41",
+              "1121619963": "39",
+              "1430921976": "36",
+              "1854721477": "40.5",
+              "1895588090": "38.5"
+            }
+          },
+          "187631772": {
+            "name": "اللون",
+            "values": {
+              "515898614": "متعدّد الألوان (102)",
+              "916477916": "Black / Green",
+              "1288887797": "متعدّد الألوان (007)",
+              "1692092627": "Black / White / Silver"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "1016973400",
       "sallaId": "1016973400",
       "sku": "RSP-NIKE-REACTX-REJ",
@@ -21857,7 +22317,7 @@
             {
               "id": "1955964819",
               "name": "متعدّد الألوان (006)",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/99bf01d9-2062-487a-9a7f-907d6c48ed79-500x500-d9JkbdZXYQG7oBpWmOctlp0DLo46lpbN8KgvhNk2.png"
             },
             {
@@ -23232,7 +23692,7 @@
             {
               "id": "960596571",
               "name": "36",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -25038,7 +25498,7 @@
             {
               "id": "2106799724",
               "name": "36",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -25414,7 +25874,7 @@
             {
               "id": "719402886",
               "name": "46",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -25629,7 +26089,7 @@
             {
               "id": "773205572",
               "name": "متعدّد الألوان (300)",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/cc06c750-c488-4f2f-bf32-b1c630c2e731-500x500-60bEdF6HEF4bei1wjaxmC9lkHwguwvoKk19s3rwO.png"
             },
             {
@@ -25654,7 +26114,7 @@
             {
               "id": "665226055",
               "name": "36.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -27587,7 +28047,7 @@
             {
               "id": "1625149153",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -28422,7 +28882,7 @@
             {
               "id": "189306272",
               "name": "38.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -28476,13 +28936,13 @@
             {
               "id": "2013183145",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1104927658",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -28712,7 +29172,7 @@
             {
               "id": "575282511",
               "name": "أزرق فاتح × كحلي",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/98b63e69-14d1-4dda-b245-81abec9a05f8-500x500-mh39wHpgTvazOh0gQrHy8bOS2tQrjdDnMsEJIwQ0.jpg"
             }
           ]
@@ -28743,7 +29203,7 @@
             {
               "id": "2130549044",
               "name": "40",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -28761,7 +29221,7 @@
             {
               "id": "1955391031",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -28773,7 +29233,7 @@
             {
               "id": "271983665",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -28803,7 +29263,7 @@
             {
               "id": "898158398",
               "name": "47.5",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -29665,7 +30125,7 @@
             {
               "id": "495776909",
               "name": "36.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -29725,7 +30185,7 @@
             {
               "id": "1210006167",
               "name": "45",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -29973,7 +30433,7 @@
             {
               "id": "1662820979",
               "name": "40.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30015,7 +30475,7 @@
             {
               "id": "538479482",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -32038,7 +32498,7 @@
             {
               "id": "2087840295",
               "name": "45.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -32050,7 +32510,7 @@
             {
               "id": "406530081",
               "name": "47",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -34467,7 +34927,7 @@
             {
               "id": "1319939664",
               "name": "S",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -34650,7 +35110,7 @@
             {
               "id": "1116930484",
               "name": "3XL",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -35443,7 +35903,7 @@
             {
               "id": "536800256",
               "name": "3XL",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -35461,7 +35921,7 @@
             {
               "id": "644845317",
               "name": "L",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -35722,7 +36182,7 @@
             {
               "id": "943084424",
               "name": "3XL",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -38955,7 +39415,7 @@
             {
               "id": "938138515",
               "name": "كاكي",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/4aa06918-ab9c-4ec7-a9ed-be279796b531-500x375-3f6mY7ClG45oLPI9wMZJyN601LF1I8fmWF5Gd6Gp.png"
             }
           ]
@@ -38980,7 +39440,7 @@
             {
               "id": "453608857",
               "name": "O",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -42157,7 +42617,7 @@
             {
               "id": "1566837180",
               "name": "2XL",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -42187,7 +42647,7 @@
             {
               "id": "60811955",
               "name": "XL",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -42386,7 +42846,7 @@
             {
               "id": "200753030",
               "name": "2XL",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -43457,304 +43917,6 @@
       }
     },
     {
-      "id": "40018897",
-      "sallaId": "40018897",
-      "sku": "RSP-adidas-HP9971",
-      "name": "حذاء أديداس بريديتور إيليت FT AG لكرة القدم",
-      "brand": "أديداس",
-      "category": "shoes",
-      "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
-      "price": 720,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "أديداس · بريديتور إيليت FT AG",
-      "description": "بريديتور إيليت FT AG بريديتور خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و إيليت الفئة العليا — أخفّ الخامات وأقربها إلى القدم. التقنيات عناصر مطاطية على منطقة التسديد — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة. نعل AG — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية. لمن هذا الحذاء؟ لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل HP9971 · بضاعة أصلية من اليابان.",
-      "desc": [
-        {
-          "t": "h",
-          "s": [
-            "بريديتور إيليت FT AG"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            {
-              "b": "بريديتور"
-            },
-            " خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و",
-            {
-              "b": "إيليت"
-            },
-            " الفئة العليا — أخفّ الخامات وأقربها إلى القدم."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "التقنيات"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "عناصر مطاطية على منطقة التسديد"
-            },
-            " — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "نعل AG"
-            },
-            " — مسامير مصمّمة للعشب الصناعي الطويل تحديداً، وأطول عمراً عليه من نعل الأرض الطبيعية."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "لمن هذا الحذاء؟"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "المقاسات"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "كود الموديل ",
-            {
-              "b": "HP9971"
-            },
-            " · بضاعة أصلية من اليابان."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/171e8b15-5162-4527-9f96-85930ca71815-1000x750-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg",
-        "https://cdn.salla.sa/jZjwre/35e6feb3-2220-4a54-abc7-a94911a12abe-1000x750-8LxrX1A51UCnYVEanpdO4YfnQjYPAyzGOhn7ifXi.jpg"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم"
-      ],
-      "colors": [
-        "وردي سولار توربو × رمادي فحمي",
-        "سماوي × أزرق"
-      ],
-      "options": [
-        {
-          "id": "1228876137",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "217685449",
-              "name": "وردي سولار توربو × رمادي فحمي",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
-            },
-            {
-              "id": "1590082762",
-              "name": "سماوي × أزرق",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/c738377f-1914-4764-b1c7-e5ea809aab0d-500x375-8LxrX1A51UCnYVEanpdO4YfnQjYPAyzGOhn7ifXi.jpg"
-            }
-          ]
-        },
-        {
-          "id": "453265514",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "681827275",
-              "name": "25.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "2055797460",
-              "name": "26.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1414863317",
-              "name": "26.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "640825558",
-              "name": "27.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1881098199",
-              "name": "27.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1306814160",
-              "name": "28.0 سم",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "origin": null,
-      "status": "out",
-      "url": "https://risport-sa.com/ar/x/p40018897",
-      "en": {
-        "name": "adidas Predator Elite FT AG Football Boots",
-        "brand": "adidas",
-        "sport": "Football",
-        "tagline": null,
-        "subtitle": "أديداس · بريديتور إيليت FT AG",
-        "description": "Predator Elite FT AG Predator is adidas' control and striking line — a playmaker's boot, not a winger's. Elite is the top tier — the lightest materials, closest to the foot. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. AG outsole — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code HP9971 · authentic stock from Japan.",
-        "desc": [
-          {
-            "t": "h",
-            "s": [
-              "Predator Elite FT AG"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              {
-                "b": "Predator"
-              },
-              " is adidas' control and striking line — a playmaker's boot, not a winger's. ",
-              {
-                "b": "Elite"
-              },
-              " is the top tier — the lightest materials, closest to the foot."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Technology"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "Rubber elements on the strike zone"
-              },
-              " — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "AG outsole"
-              },
-              " — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Who is it for?"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Sizing"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "Model code ",
-              {
-                "b": "HP9971"
-              },
-              " · authentic stock from Japan."
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
-        "options": {
-          "453265514": {
-            "name": "Size",
-            "values": {
-              "640825558": "27.0 cm",
-              "681827275": "25.5 cm",
-              "1306814160": "28.0 cm",
-              "1414863317": "26.5 cm",
-              "1881098199": "27.5 cm",
-              "2055797460": "26.0 cm"
-            }
-          },
-          "1228876137": {
-            "name": "Colour",
-            "values": {
-              "217685449": "Solar Turbo / Charcoal / Core Black",
-              "1590082762": "Crew Sky / Ray Blue"
-            }
-          }
-        }
-      }
-    },
-    {
       "id": "721119659",
       "sallaId": "721119659",
       "sku": "RSP-ASICS-MT3-FUTURITY",
@@ -44283,11 +44445,11 @@
       }
     },
     {
-      "id": "598962598",
-      "sallaId": "598962598",
-      "sku": "RSP-NIKE-GT-JUMP-ACA",
-      "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
-      "brand": "نايكي",
+      "id": "1446292277",
+      "sallaId": "1446292277",
+      "sku": "RSP-EQLZ-247NXT",
+      "name": "حذاء إيكوالايزر 247 NXT لكرة السلة",
+      "brand": "إيكوالايزر",
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
@@ -44295,30 +44457,26 @@
         "الأحذية",
         "أحذية كرة سلة"
       ],
-      "price": 299,
+      "price": 679,
       "compareAt": null,
       "tagline": null,
-      "subtitle": "G.T. — للارتقاء العالي",
-      "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+      "subtitle": "نعل جلد القرش الحيوي ودعم TPU مزدوج",
+      "description": "حذاء كرة سلة أصلي 100٪ من إيكوالايزر — طراز 247 NXT عالي الأداء. نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
       "desc": [
         {
           "t": "p",
           "s": [
-            "نسخة ",
+            "حذاء كرة سلة ",
             {
-              "b": "أكاديمي"
+              "b": "أصلي 100٪"
             },
-            " من خطّ G.T. Jump المصمَّم حول ",
-            {
-              "b": "الارتقاء"
-            },
-            "."
+            " من إيكوالايزر — طراز 247 NXT عالي الأداء."
           ]
         },
         {
           "t": "p",
           "s": [
-            "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
+            "نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق."
           ]
         },
         {
@@ -44339,94 +44497,142 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/8d887a6a-7a9b-42b7-9d01-0669b60c6f51-1000x1000-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png",
-        "https://cdn.salla.sa/jZjwre/df4b7cc5-19d8-46c3-afd5-70929d6c7255-1000x1000-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png",
-        "https://cdn.salla.sa/jZjwre/6a6ef673-6c32-4a7a-98ca-d1643c0db320-1000x1000-4u7KzCwrWfpxq9uRe0hWLpImeOX5hK2af0E5T1cL.jpg",
-        "https://cdn.salla.sa/jZjwre/06b6a0f3-ae53-4a06-ab19-7b4de514e402-1000x1000-8gsM5ibf0h2GurdbJLqGaJVhHMztErsMJTSFMSZH.jpg",
-        "https://cdn.salla.sa/jZjwre/62eae765-be75-4013-a6f8-69ebc1fe1bb6-1000x1000-WsWnSksQ6bHTk2cRtA3gmikngTV61XrbixRIryVH.jpg",
-        "https://cdn.salla.sa/jZjwre/fb90d014-8364-4a18-94d2-ac16644974b0-1000x1000-bZH3KgbmvrqJXCjdu8h2EqP6x1wuKdb4CAPulckU.jpg"
+        "https://cdn.salla.sa/jZjwre/5812c892-c48f-4e8e-9405-2678fef35484-1000x1000-EE0FuN8AxgmbxbvKVfhnQqNRgJjeuJOta62MTxJg.jpg",
+        "https://cdn.salla.sa/jZjwre/0af51d0e-17d8-4325-93f8-a14de259c996-750x1000-5FStW0JI6PvLBg8A3xmMSIeTHtke58f0ZmxDH4D7.jpg",
+        "https://cdn.salla.sa/jZjwre/b1594784-a204-4e81-810b-18ff28d2f64f-750x1000-FH96u0tt3VmPjAFL7xSbZ4WnfSFqOUZeyrVygsdl.jpg",
+        "https://cdn.salla.sa/jZjwre/d1f1e4f9-402b-46dd-9546-836d2147c1e8-750x1000-AbGLsMKOsnGJ4a6i6K6LdjFTWnIzluHSVN0D7Bug.jpg",
+        "https://cdn.salla.sa/jZjwre/db99f046-7e4c-4800-8b47-dda1a91f1a78-750x1000-XGAPT8RncEo8ZbEets5k6QaUPNEyFDIcNNywDFwr.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
         "color": "اللون"
       },
       "sizes": [
-        "36",
-        "37.5",
-        "38.5",
-        "39",
         "40",
         "40.5",
-        "41"
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "45.5",
+        "46",
+        "47",
+        "47.5",
+        "48.5",
+        "49.5"
       ],
       "colors": [
-        "متعدّد الألوان (007)",
-        "متعدّد الألوان (102)"
+        "الفارس الأسود"
       ],
       "options": [
         {
-          "id": "187631772",
+          "id": "1381524245",
           "name": "اللون",
           "required": true,
           "values": [
             {
-              "id": "1288887797",
-              "name": "متعدّد الألوان (007)",
+              "id": "1583961335",
+              "name": "الفارس الأسود",
               "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/25b3301f-f2b2-4860-94c2-f5c18536212a-500x500-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png"
-            },
-            {
-              "id": "515898614",
-              "name": "متعدّد الألوان (102)",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/7c370015-5ad7-4f03-beca-3c0acdc0a086-500x500-upnZx1KsHgIEMVyEcUOjElEDwiZDS15TXHBtNWbm.png"
+              "img": "https://cdn.salla.sa/jZjwre/2c4a7ec1-2fcd-48e0-93ba-53f787502516-500x500-EE0FuN8AxgmbxbvKVfhnQqNRgJjeuJOta62MTxJg.jpg"
             }
           ]
         },
         {
-          "id": "12473759",
+          "id": "355684934",
           "name": "المقاس",
           "required": true,
           "values": [
             {
-              "id": "1430921976",
-              "name": "36",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "655835641",
-              "name": "37.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1895588090",
-              "name": "38.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1121619963",
-              "name": "39",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "480751300",
+              "id": "566677747",
               "name": "40",
               "out": true,
               "img": null
             },
             {
-              "id": "1854721477",
+              "id": "1940127740",
               "name": "40.5",
               "out": true,
               "img": null
             },
             {
-              "id": "946465990",
+              "id": "1300766461",
               "name": "41",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "525680126",
+              "name": "42",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1764908287",
+              "name": "42.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "991919096",
+              "name": "43",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "350591737",
+              "name": "44",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1724037626",
+              "name": "44.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "816830715",
+              "name": "45",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "41215940",
+              "name": "45.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1548814021",
+              "name": "46",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "775824838",
+              "name": "47",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "2015052999",
+              "name": "47.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1440768960",
+              "name": "48.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "667845313",
+              "name": "49.5",
               "out": true,
               "img": null
             }
@@ -44434,35 +44640,31 @@
         }
       ],
       "model": null,
-      "origin": "JP",
+      "origin": "CN",
       "status": "out",
-      "url": "https://risport-sa.com/ar/x/p598962598",
+      "url": "https://risport-sa.com/ar/x/p1446292277",
       "en": {
-        "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
-        "brand": "Nike",
+        "name": "حذاء إيكوالايزر 247 NXT لكرة السلة",
+        "brand": "Equalizer",
         "sport": "Basketball",
         "tagline": null,
-        "subtitle": "G.T. — للارتقاء العالي",
-        "description": "نسخة أكاديمي من خطّ G.T. Jump المصمَّم حول الارتقاء . وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
+        "subtitle": "نعل جلد القرش الحيوي ودعم TPU مزدوج",
+        "description": "حذاء كرة سلة أصلي 100٪ من إيكوالايزر — طراز 247 NXT عالي الأداء. نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق. جميع الألوان والمقاسات المعروضة أصلية ومستوردة من المصدر. ⏱️ يُجلب من المصدر بطلبك — مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع. نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
         "desc": [
           {
             "t": "p",
             "s": [
-              "نسخة ",
+              "حذاء كرة سلة ",
               {
-                "b": "أكاديمي"
+                "b": "أصلي 100٪"
               },
-              " من خطّ G.T. Jump المصمَّم حول ",
-              {
-                "b": "الارتقاء"
-              },
-              "."
+              " من إيكوالايزر — طراز 247 NXT عالي الأداء."
             ]
           },
           {
             "t": "p",
             "s": [
-              "وسادة ارتداد عالية في المقدمة تدفع القفزة، ونعل خارجي يمسك الأرضية عند الهبوط."
+              "نعل خارجي بنقشة جلد القرش الحيوية بأخاديد عميقة للتشبّث، ودعم TPU على الجانبين، وواجهة علوية بتموّج ٣٦٠ درجة تحيط بالقدم، ودفع سائل الحركة عند الانطلاق."
             ]
           },
           {
@@ -44488,23 +44690,30 @@
           "Basketball Shoes"
         ],
         "options": {
-          "12473759": {
+          "355684934": {
             "name": "المقاس",
             "values": {
-              "480751300": "40",
-              "655835641": "37.5",
-              "946465990": "41",
-              "1121619963": "39",
-              "1430921976": "36",
-              "1854721477": "40.5",
-              "1895588090": "38.5"
+              "41215940": "45.5",
+              "350591737": "44",
+              "525680126": "42",
+              "566677747": "40",
+              "667845313": "49.5",
+              "775824838": "47",
+              "816830715": "45",
+              "991919096": "43",
+              "1300766461": "41",
+              "1440768960": "48.5",
+              "1548814021": "46",
+              "1724037626": "44.5",
+              "1764908287": "42.5",
+              "1940127740": "40.5",
+              "2015052999": "47.5"
             }
           },
-          "187631772": {
+          "1381524245": {
             "name": "اللون",
             "values": {
-              "515898614": "متعدّد الألوان (102)",
-              "1288887797": "متعدّد الألوان (007)"
+              "1583961335": "الفارس الأسود"
             }
           }
         }
@@ -45330,13 +45539,13 @@
         "بوما": "Puma",
         "لي نينغ": "Li-Ning",
         "أنتا": "ANTA",
-        "إيكوالايزر": "Equalizer",
         "ريغورر": "Rigorer",
         "أتليتا": "Athleta",
         "سفولمي": "Svolme",
         "ياسودا": "Yasuda",
         "أديداس": "adidas",
-        "ميكاسا": "MIKASA"
+        "ميكاسا": "MIKASA",
+        "إيكوالايزر": "Equalizer"
       },
       "sports": {
         "الجري": "Running",
