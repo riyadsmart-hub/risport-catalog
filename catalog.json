@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-27T08:18:06.484Z",
+  "generatedAt": "2026-09-27T18:31:39.245Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -3630,7 +3630,7 @@
             {
               "id": "655529382",
               "name": "26.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -20144,13 +20144,13 @@
             {
               "id": "459807028",
               "name": "46",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1966422069",
               "name": "47",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -20558,7 +20558,7 @@
             {
               "id": "280761330",
               "name": "36",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -23711,7 +23711,7 @@
             {
               "id": "187607204",
               "name": "38.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -30446,7 +30446,7 @@
             {
               "id": "1662820979",
               "name": "40.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -31241,7 +31241,7 @@
             {
               "id": "1848438750",
               "name": "38.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
