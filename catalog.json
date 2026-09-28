@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-28T07:02:20.693Z",
+  "generatedAt": "2026-09-28T22:08:54.628Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -2844,7 +2844,7 @@
         "الأحذية",
         "أحذية كرة سلة"
       ],
-      "price": 619,
+      "price": 689,
       "compareAt": null,
       "tagline": null,
       "subtitle": null,
