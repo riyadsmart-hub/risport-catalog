@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-03T12:39:54.419Z",
+  "generatedAt": "2026-10-03T21:21:03.819Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5855,7 +5855,7 @@
             {
               "id": "2096018037",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -22078,7 +22078,7 @@
             {
               "id": "1288887797",
               "name": "متعدّد الألوان (007)",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/25b3301f-f2b2-4860-94c2-f5c18536212a-500x500-MDkRV7bTHGncKYL2DBwKzbnDdOcb4MQYHv2jPyLQ.png"
             },
             {
@@ -27686,7 +27686,7 @@
             {
               "id": "2005242722",
               "name": "39",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30458,7 +30458,7 @@
             {
               "id": "247914621",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
