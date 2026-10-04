@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-03T21:21:03.819Z",
+  "generatedAt": "2026-10-04T06:01:11.933Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -19095,7 +19095,7 @@
             {
               "id": "237986092",
               "name": "أبيض × ساكس × أخضر",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/87e132a9-9c21-4d4c-9421-6183d24c1dfc-500x237.85714285714-5hBUb8mtqBbFSBlHNykZsqLncrryDXGYRocnkOY5.png"
             }
           ]
