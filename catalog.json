@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-06T10:26:07.874Z",
+  "generatedAt": "2026-10-07T08:47:00.521Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -12100,7 +12100,7 @@
             {
               "id": "188917476",
               "name": "إنديجو فوغ",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/92a20629-a813-4c83-8383-c1f0d02055eb-500x293.08452250274-t73tHy2nubg0QaHgr14C6PrfRcDnbcUC1qgdws3H.png"
             },
             {
