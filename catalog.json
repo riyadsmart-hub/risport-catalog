@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-14T06:16:31.166Z",
+  "generatedAt": "2026-10-14T12:00:53.937Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -6723,13 +6723,13 @@
             {
               "id": "1315887481",
               "name": "49",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "407631994",
               "name": "50.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -29122,31 +29122,31 @@
             {
               "id": "1413094991",
               "name": "41",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "638008648",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1944869961",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1305049930",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "530029131",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30847,19 +30847,19 @@
             {
               "id": "57051867",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1564715300",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "791201829",
               "name": "43",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -41930,13 +41930,13 @@
             {
               "id": "2033072062",
               "name": "أخضر كلوروفيل × عاجي فاتح",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/e4e8eacd-8c7f-4d10-812f-289b10627e5f-500x375-CYFQIBWvBbEAeiw3CYfQdZenQURBAVuq5vgAPrpO.jpg"
             },
             {
               "id": "1259034303",
               "name": "بنفسجي × بنفسجي فاتح × رمادي ألومنيوم",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/24845a5e-11dd-494c-ae76-00cba3e66c15-500x375-uCnGVwyVjunXzwtNOIygauVCjk2OYYMoLUbk2VfN.jpg"
             },
             {
@@ -41961,7 +41961,7 @@
             {
               "id": "200753030",
               "name": "2XL",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -41973,13 +41973,13 @@
             {
               "id": "1083945914",
               "name": "S",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "308335291",
               "name": "M",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
