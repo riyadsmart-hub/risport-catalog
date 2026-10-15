@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-14T17:18:36.818Z",
+  "generatedAt": "2026-10-15T22:25:52.584Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -11471,6 +11471,430 @@
       }
     },
     {
+      "id": "1691308859",
+      "sallaId": "1691308859",
+      "sku": "RSP-ASICS-METARISE2-SHINE",
+      "name": "حذاء أسيكس ميتارايز 2 شاين باك",
+      "brand": "أسيكس",
+      "category": "shoes",
+      "sport": "كرة الطائرة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة طائرة"
+      ],
+      "price": 829,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "شاين باك — إصدار محدود",
+      "description": "قمة ما تصنعه أسيكس — إصدار شاين باك الذي يلعب به نيشيدا يوجي الميتارايز 2 هو أغلى حذاء كرة طائرة تصنعه أسيكس ، مبني من أوله لآخره لهدف واحد: أعلى قفزة ممكنة . وهذه النسخة تحديداً هي إصدار SHINE PACK (كود الموديل 1051A104 ) الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة — نفس الحذاء الذي يلعب به نجم الهجوم نيشيدا يوجي . ويُشحن هذا الإصدار مباشرة من اليابان. اللون والتصميم جسم أبيض بتشطيب معدني لامع يتغيّر مظهره مع زاوية الضوء، مع شعار أسيكس بنفسجي (أميثيست) ونعل وسطي فيروزي . هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره. لماذا الميتارايز هو الأقوى في القفز؟ MONO-SOCK + RISETRUSS — منصة قفز متكاملة تحوّل طاقة الاندفاع إلى ارتفاع. بنية MONO-SOCK تدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. وهيكل RISETRUSS يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً — فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الجوانب. FF BLAST PLUS مع لوح كربوني — ارتداد فائق وامتصاص لصدمات الهبوط المتكرر. النعل يعيد لك جزءاً من الطاقة في كل خطوة بدل أن يبتلعها، واللوح الكربوني يمنح المنصة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتص التركيب صدمة النزول المتكررة شوطاً بعد شوط. قصّة متوسطة (Mid-cut) — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو الموقف الأخطر على لاعب يقفز عشرات المرات في المباراة الواحدة. لمن هذا الحذاء؟ للاعبي القفز المتواصل قبل أي أحد: الضارب المقابل (Opposite) و لاعب الوسط (Middle Blocker) — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب هو الاقتراب ثم الدفع ثم الهبوط ثم التكرار فوراً، فهذا الحذاء مبني لك بالتحديد. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أثقل وأكثر تقييداً مما تحتاج — والسعر لا يُبرّر ذلك في حالتك.",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "قمة ما تصنعه أسيكس — إصدار شاين باك الذي يلعب به نيشيدا يوجي"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "الميتارايز 2 هو ",
+            {
+              "b": "أغلى حذاء كرة طائرة تصنعه أسيكس"
+            },
+            "، مبني من أوله لآخره لهدف واحد: ",
+            {
+              "b": "أعلى قفزة ممكنة"
+            },
+            ". وهذه النسخة تحديداً هي إصدار ",
+            {
+              "b": "SHINE PACK"
+            },
+            " (كود الموديل ",
+            {
+              "b": "1051A104"
+            },
+            ") الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة — نفس الحذاء الذي يلعب به نجم الهجوم ",
+            {
+              "b": "نيشيدا يوجي"
+            },
+            ". ويُشحن هذا الإصدار مباشرة من اليابان."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "اللون والتصميم"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "جسم ",
+            {
+              "b": "أبيض"
+            },
+            " بتشطيب معدني لامع يتغيّر مظهره مع زاوية الضوء، مع شعار أسيكس ",
+            {
+              "b": "بنفسجي (أميثيست)"
+            },
+            " ونعل وسطي ",
+            {
+              "b": "فيروزي"
+            },
+            ". هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لماذا الميتارايز هو الأقوى في القفز؟"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "MONO-SOCK + RISETRUSS"
+            },
+            " — منصة قفز متكاملة تحوّل طاقة الاندفاع إلى ارتفاع. بنية ",
+            {
+              "b": "MONO-SOCK"
+            },
+            " تدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. وهيكل ",
+            {
+              "b": "RISETRUSS"
+            },
+            " يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً — فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الجوانب."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "FF BLAST PLUS"
+            },
+            " مع ",
+            {
+              "b": "لوح كربوني"
+            },
+            " — ارتداد فائق وامتصاص لصدمات الهبوط المتكرر. النعل يعيد لك جزءاً من الطاقة في كل خطوة بدل أن يبتلعها، واللوح الكربوني يمنح المنصة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتص التركيب صدمة النزول المتكررة شوطاً بعد شوط."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قصّة متوسطة (Mid-cut)"
+            },
+            " — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو الموقف الأخطر على لاعب يقفز عشرات المرات في المباراة الواحدة."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "للاعبي القفز المتواصل قبل أي أحد: ",
+            {
+              "b": "الضارب المقابل (Opposite)"
+            },
+            " و",
+            {
+              "b": "لاعب الوسط (Middle Blocker)"
+            },
+            " — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب هو الاقتراب ثم الدفع ثم الهبوط ثم التكرار فوراً، فهذا الحذاء مبني لك بالتحديد."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أثقل وأكثر تقييداً مما تحتاج — والسعر لا يُبرّر ذلك في حالتك."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/aeda090c-dc40-491d-867a-470002666c38-1000x663.49583828775-FlWJfh6HR6ZXoOShrpoxZ4fBEiqw8aTHNArZBFpb.png",
+        "https://cdn.salla.sa/jZjwre/047c98d5-1618-4653-80a0-52dfa78f28ec-1000x541.7661097852-0ixUGSpXsvTcRAv3fidvqXWi89BXezq7jyMECTyb.png",
+        "https://cdn.salla.sa/jZjwre/848cb8e4-0a25-43b6-aa49-0556aff7e3fd-1000x568.8622754491-pu6vhBCNuujk1zUID3nv6uiNwWBQqIMhkTLVuEQh.png",
+        "https://cdn.salla.sa/jZjwre/e82a2f01-9a38-4c61-9b5e-8e3a18dab573-1000x545.34606205251-CWiJFUZDMpZ4lpMeogulF0s5xm9WL7pfvUqTGrhO.png",
+        "https://cdn.salla.sa/jZjwre/d454b9a5-15d7-4262-b789-1a33c004a6e0-1000x589.15662650602-hktHZkIu347xbT2Dpy5NDVlXGMFFdkCMcyiSeRNw.png",
+        "https://cdn.salla.sa/jZjwre/42e16af9-413e-415e-9e4d-9dbddfce702a-932.70735524257x1000-RiqC6FodAnvejtWQxTFqLo98W6SmQDuSm3Gzb6w2.png",
+        "https://cdn.salla.sa/jZjwre/d700f4a8-d1fc-47e8-bb6e-7311a056065e-1000x713.75-mMeErJyhPc9ycmRb2dN2vRP00MFZUj58Z3Pbkf8I.jpg",
+        "https://cdn.salla.sa/jZjwre/70cae8ad-d9d2-46b1-8e18-32a9d168fba8-808.91719745223x1000-lnk4NloSV5RNsJqHgOBRLpx1T7EEntCprB0XBVjV.png",
+        "https://cdn.salla.sa/jZjwre/556669db-ef17-41c8-bf0e-d3c07e059a5f-1000x717.76155717762-mDD32Pu9WzNXVGHhtOlZQbWGo4g7LyKmGoq9EWzO.png"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": null
+      },
+      "sizes": [
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "45",
+        "46",
+        "46.5",
+        "47",
+        "48",
+        "49",
+        "50.5"
+      ],
+      "colors": [],
+      "options": [
+        {
+          "id": "1981987011",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1852819200",
+              "name": "41.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "942990849",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "168887554",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1744708611",
+              "name": "43.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1099583410",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "836453132",
+              "name": "45",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "60842509",
+              "name": "46",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1569620238",
+              "name": "46.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "795582479",
+              "name": "47",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "2033241864",
+              "name": "48",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1260252681",
+              "name": "49",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "620367114",
+              "name": "50.5",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1691308859",
+      "en": {
+        "name": "Asics Metarise 2 — Exclusive Shine Pack (Yuji Nishida's Shoe)",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "Shine Pack — limited edition",
+        "description": "The peak of what ASICS builds — the Shine Pack edition Yuji Nishida plays in The Metarise 2 is the most expensive volleyball shoe ASICS makes , built end to end for one goal: the highest jump possible . This particular version is the SHINE PACK edition (model code 1051A104 ) released by ASICS together with the Japan Volleyball Association — the very shoe worn by star attacker Yuji Nishida . This edition ships directly from Japan. Colour and design A white body with a metallic sheen that shifts with the angle of the light, an amethyst purple ASICS logo and a turquoise midsole. This is the only colourway the edition was released in, and it is not offered in any other. Why the Metarise is the strongest jumping shoe MONO-SOCK + RISETRUSS — a complete jumping platform that converts drive into height. The MONO-SOCK construction merges the tongue and the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping through the approach steps. The RISETRUSS structure resists midfoot twisting at the final push so energy does not leak sideways — what you put into the floor comes back as height instead of being lost to the sides. FF BLAST PLUS with a carbon plate — outstanding rebound plus absorption of repeated landing impact. The midsole returns part of the energy on every step instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you. And on landing — which is what actually wears a player down over a match — the construction absorbs the repeated impact set after set. Mid cut — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous moment for a player who jumps dozens of times in a single match. Who is it for? For continuous jumpers before anyone else: the opposite and the middle blocker — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you. A frank note: if you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is heavier and more restrictive than you need — and its price does not justify it in your case.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "The peak of what ASICS builds — the Shine Pack edition Yuji Nishida plays in"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The Metarise 2 is ",
+              {
+                "b": "the most expensive volleyball shoe ASICS makes"
+              },
+              ", built end to end for one goal: ",
+              {
+                "b": "the highest jump possible"
+              },
+              ". This particular version is the ",
+              {
+                "b": "SHINE PACK"
+              },
+              " edition (model code ",
+              {
+                "b": "1051A104"
+              },
+              ") released by ASICS together with the Japan Volleyball Association — the very shoe worn by star attacker ",
+              {
+                "b": "Yuji Nishida"
+              },
+              ". This edition ships directly from Japan."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Colour and design"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "A ",
+              {
+                "b": "white"
+              },
+              " body with a metallic sheen that shifts with the angle of the light, an ",
+              {
+                "b": "amethyst purple"
+              },
+              " ASICS logo and a ",
+              {
+                "b": "turquoise"
+              },
+              " midsole. This is the only colourway the edition was released in, and it is not offered in any other."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Why the Metarise is the strongest jumping shoe"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "MONO-SOCK + RISETRUSS"
+              },
+              " — a complete jumping platform that converts drive into height. The ",
+              {
+                "b": "MONO-SOCK"
+              },
+              " construction merges the tongue and the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping through the approach steps. The ",
+              {
+                "b": "RISETRUSS"
+              },
+              " structure resists midfoot twisting at the final push so energy does not leak sideways — what you put into the floor comes back as height instead of being lost to the sides."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "FF BLAST PLUS"
+              },
+              " with a ",
+              {
+                "b": "carbon plate"
+              },
+              " — outstanding rebound plus absorption of repeated landing impact. The midsole returns part of the energy on every step instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you. And on landing — which is what actually wears a player down over a match — the construction absorbs the repeated impact set after set."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Mid cut"
+              },
+              " — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous moment for a player who jumps dozens of times in a single match."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "For continuous jumpers before anyone else: the ",
+              {
+                "b": "opposite"
+              },
+              " and the ",
+              {
+                "b": "middle blocker"
+              },
+              " — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "A frank note: if you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is heavier and more restrictive than you need — and its price does not justify it in your case."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1981987011": {
+            "name": "Size",
+            "values": {
+              "60842509": "46",
+              "168887554": "42.5",
+              "620367114": "50.5",
+              "795582479": "47",
+              "836453132": "45",
+              "942990849": "42",
+              "1099583410": "44",
+              "1260252681": "49",
+              "1569620238": "46.5",
+              "1744708611": "43.5",
+              "1852819200": "41.5",
+              "2033241864": "48"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "810346638",
       "sallaId": "810346638",
       "sku": "RSP-ASICS-METARISE2",
@@ -14591,19 +15015,19 @@
             {
               "id": "557334247",
               "name": "25.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1929731552",
               "name": "25.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1289911521",
               "name": "26.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -14615,25 +15039,25 @@
             {
               "id": "1754643171",
               "name": "27.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "980605420",
               "name": "28.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "341833965",
               "name": "29.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1713637358",
               "name": "29.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -24598,7 +25022,7 @@
             {
               "id": "2005556310",
               "name": "متعدّد الألوان (601)",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/f6e4c72f-eede-4e48-bd83-c91310de3224-500x500-tOGY7kKvNMlOvXT0Osjio8k4HXv1dK4ddLRNH73x.png"
             },
             {
@@ -24610,7 +25034,7 @@
             {
               "id": "322804304",
               "name": "متعدّد الألوان (401)",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/084852e0-e8d6-4339-bb58-6554528bf2cf-500x500-cZnFtPB3GmquT5WdTRa6bmRyhRr80Swl4hmSpzDb.png"
             },
             {
@@ -29146,7 +29570,7 @@
             {
               "id": "530029131",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30004,7 +30428,7 @@
             {
               "id": "1972127088",
               "name": "38.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -34503,7 +34927,7 @@
             {
               "id": "2093453143",
               "name": "كحلي",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/11cf860e-72a7-47d6-b057-3b4ca9b32319-500x375-budbOoU16pRJL95kDUszgMQ0XBuolJApyPOqNm2r.jpg"
             }
           ]
@@ -34528,7 +34952,7 @@
             {
               "id": "1784081490",
               "name": "L",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -40293,6 +40717,243 @@
       }
     },
     {
+      "id": "1581555343",
+      "sallaId": "1581555343",
+      "sku": "RSP-MIZUNO-V2MAB101",
+      "name": "تيشيرت ميزونو فَنتاست",
+      "brand": "ميزونو",
+      "category": "apparel",
+      "sport": "كرة الطائرة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "ملابس رياضية",
+        "تيشيرتات وأطقم"
+      ],
+      "price": 154,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "ميزونو · خطّ فَنتاست · نصف كم بتصريف عرق",
+      "description": "تيشيرت التمرين من خطّ فَنتاست — خطّ ميزونو المرح بألوان أفتح من الأساسي. لون يخرج عن السائد في حصّة كلّها كحلي وأسود. تصريف عرق وجفاف سريع . يونيسكس — قصّة واحدة للرجال والنساء. كود الموديل V2MAB101 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+      "desc": [
+        {
+          "t": "p",
+          "s": [
+            "تيشيرت التمرين من خطّ ",
+            {
+              "b": "فَنتاست"
+            },
+            " — خطّ ميزونو المرح بألوان أفتح من الأساسي."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "لون يخرج عن السائد"
+            },
+            " في حصّة كلّها كحلي وأسود."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "تصريف عرق وجفاف سريع"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "يونيسكس"
+            },
+            " — قصّة واحدة للرجال والنساء."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "كود الموديل ",
+            {
+              "b": "V2MAB101"
+            },
+            " · ميزونو · بضاعة أصلية من اليابان "
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "تُطلب من اليابان وتصلك خلال ",
+            {
+              "b": "٧ إلى ٢١ يوم عمل"
+            },
+            ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/bcd10c5b-b767-4653-b8d2-baf3676ba6c2-1000x750-x5n4aOnu3oZVCDBTKMfrMKb1pVAWL3ckjFyW3bqB.png",
+        "https://cdn.salla.sa/jZjwre/852ee857-316a-440c-9746-29f0813b82a5-1000x1000-SetxNxeICi8zLRJBBkKe2H9TaE0Lue2rxiByhLa2.jpg",
+        "https://cdn.salla.sa/jZjwre/6c688bcb-bfcb-485b-999d-4c0fe72ac4a5-1000x1000-4xujEPLyoTgF54royJMJIoNshXqXcomg3ewG0Iu0.jpg",
+        "https://cdn.salla.sa/jZjwre/23b4edee-2e5f-44ee-8626-a018f92d442c-1000x1000-L0o7OhQXtSaindT0TH40BS5o8eZY8v5Muikq1hIg.jpg",
+        "https://cdn.salla.sa/jZjwre/1ac33bae-c0a5-4460-a8e1-5da6fbdccda4-1000x1000-ajmanuluh5eh7klast8s2avwS16yBerPHHsAnXCK.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "2XL",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "تركوازي × كحلي غامق"
+      ],
+      "options": [
+        {
+          "id": "670602734",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1347004014",
+              "name": "تركوازي × كحلي غامق",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/6a96680c-b504-4032-b1d6-bdd95990574c-500x375-x5n4aOnu3oZVCDBTKMfrMKb1pVAWL3ckjFyW3bqB.png"
+            }
+          ]
+        },
+        {
+          "id": "1134744552",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "288722805",
+              "name": "2XL",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "463807082",
+              "name": "M",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "1971470699",
+              "name": "L",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1198481524",
+              "name": "XL",
+              "out": true,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p1581555343",
+      "en": {
+        "name": "تيشيرت ميزونو فَنتاست",
+        "brand": "Mizuno",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "ميزونو · خطّ فَنتاست · نصف كم بتصريف عرق",
+        "description": "تيشيرت التمرين من خطّ فَنتاست — خطّ ميزونو المرح بألوان أفتح من الأساسي. لون يخرج عن السائد في حصّة كلّها كحلي وأسود. تصريف عرق وجفاف سريع . يونيسكس — قصّة واحدة للرجال والنساء. كود الموديل V2MAB101 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+        "desc": [
+          {
+            "t": "p",
+            "s": [
+              "تيشيرت التمرين من خطّ ",
+              {
+                "b": "فَنتاست"
+              },
+              " — خطّ ميزونو المرح بألوان أفتح من الأساسي."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "لون يخرج عن السائد"
+              },
+              " في حصّة كلّها كحلي وأسود."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "تصريف عرق وجفاف سريع"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "يونيسكس"
+              },
+              " — قصّة واحدة للرجال والنساء."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "كود الموديل ",
+              {
+                "b": "V2MAB101"
+              },
+              " · ميزونو · بضاعة أصلية من اليابان "
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "تُطلب من اليابان وتصلك خلال ",
+              {
+                "b": "٧ إلى ٢١ يوم عمل"
+              },
+              ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Sportswear",
+          "T-shirts and Kits"
+        ],
+        "options": {
+          "670602734": {
+            "name": "اللون",
+            "values": {
+              "1347004014": "تركوازي × كحلي غامق"
+            }
+          },
+          "1134744552": {
+            "name": "المقاس",
+            "values": {
+              "288722805": "2XL",
+              "463807082": "M",
+              "1198481524": "XL",
+              "1971470699": "L"
+            }
+          }
+        }
+      }
+    },
+    {
       "id": "1230399951",
       "sallaId": "1230399951",
       "sku": "RSP-MIZUNO-32MAA156",
@@ -43560,430 +44221,6 @@
       }
     },
     {
-      "id": "1691308859",
-      "sallaId": "1691308859",
-      "sku": "RSP-ASICS-METARISE2-SHINE",
-      "name": "حذاء أسيكس ميتارايز 2 شاين باك",
-      "brand": "أسيكس",
-      "category": "shoes",
-      "sport": "كرة الطائرة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة طائرة"
-      ],
-      "price": 829,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "شاين باك — إصدار محدود",
-      "description": "قمة ما تصنعه أسيكس — إصدار شاين باك الذي يلعب به نيشيدا يوجي الميتارايز 2 هو أغلى حذاء كرة طائرة تصنعه أسيكس ، مبني من أوله لآخره لهدف واحد: أعلى قفزة ممكنة . وهذه النسخة تحديداً هي إصدار SHINE PACK (كود الموديل 1051A104 ) الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة — نفس الحذاء الذي يلعب به نجم الهجوم نيشيدا يوجي . ويُشحن هذا الإصدار مباشرة من اليابان. اللون والتصميم جسم أبيض بتشطيب معدني لامع يتغيّر مظهره مع زاوية الضوء، مع شعار أسيكس بنفسجي (أميثيست) ونعل وسطي فيروزي . هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره. لماذا الميتارايز هو الأقوى في القفز؟ MONO-SOCK + RISETRUSS — منصة قفز متكاملة تحوّل طاقة الاندفاع إلى ارتفاع. بنية MONO-SOCK تدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. وهيكل RISETRUSS يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً — فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الجوانب. FF BLAST PLUS مع لوح كربوني — ارتداد فائق وامتصاص لصدمات الهبوط المتكرر. النعل يعيد لك جزءاً من الطاقة في كل خطوة بدل أن يبتلعها، واللوح الكربوني يمنح المنصة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتص التركيب صدمة النزول المتكررة شوطاً بعد شوط. قصّة متوسطة (Mid-cut) — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو الموقف الأخطر على لاعب يقفز عشرات المرات في المباراة الواحدة. لمن هذا الحذاء؟ للاعبي القفز المتواصل قبل أي أحد: الضارب المقابل (Opposite) و لاعب الوسط (Middle Blocker) — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب هو الاقتراب ثم الدفع ثم الهبوط ثم التكرار فوراً، فهذا الحذاء مبني لك بالتحديد. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أثقل وأكثر تقييداً مما تحتاج — والسعر لا يُبرّر ذلك في حالتك.",
-      "desc": [
-        {
-          "t": "h",
-          "s": [
-            "قمة ما تصنعه أسيكس — إصدار شاين باك الذي يلعب به نيشيدا يوجي"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "الميتارايز 2 هو ",
-            {
-              "b": "أغلى حذاء كرة طائرة تصنعه أسيكس"
-            },
-            "، مبني من أوله لآخره لهدف واحد: ",
-            {
-              "b": "أعلى قفزة ممكنة"
-            },
-            ". وهذه النسخة تحديداً هي إصدار ",
-            {
-              "b": "SHINE PACK"
-            },
-            " (كود الموديل ",
-            {
-              "b": "1051A104"
-            },
-            ") الذي طرحته أسيكس مع الاتحاد الياباني للكرة الطائرة — نفس الحذاء الذي يلعب به نجم الهجوم ",
-            {
-              "b": "نيشيدا يوجي"
-            },
-            ". ويُشحن هذا الإصدار مباشرة من اليابان."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "اللون والتصميم"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "جسم ",
-            {
-              "b": "أبيض"
-            },
-            " بتشطيب معدني لامع يتغيّر مظهره مع زاوية الضوء، مع شعار أسيكس ",
-            {
-              "b": "بنفسجي (أميثيست)"
-            },
-            " ونعل وسطي ",
-            {
-              "b": "فيروزي"
-            },
-            ". هذا اللون الوحيد الذي صدر من الإصدار، ولا يُطرح بغيره."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "لماذا الميتارايز هو الأقوى في القفز؟"
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "MONO-SOCK + RISETRUSS"
-            },
-            " — منصة قفز متكاملة تحوّل طاقة الاندفاع إلى ارتفاع. بنية ",
-            {
-              "b": "MONO-SOCK"
-            },
-            " تدمج اللسان مع البطانة الداخلية في قطعة واحدة كالجورب، فتلتفّ حول القدم وتتحرك معها بلا انزلاق داخلي أثناء خطوات الاقتراب. وهيكل ",
-            {
-              "b": "RISETRUSS"
-            },
-            " يقاوم التواء منتصف القدم في لحظة الدفع الأخيرة حتى لا تتسرّب الطاقة جانباً — فما تدفعه في الأرض يعود إليك ارتفاعاً بدل أن يضيع في الجوانب."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "FF BLAST PLUS"
-            },
-            " مع ",
-            {
-              "b": "لوح كربوني"
-            },
-            " — ارتداد فائق وامتصاص لصدمات الهبوط المتكرر. النعل يعيد لك جزءاً من الطاقة في كل خطوة بدل أن يبتلعها، واللوح الكربوني يمنح المنصة صلابة تجعل الدفع سريعاً وحاسماً بدل أن تغوص القدم تحتك. وفي الهبوط — وهو ما يستهلك اللاعب فعلاً على مدار المباراة — يمتص التركيب صدمة النزول المتكررة شوطاً بعد شوط."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "قصّة متوسطة (Mid-cut)"
-            },
-            " — رقبة الحذاء تحيط بالكاحل وتدعمه في الهبوط غير المستوي تحت الشبكة، وهو الموقف الأخطر على لاعب يقفز عشرات المرات في المباراة الواحدة."
-          ]
-        },
-        {
-          "t": "h",
-          "s": [
-            "لمن هذا الحذاء؟"
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "للاعبي القفز المتواصل قبل أي أحد: ",
-            {
-              "b": "الضارب المقابل (Opposite)"
-            },
-            " و",
-            {
-              "b": "لاعب الوسط (Middle Blocker)"
-            },
-            " — من يقفزون عشرات المرات في الشوط الواحد بين صدّ وهجوم، ومن يحتاجون أقصى ارتفاع ممكن في الضربة الساحقة والإرسال. إن كان جلّ عملك في الملعب هو الاقتراب ثم الدفع ثم الهبوط ثم التكرار فوراً، فهذا الحذاء مبني لك بالتحديد."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تبحث عن الخفّة وحرية حركة الكاحل أكثر من أقصى ارتفاع قفزة، فهذا الحذاء أثقل وأكثر تقييداً مما تحتاج — والسعر لا يُبرّر ذلك في حالتك."
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/aeda090c-dc40-491d-867a-470002666c38-1000x663.49583828775-FlWJfh6HR6ZXoOShrpoxZ4fBEiqw8aTHNArZBFpb.png",
-        "https://cdn.salla.sa/jZjwre/047c98d5-1618-4653-80a0-52dfa78f28ec-1000x541.7661097852-0ixUGSpXsvTcRAv3fidvqXWi89BXezq7jyMECTyb.png",
-        "https://cdn.salla.sa/jZjwre/848cb8e4-0a25-43b6-aa49-0556aff7e3fd-1000x568.8622754491-pu6vhBCNuujk1zUID3nv6uiNwWBQqIMhkTLVuEQh.png",
-        "https://cdn.salla.sa/jZjwre/e82a2f01-9a38-4c61-9b5e-8e3a18dab573-1000x545.34606205251-CWiJFUZDMpZ4lpMeogulF0s5xm9WL7pfvUqTGrhO.png",
-        "https://cdn.salla.sa/jZjwre/d454b9a5-15d7-4262-b789-1a33c004a6e0-1000x589.15662650602-hktHZkIu347xbT2Dpy5NDVlXGMFFdkCMcyiSeRNw.png",
-        "https://cdn.salla.sa/jZjwre/42e16af9-413e-415e-9e4d-9dbddfce702a-932.70735524257x1000-RiqC6FodAnvejtWQxTFqLo98W6SmQDuSm3Gzb6w2.png",
-        "https://cdn.salla.sa/jZjwre/d700f4a8-d1fc-47e8-bb6e-7311a056065e-1000x713.75-mMeErJyhPc9ycmRb2dN2vRP00MFZUj58Z3Pbkf8I.jpg",
-        "https://cdn.salla.sa/jZjwre/70cae8ad-d9d2-46b1-8e18-32a9d168fba8-808.91719745223x1000-lnk4NloSV5RNsJqHgOBRLpx1T7EEntCprB0XBVjV.png",
-        "https://cdn.salla.sa/jZjwre/556669db-ef17-41c8-bf0e-d3c07e059a5f-1000x717.76155717762-mDD32Pu9WzNXVGHhtOlZQbWGo4g7LyKmGoq9EWzO.png"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": null
-      },
-      "sizes": [
-        "41.5",
-        "42",
-        "42.5",
-        "43.5",
-        "44",
-        "45",
-        "46",
-        "46.5",
-        "47",
-        "48",
-        "49",
-        "50.5"
-      ],
-      "colors": [],
-      "options": [
-        {
-          "id": "1981987011",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1852819200",
-              "name": "41.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "942990849",
-              "name": "42",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "168887554",
-              "name": "42.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1744708611",
-              "name": "43.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1099583410",
-              "name": "44",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "836453132",
-              "name": "45",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "60842509",
-              "name": "46",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1569620238",
-              "name": "46.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "795582479",
-              "name": "47",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "2033241864",
-              "name": "48",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1260252681",
-              "name": "49",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "620367114",
-              "name": "50.5",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "origin": "JP",
-      "status": "out",
-      "url": "https://risport-sa.com/ar/x/p1691308859",
-      "en": {
-        "name": "Asics Metarise 2 — Exclusive Shine Pack (Yuji Nishida's Shoe)",
-        "brand": "ASICS",
-        "sport": "Volleyball",
-        "tagline": null,
-        "subtitle": "Shine Pack — limited edition",
-        "description": "The peak of what ASICS builds — the Shine Pack edition Yuji Nishida plays in The Metarise 2 is the most expensive volleyball shoe ASICS makes , built end to end for one goal: the highest jump possible . This particular version is the SHINE PACK edition (model code 1051A104 ) released by ASICS together with the Japan Volleyball Association — the very shoe worn by star attacker Yuji Nishida . This edition ships directly from Japan. Colour and design A white body with a metallic sheen that shifts with the angle of the light, an amethyst purple ASICS logo and a turquoise midsole. This is the only colourway the edition was released in, and it is not offered in any other. Why the Metarise is the strongest jumping shoe MONO-SOCK + RISETRUSS — a complete jumping platform that converts drive into height. The MONO-SOCK construction merges the tongue and the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping through the approach steps. The RISETRUSS structure resists midfoot twisting at the final push so energy does not leak sideways — what you put into the floor comes back as height instead of being lost to the sides. FF BLAST PLUS with a carbon plate — outstanding rebound plus absorption of repeated landing impact. The midsole returns part of the energy on every step instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you. And on landing — which is what actually wears a player down over a match — the construction absorbs the repeated impact set after set. Mid cut — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous moment for a player who jumps dozens of times in a single match. Who is it for? For continuous jumpers before anyone else: the opposite and the middle blocker — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you. A frank note: if you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is heavier and more restrictive than you need — and its price does not justify it in your case.",
-        "desc": [
-          {
-            "t": "h",
-            "s": [
-              "The peak of what ASICS builds — the Shine Pack edition Yuji Nishida plays in"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "The Metarise 2 is ",
-              {
-                "b": "the most expensive volleyball shoe ASICS makes"
-              },
-              ", built end to end for one goal: ",
-              {
-                "b": "the highest jump possible"
-              },
-              ". This particular version is the ",
-              {
-                "b": "SHINE PACK"
-              },
-              " edition (model code ",
-              {
-                "b": "1051A104"
-              },
-              ") released by ASICS together with the Japan Volleyball Association — the very shoe worn by star attacker ",
-              {
-                "b": "Yuji Nishida"
-              },
-              ". This edition ships directly from Japan."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Colour and design"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "A ",
-              {
-                "b": "white"
-              },
-              " body with a metallic sheen that shifts with the angle of the light, an ",
-              {
-                "b": "amethyst purple"
-              },
-              " ASICS logo and a ",
-              {
-                "b": "turquoise"
-              },
-              " midsole. This is the only colourway the edition was released in, and it is not offered in any other."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Why the Metarise is the strongest jumping shoe"
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "MONO-SOCK + RISETRUSS"
-              },
-              " — a complete jumping platform that converts drive into height. The ",
-              {
-                "b": "MONO-SOCK"
-              },
-              " construction merges the tongue and the inner lining into a single sock-like piece that wraps the foot and moves with it, with no internal slipping through the approach steps. The ",
-              {
-                "b": "RISETRUSS"
-              },
-              " structure resists midfoot twisting at the final push so energy does not leak sideways — what you put into the floor comes back as height instead of being lost to the sides."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "FF BLAST PLUS"
-              },
-              " with a ",
-              {
-                "b": "carbon plate"
-              },
-              " — outstanding rebound plus absorption of repeated landing impact. The midsole returns part of the energy on every step instead of swallowing it, and the carbon plate gives the platform a stiffness that makes the push fast and decisive rather than letting the foot sink under you. And on landing — which is what actually wears a player down over a match — the construction absorbs the repeated impact set after set."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "Mid cut"
-              },
-              " — the collar wraps and supports the ankle on uneven landings under the net, the most dangerous moment for a player who jumps dozens of times in a single match."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "Who is it for?"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "For continuous jumpers before anyone else: the ",
-              {
-                "b": "opposite"
-              },
-              " and the ",
-              {
-                "b": "middle blocker"
-              },
-              " — the players who jump dozens of times a set between blocking and attacking, and who need every centimetre of height on the spike and the serve. If most of your work on court is approach, drive, land and immediately repeat, this shoe was built precisely for you."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "A frank note: if you are a libero or a setter looking for lightness and free ankle movement more than maximum jump height, this shoe is heavier and more restrictive than you need — and its price does not justify it in your case."
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Volleyball Shoes"
-        ],
-        "options": {
-          "1981987011": {
-            "name": "Size",
-            "values": {
-              "60842509": "46",
-              "168887554": "42.5",
-              "620367114": "50.5",
-              "795582479": "47",
-              "836453132": "45",
-              "942990849": "42",
-              "1099583410": "44",
-              "1260252681": "49",
-              "1569620238": "46.5",
-              "1744708611": "43.5",
-              "1852819200": "41.5",
-              "2033241864": "48"
-            }
-          }
-        }
-      }
-    },
-    {
       "id": "1446292277",
       "sallaId": "1446292277",
       "sku": "RSP-EQLZ-247NXT",
@@ -44781,243 +45018,6 @@
               "1417764868": "M",
               "1882500614": "XL",
               "2057584955": "S"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "1581555343",
-      "sallaId": "1581555343",
-      "sku": "RSP-MIZUNO-V2MAB101",
-      "name": "تيشيرت ميزونو فَنتاست",
-      "brand": "ميزونو",
-      "category": "apparel",
-      "sport": "كرة الطائرة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "ملابس رياضية",
-        "تيشيرتات وأطقم"
-      ],
-      "price": 154,
-      "compareAt": null,
-      "tagline": null,
-      "subtitle": "ميزونو · خطّ فَنتاست · نصف كم بتصريف عرق",
-      "description": "تيشيرت التمرين من خطّ فَنتاست — خطّ ميزونو المرح بألوان أفتح من الأساسي. لون يخرج عن السائد في حصّة كلّها كحلي وأسود. تصريف عرق وجفاف سريع . يونيسكس — قصّة واحدة للرجال والنساء. كود الموديل V2MAB101 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
-      "desc": [
-        {
-          "t": "p",
-          "s": [
-            "تيشيرت التمرين من خطّ ",
-            {
-              "b": "فَنتاست"
-            },
-            " — خطّ ميزونو المرح بألوان أفتح من الأساسي."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "لون يخرج عن السائد"
-            },
-            " في حصّة كلّها كحلي وأسود."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "تصريف عرق وجفاف سريع"
-            },
-            "."
-          ]
-        },
-        {
-          "t": "li",
-          "s": [
-            {
-              "b": "يونيسكس"
-            },
-            " — قصّة واحدة للرجال والنساء."
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "كود الموديل ",
-            {
-              "b": "V2MAB101"
-            },
-            " · ميزونو · بضاعة أصلية من اليابان "
-          ]
-        },
-        {
-          "t": "p",
-          "s": [
-            "تُطلب من اليابان وتصلك خلال ",
-            {
-              "b": "٧ إلى ٢١ يوم عمل"
-            },
-            ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
-          ]
-        }
-      ],
-      "images": [
-        "https://cdn.salla.sa/jZjwre/bcd10c5b-b767-4653-b8d2-baf3676ba6c2-1000x750-x5n4aOnu3oZVCDBTKMfrMKb1pVAWL3ckjFyW3bqB.png",
-        "https://cdn.salla.sa/jZjwre/852ee857-316a-440c-9746-29f0813b82a5-1000x1000-SetxNxeICi8zLRJBBkKe2H9TaE0Lue2rxiByhLa2.jpg",
-        "https://cdn.salla.sa/jZjwre/6c688bcb-bfcb-485b-999d-4c0fe72ac4a5-1000x1000-4xujEPLyoTgF54royJMJIoNshXqXcomg3ewG0Iu0.jpg",
-        "https://cdn.salla.sa/jZjwre/23b4edee-2e5f-44ee-8626-a018f92d442c-1000x1000-L0o7OhQXtSaindT0TH40BS5o8eZY8v5Muikq1hIg.jpg",
-        "https://cdn.salla.sa/jZjwre/1ac33bae-c0a5-4460-a8e1-5da6fbdccda4-1000x1000-ajmanuluh5eh7klast8s2avwS16yBerPHHsAnXCK.jpg"
-      ],
-      "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
-      },
-      "sizes": [
-        "2XL",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "تركوازي × كحلي غامق"
-      ],
-      "options": [
-        {
-          "id": "670602734",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "1347004014",
-              "name": "تركوازي × كحلي غامق",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/6a96680c-b504-4032-b1d6-bdd95990574c-500x375-x5n4aOnu3oZVCDBTKMfrMKb1pVAWL3ckjFyW3bqB.png"
-            }
-          ]
-        },
-        {
-          "id": "1134744552",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "288722805",
-              "name": "2XL",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "463807082",
-              "name": "M",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1971470699",
-              "name": "L",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1198481524",
-              "name": "XL",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
-      "model": null,
-      "origin": "JP",
-      "status": "out",
-      "url": "https://risport-sa.com/ar/x/p1581555343",
-      "en": {
-        "name": "تيشيرت ميزونو فَنتاست",
-        "brand": "Mizuno",
-        "sport": "Volleyball",
-        "tagline": null,
-        "subtitle": "ميزونو · خطّ فَنتاست · نصف كم بتصريف عرق",
-        "description": "تيشيرت التمرين من خطّ فَنتاست — خطّ ميزونو المرح بألوان أفتح من الأساسي. لون يخرج عن السائد في حصّة كلّها كحلي وأسود. تصريف عرق وجفاف سريع . يونيسكس — قصّة واحدة للرجال والنساء. كود الموديل V2MAB101 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
-        "desc": [
-          {
-            "t": "p",
-            "s": [
-              "تيشيرت التمرين من خطّ ",
-              {
-                "b": "فَنتاست"
-              },
-              " — خطّ ميزونو المرح بألوان أفتح من الأساسي."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "لون يخرج عن السائد"
-              },
-              " في حصّة كلّها كحلي وأسود."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "تصريف عرق وجفاف سريع"
-              },
-              "."
-            ]
-          },
-          {
-            "t": "li",
-            "s": [
-              {
-                "b": "يونيسكس"
-              },
-              " — قصّة واحدة للرجال والنساء."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "كود الموديل ",
-              {
-                "b": "V2MAB101"
-              },
-              " · ميزونو · بضاعة أصلية من اليابان "
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "تُطلب من اليابان وتصلك خلال ",
-              {
-                "b": "٧ إلى ٢١ يوم عمل"
-              },
-              ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
-            ]
-          }
-        ],
-        "tags": [
-          "Shop by Sport",
-          "Sportswear",
-          "T-shirts and Kits"
-        ],
-        "options": {
-          "670602734": {
-            "name": "اللون",
-            "values": {
-              "1347004014": "تركوازي × كحلي غامق"
-            }
-          },
-          "1134744552": {
-            "name": "المقاس",
-            "values": {
-              "288722805": "2XL",
-              "463807082": "M",
-              "1198481524": "XL",
-              "1971470699": "L"
             }
           }
         }
