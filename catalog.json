@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-16T07:17:26.343Z",
+  "generatedAt": "2026-10-16T12:33:12.939Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -1455,7 +1455,7 @@
             {
               "id": "2037814375",
               "name": "25.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -3324,7 +3324,7 @@
             {
               "id": "454025971",
               "name": "26.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -3630,7 +3630,7 @@
             {
               "id": "655529382",
               "name": "26.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -5132,7 +5132,7 @@
             {
               "id": "217685449",
               "name": "وردي سولار توربو × رمادي فحمي",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
             },
             {
@@ -5163,7 +5163,7 @@
             {
               "id": "1414863317",
               "name": "26.5 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -5181,7 +5181,7 @@
             {
               "id": "1306814160",
               "name": "28.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -5615,6 +5615,411 @@
             "values": {
               "394449474": "Black / Pure Gold",
               "1168487233": "White / Pure Gold"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "324719983",
+      "sallaId": "324719983",
+      "sku": "RSP-ASICS-GEL-TACTIC-13",
+      "name": "حذاء أسيكس جل تاكتيك 13",
+      "brand": "أسيكس",
+      "category": "shoes",
+      "sport": "كرة الطائرة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة طائرة"
+      ],
+      "price": 419,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "ثبات جانبي للخطوة التالية بعد البداية",
+      "description": "الخطوة التالية بعد حذاء البداية GEL-TACTIC 13 حذاء صالات من أسيكس يجمع المرونة والثبات . تصفه أسيكس بأنه حذاء «الخطوة التالية» للاعب الذي تجاوز مرحلة البداية ويريد دعماً أكثر في الحركة الجانبية. الجيل 13 صدر في اليابان في سبتمبر 2026. التقنيات STABLETRUSS على الجانب — دعامة تقوّي الثبات في الحركة الجانبية والتوقّف المفاجئ. جزء علوي من شبكة ليّنة ومرنة — يتحرّك مع القدم ويحسّن التهوية. نعلة داخلية قابلة للاستبدال وقالب بالعرض القياسي. لمن هذا الحذاء؟ اللاعب المتوسّط الذي يتمرّن بانتظام ويريد ثباتاً أكثر من حذاء البداية. من يلعب أكثر من رياضة صالات — الكرة الطائرة وكرة اليد والريشة. من يريد حذاء أسيكس موثوقاً للتمرين اليومي. وإن كنت تريد حذاءً مخصّصاً للكرة الطائرة بتوسيد أخفّ، فالأنسب لك في-سويفت FF 4 .",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "الخطوة التالية بعد حذاء البداية"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "GEL-TACTIC 13"
+            },
+            " حذاء صالات من أسيكس يجمع ",
+            {
+              "b": "المرونة والثبات"
+            },
+            ". تصفه أسيكس بأنه حذاء «الخطوة التالية» للاعب الذي تجاوز مرحلة البداية ويريد دعماً أكثر في الحركة الجانبية. الجيل 13 صدر في اليابان في سبتمبر 2026."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "STABLETRUSS على الجانب"
+            },
+            " — دعامة تقوّي الثبات في الحركة الجانبية والتوقّف المفاجئ."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "جزء علوي من شبكة ليّنة ومرنة"
+            },
+            " — يتحرّك مع القدم ويحسّن التهوية."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعلة داخلية قابلة للاستبدال"
+            },
+            " وقالب بالعرض القياسي."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "اللاعب المتوسّط"
+            },
+            " الذي يتمرّن بانتظام ويريد ثباتاً أكثر من حذاء البداية."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "من يلعب أكثر من رياضة صالات"
+            },
+            " — الكرة الطائرة وكرة اليد والريشة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "من يريد حذاء أسيكس موثوقاً"
+            },
+            " للتمرين اليومي."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "وإن كنت تريد حذاءً مخصّصاً للكرة الطائرة بتوسيد أخفّ، فالأنسب لك ",
+            {
+              "b": "في-سويفت FF 4"
+            },
+            "."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/8f4e3387-42c9-4129-baa9-45360f222cbd-1000x445-EPUmCBwQwlUxlSR00RiWnhqEBbYDw3ht0jgYMs23.jpg",
+        "https://cdn.salla.sa/jZjwre/5a556ef8-7065-4bfd-9d00-987554c1ffd6-1000x451.66666666667-PCWna2RurJ0JzZyLxaIl6u3nqt08QfJLBnOGQZPR.jpg",
+        "https://cdn.salla.sa/jZjwre/e471defd-ad65-47b2-9b65-9c598f965184-1000x458.33333333333-8DafQXBU0MMADWraKOJTSr9R2wXkMNpldzTyS24t.jpg",
+        "https://cdn.salla.sa/jZjwre/4a72b7db-b196-4588-9911-36b386f259ea-1000x460.83333333333-CtdENbw3ALSc2a7Hcb2QCLQaioHCKBGFIJ5g2FSz.jpg",
+        "https://cdn.salla.sa/jZjwre/d9562b13-2c41-4a93-9f8a-6e3f617d566c-1000x440-mo1mXzv2mcapX4rCF3pObIjUQYhDXEbSJtzktzCq.jpg",
+        "https://cdn.salla.sa/jZjwre/8e67343d-140d-4fb0-8df8-087c96a2fd5f-805.91000671592x1000-rcwri7B7ER5AWCC7eQdEapBJx6wQWSWRmlMlzhMb.jpg",
+        "https://cdn.salla.sa/jZjwre/ede39b4d-2642-4aa6-81d8-c1f1de8825f5-815.21739130435x1000-k6FMZdpdCAfWeqmMSzWmK4LfS4nw90PpkfSTwP3F.jpg",
+        "https://cdn.salla.sa/jZjwre/f77f139d-0c93-457b-8bc6-2904548932a8-1000x607.5-Uew7KMRiVBPmfGjmjxvDiK6GChZRDVN5eNuw3kK6.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس",
+        "color": "اللون"
+      },
+      "sizes": [
+        "39",
+        "39.5",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43.5",
+        "44",
+        "45",
+        "46",
+        "46.5",
+        "47"
+      ],
+      "colors": [
+        "أبيض × أسود",
+        "أبيض × فضي",
+        "أبيض × أزرق × أخضر",
+        "أسود × أبيض"
+      ],
+      "options": [
+        {
+          "id": "1316838529",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1524159586",
+              "name": "أبيض × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/762c1571-e69f-4ffa-8b72-334fa7ec2663-500x222.5-EPUmCBwQwlUxlSR00RiWnhqEBbYDw3ht0jgYMs23.jpg"
+            },
+            {
+              "id": "883290979",
+              "name": "أبيض × فضي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/11933f28-3d21-4133-984b-1941ea3b914b-500x225.83333333333-PCWna2RurJ0JzZyLxaIl6u3nqt08QfJLBnOGQZPR.jpg"
+            },
+            {
+              "id": "109187692",
+              "name": "أبيض × أزرق × أخضر",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c41039a8-3d93-4dc1-9658-2717997ad613-500x229.16666666667-8DafQXBU0MMADWraKOJTSr9R2wXkMNpldzTyS24t.jpg"
+            },
+            {
+              "id": "1349464429",
+              "name": "أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/2aa3e27d-8993-45ed-ad16-0756635c9a8e-500x230.41666666667-CtdENbw3ALSc2a7Hcb2QCLQaioHCKBGFIJ5g2FSz.jpg"
+            }
+          ]
+        },
+        {
+          "id": "548651157",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "295839415",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1670333872",
+              "name": "39.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1028940977",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "254968754",
+              "name": "41.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1495245491",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "719634876",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "79814845",
+              "name": "43.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1454247870",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "545992383",
+              "name": "45",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1917865400",
+              "name": "46",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1279093945",
+              "name": "46.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "505121722",
+              "name": "47",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p324719983",
+      "en": {
+        "name": "ASICS GEL-TACTIC 13 Indoor Court Shoe",
+        "brand": "ASICS",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "ثبات جانبي للخطوة التالية بعد البداية",
+        "description": "The next step after a starter shoe The GEL-TACTIC 13 is an ASICS indoor court shoe that combines flexibility and stability . ASICS describes it as a \"step-up\" shoe for players who have moved beyond the basics and want more support in lateral movement. Generation 13 was released in Japan in September 2026. Technology STABLETRUSS on the side — a support that strengthens stability in lateral moves and sudden stops. Soft, flexible mesh upper — moves with the foot and improves breathability. Replaceable insole and a standard-width last. Who is it for? Intermediate players who train regularly and want more stability than a starter shoe. Players of several indoor sports — volleyball, handball and badminton. Anyone who wants a reliable ASICS shoe for everyday training. If you want a volleyball-specific shoe with lighter cushioning, the V-Swift FF 4 suits you better.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "The next step after a starter shoe"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "GEL-TACTIC 13"
+              },
+              " is an ASICS indoor court shoe that combines ",
+              {
+                "b": "flexibility and stability"
+              },
+              ". ASICS describes it as a \"step-up\" shoe for players who have moved beyond the basics and want more support in lateral movement. Generation 13 was released in Japan in September 2026."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "STABLETRUSS on the side"
+              },
+              " — a support that strengthens stability in lateral moves and sudden stops."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Soft, flexible mesh upper"
+              },
+              " — moves with the foot and improves breathability."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Replaceable insole"
+              },
+              " and a standard-width last."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Intermediate players"
+              },
+              " who train regularly and want more stability than a starter shoe."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Players of several indoor sports"
+              },
+              " — volleyball, handball and badminton."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Anyone who wants a reliable ASICS shoe"
+              },
+              " for everyday training."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "If you want a volleyball-specific shoe with lighter cushioning, the ",
+              {
+                "b": "V-Swift FF 4"
+              },
+              " suits you better."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "548651157": {
+            "name": "Size",
+            "values": {
+              "79814845": "43.5",
+              "254968754": "41.5",
+              "295839415": "39",
+              "505121722": "47",
+              "545992383": "45",
+              "719634876": "42.5",
+              "1028940977": "40.5",
+              "1279093945": "46.5",
+              "1454247870": "44",
+              "1495245491": "42",
+              "1670333872": "39.5",
+              "1917865400": "46"
+            }
+          },
+          "1316838529": {
+            "name": "Colour",
+            "values": {
+              "109187692": "White × Blue × Green",
+              "883290979": "White × Silver",
+              "1349464429": "Black × White",
+              "1524159586": "White × Black"
             }
           }
         }
@@ -7103,10 +7508,10 @@
       ],
       "images": [
         "https://cdn.salla.sa/jZjwre/3c8294ce-dc6e-45ee-b242-b57c84dd51a6-1000x626.62337662338-KO10pqyFCQHdc4YCHL4oh89RJl7oIQtPDni0z0aR.jpg",
-        "https://cdn.salla.sa/jZjwre/5491e5bf-5ad1-4f34-a4ee-e7d1e1d0e1e9-1000x531.22465531225-NWeDmEIohhDkJEeDs7ETatR8ILBs3N6h9v4mzXgV.jpg",
+        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
         "https://cdn.salla.sa/jZjwre/365ee585-0e1c-4045-b131-973f0f336013-1000x530.84415584416-Nu9zvW9sXamEwX8S5dRePt9n0B4jKzIdLGjrsohu.jpg",
         "https://cdn.salla.sa/jZjwre/4683c45b-0f16-4b27-a046-c59b24fac95b-1000x534.9025974026-P8uBb35f5hzmkkq0TvJilmsGv9y0PxCH12MTbD1k.jpg",
-        "https://cdn.salla.sa/jZjwre/15a3b568-9b02-439d-9720-2eb3031961a3-1000x508.51581508516-ZtIOuVZmkBOTKbEjIhnKq4brvtImD3tPFf3PnBer.jpg",
+        "https://cdn.salla.sa/jZjwre/5491e5bf-5ad1-4f34-a4ee-e7d1e1d0e1e9-1000x531.22465531225-NWeDmEIohhDkJEeDs7ETatR8ILBs3N6h9v4mzXgV.jpg",
         "https://cdn.salla.sa/jZjwre/679d7e5c-0aef-4c2d-ad1f-a434510c8ea9-1000x517.85714285714-vSLLFZeMRYDhwtlQ1ByV6WC7iGxVzrsGtWK8ARfh.jpg",
         "https://cdn.salla.sa/jZjwre/1511cb8d-180d-422e-af80-704915610a04-1000x613.89337641357-joDsiyNkz5N1CB6NDjn38ZyLabV03SkXtElNvZLg.jpg",
         "https://cdn.salla.sa/jZjwre/71a7e548-e433-462d-96d5-bc9b2272fccd-1000x538.52392538524-T9U6WWniwVUoGVgXTAyzQmmv3gTxb8EatoA9Y8PJ.jpg",
@@ -7133,7 +7538,12 @@
         "https://cdn.salla.sa/jZjwre/1b26b395-b107-4057-b544-7bb1339056cf-1000x563.125-BMozNLXAEFkgInYK226a5HlpxM9PCTzmeZZnzxxj.jpg",
         "https://cdn.salla.sa/jZjwre/886a517a-366d-4550-a2f8-000bfb8bae8d-1000x610-SV1S6DHqr5w6YLSxym4qM8HdiQzQgzRjhJhwYXop.jpg",
         "https://cdn.salla.sa/jZjwre/c02dd768-4231-4758-9f2d-b6fc52edbcd3-1000x937.5-qrEOcxiSmpCJkhAkNUTSKM6g3JH9oX79V7EM8179.jpg",
-        "https://cdn.salla.sa/jZjwre/f9da9325-22d1-4e40-8bb7-e617f8c79c06-1000x937.5-ijsnzw7FCyJjYFB9ccArNBx22sOQpCLaabAO1kW2.jpg"
+        "https://cdn.salla.sa/jZjwre/f9da9325-22d1-4e40-8bb7-e617f8c79c06-1000x937.5-ijsnzw7FCyJjYFB9ccArNBx22sOQpCLaabAO1kW2.jpg",
+        "https://cdn.salla.sa/jZjwre/f543c24f-06fb-495a-a2bc-92fae3848661-1000x1000-LMIp8SAIQ71smkC7TNSMRgzfkZ3KvT64IWUe05wQ.jpg",
+        "https://cdn.salla.sa/jZjwre/037e9285-6942-4ebf-b4b3-b197f700ee9b-1000x1000-hN6pWkmk94iz1BSZ3SEWnrH2bCD2t5k5XJd8SoY3.jpg",
+        "https://cdn.salla.sa/jZjwre/fe44d078-64af-4ba1-a7cc-7fa0b56b3da6-1000x1000-JGdkPaWV2b2W7Adxp0lWyZcXhMyPi502ZF61TQs3.jpg",
+        "https://cdn.salla.sa/jZjwre/7bcf1017-6f28-4cf5-8012-eecaf3f617ca-1000x1000-HL2aJVXbjoQTvhqjeT30aheqc1pPLIZX7GSXUf75.jpg",
+        "https://cdn.salla.sa/jZjwre/b830e7c0-09e9-464f-8ab6-60263b02d59e-1000x1000-NWLbqERH8fns7dPQRQVs9rD3w3KWGYursW1TBHo1.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -7157,7 +7567,8 @@
         "أبيض × مرجاني شمسي (102)",
         "أسود × بنفسجي تارو (004)",
         "شوفاني ناعم × كريمي (251)",
-        "رمادي (021)"
+        "رمادي (021)",
+        "بيج (250)"
       ],
       "options": [
         {
@@ -7206,6 +7617,12 @@
               "name": "رمادي (021)",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/2d082350-ccc4-4445-af18-a64bf89e61b5-500x282.5-eoIebNpMqMD18yaWcGDY5yHX0SB1QMqklzTrdP9Q.jpg"
+            },
+            {
+              "id": "12793612",
+              "name": "بيج (250)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/ad59ee27-68e2-43f3-9af2-9270d88d9b1d-500x500-LMIp8SAIQ71smkC7TNSMRgzfkZ3KvT64IWUe05wQ.jpg"
             }
           ]
         },
@@ -7470,6 +7887,7 @@
           "922687301": {
             "name": "Color",
             "values": {
+              "12793612": "Beige (250)",
               "289599909": "Black / Taro Purple",
               "650074509": "Black × Graphite Grey",
               "1022640039": "Grey",
@@ -7683,7 +8101,7 @@
       ],
       "images": [
         "https://cdn.salla.sa/jZjwre/e18e9626-d105-4cde-82d5-8f55a22fbdcb-1000x480.03992015968-38JnRvueEgeegtVtCQa3YmYKlp9siOKQOpMCtSeP.jpg",
-        "https://cdn.salla.sa/jZjwre/19ee1bf7-cdcc-405b-90e7-887bde85271c-1000x593.01380991064-jWXySYR61AXsMvD5rFog3hWDDAs6LANLDXGDM3Ty.jpg",
+        "https://cdn.salla.sa/jZjwre/6c663ad4-f5dd-4d58-a663-b2b73d26523d-1000x485.04446240905-ZdjQ9Pq3O5BMhmHbqlPwPn9hteQCjFIfWbogM1EY.jpg",
         "https://cdn.salla.sa/jZjwre/367e87b0-04d0-4edb-aa2a-93fa59d09439-807.40740740741x1000-AXTcQOBAXpiyxgQ7xDOFSbjWGFTgZjGIea291bgm.jpg",
         "https://cdn.salla.sa/jZjwre/d7866c36-a0c3-4391-b2d0-b6f1bd6ddb00-1000x490.89068825911-04Jig9OyOLMUB3De9q3hrA9eC9NvKSY3f56fIFuu.jpg",
         "https://cdn.salla.sa/jZjwre/eaf9e4ee-7841-4952-8969-b6712ecf767c-1000x489.93963782696-HFz7Jgeu6GKv2WEM0uj7xnNRfB7FFFHbvp9YQUdm.jpg",
@@ -7691,7 +8109,6 @@
         "https://cdn.salla.sa/jZjwre/dea15beb-0013-4329-ae7c-ab31668b57af-1000x485.80697485807-WMW4tvNsDWvks2mi5DEKo0x081a0679Fjj9wMUqL.jpg",
         "https://cdn.salla.sa/jZjwre/5ceade3c-7b96-4adc-b19d-d65c3c76fdc3-1000x485.09266720387-jPveRagRdwPIya6cdt01qzYlQXmr7u5dJGYpxidA.jpg",
         "https://cdn.salla.sa/jZjwre/f8ff5ac1-fb85-4bdb-876d-a85b5c37d4bd-1000x500.81168831169-htUlYL5gpJ6zoSWjMnPZC50KK3VGv1jdvK3Cz1rM.jpg",
-        "https://cdn.salla.sa/jZjwre/6c663ad4-f5dd-4d58-a663-b2b73d26523d-1000x485.04446240905-ZdjQ9Pq3O5BMhmHbqlPwPn9hteQCjFIfWbogM1EY.jpg",
         "https://cdn.salla.sa/jZjwre/c86d12ab-9484-4ccb-a5df-811144c75cf9-1000x479.41888619855-D8NlCGt5XlDaLontxgcYg4TicvPCthmFknFdHebr.jpg",
         "https://cdn.salla.sa/jZjwre/da802105-08a8-4328-848d-d11cd63253be-1000x495.12987012987-axCtmgTXgzwczyScT5JycWuMmE0rToKUQLtI7G4o.jpg",
         "https://cdn.salla.sa/jZjwre/704e7ebe-6f64-4413-8fe7-5ab6348947c3-1000x482.93172690763-RrHgzDpqbru2PSvlMYcYj4Kbbh5jlBbgETBkxwLO.jpg",
@@ -7699,11 +8116,27 @@
         "https://cdn.salla.sa/jZjwre/c37acc2f-3c31-4e92-9a0b-672eb93585bf-1000x593.7813440321-VPGwnh6FGaGTnJS6AwJMEemhuXxGdAUAO2ZSyBzy.jpg",
         "https://cdn.salla.sa/jZjwre/6e24f547-44cd-42b7-ae9a-125dc2eb36f8-1000x497.5024975025-rRTRkL1qohHauQFbaK3mVzyPHt0h75HTVMz5sWRI.jpg",
         "https://cdn.salla.sa/jZjwre/63990bc7-a86a-434e-b60b-bb4645fd9a5f-1000x588.84462151394-NmXJ0wxxpQnEZLIErsDTNxGKJ17tAXpo7o6KqApn.jpg",
+        "https://cdn.salla.sa/jZjwre/19ee1bf7-cdcc-405b-90e7-887bde85271c-1000x593.01380991064-jWXySYR61AXsMvD5rFog3hWDDAs6LANLDXGDM3Ty.jpg",
         "https://cdn.salla.sa/jZjwre/7b9e00fb-17bc-443f-aa04-f49ab2692a3a-1000x523.125-a6vPqtGZePweKkiKJVDYTkO1j9urh4GigqdGdt12.jpg",
         "https://cdn.salla.sa/jZjwre/c584f347-37a0-4221-a46b-4843408768bd-1000x523.75-UHah3sC2N2nrzlB3vXuqROmEzqLpKNsJm3E8gv7s.jpg",
         "https://cdn.salla.sa/jZjwre/2ae6479b-34aa-4a98-8370-51e47eed038d-1000x567.5-OcH68DpG8LrTCf1NjFYJLOS6vkkrzCiaypobxOSx.jpg",
         "https://cdn.salla.sa/jZjwre/2e7889bd-e4c0-4628-bade-82f84b909134-1000x937.5-t8w4qEo7ez5rhTVpi5dAKJeXtUd0SPQVGEsivdUg.jpg",
-        "https://cdn.salla.sa/jZjwre/1ae18e18-1812-4e2f-a345-bc25ffd44b8d-1000x937.5-7F5xt4TmbkJ1jSqOtVxdIi6sfj56aanavlFXpATw.jpg"
+        "https://cdn.salla.sa/jZjwre/1ae18e18-1812-4e2f-a345-bc25ffd44b8d-1000x937.5-7F5xt4TmbkJ1jSqOtVxdIi6sfj56aanavlFXpATw.jpg",
+        "https://cdn.salla.sa/jZjwre/cd1dbac3-b3d1-41bc-ad1a-3df4fc2e4f1b-1000x1000-YcA5S1Uhgowrp5RRX1OQKxvmQHwnlnzVSSptjq2d.jpg",
+        "https://cdn.salla.sa/jZjwre/5e322233-a4aa-48ae-ac3c-c875ada417e4-1000x1000-MLxyrakO2cwGHI1jiowfosFlLTcFkTsglOmwAwB6.jpg",
+        "https://cdn.salla.sa/jZjwre/04bfc03e-b8b3-4097-8bd9-4210d240cc58-1000x1000-2WmoiLRsgsdz4UBVkkmLaQojes9APDYkPoe2Vuyw.jpg",
+        "https://cdn.salla.sa/jZjwre/4b7dd61c-ccf7-4907-b361-621536cae076-1000x1000-zKpUnF7n2hQgcSh7KJ5BkoOjep7PjypfsxjBiJpj.jpg",
+        "https://cdn.salla.sa/jZjwre/637da035-23a5-481c-817f-9a99e173abc0-1000x1000-bqyj0Fv3yr6qkbbEhEkA9TalZM2kkpfdsa6p5RBa.jpg",
+        "https://cdn.salla.sa/jZjwre/10efbb91-ccc1-4798-abde-c29fd670f940-1000x1000-4vuhupFJe8AbffIXr60LPpz0Vczk9vnk3XpIEVMk.jpg",
+        "https://cdn.salla.sa/jZjwre/4a3e7e2d-2db7-4d8e-95dc-004da6dfb73a-1000x1000-NeFOEHLLCwSkKWe9bdgS7x5p0RcJoDwsZoJDDQhZ.jpg",
+        "https://cdn.salla.sa/jZjwre/637c4195-2bf8-462a-924e-913a93eb5ab2-1000x1000-4Gn5MSxubCG4RbXqrS3zA0aOuFk2zqJQosKcwjff.jpg",
+        "https://cdn.salla.sa/jZjwre/25917a50-b29d-4902-947d-b4d17af81f9f-1000x1000-P5UHGJ2NMMifL156ULTugkLSXfVaaJSHliUWMJDn.jpg",
+        "https://cdn.salla.sa/jZjwre/cbd47287-beee-461e-a8a3-44af79b31d14-1000x1000-InoNlItd6AkEvBjH7NZkQWRzCEVXgyt9UU9UlyFY.jpg",
+        "https://cdn.salla.sa/jZjwre/fe52cb59-0c1a-4967-80dd-1b110e58358b-1000x1000-ZS4AjZMrXn4Vt65ZQOee07DaEeq5TPPK8Yl6Dtj2.jpg",
+        "https://cdn.salla.sa/jZjwre/87c9eecc-2dd6-463e-87fe-3aa520f6b958-1000x1000-M82gvH0yZxbvgnowk1xWjPtuG5dirf2WvJWbIQfi.jpg",
+        "https://cdn.salla.sa/jZjwre/f7cce767-4c9a-467a-8e90-dcbd562c98e8-1000x1000-I9XytuPSrxan04qzMfywJV9DBVD9UFfilnovPZsP.jpg",
+        "https://cdn.salla.sa/jZjwre/64b6c5f6-8794-4768-9923-43af2eab6deb-1000x1000-sW18Clu9VamFpTA3PmBv5CeejDylOqdfPPmUIWD2.jpg",
+        "https://cdn.salla.sa/jZjwre/b8a65011-ffc9-4f63-8669-2c9405b24485-1000x1000-3s5zdn9WiCI9LY69MTP1HFWY54Is4u2zu0toBrW5.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -7727,7 +8160,10 @@
         "أسود × أبيض",
         "شوفاني × كريمي",
         "أصفر مضيء × أبيض",
-        "أبيض × برتقالي ستاديوم (101)"
+        "أبيض × برتقالي ستاديوم (101)",
+        "أزرق بروسي (400)",
+        "كحلي (401)",
+        "أسود (001)"
       ],
       "options": [
         {
@@ -7764,6 +8200,24 @@
               "name": "أبيض × برتقالي ستاديوم (101)",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/a9b96ae1-8dfd-4cdd-bee8-bcd481b37e86-500x261.5625-a6vPqtGZePweKkiKJVDYTkO1j9urh4GigqdGdt12.jpg"
+            },
+            {
+              "id": "1028009828",
+              "name": "أزرق بروسي (400)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/1475522b-f339-4723-8ebf-7c8db8157820-500x500-YcA5S1Uhgowrp5RRX1OQKxvmQHwnlnzVSSptjq2d.jpg"
+            },
+            {
+              "id": "253972069",
+              "name": "كحلي (401)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/a58a4496-48d2-4447-a674-851feed517ee-500x500-MLxyrakO2cwGHI1jiowfosFlLTcFkTsglOmwAwB6.jpg"
+            },
+            {
+              "id": "1493724518",
+              "name": "أسود (001)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/5f09bc7c-3e15-4e60-91df-ed91594d08b5-500x500-2WmoiLRsgsdz4UBVkkmLaQojes9APDYkPoe2Vuyw.jpg"
             }
           ]
         },
@@ -8059,9 +8513,12 @@
             "name": "Color",
             "values": {
               "123585770": "White × Aqua Blue",
+              "253972069": "Navy (401)",
               "587662068": "Oatmeal × Cream",
+              "1028009828": "Prussian Blue (400)",
               "1037348151": "White / Stadium Orange",
               "1362813931": "Black × White",
+              "1493724518": "Black (001)",
               "2095849973": "Bright Yellow × White"
             }
           }
@@ -8875,17 +9332,27 @@
       "images": [
         "https://cdn.salla.sa/jZjwre/87280322-32c0-410c-b50f-4c996704e650-1000x509.10931174089-DQT8mUQXBk0fqQ1eCuCLgCeH1f6E8MrS8EPQ4qj0.jpg",
         "https://cdn.salla.sa/jZjwre/2b58b1c5-af48-4555-9735-a4abd78ea695-1000x583.6038961039-tg4Q7bkwbdZC1VXm9D1VekDusfPacwbrhPwt77i5.jpg",
-        "https://cdn.salla.sa/jZjwre/b2fd147d-c58b-4a80-a57e-e6ab74fc041e-1000x499.49341438703-qTzdQxXG9JY0XEeat52EZZRpcd58lpSLmUhl5tBF.jpg",
-        "https://cdn.salla.sa/jZjwre/5a7670ff-c261-46ef-9324-f122389cafab-1000x588.6524822695-bULhPXQzZjiDdbnJOKdujUdxgVH13L0xdRZxIcgV.jpg",
-        "https://cdn.salla.sa/jZjwre/f6ea0a04-2642-4c90-81d6-30933cfb99fc-1000x503.53178607467-uD79P6TliSTUsvQHt7oFywv4wGUqcOxZIEwpYW3v.jpg",
-        "https://cdn.salla.sa/jZjwre/6ddf3c14-dbe4-466b-b858-20fced0b7176-1000x510.63829787234-7S6dHDsrCUWtZYzOQCH3wYUGy9UOuzMD3ZMs4gwK.jpg",
-        "https://cdn.salla.sa/jZjwre/61afe64f-9148-43ac-bd15-750781f904d9-1000x489.05109489051-O41vLzjSNid8BAblpVeSF3Vc0QHa309F29HonCA1.jpg",
-        "https://cdn.salla.sa/jZjwre/16236cd8-f818-46c6-828b-d0cb89ac9f67-1000x492.69480519481-kedanz5kAUIAvcSXIUAmOgJ2XCZn5c27oYE4BRkQ.jpg",
-        "https://cdn.salla.sa/jZjwre/8eacc8a2-253f-4f8b-ada0-b5a911c269c0-1000x485.38961038961-lu6vMyf2RkKAijQwjBtQmGPOLo8ADwm1MEtYDMEV.jpg",
-        "https://cdn.salla.sa/jZjwre/3d26fbcd-0386-42b0-8ae7-bfa38e641681-1000x607.86290322581-Sr8x2PMj8eTqyLIy0HfGpUoQOP9M6YB1GhS4SQRZ.jpg",
-        "https://cdn.salla.sa/jZjwre/de73c318-5d00-47e9-83a8-b490720d6208-1000x493.46733668342-bfRXtGZMvYUy32DUNlWcAFHcvXvqz3Z098cA8Cvd.jpg",
+        "https://cdn.salla.sa/jZjwre/37cfa26c-93d7-4d83-b1ba-fbdc5e1a428f-807.40740740741x1000-bkvdo04b0en3Jb4Ve4qzypj5vJj5N9eKm7PV3ohL.jpg",
         "https://cdn.salla.sa/jZjwre/499b970b-3832-4a52-95c4-3d427b2d78ee-1000x498.9939637827-U7BaomKa5XzbaJxjEw8kj5HJMIjEBKL6rqrxPuza.jpg",
-        "https://cdn.salla.sa/jZjwre/37cfa26c-93d7-4d83-b1ba-fbdc5e1a428f-807.40740740741x1000-bkvdo04b0en3Jb4Ve4qzypj5vJj5N9eKm7PV3ohL.jpg"
+        "https://cdn.salla.sa/jZjwre/de73c318-5d00-47e9-83a8-b490720d6208-1000x493.46733668342-bfRXtGZMvYUy32DUNlWcAFHcvXvqz3Z098cA8Cvd.jpg",
+        "https://cdn.salla.sa/jZjwre/3d26fbcd-0386-42b0-8ae7-bfa38e641681-1000x607.86290322581-Sr8x2PMj8eTqyLIy0HfGpUoQOP9M6YB1GhS4SQRZ.jpg",
+        "https://cdn.salla.sa/jZjwre/8eacc8a2-253f-4f8b-ada0-b5a911c269c0-1000x485.38961038961-lu6vMyf2RkKAijQwjBtQmGPOLo8ADwm1MEtYDMEV.jpg",
+        "https://cdn.salla.sa/jZjwre/16236cd8-f818-46c6-828b-d0cb89ac9f67-1000x492.69480519481-kedanz5kAUIAvcSXIUAmOgJ2XCZn5c27oYE4BRkQ.jpg",
+        "https://cdn.salla.sa/jZjwre/61afe64f-9148-43ac-bd15-750781f904d9-1000x489.05109489051-O41vLzjSNid8BAblpVeSF3Vc0QHa309F29HonCA1.jpg",
+        "https://cdn.salla.sa/jZjwre/6ddf3c14-dbe4-466b-b858-20fced0b7176-1000x510.63829787234-7S6dHDsrCUWtZYzOQCH3wYUGy9UOuzMD3ZMs4gwK.jpg",
+        "https://cdn.salla.sa/jZjwre/f6ea0a04-2642-4c90-81d6-30933cfb99fc-1000x503.53178607467-uD79P6TliSTUsvQHt7oFywv4wGUqcOxZIEwpYW3v.jpg",
+        "https://cdn.salla.sa/jZjwre/5a7670ff-c261-46ef-9324-f122389cafab-1000x588.6524822695-bULhPXQzZjiDdbnJOKdujUdxgVH13L0xdRZxIcgV.jpg",
+        "https://cdn.salla.sa/jZjwre/b2fd147d-c58b-4a80-a57e-e6ab74fc041e-1000x499.49341438703-qTzdQxXG9JY0XEeat52EZZRpcd58lpSLmUhl5tBF.jpg",
+        "https://cdn.salla.sa/jZjwre/45ab653c-6ebb-45fd-aca3-90b8eef79ec6-1000x1000-14g4ZtCUue2zaiZNBcx4dDMXtl8Y7tinvI1wt5jq.jpg",
+        "https://cdn.salla.sa/jZjwre/47a561db-d803-4109-926f-d5db515199ce-1000x1000-F8ThjbM3Csv9BEKHRDhAHYOX5HcFSdXtx2mUTlds.jpg",
+        "https://cdn.salla.sa/jZjwre/9828c998-913e-4e52-a819-6ad8681daa83-1000x1000-t3zh1iuFYF21oPvO3bmDWpqlZgygLxdyUK2f38gH.jpg",
+        "https://cdn.salla.sa/jZjwre/a233ec1f-d713-4307-a655-27a54f0d00f1-1000x1000-ZthXE86hvVKoyoM601V56oT0K7Oq2gNuqmTbcYap.jpg",
+        "https://cdn.salla.sa/jZjwre/01c91d68-08aa-4749-8461-7779f3314cf5-1000x1000-etaXA99PwUk9P1BTPAXete4z9GlBqKH5XNT2lZKe.jpg",
+        "https://cdn.salla.sa/jZjwre/e0725a69-02fe-4438-8629-3b1a50016fba-1000x1000-gELkIlLT3kmKswtcYy6L2yjJ9hKgN06llJA9HsOT.jpg",
+        "https://cdn.salla.sa/jZjwre/ced82917-c5a6-45c6-9c3b-8bcf94c5bd63-1000x1000-WA061ijmlOKYLH7NGxVEfQEzahDzXMFKEXyM6aa3.jpg",
+        "https://cdn.salla.sa/jZjwre/d343e503-5e8f-4ddd-b735-3ab6b1761851-1000x1000-ATLO8YYb00JCn5ubQE2MDkhCaBRBdqCaZ1mmkbxE.jpg",
+        "https://cdn.salla.sa/jZjwre/6b8249cc-983d-49e7-a3a0-b5602a7a9243-1000x1000-FUpjDAHZlAkTF1VXUb2orS2wHOdiuokgz7TGMeXa.jpg",
+        "https://cdn.salla.sa/jZjwre/71b69f15-b950-4768-90a6-beaf5289b5b2-1000x1000-9Kftdde4Zx92CfXzx3i1PIvQvx8nQ2arzqVIgvMe.jpg"
       ],
       "optionNames": {
         "size": "المقاس",
@@ -8905,7 +9372,9 @@
       "colors": [
         "أبيض × ليلكي",
         "أسود × أبيض",
-        "شوفاني × كريمي"
+        "شوفاني × كريمي",
+        "وردي ليلكي (700)",
+        "أزرق نيلي (401)"
       ],
       "options": [
         {
@@ -8930,6 +9399,18 @@
               "name": "شوفاني × كريمي",
               "out": false,
               "img": "https://cdn.salla.sa/jZjwre/86c072a0-79d3-454d-b92f-a8d4a37a1e91-500x249.74670719352-qTzdQxXG9JY0XEeat52EZZRpcd58lpSLmUhl5tBF.jpg"
+            },
+            {
+              "id": "1137143301",
+              "name": "وردي ليلكي (700)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/4743e5ca-1e6c-4250-bb73-b4125578ffaa-500x500-14g4ZtCUue2zaiZNBcx4dDMXtl8Y7tinvI1wt5jq.jpg"
+            },
+            {
+              "id": "497913094",
+              "name": "أزرق نيلي (401)",
+              "out": true,
+              "img": "https://cdn.salla.sa/jZjwre/3f17dc85-b96d-4da6-84cd-e478d9e7ff1f-500x500-F8ThjbM3Csv9BEKHRDhAHYOX5HcFSdXtx2mUTlds.jpg"
             }
           ]
         },
@@ -9197,7 +9678,9 @@
             "name": "Color",
             "values": {
               "114269036": "Oatmeal × Cream",
+              "497913094": "Indigo Blue (401)",
               "1062346592": "White × Lilac",
+              "1137143301": "Lilac Pink (700)",
               "1527012706": "Black × White"
             }
           },
@@ -12668,7 +13151,7 @@
             {
               "id": "467691274",
               "name": "أبيض × كوبالت",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/8a1e9cc8-5aef-41e0-8d87-8705ea5a8af5-500x500-NC8T0vD8DySqHUNji3x8rkCASM2UHy4Ds2xlsjUJ.jpg"
             }
           ]
@@ -18518,6 +19001,1693 @@
               "1896118340": "36",
               "1997285962": "47.5",
               "2038287695": "44"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "956588315",
+      "sallaId": "956588315",
+      "sku": "RSP-MIZUNO-LIGHTNING-SELECT",
+      "name": "حذاء ميزونو لايتنينج سيليكت",
+      "brand": "ميزونو",
+      "category": "shoes",
+      "sport": "كرة الطائرة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة طائرة"
+      ],
+      "price": 364,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "روح لايتنينج إيليت للمبتدئ",
+      "description": "روح لايتنينج إيليت… في حذاء للبداية LIGHTNING SELECT هو حذاء ميزونو الجديد للاعب المبتدئ، وخليفة ثاندر بليد Z . صمّمته ميزونو على خطى حذائها الأعلى ويف لايتنينج إيليت ، لكن بتركيبة أبسط وأخفّ: نحو 260 غ فقط لمقاس 27.0 سم. التقنيات جزء علوي جديد من ثلاث طبقات — بلا درزات، يلتفّ حول القدم بإحساس ليّن ومريح. نعل مسطّح بتصميم «أوتريغر» — حافّة خارجية ممتدّة تمنح ثباتاً في الحركة الجانبية والتوقّف المفاجئ. نعل خارجي لا يترك أثراً على أرضية الصالة. نعلة داخلية على شكل كوب قابلة للخلع، وقالب يناسب عرض 2.5E تقريباً. لمن هذا الحذاء؟ اللاعب المبتدئ الذي يريد أول حذاء كرة طائرة حقيقي من ميزونو. طلاب المدارس والأندية — للتمرين اليومي. من يريد حذاءً خفيفاً للحركة السريعة على الأرض. وإن كنت تبحث عن توسيد أكبر للقفز المتكرّر فالأنسب لك ويف مومينتم برو .",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "روح لايتنينج إيليت… في حذاء للبداية"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "LIGHTNING SELECT"
+            },
+            " هو حذاء ميزونو الجديد للاعب المبتدئ، وخليفة ",
+            {
+              "b": "ثاندر بليد Z"
+            },
+            ". صمّمته ميزونو على خطى حذائها الأعلى ",
+            {
+              "b": "ويف لايتنينج إيليت"
+            },
+            "، لكن بتركيبة أبسط وأخفّ: نحو ",
+            {
+              "b": "260 غ"
+            },
+            " فقط لمقاس 27.0 سم."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "جزء علوي جديد من ثلاث طبقات"
+            },
+            " — بلا درزات، يلتفّ حول القدم بإحساس ليّن ومريح."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل مسطّح بتصميم «أوتريغر»"
+            },
+            " — حافّة خارجية ممتدّة تمنح ثباتاً في الحركة الجانبية والتوقّف المفاجئ."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل خارجي لا يترك أثراً"
+            },
+            " على أرضية الصالة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعلة داخلية على شكل كوب"
+            },
+            " قابلة للخلع، وقالب يناسب عرض 2.5E تقريباً."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "اللاعب المبتدئ"
+            },
+            " الذي يريد أول حذاء كرة طائرة حقيقي من ميزونو."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "طلاب المدارس والأندية"
+            },
+            " — للتمرين اليومي."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "من يريد حذاءً خفيفاً"
+            },
+            " للحركة السريعة على الأرض."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "وإن كنت تبحث عن توسيد أكبر للقفز المتكرّر فالأنسب لك ",
+            {
+              "b": "ويف مومينتم برو"
+            },
+            "."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/df9b681b-a0da-4fe9-bf72-35f18e913c23-1000x1000-bGXgNEyaYhm9AQ7McHS4IorLKKFX7pJhdshCc05b.jpg",
+        "https://cdn.salla.sa/jZjwre/3150e353-e0bb-41d6-baaf-f4d72b9a3698-1000x1000-b3wpJMS9dPBCRrT6mMjOGVJfnOWg0kRU4unESzYy.jpg",
+        "https://cdn.salla.sa/jZjwre/adcfa2fc-858b-4139-9934-387bc98d8677-1000x1000-w6JNqedROgxFbD1r3WxUGm7eZDu1OMs00fIAcZuW.jpg",
+        "https://cdn.salla.sa/jZjwre/e3d65d47-6be4-4bde-824c-713d67ce08b6-1000x1000-O97rSduAUAHxBxe7L2zgZYoGmgEsWSm4exHHvLKN.jpg",
+        "https://cdn.salla.sa/jZjwre/89b98881-e09a-41cc-8380-4100fdcf4992-1000x1000-O7Ii8lWbbFCnPQZsnyZz8nLgZq3uq85F6tBESA4J.jpg",
+        "https://cdn.salla.sa/jZjwre/c60e1031-86a3-4657-8fe0-5a2c9437ba15-1000x1000-8urFrgb03jqYGp6DbkIuycKoIxqFZ0SMv08LTu80.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس (سم)",
+        "color": "اللون"
+      },
+      "sizes": [
+        "24.5",
+        "25.0",
+        "25.5",
+        "26.0",
+        "26.5",
+        "27.0",
+        "27.5",
+        "28.0",
+        "28.5",
+        "29.0",
+        "29.5",
+        "30.0"
+      ],
+      "colors": [
+        "أبيض × فضي",
+        "أسود × أبيض"
+      ],
+      "options": [
+        {
+          "id": "891597188",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1161789502",
+              "name": "أبيض × فضي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/34043a42-5a6e-4970-b667-98d75926b31d-500x500-bGXgNEyaYhm9AQ7McHS4IorLKKFX7pJhdshCc05b.jpg"
+            },
+            {
+              "id": "386182975",
+              "name": "أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/da7fd8bb-13e1-4ad1-a6cc-08e6006b7967-500x500-b3wpJMS9dPBCRrT6mMjOGVJfnOWg0kRU4unESzYy.jpg"
+            }
+          ]
+        },
+        {
+          "id": "259597704",
+          "name": "المقاس (سم)",
+          "required": true,
+          "values": [
+            {
+              "id": "855968324",
+              "name": "24.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "216148293",
+              "name": "25.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1590642758",
+              "name": "25.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "680810311",
+              "name": "26.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2054256192",
+              "name": "26.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1415550273",
+              "name": "27.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "639939650",
+              "name": "27.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1879167811",
+              "name": "28.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1307505228",
+              "name": "28.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "533401933",
+              "name": "29.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1771057230",
+              "name": "29.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "998072143",
+              "name": "30.0",
+              "out": true,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p956588315",
+      "en": {
+        "name": "Mizuno Lightning Select Volleyball Shoe",
+        "brand": "Mizuno",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "روح لايتنينج إيليت للمبتدئ",
+        "description": "Lightning Elite spirit… in a starter shoe The LIGHTNING SELECT is Mizuno's new shoe for newer players and the successor to the Thunder Blade Z . Mizuno designed it after its top Wave Lightning Elite , with a simpler, lighter build: about 260 g for a 27.0 cm shoe. Technology New three-layer upper — seamless, wrapping the foot with a soft, comfortable feel. Flat \"outrigger\" sole — an extended outer edge for stability in lateral moves and sudden stops. Non-marking outsole for indoor courts. Removable cup insole and a last that fits roughly 2.5E width. Who is it for? New players who want their first real Mizuno volleyball shoe. School and club players — for everyday training. Anyone who wants a light shoe for quick movement on the floor. If you want more cushioning for repeated jumping, the Wave Momentum Pro suits you better.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Lightning Elite spirit… in a starter shoe"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "LIGHTNING SELECT"
+              },
+              " is Mizuno's new shoe for newer players and the successor to the ",
+              {
+                "b": "Thunder Blade Z"
+              },
+              ". Mizuno designed it after its top ",
+              {
+                "b": "Wave Lightning Elite"
+              },
+              ", with a simpler, lighter build: about ",
+              {
+                "b": "260 g"
+              },
+              " for a 27.0 cm shoe."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "New three-layer upper"
+              },
+              " — seamless, wrapping the foot with a soft, comfortable feel."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Flat \"outrigger\" sole"
+              },
+              " — an extended outer edge for stability in lateral moves and sudden stops."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Non-marking outsole"
+              },
+              " for indoor courts."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Removable cup insole"
+              },
+              " and a last that fits roughly 2.5E width."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "New players"
+              },
+              " who want their first real Mizuno volleyball shoe."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "School and club players"
+              },
+              " — for everyday training."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Anyone who wants a light shoe"
+              },
+              " for quick movement on the floor."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "If you want more cushioning for repeated jumping, the ",
+              {
+                "b": "Wave Momentum Pro"
+              },
+              " suits you better."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "259597704": {
+            "name": "Size (cm)",
+            "values": {
+              "216148293": "25.0",
+              "533401933": "29.0",
+              "639939650": "27.5",
+              "680810311": "26.0",
+              "855968324": "24.5",
+              "998072143": "30.0",
+              "1307505228": "28.5",
+              "1415550273": "27.0",
+              "1590642758": "25.5",
+              "1771057230": "29.5",
+              "1879167811": "28.0",
+              "2054256192": "26.5"
+            }
+          },
+          "891597188": {
+            "name": "Colour",
+            "values": {
+              "386182975": "Black × White",
+              "1161789502": "White × Silver"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "915721830",
+      "sallaId": "915721830",
+      "sku": "RSP-MIZUNO-FLY",
+      "name": "حذاء ميزونو فلاي",
+      "brand": "ميزونو",
+      "category": "shoes",
+      "sport": "كرة الطائرة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة طائرة"
+      ],
+      "price": 399,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "أخفّ حذاء طائرة من ميزونو",
+      "description": "أخفّ حذاء كرة طائرة عند ميزونو MIZUNO FLY هو الموديل الأخفّ بين أحذية الكرة الطائرة عند ميزونو: نحو 250 غ فقط لمقاس 27.0 سم. بُني لهدف واحد: أن تنطلق أسرع. التقنيات نعل مصمَّم للانطلاقة — يرفع سرعة الخطوة الأولى في الاستقبال والدفاع. توسيد MIZUNO ENERZY — رغوة ميزونو اللينة ذات الارتداد، توسيد مريح رغم خفّة الحذاء. نعلة ميزونو إنرجي داخلية قابلة للخلع. قالب يناسب عرض 2E . لمن هذا الحذاء؟ الليبرو والمدافع — انطلاقات قصيرة متكرّرة في كل الاتجاهات. صانع الألعاب — الوصول إلى الكرة الثانية بسرعة. كل لاعب يكره الحذاء الثقيل ويريد أخفّ ما يمكن. أما من يقفز كثيراً ويحتاج توسيداً أكبر في الهبوط، فالأنسب له ويف مومينتم برو .",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "أخفّ حذاء كرة طائرة عند ميزونو"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "MIZUNO FLY"
+            },
+            " هو الموديل الأخفّ بين أحذية الكرة الطائرة عند ميزونو: نحو ",
+            {
+              "b": "250 غ"
+            },
+            " فقط لمقاس 27.0 سم. بُني لهدف واحد: أن تنطلق أسرع."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل مصمَّم للانطلاقة"
+            },
+            " — يرفع سرعة الخطوة الأولى في الاستقبال والدفاع."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "توسيد MIZUNO ENERZY"
+            },
+            " — رغوة ميزونو اللينة ذات الارتداد، توسيد مريح رغم خفّة الحذاء."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعلة ميزونو إنرجي"
+            },
+            " داخلية قابلة للخلع."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قالب يناسب عرض 2E"
+            },
+            "."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "الليبرو والمدافع"
+            },
+            " — انطلاقات قصيرة متكرّرة في كل الاتجاهات."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "صانع الألعاب"
+            },
+            " — الوصول إلى الكرة الثانية بسرعة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "كل لاعب يكره الحذاء الثقيل"
+            },
+            " ويريد أخفّ ما يمكن."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "أما من يقفز كثيراً ويحتاج توسيداً أكبر في الهبوط، فالأنسب له ",
+            {
+              "b": "ويف مومينتم برو"
+            },
+            "."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/a3dd0e32-a358-4a66-a8f8-0069c19e2959-1000x1000-mBcyg0qpkgPxFpTOs1Eyh8IYdhghNaPdWfJpiraF.jpg",
+        "https://cdn.salla.sa/jZjwre/1147f68d-2873-4ab3-a3c4-ae8d343238fe-1000x1000-R30QF6M3H6PhsskAzXfBv4In4OH7ufP30xpPQrlW.jpg",
+        "https://cdn.salla.sa/jZjwre/0403dafa-b7a6-4656-ba61-198dac8d1695-1000x1000-9PlJZyxf6Z5k1t68dZmYy2XXWStx4oWVefbh1uUN.jpg",
+        "https://cdn.salla.sa/jZjwre/d5aa7bba-4546-4942-b5cf-72a243028698-1000x1000-dHlh0r0CU3OuTLKVbQGMT7KerIotKHtaOeG5lvWj.jpg",
+        "https://cdn.salla.sa/jZjwre/85a1ddce-e39d-4158-adb4-9400dfaeb18b-1000x1000-vwkIW3OlW9ArnINrAlhC3RqazH1b7KGAAhbIPX0F.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس (سم)",
+        "color": "اللون"
+      },
+      "sizes": [
+        "24.5",
+        "25.0",
+        "25.5",
+        "26.0",
+        "26.5",
+        "27.0",
+        "27.5",
+        "28.0",
+        "28.5",
+        "29.0",
+        "29.5",
+        "30.0"
+      ],
+      "colors": [
+        "أسود × فضي × أحمر",
+        "أبيض × فضي × ذهبي"
+      ],
+      "options": [
+        {
+          "id": "117559429",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1625411128",
+              "name": "أسود × فضي × أحمر",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/09561623-542f-41a4-a1b0-67bcba5c672d-500x500-mBcyg0qpkgPxFpTOs1Eyh8IYdhghNaPdWfJpiraF.jpg"
+            },
+            {
+              "id": "852421945",
+              "name": "أبيض × فضي × ذهبي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/f079b789-1ede-4508-874e-33fc9cf16717-500x500-R30QF6M3H6PhsskAzXfBv4In4OH7ufP30xpPQrlW.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1497777289",
+          "name": "المقاس (سم)",
+          "required": true,
+          "values": [
+            {
+              "id": "358252104",
+              "name": "24.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1730190665",
+              "name": "25.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "822983754",
+              "name": "25.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "48945995",
+              "name": "26.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1555561044",
+              "name": "26.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "781982037",
+              "name": "27.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2021210198",
+              "name": "27.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1246119767",
+              "name": "28.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "606299728",
+              "name": "28.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1980335441",
+              "name": "29.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1138140242",
+              "name": "29.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "498320211",
+              "name": "30.0",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p915721830",
+      "en": {
+        "name": "Mizuno Fly Volleyball Shoe",
+        "brand": "Mizuno",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "أخفّ حذاء طائرة من ميزونو",
+        "description": "Mizuno's lightest volleyball shoe The MIZUNO FLY is the lightest of Mizuno's volleyball shoes: about 250 g for a 27.0 cm shoe. It is built for one goal: getting you moving faster. Technology Sole built for explosive starts — a quicker first step in reception and defense. MIZUNO ENERZY cushioning — Mizuno's soft, responsive foam, comfortable despite the light weight. Removable Mizuno Enerzy insole . Last that fits 2E width . Who is it for? Liberos and defenders — repeated short bursts in every direction. Setters — reaching the second ball fast. Any player who hates a heavy shoe and wants the lightest option. If you jump a lot and need more landing cushioning, the Wave Momentum Pro suits you better.",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Mizuno's lightest volleyball shoe"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "MIZUNO FLY"
+              },
+              " is the lightest of Mizuno's volleyball shoes: about ",
+              {
+                "b": "250 g"
+              },
+              " for a 27.0 cm shoe. It is built for one goal: getting you moving faster."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Sole built for explosive starts"
+              },
+              " — a quicker first step in reception and defense."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "MIZUNO ENERZY cushioning"
+              },
+              " — Mizuno's soft, responsive foam, comfortable despite the light weight."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Removable Mizuno Enerzy insole"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Last that fits 2E width"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Liberos and defenders"
+              },
+              " — repeated short bursts in every direction."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Setters"
+              },
+              " — reaching the second ball fast."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Any player who hates a heavy shoe"
+              },
+              " and wants the lightest option."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "If you jump a lot and need more landing cushioning, the ",
+              {
+                "b": "Wave Momentum Pro"
+              },
+              " suits you better."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "117559429": {
+            "name": "Colour",
+            "values": {
+              "852421945": "White × Silver × Gold",
+              "1625411128": "Black × Silver × Red"
+            }
+          },
+          "1497777289": {
+            "name": "Size (cm)",
+            "values": {
+              "48945995": "26.0",
+              "358252104": "24.5",
+              "498320211": "30.0",
+              "606299728": "28.5",
+              "781982037": "27.0",
+              "822983754": "25.5",
+              "1138140242": "29.5",
+              "1246119767": "28.0",
+              "1555561044": "26.5",
+              "1730190665": "25.0",
+              "1980335441": "29.0",
+              "2021210198": "27.5"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2113948258",
+      "sallaId": "2113948258",
+      "sku": "RSP-MIZUNO-MOMENTUM-PRO",
+      "name": "حذاء ميزونو ويف مومينتم برو",
+      "brand": "ميزونو",
+      "category": "shoes",
+      "sport": "كرة الطائرة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة طائرة"
+      ],
+      "price": 419,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "توسيد وثبات للقفز المتكرّر",
+      "description": "توسيد مومينتم وثباته… بسعر في المتناول WAVE MOMENTUM PRO من خطّ مومينتم عند ميزونو، وهو خطّ التوسيد والثبات للاعب الذي يقفز ويهبط كثيراً. يزن نحو 320 غ لمقاس 27.0 سم. التقنيات MIZUNO ENERZY NXT في الكعب — حيث يقع أكبر حِمل لحظة الهبوط بعد القفزة، توسيد عالٍ مع وزن أخفّ. نعل عريض بجدران جانبية مرتفعة — مساحة هبوط أوسع، والرغوة ترتفع على جانبي القدم، فيثبت الهبوط. جزء علوي من طبقتين — شبكة مع دعامات متعرّجة تثبّت القدم في الدفع الجانبي وتغيير الاتجاه. تصميم نصف جوربي (Half-bootie) — اللسان متّصل جزئياً بالجزء العلوي: إحكام مع سهولة في اللبس والخلع. نعلة داخلية قابلة للخلع ، وقالب يناسب عرض 2E. لمن هذا الحذاء؟ لاعب الوسط والضارب المقابل — قفزات كثيرة وهبوط متكرّر. اللاعب الأثقل وزناً — يستفيد من التوسيد والثبات أكثر من غيره. من يريد إحساس مومينتم إيليت بسعر أقلّ. أما الليبرو ومن يعتمد على خفّة القدم أكثر من القفز، فالأنسب له ميزونو فلاي .",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "توسيد مومينتم وثباته… بسعر في المتناول"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "WAVE MOMENTUM PRO"
+            },
+            " من خطّ مومينتم عند ميزونو، وهو خطّ ",
+            {
+              "b": "التوسيد والثبات"
+            },
+            " للاعب الذي يقفز ويهبط كثيراً. يزن نحو ",
+            {
+              "b": "320 غ"
+            },
+            " لمقاس 27.0 سم."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "MIZUNO ENERZY NXT في الكعب"
+            },
+            " — حيث يقع أكبر حِمل لحظة الهبوط بعد القفزة، توسيد عالٍ مع وزن أخفّ."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعل عريض بجدران جانبية مرتفعة"
+            },
+            " — مساحة هبوط أوسع، والرغوة ترتفع على جانبي القدم، فيثبت الهبوط."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "جزء علوي من طبقتين"
+            },
+            " — شبكة مع دعامات متعرّجة تثبّت القدم في الدفع الجانبي وتغيير الاتجاه."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "تصميم نصف جوربي (Half-bootie)"
+            },
+            " — اللسان متّصل جزئياً بالجزء العلوي: إحكام مع سهولة في اللبس والخلع."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "نعلة داخلية قابلة للخلع"
+            },
+            "، وقالب يناسب عرض 2E."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "لاعب الوسط والضارب المقابل"
+            },
+            " — قفزات كثيرة وهبوط متكرّر."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "اللاعب الأثقل وزناً"
+            },
+            " — يستفيد من التوسيد والثبات أكثر من غيره."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "من يريد إحساس مومينتم إيليت"
+            },
+            " بسعر أقلّ."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "أما الليبرو ومن يعتمد على خفّة القدم أكثر من القفز، فالأنسب له ",
+            {
+              "b": "ميزونو فلاي"
+            },
+            "."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/76133643-28d7-44db-89aa-fb9bc409f139-1000x1000-zaQT9xnSpgIcIXATzDZ5bKj8KRgQlSkeZCInLnCF.jpg",
+        "https://cdn.salla.sa/jZjwre/21f17716-b1bc-48b5-9db2-7dc83ab352ba-1000x1000-VKvagemSI5MgSF2bQOMkbXeSN2OE2dgMIod2zcQr.jpg",
+        "https://cdn.salla.sa/jZjwre/ab4041ba-ed55-4cba-af73-0ce8d3c1bd44-1000x1000-v9D6fwj1O2WdTLgvtp3SoG4ZlVFYJ1SvupsmTNOy.jpg",
+        "https://cdn.salla.sa/jZjwre/736f0411-b8b9-49c9-b0c3-022e349f9b35-1000x1000-dOIetGbipEgfahwsd5ta0iXW7zEgI1ZufCne7yBk.jpg",
+        "https://cdn.salla.sa/jZjwre/c941f367-dcf7-4bd0-aefb-5cdf47ce61ea-1000x1000-DO95EsuWombzHGMiuEgF733PzviM07XSZDw1ktrR.jpg",
+        "https://cdn.salla.sa/jZjwre/b224bd16-2285-4cf7-8e2a-6e979d4bb9dc-1000x1000-DgkKUkwt3LbMwnMAiJnUCvvzJHv7wqjLO6i9pFdj.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس (سم)",
+        "color": "اللون"
+      },
+      "sizes": [
+        "24.5",
+        "25.0",
+        "25.5",
+        "26.0",
+        "26.5",
+        "27.0",
+        "27.5",
+        "28.0",
+        "28.5",
+        "29.0",
+        "29.5",
+        "30.0"
+      ],
+      "colors": [
+        "أبيض × أسود",
+        "أسود × أبيض"
+      ],
+      "options": [
+        {
+          "id": "583736967",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "569218823",
+              "name": "أبيض × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/544197ff-b671-42f3-b062-74bbd4fdf692-500x500-zaQT9xnSpgIcIXATzDZ5bKj8KRgQlSkeZCInLnCF.jpg"
+            },
+            {
+              "id": "1942664704",
+              "name": "أسود × أبيض",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/84261112-4dcb-4ed6-8f01-17db677e10da-500x500-VKvagemSI5MgSF2bQOMkbXeSN2OE2dgMIod2zcQr.jpg"
+            }
+          ]
+        },
+        {
+          "id": "723739530",
+          "name": "المقاس (سم)",
+          "required": true,
+          "values": [
+            {
+              "id": "1872290396",
+              "name": "24.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "962920797",
+              "name": "25.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "188883038",
+              "name": "25.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1697599327",
+              "name": "26.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "921988696",
+              "name": "26.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "13798745",
+              "name": "27.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1388293210",
+              "name": "27.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "746900315",
+              "name": "28.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2120346020",
+              "name": "28.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1213073573",
+              "name": "29.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "439031718",
+              "name": "29.5",
+              "out": true,
+              "img": null
+            },
+            {
+              "id": "2012231335",
+              "name": "30.0",
+              "out": true,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p2113948258",
+      "en": {
+        "name": "Mizuno Wave Momentum Pro Volleyball Shoe",
+        "brand": "Mizuno",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "توسيد وثبات للقفز المتكرّر",
+        "description": "Momentum cushioning and stability… at an accessible price The WAVE MOMENTUM PRO belongs to Mizuno's Momentum line, the line for cushioning and stability for players who jump and land a lot. It weighs about 320 g for a 27.0 cm shoe. Technology MIZUNO ENERZY NXT in the heel — where landing after a jump loads the foot most; high cushioning at a lighter weight. Wide sole with raised sidewalls — a larger landing area, with foam rising up the sides of the foot for a stable landing. Two-layer upper — mesh with zigzag reinforcements that hold the foot in lateral pushes and changes of direction. Half-bootie design — the tongue is partly joined to the upper: a secure fit that is still easy to put on and take off. Removable insole and a last that fits 2E width. Who is it for? Middle blockers and opposites — many jumps and repeated landings. Heavier players — who benefit most from cushioning and stability. Anyone who wants the Momentum Elite feel for less. Liberos and players who rely on quick feet more than jumping are better served by the Mizuno Fly .",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Momentum cushioning and stability… at an accessible price"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "WAVE MOMENTUM PRO"
+              },
+              " belongs to Mizuno's Momentum line, the line for ",
+              {
+                "b": "cushioning and stability"
+              },
+              " for players who jump and land a lot. It weighs about ",
+              {
+                "b": "320 g"
+              },
+              " for a 27.0 cm shoe."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "MIZUNO ENERZY NXT in the heel"
+              },
+              " — where landing after a jump loads the foot most; high cushioning at a lighter weight."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Wide sole with raised sidewalls"
+              },
+              " — a larger landing area, with foam rising up the sides of the foot for a stable landing."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Two-layer upper"
+              },
+              " — mesh with zigzag reinforcements that hold the foot in lateral pushes and changes of direction."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Half-bootie design"
+              },
+              " — the tongue is partly joined to the upper: a secure fit that is still easy to put on and take off."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Removable insole"
+              },
+              " and a last that fits 2E width."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Middle blockers and opposites"
+              },
+              " — many jumps and repeated landings."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Heavier players"
+              },
+              " — who benefit most from cushioning and stability."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Anyone who wants the Momentum Elite feel"
+              },
+              " for less."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "Liberos and players who rely on quick feet more than jumping are better served by the ",
+              {
+                "b": "Mizuno Fly"
+              },
+              "."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "583736967": {
+            "name": "Colour",
+            "values": {
+              "569218823": "White × Black",
+              "1942664704": "Black × White"
+            }
+          },
+          "723739530": {
+            "name": "Size (cm)",
+            "values": {
+              "13798745": "27.0",
+              "188883038": "25.5",
+              "439031718": "29.5",
+              "746900315": "28.0",
+              "921988696": "26.5",
+              "962920797": "25.0",
+              "1213073573": "29.0",
+              "1388293210": "27.5",
+              "1697599327": "26.0",
+              "1872290396": "24.5",
+              "2012231335": "30.0",
+              "2120346020": "28.5"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "108633973",
+      "sallaId": "108633973",
+      "sku": "RSP-MIZUNO-LIGHTNING-Z8-MID",
+      "name": "حذاء ميزونو ويف لايتنينج Z8 MID",
+      "brand": "ميزونو",
+      "category": "shoes",
+      "sport": "كرة الطائرة",
+      "tags": [
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة طائرة"
+      ],
+      "price": 459,
+      "compareAt": null,
+      "tagline": null,
+      "subtitle": "حذاء السرعة من ميزونو برقبة متوسطة",
+      "description": "سرعة لايتنينج… مع رقبة تحمي كاحلك WAVE LIGHTNING Z8 MID هو النسخة ذات القصّة المتوسطة من لايتنينج Z8، حذاء السرعة عند ميزونو والجيل الذي سبق لايتنينج إيليت . يزن نحو 320 غ لمقاس 27.0 سم. التقنيات MIZUNO ENERZY NXT في مقدّمة القدم — حيث يقع الحِمل في القفز، توسيد أعلى وارتداد أكبر. وتقول ميزونو إن توسيده أعلى بنحو 18٪ من Z7. لوح MIZUNO WAVE جديد يمتدّ على الجهة الداخلية من مقدّمة القدم — يدعم الدفع لحظة الانطلاق. كعب مرتفع الانحناء — الأعلى في تاريخ لايتنينج، صُمّم بناءً على أبحاث القفز ليدعم خطوة الارتقاء. فتحات رباط مشقوقة — يلتفّ الرباط على شكل القدم فيتحسّن الإحكام. قصّة متوسطة (Mid-cut) ونعلة ميزونو إنرجي قابلة للخلع، وقالب يناسب عرض 2E. لمن هذا الحذاء؟ من يحبّ خفّة لايتنينج لكنه يريد دعماً فوق الكاحل. الطرف وصانع الألعاب — حركة سريعة ثم قفزة وهبوط قرب الشبكة. من يريد حذاءً من الفئة العليا بسعر الجيل السابق. وإن كنت تريد أحدث جيل، فاختر ويف لايتنينج إيليت MID .",
+      "desc": [
+        {
+          "t": "h",
+          "s": [
+            "سرعة لايتنينج… مع رقبة تحمي كاحلك"
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            {
+              "b": "WAVE LIGHTNING Z8 MID"
+            },
+            " هو النسخة ذات القصّة المتوسطة من لايتنينج Z8، حذاء السرعة عند ميزونو والجيل الذي سبق ",
+            {
+              "b": "لايتنينج إيليت"
+            },
+            ". يزن نحو ",
+            {
+              "b": "320 غ"
+            },
+            " لمقاس 27.0 سم."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "التقنيات"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "MIZUNO ENERZY NXT في مقدّمة القدم"
+            },
+            " — حيث يقع الحِمل في القفز، توسيد أعلى وارتداد أكبر. وتقول ميزونو إن توسيده أعلى بنحو 18٪ من Z7."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "لوح MIZUNO WAVE جديد"
+            },
+            " يمتدّ على الجهة الداخلية من مقدّمة القدم — يدعم الدفع لحظة الانطلاق."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "كعب مرتفع الانحناء"
+            },
+            " — الأعلى في تاريخ لايتنينج، صُمّم بناءً على أبحاث القفز ليدعم خطوة الارتقاء."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "فتحات رباط مشقوقة"
+            },
+            " — يلتفّ الرباط على شكل القدم فيتحسّن الإحكام."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "قصّة متوسطة (Mid-cut)"
+            },
+            " ونعلة ميزونو إنرجي قابلة للخلع، وقالب يناسب عرض 2E."
+          ]
+        },
+        {
+          "t": "h",
+          "s": [
+            "لمن هذا الحذاء؟"
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "من يحبّ خفّة لايتنينج"
+            },
+            " لكنه يريد دعماً فوق الكاحل."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "الطرف وصانع الألعاب"
+            },
+            " — حركة سريعة ثم قفزة وهبوط قرب الشبكة."
+          ]
+        },
+        {
+          "t": "li",
+          "s": [
+            {
+              "b": "من يريد حذاءً من الفئة العليا"
+            },
+            " بسعر الجيل السابق."
+          ]
+        },
+        {
+          "t": "p",
+          "s": [
+            "وإن كنت تريد أحدث جيل، فاختر ",
+            {
+              "b": "ويف لايتنينج إيليت MID"
+            },
+            "."
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.salla.sa/jZjwre/fa158d8f-25fd-49a8-a12c-5ebdd150cdda-1000x1000-gUTKtRYO72gio1v07hiifysUhSreLZIrF18U1JLs.jpg",
+        "https://cdn.salla.sa/jZjwre/2945f294-a4f3-425f-846a-19ef2333caaa-1000x1000-UnRIhTHuEiu7GHdcPCWRWgphD0HQoDWj7Nhjk66G.jpg",
+        "https://cdn.salla.sa/jZjwre/fd8d3dc4-ee6f-46de-aef8-e7eadb47b903-1000x1000-OC6SYMwMfDnJzqmNztT60jxD1FATXsxeSc1VpdGr.jpg",
+        "https://cdn.salla.sa/jZjwre/de3f083c-4034-404d-a479-1bf7ba9fcd8d-1000x1000-D1ExDaJ56Y8CHhTKiplcS9X2vR1y3X1K1oXbYNR9.jpg",
+        "https://cdn.salla.sa/jZjwre/6e5358ce-c69d-4b7e-a35d-76e610dd23d7-1000x1000-3E6nc67AeE6y8Fiu0OL3vLiKrVPvgIzYYBvdY0nE.jpg",
+        "https://cdn.salla.sa/jZjwre/fa57e57f-c4e9-47a0-8742-50a0e045b1eb-1000x1000-Xz8qqm7OL1EiHMVMDglzRE2cvWeexIwiiwyjy91v.jpg"
+      ],
+      "optionNames": {
+        "size": "المقاس (سم)",
+        "color": "اللون"
+      },
+      "sizes": [
+        "24.5",
+        "25.0",
+        "25.5",
+        "26.0",
+        "26.5",
+        "27.0",
+        "27.5",
+        "28.0",
+        "28.5",
+        "29.0",
+        "29.5",
+        "30.0"
+      ],
+      "colors": [
+        "أبيض × أسود",
+        "أسود × فضي"
+      ],
+      "options": [
+        {
+          "id": "1141750156",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1973541994",
+              "name": "أبيض × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/413d4fb0-54cc-4d93-85c3-6eb8b267aebe-500x500-gUTKtRYO72gio1v07hiifysUhSreLZIrF18U1JLs.jpg"
+            },
+            {
+              "id": "1200552811",
+              "name": "أسود × فضي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/877b0ebb-f49b-42c0-b24d-133d95218c52-500x500-UnRIhTHuEiu7GHdcPCWRWgphD0HQoDWj7Nhjk66G.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1456906644",
+          "name": "المقاس (سم)",
+          "required": true,
+          "values": [
+            {
+              "id": "1064153763",
+              "name": "24.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "155898284",
+              "name": "25.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1528295597",
+              "name": "25.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "888938414",
+              "name": "26.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "114900655",
+              "name": "26.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1353080232",
+              "name": "27.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "579042473",
+              "name": "27.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "2087295914",
+              "name": "28.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1312209579",
+              "name": "28.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "403954100",
+              "name": "29.0",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1979250869",
+              "name": "29.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1204094902",
+              "name": "30.0",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
+      "model": null,
+      "origin": "JP",
+      "status": "live",
+      "url": "https://risport-sa.com/ar/x/p108633973",
+      "en": {
+        "name": "Mizuno Wave Lightning Z8 MID Volleyball Shoe",
+        "brand": "Mizuno",
+        "sport": "Volleyball",
+        "tagline": null,
+        "subtitle": "حذاء السرعة من ميزونو برقبة متوسطة",
+        "description": "Lightning speed… with a collar that protects your ankle The WAVE LIGHTNING Z8 MID is the mid-cut version of the Lightning Z8, Mizuno's speed shoe and the generation before the Lightning Elite . It weighs about 320 g for a 27.0 cm shoe. Technology MIZUNO ENERZY NXT in the forefoot — where jumping loads the foot, for more cushioning and rebound. Mizuno says it cushions about 18% more than the Z7. New MIZUNO WAVE plate along the inner forefoot — supports the push at take-off. Highest heel curve in Lightning history — designed from jump research to support the take-off step. Slit eyelets — the laces follow the shape of the foot for a better fit. Mid-cut collar , a removable Mizuno Enerzy insole and a last that fits 2E width. Who is it for? Players who love Lightning's lightness but want support above the ankle. Outside hitters and setters — quick movement, then a jump and landing near the net. Anyone who wants a top-tier shoe at last generation's price. If you want the newest generation, choose the Wave Lightning Elite MID .",
+        "desc": [
+          {
+            "t": "h",
+            "s": [
+              "Lightning speed… with a collar that protects your ankle"
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "The ",
+              {
+                "b": "WAVE LIGHTNING Z8 MID"
+              },
+              " is the mid-cut version of the Lightning Z8, Mizuno's speed shoe and the generation before the ",
+              {
+                "b": "Lightning Elite"
+              },
+              ". It weighs about ",
+              {
+                "b": "320 g"
+              },
+              " for a 27.0 cm shoe."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Technology"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "MIZUNO ENERZY NXT in the forefoot"
+              },
+              " — where jumping loads the foot, for more cushioning and rebound. Mizuno says it cushions about 18% more than the Z7."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "New MIZUNO WAVE plate"
+              },
+              " along the inner forefoot — supports the push at take-off."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Highest heel curve in Lightning history"
+              },
+              " — designed from jump research to support the take-off step."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Slit eyelets"
+              },
+              " — the laces follow the shape of the foot for a better fit."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Mid-cut collar"
+              },
+              ", a removable Mizuno Enerzy insole and a last that fits 2E width."
+            ]
+          },
+          {
+            "t": "h",
+            "s": [
+              "Who is it for?"
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Players who love Lightning's lightness"
+              },
+              " but want support above the ankle."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Outside hitters and setters"
+              },
+              " — quick movement, then a jump and landing near the net."
+            ]
+          },
+          {
+            "t": "li",
+            "s": [
+              {
+                "b": "Anyone who wants a top-tier shoe"
+              },
+              " at last generation's price."
+            ]
+          },
+          {
+            "t": "p",
+            "s": [
+              "If you want the newest generation, choose the ",
+              {
+                "b": "Wave Lightning Elite MID"
+              },
+              "."
+            ]
+          }
+        ],
+        "tags": [
+          "Shop by Sport",
+          "Shoes",
+          "Volleyball Shoes"
+        ],
+        "options": {
+          "1141750156": {
+            "name": "Colour",
+            "values": {
+              "1200552811": "Black × Silver",
+              "1973541994": "White × Black"
+            }
+          },
+          "1456906644": {
+            "name": "Size (cm)",
+            "values": {
+              "114900655": "26.5",
+              "155898284": "25.0",
+              "403954100": "29.0",
+              "579042473": "27.5",
+              "888938414": "26.0",
+              "1064153763": "24.5",
+              "1204094902": "30.0",
+              "1312209579": "28.5",
+              "1353080232": "27.0",
+              "1528295597": "25.5",
+              "1979250869": "29.5",
+              "2087295914": "28.0"
             }
           }
         }
@@ -31987,7 +34157,7 @@
             {
               "id": "1451176424",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -34927,7 +37097,7 @@
             {
               "id": "2093453143",
               "name": "كحلي",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/11cf860e-72a7-47d6-b057-3b4ca9b32319-500x375-budbOoU16pRJL95kDUszgMQ0XBuolJApyPOqNm2r.jpg"
             }
           ]
@@ -34940,7 +37110,7 @@
             {
               "id": "1319939664",
               "name": "S",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -35915,7 +38085,7 @@
             {
               "id": "336904379",
               "name": "إيشيكاوا يوكي ١٤",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/f9184186-92eb-47a4-a108-6c1a13793e6e-500x375-VxChNimsADrTVBWmQqDgftojgSvBNXXhRepFhOTg.png"
             },
             {
@@ -35939,7 +38109,7 @@
             {
               "id": "1602243719",
               "name": "كاي تاتسونوري ١٥",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/6b6ed513-7df5-4c93-baf7-af3d4fe0ec53-500x375-Cp9kMa1oa2tg8h1nTc894x6Wh2rJljDVsnaBzrYW.png"
             }
           ]
