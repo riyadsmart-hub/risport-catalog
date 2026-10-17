@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-17T13:53:01.766Z",
+  "generatedAt": "2026-10-17T17:19:12.598Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -59843,47 +59843,47 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1334334067",
       "en": {
-        "name": "جاكيت نايكي دراي فيت ستارتنغ فايف لكرة السلة",
+        "name": "Nike Dri-FIT Starting Five Basketball Jacket",
         "brand": "Nike",
         "sport": "Basketball",
         "tagline": null,
-        "subtitle": "جاكيت منسوج للإحماء — خطّ Starting Five",
-        "description": "جاكيت ستارتنغ فايف — طبقة الإحماء جاكيت منسوج خفيف من خطّ نايكي Starting Five المخصّص لكرة السلة: يُلبس في الإحماء قبل المباراة، وعلى المدرّجات، وفي التنقّل إلى الصالة. الخامة المنسوجة تصدّ الهواء البارد في الصالات المكيّفة بلا ثقل الجاكيت الشتوي، وتقنية Dri-FIT تمنع احتباس العرق أثناء الإحماء. كود الموديل FZ0249 · بضاعة أصلية تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً لدى المصدر؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود.",
+        "subtitle": "Woven warm-up jacket — Starting Five line",
+        "description": "Starting Five jacket — the warm-up layer A light woven jacket from Nike's basketball Starting Five line: worn warming up, on the bench, and travelling to the gym. The woven face blocks cold air in air-conditioned halls without the bulk of a winter coat, and Dri-FIT stops sweat being trapped. Model code FZ0249 · Authentic stock sourced from Japan, delivered in 7–21 working days. Every size shown is actually available at the source; sizes marked out of stock will be restocked and we will notify you.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "جاكيت ستارتنغ فايف — طبقة الإحماء"
+              "Starting Five jacket — the warm-up layer"
             ]
           },
           {
             "t": "p",
             "s": [
-              "جاكيت ",
+              "A ",
               {
-                "b": "منسوج خفيف"
+                "b": "light woven jacket"
               },
-              " من خطّ نايكي ",
+              " from Nike's basketball ",
               {
                 "b": "Starting Five"
               },
-              " المخصّص لكرة السلة: يُلبس في الإحماء قبل المباراة، وعلى المدرّجات، وفي التنقّل إلى الصالة."
+              " line: worn warming up, on the bench, and travelling to the gym."
             ]
           },
           {
             "t": "p",
             "s": [
-              "الخامة المنسوجة تصدّ الهواء البارد في الصالات المكيّفة بلا ثقل الجاكيت الشتوي، وتقنية ",
+              "The woven face blocks cold air in air-conditioned halls without the bulk of a winter coat, and ",
               {
                 "b": "Dri-FIT"
               },
-              " تمنع احتباس العرق أثناء الإحماء."
+              " stops sweat being trapped."
             ]
           },
           {
             "t": "p",
             "s": [
-              "كود الموديل FZ0249 · بضاعة أصلية تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً لدى المصدر؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود."
+              "Model code FZ0249 · Authentic stock sourced from Japan, delivered in 7–21 working days. Every size shown is actually available at the source; sizes marked out of stock will be restocked and we will notify you."
             ]
           }
         ],
