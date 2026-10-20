@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-19T21:13:31.335Z",
+  "generatedAt": "2026-10-20T06:11:26.197Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -6349,7 +6349,7 @@
             {
               "id": "142941801",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -41386,25 +41386,25 @@
             {
               "id": "1413094991",
               "name": "41",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "638008648",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1944869961",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1305049930",
               "name": "43",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -42292,7 +42292,7 @@
             {
               "id": "1023000956",
               "name": "41",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -42328,7 +42328,7 @@
             {
               "id": "538479482",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -43111,19 +43111,19 @@
             {
               "id": "57051867",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1564715300",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "791201829",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
