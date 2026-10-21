@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-20T20:45:13.366Z",
+  "generatedAt": "2026-10-21T15:24:25.994Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -55,8 +55,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 529,
@@ -293,8 +291,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -336,8 +332,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 549,
@@ -607,8 +601,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -654,8 +646,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 699,
@@ -937,8 +927,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -987,8 +975,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 430,
@@ -1275,8 +1261,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -1311,8 +1295,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 490,
@@ -1594,8 +1576,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -1629,8 +1609,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 540,
@@ -1917,8 +1895,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -1953,8 +1929,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 380,
@@ -2176,8 +2150,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -2212,8 +2184,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 409,
@@ -2481,8 +2451,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -2528,8 +2496,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 619,
@@ -2795,8 +2761,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -2842,8 +2806,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 689,
@@ -3115,8 +3077,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -3163,8 +3123,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 340,
@@ -3447,8 +3405,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -3485,8 +3441,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 435,
@@ -3741,8 +3695,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -3775,8 +3727,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 455,
@@ -4092,8 +4042,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -4132,8 +4080,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 465,
@@ -4397,8 +4343,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -4426,8 +4370,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 515,
@@ -4711,8 +4653,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -4749,8 +4689,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 645,
@@ -4989,8 +4927,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -5017,8 +4953,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 720,
@@ -5280,8 +5214,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -5315,8 +5247,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 350,
@@ -5595,8 +5525,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -5629,11 +5557,9 @@
       "name": "حذاء أسيكس GT-1000 15 رجالي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية مشي",
         "أحذية جري"
       ],
       "price": 410,
@@ -5905,7 +5831,7 @@
       "en": {
         "name": "ASICS GT-1000 15 Running & Walking Shoe — Men's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "Everyday stability, great value",
         "description": "ASICS GT-1000 15 GT-1000 is ASICS' value stability shoe: the same idea as the GT-2000 — limiting inward ankle roll — at a lower price, and it works for daily runs and walking. What is new in generation 15 New engineered mesh upper with a softer wrap and better breathability. Full-length AHARPLUS rubber on the outsole (previously heel only) for more durability. Broader platform for a steadier ride, with FF BLAST foam and PureGEL in the heel. Who is it for? Anyone who needs mild to moderate support for flat feet or an inward-rolling ankle and wants a durable, affordable everyday shoe — for running or long walks. Official specs Category: stability daily trainer Stability: 3D GUIDANCE SYSTEM Weight: about 278 g men's and 242 g women's (single shoe) · heel stack about 34.5 mm , drop 8 mm Removable OrthoLite insole Code: 1011C230 (men) · 1012B994 (women) — standard width Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -6050,8 +5976,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
-          "Walking Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -6086,11 +6010,9 @@
       "name": "حذاء أسيكس GT-1000 15 نسائي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية مشي",
         "أحذية جري"
       ],
       "price": 415,
@@ -6362,7 +6284,7 @@
       "en": {
         "name": "ASICS GT-1000 15 Running & Walking Shoe — Women's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "Everyday stability, great value",
         "description": "ASICS GT-1000 15 GT-1000 is ASICS' value stability shoe: the same idea as the GT-2000 — limiting inward ankle roll — at a lower price, and it works for daily runs and walking. What is new in generation 15 New engineered mesh upper with a softer wrap and better breathability. Full-length AHARPLUS rubber on the outsole (previously heel only) for more durability. Broader platform for a steadier ride, with FF BLAST foam and PureGEL in the heel. Who is it for? Anyone who needs mild to moderate support for flat feet or an inward-rolling ankle and wants a durable, affordable everyday shoe — for running or long walks. Official specs Category: stability daily trainer Stability: 3D GUIDANCE SYSTEM Weight: about 278 g men's and 242 g women's (single shoe) · heel stack about 34.5 mm , drop 8 mm Removable OrthoLite insole Code: 1011C230 (men) · 1012B994 (women) — standard width Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -6507,8 +6429,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
-          "Walking Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -6543,11 +6463,9 @@
       "name": "حذاء أسيكس جل كيومولس 28 نسائي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية مشي",
         "أحذية جري"
       ],
       "price": 415,
@@ -6824,7 +6742,7 @@
       "en": {
         "name": "ASICS GEL-CUMULUS 28 Running & Walking Shoe — Women's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "Everyday comfort to run or walk",
         "description": "ASICS GEL-CUMULUS 28 CUMULUS is the most balanced shoe in the ASICS family: comfortable cushioning without excess, good for daily runs and long walks, and priced below the NIMBUS. Generation 28 launched in Japan in February 2026. What is new in generation 28 FF BLAST MAX midsole replaces FF BLAST PLUS — a livelier, springier ride, with PureGEL in the heel for shock absorption. Lighter, more breathable jacquard upper and a stretch-knit tongue. Roomier toe box than generation 27. Who is it for? Easy and steady daily runs, runners aiming to finish a full marathon — and anyone who wants a comfortable shoe for daily walking too. Neutral, with no stability support. Official specs Category: neutral daily trainer Weight: about 259 g men's and 223 g women's (single shoe) · heel stack about 38.5 mm , drop 8 mm Outsole: EVA-rubber blend with AHAR LO rubber on the outer heel Removable OrthoLite insole Code: 1011C143 (men) · 1012B916 (women) — standard width Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -6974,8 +6892,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
-          "Walking Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -7415,10 +7331,9 @@
       "name": "حذاء أسيكس نوفابلاست 6 نسائي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 420,
@@ -7710,7 +7625,7 @@
       "en": {
         "name": "ASICS NOVABLAST 6 Running Shoe — Women's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Light, bouncy daily trainer",
         "description": "ASICS NOVABLAST 6 NOVABLAST is ASICS' bouncy, lively daily trainer: a tall, soft sole that gives back some of the energy of every step, equally good for your first kilometres and for regular training. Generation 6 launched in Japan in July 2026. What is new in generation 6 FF TURBO² forefoot layer on top of the FF BLAST MAX midsole — more rebound at toe-off. ASICSGRIP rubber in the forefoot for grip on varied surfaces, with a trampoline-style forefoot structure. Slightly narrower, lighter platform than NOVABLAST 5. Who is it for? For new runners and regular runners who want a light, comfortable, lively shoe for every day. It is not a stability shoe — if your ankle rolls inward, GT-2000 15 is the better pick. Official specs Category: neutral, highly cushioned daily trainer Weight: about 253 g men's and 215 g women's (single shoe, ASICS Japan) Heel stack about 41.5 mm , heel-to-toe drop 8 mm Upper: light, stretchy engineered woven Code: 1011C243 (men) · 1012C008 (women) — standard width Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -7856,7 +7771,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -7894,11 +7808,7 @@
       "brand": "أسيكس",
       "category": "shoes",
       "sport": "كرة الطائرة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة طائرة"
-      ],
+      "tags": [],
       "price": 449,
       "compareAt": 489,
       "tagline": "جديد!",
@@ -8312,11 +8222,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Volleyball Shoes"
-        ],
+        "tags": [],
         "options": {
           "933753890": {
             "name": "Size",
@@ -8350,10 +8256,9 @@
       "name": "حذاء أسيكس GT-2000 15 رجالي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 485,
@@ -8659,7 +8564,7 @@
       "en": {
         "name": "ASICS GT-2000 15 Running Shoe — Men's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Stability for overpronation",
         "description": "ASICS GT-2000 15 GT-2000 is ASICS' everyday stability shoe: as comfortable as a regular running shoe, but it limits the inward ankle roll (over-pronation) that tires the knee over time. Generation 15 launched in Japan in August 2026. What is new in generation 15 About 2 mm more midsole and about 20 g lighter than GT-2000 14. Softer-tuned FF BLAST MAX — gentler landings, livelier rebound. Wider medial ground contact on the outsole for a steadier step. Who is it for? Beginners and daily runners who want cushioning with mild support for flat feet or an ankle that rolls in. If you need no support, choose NOVABLAST 6 or GEL-CUMULUS 28. Official specs Category: stability daily trainer Stability: 3D GUIDANCE SYSTEM — bevelled heel and a midsole that flares from the medial heel to the midfoot Outsole: AHARPLUS rubber at heel and forefoot, about three times more abrasion-resistant than ASICS' standard rubber Weight: about 252 g men's (single shoe) · heel stack about 38 mm , drop 8 mm Code: 1011C235 (men) · 1012B998 (women) — standard width Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -8805,7 +8710,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -8847,7 +8751,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -9301,7 +9204,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -9802,10 +9704,9 @@
       "name": "حذاء أسيكس ماجيك سبيد 5",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 495,
@@ -10117,7 +10018,7 @@
       "en": {
         "name": "ASICS MAGIC SPEED 5 Running Shoe",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Carbon plate, sensible price",
         "description": "ASICS MAGIC SPEED 5 MAGIC SPEED is ASICS' carbon-plated shoe for speed sessions and races — and for many runners, their first carbon shoe. Generation 5 launched in Japan in January 2026 and is sized unisex . What is new in generation 5 About 50 g lighter than MAGIC SPEED 4 (27.0 cm). Lower heel stack (about 43.5 → 37.5 mm) for a quicker, more direct feel. New dual midsole : FF LEAP on top for rebound and FF BLAST PLUS below for stability, with a redesigned carbon plate . Who is it for? Runners who want a light, responsive shoe for tempo work and races from 5 km to the half marathon, for far less than top-tier racers. Official specs Category: carbon-plated tempo/race trainer Weight: about 196 g (27.0 cm, single shoe) · heel stack about 37.5 mm , drop 7 mm Code: 1013A183 — unisex, sized on the ASICS men's chart Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -10255,7 +10156,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -10298,8 +10198,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 505,
@@ -10649,8 +10547,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -10691,11 +10587,9 @@
       "name": "حذاء أسيكس نوفابلاست 6 رجالي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية جري"
+        "تسوّق حسب الرياضة"
       ],
       "price": 515,
       "compareAt": null,
@@ -11000,7 +10894,7 @@
       "en": {
         "name": "ASICS NOVABLAST 6 Running Shoe — Men's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Light, bouncy daily trainer",
         "description": "ASICS NOVABLAST 6 NOVABLAST is ASICS' bouncy, lively daily trainer: a tall, soft sole that gives back some of the energy of every step, equally good for your first kilometres and for regular training. Generation 6 launched in Japan in July 2026. What is new in generation 6 FF TURBO² forefoot layer on top of the FF BLAST MAX midsole — more rebound at toe-off. ASICSGRIP rubber in the forefoot for grip on varied surfaces, with a trampoline-style forefoot structure. Slightly narrower, lighter platform than NOVABLAST 5. Who is it for? For new runners and regular runners who want a light, comfortable, lively shoe for every day. It is not a stability shoe — if your ankle rolls inward, GT-2000 15 is the better pick. Official specs Category: neutral, highly cushioned daily trainer Weight: about 253 g men's and 215 g women's (single shoe, ASICS Japan) Heel stack about 41.5 mm , heel-to-toe drop 8 mm Upper: light, stretchy engineered woven Code: 1011C243 (men) · 1012C008 (women) — standard width Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -11145,9 +11039,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Running Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "405804381": {
@@ -11187,8 +11079,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 525,
@@ -11588,8 +11478,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -11633,8 +11521,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 529,
@@ -12064,8 +11950,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -12109,7 +11993,6 @@
       "sport": "كرة الطائرة",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 539,
@@ -12516,7 +12399,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -12557,11 +12439,9 @@
       "name": "حذاء أسيكس جل نيمبوس 28 نسائي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية جري"
+        "تسوّق حسب الرياضة"
       ],
       "price": 555,
       "compareAt": null,
@@ -12922,7 +12802,7 @@
       "en": {
         "name": "ASICS GEL-NIMBUS 28 Running Shoe — Women's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Gen 28 — softest for long runs",
         "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1012B899 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
@@ -13092,9 +12972,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Running Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "12858950": {
@@ -13134,11 +13012,9 @@
       "name": "حذاء أسيكس جل كايانو 33 رجالي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية جري"
+        "تسوّق حسب الرياضة"
       ],
       "price": 570,
       "compareAt": null,
@@ -13529,7 +13405,7 @@
       "en": {
         "name": "ASICS GEL-KAYANO 33 Running Shoe — Men's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Gen 33 with FLUIDSUPPORT stability",
         "description": "ASICS GEL-KAYANO 33 The GEL-KAYANO line has been ASICS' flagship long-distance shoe since 1993, with a single job: to keep your stride straight and steady once the body tires — because injury usually comes from form collapsing in the last kilometres , not the first. Generation 33 was released in Japan in June 2026. What is new in generation 33 FLUIDSUPPORT — the new stability system , built on the same 4D GUIDANCE SYSTEM philosophy. \"Fluid\" is the point: instead of one rigid piece propping up a single spot, support here is continuous through the whole stride , from heel contact to toe-off. A softer material was added on the inner side of the midfoot specifically to hold the foot once fatigue starts to unsettle your form. A two-layer midsole — the top layer is soft, high-rebound FF BLAST MAX , the bottom layer firmer FF BLAST PLUS . The soft one meets your foot; the firm one carries the load and stops you sinking through. PureGEL in the heel — shock absorption exactly where the foot first meets the ground. An engineered mesh upper whose ventilation and hold change zone by zone, with the inner lining joined to the tongue so foot and shoe move as one piece with no internal slipping. HYBRID ASICSGRIP outsole — ASICSGRIP through the middle for traction and AHARPLUS at the heel with roughly three times the wear resistance of conventional rubber. Inside the outsole, a curved rubber line governs how the sole flexes, and an oval pattern at the forefoot adds give at toe-off. Who is it for? For new runners, and for anyone training toward a full marathon who wants stability protecting them late in the race. If your gait is neutral and all you want is maximum softness, the GEL-NIMBUS 28 suits you better. Official specifications Model code: 1011C167 — standard width Sizes: 24.5–29.0 cm in 0.5 cm steps, plus 30.0, 31.0 and 32.0 cm (men's) Made in: Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
@@ -13715,9 +13591,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Running Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "1103109965": {
@@ -13759,11 +13633,9 @@
       "name": "حذاء أسيكس جل نيمبوس 28 رجالي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية جري"
+        "تسوّق حسب الرياضة"
       ],
       "price": 575,
       "compareAt": null,
@@ -14149,7 +14021,7 @@
       "en": {
         "name": "ASICS GEL-NIMBUS 28 Running Shoe — Men's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Gen 28 — softest for long runs",
         "description": "ASICS GEL-NIMBUS 28 The GEL-NIMBUS line has been ASICS' softest-riding shoe since 1999. \"Nimbus\" is Latin for cloud — and the whole idea is that you feel like you are running on one instead of on asphalt. Generation 28 was released in Japan in January 2026. What is new in generation 28 About 20 g lighter than generation 27 — the outsole rubber was redistributed so it sits only where friction actually happens, dropping weight while grip and durability stay where they were. FF BLAST PLUS midsole — a light, soft foam that absorbs the impact of every step instead of passing it up to your knee. Around 24% of the foam comes from renewable sugarcane . PureGEL in the heel — the shock-absorbing unit sits where the ground hits hardest over long runs, and it is what makes the final kilometres kinder on your joints. A knitted engineered-knit upper — one fabric whose knit pattern and pore size change zone by zone: more ventilation where you need it, firmer hold where it matters. The tongue and collar use a stretch fabric that wraps the instep softly, without pressure. HYBRID ASICSGRIP outsole — two rubbers: ASICSGRIP through the midfoot for high traction on varied surfaces, and AHARPLUS at the forefoot and heel, roughly three times more wear-resistant than ASICS' conventional rubber — exactly the two places running actually wears down. Who is it for? For anyone starting to run, and for anyone whose goal is finishing a full marathon . It is first and foremost a shoe for long daily distances: comfort and absorption before top speed. If what you need is stability against the ankle rolling inward, the GEL-KAYANO 33 is your shoe, not the Nimbus. Official specifications Model code: 1011C127 — standard width Sizes: 24.5–29.0 cm in 0.5 cm steps, plus 30.0, 31.0 and 32.0 cm (men's) Made in: Vietnam / Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
@@ -14319,9 +14191,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Running Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "497454200": {
@@ -14364,11 +14234,9 @@
       "name": "حذاء أسيكس جل كايانو 33 نسائي",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية جري"
+        "تسوّق حسب الرياضة"
       ],
       "price": 585,
       "compareAt": null,
@@ -14710,7 +14578,7 @@
       "en": {
         "name": "ASICS GEL-KAYANO 33 Running Shoe — Women's",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Gen 33 with FLUIDSUPPORT stability",
         "description": "ASICS GEL-KAYANO 33 The GEL-KAYANO line has been ASICS' flagship long-distance shoe since 1993, with a single job: to keep your stride straight and steady once the body tires — because injury usually comes from form collapsing in the last kilometres , not the first. Generation 33 was released in Japan in June 2026. What is new in generation 33 FLUIDSUPPORT — the new stability system , built on the same 4D GUIDANCE SYSTEM philosophy. \"Fluid\" is the point: instead of one rigid piece propping up a single spot, support here is continuous through the whole stride , from heel contact to toe-off. A softer material was added on the inner side of the midfoot specifically to hold the foot once fatigue starts to unsettle your form. A two-layer midsole — the top layer is soft, high-rebound FF BLAST MAX , the bottom layer firmer FF BLAST PLUS . The soft one meets your foot; the firm one carries the load and stops you sinking through. PureGEL in the heel — shock absorption exactly where the foot first meets the ground. An engineered mesh upper whose ventilation and hold change zone by zone, with the inner lining joined to the tongue so foot and shoe move as one piece with no internal slipping. HYBRID ASICSGRIP outsole — ASICSGRIP through the middle for traction and AHARPLUS at the heel with roughly three times the wear resistance of conventional rubber. Inside the outsole, a curved rubber line governs how the sole flexes, and an oval pattern at the forefoot adds give at toe-off. Who is it for? For new runners, and for anyone training toward a full marathon who wants stability protecting them late in the race. If your gait is neutral and all you want is maximum softness, the GEL-NIMBUS 28 suits you better. Official specifications Model code: 1012B939 — standard width Sizes: 22.5–26.5 cm in 0.5 cm steps (women's) Made in: Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
@@ -14896,9 +14764,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Running Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "48071792": {
@@ -14937,8 +14803,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 594,
@@ -15395,8 +15259,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -15443,8 +15305,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 605,
@@ -15721,8 +15581,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -15753,8 +15611,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 614,
@@ -16238,8 +16094,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -16285,11 +16139,7 @@
       "brand": "أسيكس",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 615,
       "compareAt": null,
       "tagline": null,
@@ -16607,11 +16457,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "336223554": {
             "name": "Colour",
@@ -17176,8 +17022,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 678,
@@ -17679,8 +17523,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -17714,10 +17556,9 @@
       "name": "حذاء أسيكس سوبربلاست 3",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 825,
@@ -18032,7 +17873,7 @@
       "en": {
         "name": "ASICS SUPERBLAST 3 Running Shoe",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Super trainer for miles and pace",
         "description": "ASICS SUPERBLAST 3 SUPERBLAST is a plateless super trainer : a very tall, light sole for daily miles and faster sessions — many runners race in it too. Generation 3 launched in Japan in March 2026 and is sized unisex . What is new in generation 3 FF LEAP top layer — ASICS' lightest, most resilient foam, the same used in METASPEED racers: about 10 g lighter and about 15.2% more rebound than before. FF BLAST PLUS bottom layer for stability and durability. New trampoline structure in the ASICSGRIP outsole for extra bounce. Who is it for? Runners who want one shoe for daily training and tempo work that can race too, without the stiffness of a carbon plate. Official specs Category: neutral plateless super trainer Weight: about 239 g (27.0 cm, single shoe) · heel stack about 46.5 mm , drop 8 mm Upper: engineered woven Code: 1013A177 — unisex, sized on the ASICS men's chart Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -18172,7 +18013,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -18215,8 +18055,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 829,
@@ -18605,8 +18443,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -18638,11 +18474,7 @@
       "brand": "أسيكس",
       "category": "shoes",
       "sport": "كرة الطائرة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة طائرة"
-      ],
+      "tags": [],
       "price": 829,
       "compareAt": null,
       "tagline": null,
@@ -19080,11 +18912,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Volleyball Shoes"
-        ],
+        "tags": [],
         "options": {
           "1051301440": {
             "name": "Color",
@@ -19123,11 +18951,9 @@
       "name": "حذاء أسيكس ميتاسبيد سكاي طوكيو",
       "brand": "أسيكس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية جري"
+        "تسوّق حسب الرياضة"
       ],
       "price": 900,
       "compareAt": null,
@@ -19496,7 +19322,7 @@
       "en": {
         "name": "حذاء أسيكس ميتاسبيد سكاي طوكيو",
         "brand": "ASICS",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "حذاء السباق الأعلى فئة — لمن يطيل خطوته",
         "description": "أسيكس ميتاسبيد سكاي طوكيو قمة ما تصنعه أسيكس للسباق. الميتاسبيد هو خطّ أسيكس المخصّص للمنافسة وحدها، و«طوكيو» جيله الأحدث. مبنيّ حول هدف واحد: أن تقطع المسافة نفسها بخطوات أطول وطاقة أقل . ووزنه 167 غراماً فقط — أخفّ من أغلب أحذية التدريب اليومية بثلثها. سكاي أم إيدج؟ اقرأ هذا قبل الشراء أسيكس تصنع حذاءين في هذا الخطّ، والفرق بينهما ليس المستوى بل أسلوب جريك : سكاي — هذا الحذاء : لمن يزيد سرعته بإطالة الخطوة. اللوح الكربوني هنا أكثر استواءً وموضوع أعلى في النعل، والنعل أسمك عند مقدمة القدم، فيدفعك للأمام وللأعلى. إيدج : لمن يزيد سرعته برفع تواتر الخطوات لا بإطالتها. كيف تعرف أيّهما أنت؟ تخيّل نفسك وأنت تتسارع: إن طالت خطوتك فهذا حذاؤك، وإن تسارعت قدماك دون أن تطول الخطوة فالإيدج أنسب لك. التقنيات — وما تفعله فعلاً رغوتان لا واحدة — FF LEAP في الطبقة السفلى و FF TURBO PLUS في العليا. الجديد هو FF LEAP: أخفّ رغوة صنعتها أسيكس على الإطلاق، أخفّ بـ15٪ وأكثر استجابة بـ14٪ وأطرى بـ30٪ من FF TURBO PLUS. ووُضعت أسفل لأن الطبقة السفلى هي التي تلامس الأرض وتستقبل الصدمة فتمتصّها ثم تردّها، بينما تبقى الطبقة الأحزم تحت قدمك مباشرةً فلا تشعر بالغوص. لوح كربوني مرفوع — أسيكس رفعت موضعه داخل النعل وجعلته أكثر استواءً. أثره في السباق: عزم دفع أطول للأمام في كل خطوة بدل دفعة قصيرة حادّة، أي خطوة أطول دون جهد إضافي منك. نعل أسمك عند المقدّمة — مقارنةً بالإيدج. عند لحظة الدفع الأخيرة من الأصابع تجد تحتك مادة أكثر ترتدّ، فتخرج من الخطوة بارتفاع أكبر. لمن هذا الحذاء؟ للسباق لا للتمرين اليومي — لعدّاء 5 و10 كيلومترات ونصف الماراثون والماراثون، ممن يستهدف رقماً شخصياً ويريد توفير ثوانٍ في كل كيلومتر. لمن يطيل خطوته عند التسارع — وهذا أهمّ شرط، وقد شرحناه أعلاه. لمن يعرف أن حذاء السباق يُستهلك بسرعة — أحذية الكربون عمرها أقصر بكثير من أحذية التدريب، لأن رغوتها مصمَّمة للارتداد لا للتحمّل. ومتى لا يناسبك؟ — بصراحة إن كنت تجري يومياً للياقة أو لإنقاص الوزن فهذا ليس حذاءك: لا هو مصمَّم للاستخدام اليومي ولا عمره يحتمله، وستدفع ثمن تقنيات لن تستفيد منها. حذاء التدريب اليومي أنسب لك وأدوم. إن كنت مبتدئاً لم يبنِ بعد قوة ساقيه، فاللوح الكربوني ينقل حِملاً أكبر إلى وتر أخيل وباطن القدم. ابدأ بحذاء تدريب واصعد إلى الكربون بعد أن تثبت مسافاتك. إن كنت ترفع تواترك لا طول خطوتك ، فالإيدج هو حذاؤك لا هذا. الأصالة والتوريد أصلي 100٪، يُجلب من متجر أسيكس الرسمي في اليابان بطلبك. كود الموديل 1013A162 . ⏱️ مدّة التوريد والتسليم من أسبوعين إلى أربعة أسابيع . نُخطرك بحالة طلبك أولاً بأول، وإن تعذّر توفير مقاسك يُردّ المبلغ كاملاً.",
@@ -19710,9 +19536,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Running Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "166516021": {
@@ -19752,8 +19576,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 449,
@@ -19972,7 +19794,7 @@
       "url": "https://risport-sa.com/ar/x/p68644841",
       "en": {
         "name": "حذاء أنتا KT 11 لكرة السلة",
-        "brand": "ANTA",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "تقنية النيتروجين ولوح كربون — حذاء كلاي تومسون الموقّع",
@@ -20012,8 +19834,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -20058,8 +19878,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 729,
@@ -20242,7 +20060,7 @@
       "url": "https://risport-sa.com/ar/x/p2052472378",
       "en": {
         "name": "حذاء أنتا كاي سبيد 3 لكرة السلة",
-        "brand": "ANTA",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "خطّ السرعة من توقيع كايري إرفينغ — رقبة منخفضة",
@@ -20282,8 +20100,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -20324,8 +20140,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 769,
@@ -20496,7 +20310,7 @@
       "url": "https://risport-sa.com/ar/x/p1944492805",
       "en": {
         "name": "حذاء أنتا كاي 3 لكرة السلة",
-        "brand": "ANTA",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "توقيع كايري إرفينغ — الجيل الثالث بنعل مستدير وإحساس عالٍ بالأرضية",
@@ -20536,8 +20350,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -20577,7 +20389,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -21008,7 +20819,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -21049,7 +20859,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -21501,7 +21310,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -21544,8 +21352,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 335,
@@ -21826,8 +21632,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -21860,8 +21664,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 340,
@@ -22104,8 +21906,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -22130,8 +21930,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 390,
@@ -22311,8 +22109,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -22344,8 +22140,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 435,
@@ -22569,8 +22363,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -22610,8 +22402,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 450,
@@ -22824,8 +22614,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -22862,8 +22650,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 465,
@@ -23165,8 +22951,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -23203,8 +22987,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 465,
@@ -23510,8 +23292,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -23548,8 +23328,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 545,
@@ -23804,8 +23582,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -23838,8 +23614,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 620,
@@ -24110,8 +23884,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -24140,8 +23912,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 539,
@@ -24368,7 +24138,7 @@
       "url": "https://risport-sa.com/ar/x/p1441587918",
       "en": {
         "name": "حذاء ريغورر AR3 لكرة السلة",
-        "brand": "Rigorer",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "توقيع أوستن ريفز — نعل هيرنغبون ورغوة عالية الارتداد",
@@ -24408,8 +24178,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -24455,8 +24223,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 440,
@@ -24712,8 +24478,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -24741,8 +24505,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 689,
@@ -25003,8 +24765,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -25050,8 +24810,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 519,
@@ -25222,7 +24980,7 @@
       "url": "https://risport-sa.com/ar/x/p2013774797",
       "en": {
         "name": "حذاء لي نينغ ويد شادو 7 لكرة السلة",
-        "brand": "Li-Ning",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "منصّة خفيفة عالية الارتداد للاعبي الأطراف",
@@ -25262,8 +25020,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -25302,8 +25058,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 539,
@@ -25530,7 +25284,7 @@
       "url": "https://risport-sa.com/ar/x/p713125163",
       "en": {
         "name": "حذاء لي نينغ ويد أول سيتي 14 لكرة السلة",
-        "brand": "Li-Ning",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "نعل مقاوم للتآكل — مصمَّم للملاعب الخارجية",
@@ -25570,8 +25324,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -25617,8 +25369,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 539,
@@ -25847,7 +25597,7 @@
       "url": "https://risport-sa.com/ar/x/p1905664200",
       "en": {
         "name": "حذاء لي نينغ ويد DLO 2 لكرة السلة",
-        "brand": "Li-Ning",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "تقنية بينغ الخفيفة للملاعب الداخلية",
@@ -25887,8 +25637,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -25934,8 +25682,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 969,
@@ -26150,7 +25896,7 @@
       "url": "https://risport-sa.com/ar/x/p1304672774",
       "en": {
         "name": "حذاء لي نينغ وي أوف ويد 12 لكرة السلة",
-        "brand": "Li-Ning",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "صدارة خطّ ويد — رغوة بينغ الفائقة ولوح كربون مزدوج",
@@ -26190,8 +25936,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -29431,11 +29175,7 @@
       "brand": "ميزونو",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 505,
       "compareAt": null,
       "tagline": null,
@@ -29744,11 +29484,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "228244045": {
             "name": "Colour",
@@ -29785,8 +29521,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 540,
@@ -30221,8 +29955,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -30265,8 +29997,6 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة طائرة"
       ],
       "price": 545,
@@ -30749,8 +30479,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Volleyball Shoes"
         ],
         "options": {
@@ -30797,11 +30525,7 @@
       "brand": "ميزونو",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 565,
       "compareAt": null,
       "tagline": null,
@@ -31147,11 +30871,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "651380042": {
             "name": "Size",
@@ -31192,12 +30912,9 @@
       "name": "حذاء ميزونو ويف رايدر 30",
       "brand": "ميزونو",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية مشي",
-        "أحذية جري"
+        "تسوّق حسب الرياضة"
       ],
       "price": 650,
       "compareAt": null,
@@ -31555,7 +31272,7 @@
       "en": {
         "name": "Mizuno Wave Rider 30 — Running & Walking Shoe",
         "brand": "Mizuno",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "30th gen — redesigned from scratch",
         "description": "Mizuno Wave Rider 30 The WAVE RIDER line began in 1997 around a single idea: a smooth transfer of weight from heel to toe . The thirtieth generation — released in June 2026 — was redesigned from scratch , the biggest overhaul in the line's history. What is new in generation 30 — the official numbers About 17% more shock absorption and about 19% more rebound than generation 29, thanks to a change in midsole thickness and material. A two-layer MIZUNO ENERZY NXT midsole — the upper layer is a supercritical foam, the lower one standard ENERZY NXT. Two materials that deform in different ways, each placed where it does the most good. A full-length WAVE plate — a first for the line . It steadies the forefoot now that the midsole is thicker, and creates the rocker effect that rolls your stride forward. More stack, less drop — 34.5 mm at the forefoot (+6 mm) and 42.5 mm at the heel (+4 mm) at size 27.0 cm, so the drop is now 8 mm instead of 10 mm . A wider base for stability — the outsole contact surface was widened at the midfoot and heel, so the shoe stays steady despite its tall, soft, high-rebound midsole. Weight ~265 g per shoe at size 27.0 cm — the same as the previous generation despite everything added, thanks to a redistribution of the outsole rubber. Who is it for? It is a daily trainer by definition: the everyday running shoe you log most of your kilometres in. Many people also use it for long walks for the same reason — the thick, absorbent midsole and the rocker effect make each step less tiring over long distances. Official specifications Weight: ~265 g (single shoe, size 27.0 cm) Drop: 8 mm — heel 42.5 mm · forefoot 34.5 mm Midsole: two-layer MIZUNO ENERZY NXT · full-length MIZUNO WAVE plate Width: 2E in every colour Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
@@ -31740,10 +31457,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Walking Shoes",
-          "Running Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "631256135": {
@@ -31786,8 +31500,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 670,
@@ -32097,8 +31809,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -32135,11 +31845,7 @@
       "brand": "ميزونو",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 674,
       "compareAt": null,
       "tagline": null,
@@ -32459,11 +32165,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "368185168": {
             "name": "Size",
@@ -32504,11 +32206,7 @@
       "brand": "ميزونو",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 685,
       "compareAt": null,
       "tagline": null,
@@ -32838,11 +32536,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "1850261846": {
             "name": "Size",
@@ -32885,8 +32579,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 299,
@@ -33057,7 +32749,7 @@
       "url": "https://risport-sa.com/ar/x/p598962598",
       "en": {
         "name": "حذاء نايكي جي تي جمب أكاديمي لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "G.T. — للارتقاء العالي",
@@ -33101,8 +32793,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -33139,8 +32829,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 369,
@@ -33303,7 +32991,7 @@
       "url": "https://risport-sa.com/ar/x/p1016973400",
       "en": {
         "name": "حذاء نايكي ريأكت إكس ريجوفينيت لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "ReactX — تعافٍ بعد المباراة",
@@ -33347,8 +33035,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -33385,8 +33071,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 389,
@@ -33494,7 +33178,7 @@
       "url": "https://risport-sa.com/ar/x/p1299014070",
       "en": {
         "name": "حذاء نايكي إس تي فلير لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "خفيف وسريع",
@@ -33534,8 +33218,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -33565,8 +33247,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 409,
@@ -33760,7 +33440,7 @@
       "url": "https://risport-sa.com/ar/x/p847542702",
       "en": {
         "name": "حذاء نايكي جيانيس فريك 7 لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "يانيس — الجيل السابع",
@@ -33800,8 +33480,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -33843,8 +33521,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 409,
@@ -34017,7 +33693,7 @@
       "url": "https://risport-sa.com/ar/x/p707532123",
       "en": {
         "name": "حذاء نايكي إس تي جلو لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "خفيف للاعب الناشئ",
@@ -34057,8 +33733,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -34097,8 +33771,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 410,
@@ -34427,8 +34099,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -34467,8 +34137,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 425,
@@ -34758,8 +34426,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -34796,8 +34462,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 430,
@@ -35054,8 +34718,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -35097,8 +34759,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 430,
@@ -35458,8 +35118,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -35499,8 +35157,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 435,
@@ -35796,8 +35452,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -35836,8 +35490,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 453,
@@ -36031,7 +35683,7 @@
       "url": "https://risport-sa.com/ar/x/p40454845",
       "en": {
         "name": "حذاء نايكي تيتوم 4 لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "جيسون تيتوم — الجيل 4",
@@ -36071,8 +35723,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -36114,8 +35764,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 469,
@@ -36243,7 +35891,7 @@
       "url": "https://risport-sa.com/ar/x/p1474167979",
       "en": {
         "name": "حذاء نايكي جوردان هير سيريز لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "جوردان — أداء بسعر مناسب",
@@ -36283,8 +35931,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -36317,8 +35963,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 479,
@@ -36495,7 +36139,7 @@
       "url": "https://risport-sa.com/ar/x/p1762701232",
       "en": {
         "name": "حذاء نايكي تويلف تايم لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "وسادة متوازنة",
@@ -36535,8 +36179,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -36576,8 +36218,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 489,
@@ -36805,7 +36445,7 @@
       "url": "https://risport-sa.com/ar/x/p1972072285",
       "en": {
         "name": "Nike LeBron Witness 9 Basketball Shoes",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "LeBron — best value",
@@ -36861,8 +36501,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -36905,10 +36543,9 @@
       "name": "حذاء نايكي زوم فلاي 6 نسائي",
       "brand": "نايكي",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 495,
@@ -37201,7 +36838,7 @@
       "en": {
         "name": "Nike Zoom Fly 6 Running Shoe — Women's",
         "brand": "Nike",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Carbon plate for fast training",
         "description": "Nike Zoom Fly 6 Zoom Fly is Nike's carbon-plated shoe for fast training: it brings the feel of a racer to everyday sessions, and it can race too. What is new in generation 6 ZoomX foam in the midsole — Nike's lightest, most responsive foam. Lighter than Zoom Fly 5 . Soft, sock-like mesh liner for training comfort without extra weight. Who is it for? Runners who want a carbon shoe for speed and tempo sessions and race day, durable enough for repeated training. Official specs Category: carbon-plated super trainer Plate: full-length carbon-fibre Flyplate Weight: about 265 g men's (28 cm) and 214 g women's · drop 8 mm Code: FN8454 (men) · FN8455 (women) Sizing Sizes are shown as EU numbers on the official Nike chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -37336,7 +36973,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -37376,8 +37012,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 499,
@@ -37592,7 +37226,7 @@
       "url": "https://risport-sa.com/ar/x/p1722223795",
       "en": {
         "name": "حذاء نايكي سابرينا 3 لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "سابرينا يونيسكو — الجيل 3",
@@ -37632,8 +37266,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -37678,8 +37310,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 499,
@@ -37821,7 +37451,7 @@
       "url": "https://risport-sa.com/ar/x/p989712049",
       "en": {
         "name": "حذاء نايكي جوردان أول جيم لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "جوردان — لكل الملاعب",
@@ -37860,8 +37490,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -37896,8 +37524,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 539,
@@ -38124,7 +37750,7 @@
       "url": "https://risport-sa.com/ar/x/p1136146053",
       "en": {
         "name": "Nike Book 2 Basketball Shoes",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "Devin Booker — Air Zoom",
@@ -38175,8 +37801,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -38221,8 +37845,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 540,
@@ -38533,8 +38155,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -38572,10 +38192,9 @@
       "name": "حذاء نايكي زوم فلاي 6 رجالي",
       "brand": "نايكي",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": null,
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية جري"
       ],
       "price": 575,
@@ -38869,7 +38488,7 @@
       "en": {
         "name": "Nike Zoom Fly 6 Running Shoe — Men's",
         "brand": "Nike",
-        "sport": "Running",
+        "sport": null,
         "tagline": null,
         "subtitle": "Carbon plate for fast training",
         "description": "Nike Zoom Fly 6 Zoom Fly is Nike's carbon-plated shoe for fast training: it brings the feel of a racer to everyday sessions, and it can race too. What is new in generation 6 ZoomX foam in the midsole — Nike's lightest, most responsive foam. Lighter than Zoom Fly 5 . Soft, sock-like mesh liner for training comfort without extra weight. Who is it for? Runners who want a carbon shoe for speed and tempo sessions and race day, durable enough for repeated training. Official specs Category: carbon-plated super trainer Plate: full-length carbon-fibre Flyplate Weight: about 265 g men's (28 cm) and 214 g women's · drop 8 mm Code: FN8454 (men) · FN8455 (women) Sizing Sizes are shown as EU numbers on the official Nike chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -39004,7 +38623,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -39045,8 +38663,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 580,
@@ -39322,8 +38938,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -39367,11 +38981,7 @@
       "brand": "نايكي",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 585,
       "compareAt": null,
       "tagline": null,
@@ -39677,11 +39287,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "58813523": {
             "name": "Colour",
@@ -39719,8 +39325,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 600,
@@ -40010,8 +39614,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -40041,8 +39643,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 649,
@@ -40235,7 +39835,7 @@
       "url": "https://risport-sa.com/ar/x/p1439086265",
       "en": {
         "name": "حذاء نايكي سابرينا 4 لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "سابرينا — الجيل 4",
@@ -40275,8 +39875,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -40318,8 +39916,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 650,
@@ -40565,8 +40161,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -40594,8 +40188,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 669,
@@ -40819,7 +40411,7 @@
       "url": "https://risport-sa.com/ar/x/p1690023239",
       "en": {
         "name": "Nike Giannis Freak 8 Basketball Shoes",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "Giannis signature — ReactX",
@@ -40871,8 +40463,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -40917,8 +40507,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 677,
@@ -41128,7 +40716,7 @@
       "url": "https://risport-sa.com/ar/x/p251926245",
       "en": {
         "name": "Nike Ja 4 Basketball Shoes",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "Ja Morant — Cushlon 3.0",
@@ -41180,8 +40768,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -41222,11 +40808,7 @@
       "brand": "نايكي",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 684,
       "compareAt": null,
       "tagline": null,
@@ -41520,11 +41102,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "308958299": {
             "name": "Size",
@@ -41560,8 +41138,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 685,
@@ -41842,8 +41418,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -41879,8 +41453,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 687,
@@ -42050,7 +41622,7 @@
       "url": "https://risport-sa.com/ar/x/p489828997",
       "en": {
         "name": "حذاء نايكي إيه تو لكرة السلة",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "إيجا ويلسون — الجيل 2",
@@ -42090,8 +41662,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -42129,11 +41699,7 @@
       "brand": "نايكي",
       "category": "shoes",
       "sport": "كرة القدم",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة قدم"
-      ],
+      "tags": [],
       "price": 735,
       "compareAt": null,
       "tagline": null,
@@ -42425,11 +41991,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Football Shoes"
-        ],
+        "tags": [],
         "options": {
           "1258219615": {
             "name": "Size",
@@ -42465,8 +42027,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 739,
@@ -42674,8 +42234,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -42714,8 +42272,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 739,
@@ -42928,8 +42484,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -42968,8 +42522,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 798,
@@ -43165,7 +42717,7 @@
       "url": "https://risport-sa.com/ar/x/p1060586902",
       "en": {
         "name": "Nike G.T. Cut 4 Basketball Shoes",
-        "brand": "Nike",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "Fastest for lateral cuts",
@@ -43215,8 +42767,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -43257,8 +42807,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 829,
@@ -43447,8 +42995,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -43484,8 +43030,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 949,
@@ -43660,8 +43204,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -43695,8 +43237,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 999,
@@ -43885,8 +43425,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -43922,8 +43460,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 1002,
@@ -44128,8 +43664,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -44167,8 +43701,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 1051,
@@ -44421,8 +43953,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -44467,8 +43997,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 1099,
@@ -44685,8 +44213,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -44726,9 +44252,7 @@
       "category": "shoes",
       "sport": "المشي",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية مشي"
+        "تسوّق حسب الرياضة"
       ],
       "price": 400,
       "compareAt": null,
@@ -45016,7 +44540,7 @@
       "url": "https://risport-sa.com/ar/x/p1999971783",
       "en": {
         "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Women's",
-        "brand": "New Balance",
+        "brand": null,
         "sport": "Walking",
         "tagline": null,
         "subtitle": "Japan's #1 women's walking shoe",
@@ -45152,9 +44676,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Walking Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "38689514": {
@@ -45611,8 +45133,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 440,
@@ -45891,8 +45411,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -45925,10 +45443,9 @@
       "name": "حذاء نيوبالانس 1080 v15 رجالي",
       "brand": "نيو بالانس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -46233,7 +45750,7 @@
       "en": {
         "name": "New Balance 1080v15 Running & Walking Shoe — Men's",
         "brand": "New Balance",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "New INFINION foam — soft and springy",
         "description": "New Balance 1080v15 The 1080 is New Balance's softest daily trainer. Generation 15 changed inside: it moved from Fresh Foam X to the new INFINION foam — which is why New Balance now calls it simply \"1080v15\". It launched in Japan in January 2026. What is new in generation 15 INFINION midsole — keeps the softness, adds rebound, holds its performance for longer and is lighter. Cup-shaped insert for springy cushioning and a stable foot. Redesigned outsole with N durance rubber at the heel, and a new mesh upper with a gusseted tongue. Who is it for? Anyone who wants a soft, springy everyday shoe from jogs to long runs that lasts many kilometres — and it is comfortable for walking too. Official specs Category: neutral, highly cushioned daily trainer Weight: about 260 g men's and 206 g women's (New Balance) · heel stack about 40 mm , drop 6 mm Code: M1080 (men, 2E width) · W1080 (women, D width) Sizing Sizes are shown as EU numbers on the official New Balance chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -46367,7 +45884,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -46410,7 +45926,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -46816,7 +46331,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -47294,10 +46808,9 @@
       "name": "حذاء نيوبالانس 1080 v15 نسائي",
       "brand": "نيو بالانس",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -47586,7 +47099,7 @@
       "en": {
         "name": "New Balance 1080v15 Running & Walking Shoe — Women's",
         "brand": "New Balance",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "New INFINION foam — soft and springy",
         "description": "New Balance 1080v15 The 1080 is New Balance's softest daily trainer. Generation 15 changed inside: it moved from Fresh Foam X to the new INFINION foam — which is why New Balance now calls it simply \"1080v15\". It launched in Japan in January 2026. What is new in generation 15 INFINION midsole — keeps the softness, adds rebound, holds its performance for longer and is lighter. Cup-shaped insert for springy cushioning and a stable foot. Redesigned outsole with N durance rubber at the heel, and a new mesh upper with a gusseted tongue. Who is it for? Anyone who wants a soft, springy everyday shoe from jogs to long runs that lasts many kilometres — and it is comfortable for walking too. Official specs Category: neutral, highly cushioned daily trainer Weight: about 260 g men's and 206 g women's (New Balance) · heel stack about 40 mm , drop 6 mm Code: M1080 (men, 2E width) · W1080 (women, D width) Sizing Sizes are shown as EU numbers on the official New Balance chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -47720,7 +47233,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -47759,9 +47271,7 @@
       "category": "shoes",
       "sport": "المشي",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية مشي"
+        "تسوّق حسب الرياضة"
       ],
       "price": 490,
       "compareAt": null,
@@ -48048,7 +47558,7 @@
       "url": "https://risport-sa.com/ar/x/p932287941",
       "en": {
         "name": "New Balance Fresh Foam X 880 v7 Walking Shoe — Men's",
-        "brand": "New Balance",
+        "brand": null,
         "sport": "Walking",
         "tagline": null,
         "subtitle": "2E-width walking shoe, Fresh Foam X",
@@ -48184,9 +47694,7 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Walking Shoes"
+          "Shop by Sport"
         ],
         "options": {
           "1130610803": {
@@ -48227,7 +47735,6 @@
       "sport": "الجري",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -48593,7 +48100,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -49423,10 +48929,9 @@
       "name": "حذاء هوكا كليفتون 11 نسائي",
       "brand": "هوكا",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -49676,7 +49181,7 @@
       "en": {
         "name": "HOKA CLIFTON 11 Running & Walking Shoe — Women's",
         "brand": "HOKA",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "Soft cushioning to run or walk",
         "description": "HOKA CLIFTON 11 CLIFTON is HOKA's best-known shoe: soft cushioning and a smooth rolling step from the Meta-Rocker sole shape, good for easy runs, long distances and everyday walking. Generation 11 launched in Japan in July 2026. What is new in generation 11 Updated engineered mesh upper with better breathability and wrap, 3D silicone prints and reflective details. Double lace lock that stops the tongue slipping. Softer open-cell sockliner — on the same proven Clifton 10 sole. Who is it for? Anyone who wants a soft, dependable everyday shoe from short jogs to long runs — HOKA Japan recommends it for walking as well. Official specs Category: neutral, highly cushioned daily trainer Midsole: compression-moulded EVA (CMEVA) · Active Foot Frame heel cradle Weight: about 282 g men's (28.0 cm) and 236 g women's · heel stack about 42 mm , drop 8 mm Code: 1176572 (men) · 1176573 (women) — regular width Sizing Sizes are shown as EU numbers on the official HOKA chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -49816,7 +49321,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -49849,10 +49353,9 @@
       "name": "حذاء هوكا كليفتون 11 رجالي",
       "brand": "هوكا",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -50143,7 +49646,7 @@
       "en": {
         "name": "HOKA CLIFTON 11 Running & Walking Shoe — Men's",
         "brand": "HOKA",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "Soft cushioning to run or walk",
         "description": "HOKA CLIFTON 11 CLIFTON is HOKA's best-known shoe: soft cushioning and a smooth rolling step from the Meta-Rocker sole shape, good for easy runs, long distances and everyday walking. Generation 11 launched in Japan in July 2026. What is new in generation 11 Updated engineered mesh upper with better breathability and wrap, 3D silicone prints and reflective details. Double lace lock that stops the tongue slipping. Softer open-cell sockliner — on the same proven Clifton 10 sole. Who is it for? Anyone who wants a soft, dependable everyday shoe from short jogs to long runs — HOKA Japan recommends it for walking as well. Official specs Category: neutral, highly cushioned daily trainer Midsole: compression-moulded EVA (CMEVA) · Active Foot Frame heel cradle Weight: about 282 g men's (28.0 cm) and 236 g women's · heel stack about 42 mm , drop 8 mm Code: 1176572 (men) · 1176573 (women) — regular width Sizing Sizes are shown as EU numbers on the official HOKA chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -50283,7 +49786,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -50321,10 +49823,9 @@
       "name": "حذاء هوكا بوندي 9 نسائي",
       "brand": "هوكا",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -50561,7 +50062,7 @@
       "en": {
         "name": "HOKA BONDI 9 Running & Walking Shoe — Women's",
         "brand": "HOKA",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "Max cushioning for long walks",
         "description": "HOKA BONDI 9 BONDI is HOKA's most cushioned shoe: a thick, soft sole that protects your joints on easy runs, long walks and long days on your feet. What is new in generation 9 New supercritical EVA foam — more cushioning and 2 mm more stack than Bondi 8. 3D-moulded collar and a new knit upper for a better fit. Who is it for? Anyone who wants maximum comfort for easy daily miles, and people who walk a lot or stand for long hours. Official specs Category: neutral max-cushion shoe Outsole: Durabrasion rubber in high-wear zones · Active Foot Frame and Meta-Rocker Weight: about 297 g men's and 263 g women's · heel stack about 43 mm , drop 5 mm Code: 1162011 (men) · 1162012 (women) — regular width Sizing Sizes are shown as EU numbers on the official HOKA chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -50688,7 +50189,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -50721,10 +50221,9 @@
       "name": "حذاء هوكا بوندي 9 رجالي",
       "brand": "هوكا",
       "category": "shoes",
-      "sport": "الجري",
+      "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية مشي",
         "أحذية جري"
       ],
@@ -50963,7 +50462,7 @@
       "en": {
         "name": "HOKA BONDI 9 Running & Walking Shoe — Men's",
         "brand": "HOKA",
-        "sport": "Running",
+        "sport": "Walking",
         "tagline": null,
         "subtitle": "Max cushioning for long walks",
         "description": "HOKA BONDI 9 BONDI is HOKA's most cushioned shoe: a thick, soft sole that protects your joints on easy runs, long walks and long days on your feet. What is new in generation 9 New supercritical EVA foam — more cushioning and 2 mm more stack than Bondi 8. 3D-moulded collar and a new knit upper for a better fit. Who is it for? Anyone who wants maximum comfort for easy daily miles, and people who walk a lot or stand for long hours. Official specs Category: neutral max-cushion shoe Outsole: Durabrasion rubber in high-wear zones · Active Foot Frame and Meta-Rocker Weight: about 297 g men's and 263 g women's · heel stack about 43 mm , drop 5 mm Code: 1162011 (men) · 1162012 (women) — regular width Sizing Sizes are shown as EU numbers on the official HOKA chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
@@ -51090,7 +50589,6 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes",
           "Walking Shoes",
           "Running Shoes"
         ],
@@ -51127,8 +50625,6 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة قدم"
       ],
       "price": 490,
@@ -51408,8 +50904,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Football Shoes"
         ],
         "options": {
@@ -51443,7 +50937,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "معدات الاستشفاء"
       ],
@@ -51828,7 +51321,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Recovery Gear"
         ],
@@ -51844,7 +51336,6 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية"
       ],
       "price": 180,
@@ -51989,7 +51480,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear"
         ],
         "options": {
@@ -52020,7 +51510,6 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -52180,7 +51669,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -52215,7 +51703,6 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -52375,7 +51862,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -52409,7 +51895,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "حاميات الركبة وأكمام اليد"
       ],
@@ -52779,7 +52264,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Knee Pads and Arm Sleeves"
         ],
@@ -52803,7 +52287,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -53054,7 +52537,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -53092,7 +52574,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "حاميات الركبة وأكمام اليد"
       ],
@@ -53599,7 +53080,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Knee Pads and Arm Sleeves"
         ],
@@ -53632,7 +53112,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "حاميات الركبة وأكمام اليد"
       ],
@@ -54120,7 +53599,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Knee Pads and Arm Sleeves"
         ],
@@ -54153,7 +53631,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -54381,7 +53858,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -54416,7 +53892,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -54632,7 +54107,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -54667,7 +54141,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "معدات الاستشفاء"
       ],
@@ -55053,7 +54526,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Recovery Gear"
         ],
@@ -55069,7 +54541,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "معدات الاستشفاء"
       ],
@@ -55516,7 +54987,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Recovery Gear"
         ],
@@ -55532,7 +55002,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -55781,7 +55250,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -55819,7 +55287,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -56049,7 +55516,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -57125,7 +56591,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "ملابس ضاغطة"
       ],
@@ -57396,7 +56861,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Compression Wear"
         ],
@@ -57435,7 +56899,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -57678,7 +57141,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -57716,7 +57178,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -57921,7 +57382,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -57953,7 +57413,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -58206,7 +57665,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -59285,7 +58743,6 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -59466,7 +58923,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -59502,7 +58958,6 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -59698,7 +59153,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -59735,7 +59189,6 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "جاكيتات وسويت شيرت"
       ],
@@ -59888,7 +59341,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Jackets and Sweatshirts"
         ],
@@ -59919,7 +59371,6 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "جاكيتات وسويت شيرت"
       ],
@@ -60077,7 +59528,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Jackets and Sweatshirts"
         ],
@@ -60110,7 +59560,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -60362,7 +59811,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -60401,7 +59849,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -60653,7 +60100,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -60691,11 +60137,7 @@
       "brand": "أسيكس",
       "category": "shoes",
       "sport": "كرة الطائرة",
-      "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
-        "أحذية كرة طائرة"
-      ],
+      "tags": [],
       "price": 679,
       "compareAt": null,
       "tagline": null,
@@ -61189,11 +60631,7 @@
             ]
           }
         ],
-        "tags": [
-          "Shop by Sport",
-          "Shoes",
-          "Volleyball Shoes"
-        ],
+        "tags": [],
         "options": {
           "1746521653": {
             "name": "Size",
@@ -61220,8 +60658,6 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
-        "تسوّق حسب الرياضة",
-        "الأحذية",
         "أحذية كرة سلة"
       ],
       "price": 679,
@@ -61412,7 +60848,7 @@
       "url": "https://risport-sa.com/ar/x/p1446292277",
       "en": {
         "name": "حذاء إيكوالايزر 247 NXT لكرة السلة",
-        "brand": "Equalizer",
+        "brand": null,
         "sport": "Basketball",
         "tagline": null,
         "subtitle": "نعل جلد القرش الحيوي ودعم TPU مزدوج",
@@ -61452,8 +60888,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
-          "Shoes",
           "Basketball Shoes"
         ],
         "options": {
@@ -61495,7 +60929,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "حاميات الركبة وأكمام اليد"
       ],
@@ -61770,7 +61203,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Knee Pads and Arm Sleeves"
         ],
@@ -61786,7 +61218,6 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -61995,7 +61426,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -62023,7 +61453,6 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
-        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "كرات"
       ],
@@ -62519,7 +61948,6 @@
           }
         ],
         "tags": [
-          "Shop by Sport",
           "Equipment and Accessories",
           "Balls"
         ],
@@ -62542,16 +61970,12 @@
         "هيمل": "hummel",
         "كومفي تيمب": "Comfytemp",
         "إيريا": "ERREÀ",
+        "ميكاسا": "MIKASA",
         "بوما": "Puma",
-        "لي نينغ": "Li-Ning",
-        "أنتا": "ANTA",
-        "ريغورر": "Rigorer",
         "أتليتا": "Athleta",
         "سفولمي": "Svolme",
         "ياسودا": "Yasuda",
-        "أديداس": "adidas",
-        "ميكاسا": "MIKASA",
-        "إيكوالايزر": "Equalizer"
+        "أديداس": "adidas"
       },
       "sports": {
         "الجري": "Running",
