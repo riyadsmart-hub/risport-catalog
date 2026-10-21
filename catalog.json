@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-21T19:26:40.154Z",
+  "generatedAt": "2026-10-21T23:28:14.637Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -55,6 +55,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -292,6 +293,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -334,6 +336,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -604,6 +607,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -650,6 +654,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -932,6 +937,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -981,6 +987,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -1268,6 +1275,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -1303,6 +1311,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -1585,6 +1594,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -1619,6 +1629,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -1906,6 +1917,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -2200,6 +2212,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -2468,6 +2481,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -2514,6 +2528,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -2780,6 +2795,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -2826,6 +2842,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -3098,6 +3115,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -3145,6 +3163,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -3428,6 +3447,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -3465,6 +3485,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -3720,6 +3741,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -3753,7 +3775,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 455,
       "compareAt": null,
@@ -4068,7 +4092,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "297593323": {
@@ -4106,7 +4132,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 465,
       "compareAt": null,
@@ -4369,7 +4397,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "471654604": {
@@ -4396,6 +4426,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -4680,6 +4711,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -4717,6 +4749,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -4956,6 +4989,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -4983,7 +5017,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 720,
       "compareAt": null,
@@ -5244,7 +5280,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "453265514": {
@@ -5277,6 +5315,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -5556,6 +5595,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -5593,6 +5633,7 @@
       "tags": [
         "تسوّق حسب الرياضة",
         "الأحذية",
+        "أحذية مشي",
         "أحذية جري"
       ],
       "price": 410,
@@ -6010,6 +6051,7 @@
         "tags": [
           "Shop by Sport",
           "Shoes",
+          "Walking Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -6048,6 +6090,7 @@
       "tags": [
         "تسوّق حسب الرياضة",
         "الأحذية",
+        "أحذية مشي",
         "أحذية جري"
       ],
       "price": 415,
@@ -6465,6 +6508,7 @@
         "tags": [
           "Shop by Sport",
           "Shoes",
+          "Walking Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -6503,6 +6547,7 @@
       "tags": [
         "تسوّق حسب الرياضة",
         "الأحذية",
+        "أحذية مشي",
         "أحذية جري"
       ],
       "price": 415,
@@ -6930,6 +6975,7 @@
         "tags": [
           "Shop by Sport",
           "Shoes",
+          "Walking Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -15397,6 +15443,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -15674,6 +15721,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -16238,7 +16286,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 615,
       "compareAt": null,
@@ -16558,7 +16608,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "336223554": {
@@ -19700,6 +19752,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -19959,6 +20012,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -20004,6 +20058,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -20227,6 +20282,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -20268,6 +20324,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -20479,6 +20536,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -21486,6 +21544,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -21767,6 +21826,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -21800,6 +21860,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -22043,6 +22104,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -22068,6 +22130,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -22248,6 +22311,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -22280,6 +22344,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -22504,6 +22569,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -22544,6 +22610,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -22757,6 +22824,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -22794,6 +22862,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -23096,6 +23165,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -23133,7 +23203,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 465,
       "compareAt": null,
@@ -23438,7 +23510,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "195821533": {
@@ -23474,7 +23548,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 545,
       "compareAt": null,
@@ -23728,7 +23804,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "702387286": {
@@ -23760,7 +23838,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 620,
       "compareAt": null,
@@ -24030,7 +24110,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "1933667916": {
@@ -24058,6 +24140,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -24325,6 +24408,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -24371,6 +24455,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -24627,6 +24712,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -24964,6 +25050,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -25175,6 +25262,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -25214,6 +25302,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -25481,6 +25570,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -25527,6 +25617,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -25796,6 +25887,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -25842,6 +25934,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -26097,6 +26190,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -29338,7 +29432,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 505,
       "compareAt": null,
@@ -29649,7 +29745,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "228244045": {
@@ -30700,7 +30798,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 565,
       "compareAt": null,
@@ -31048,7 +31148,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "651380042": {
@@ -31094,6 +31196,7 @@
       "tags": [
         "تسوّق حسب الرياضة",
         "الأحذية",
+        "أحذية مشي",
         "أحذية جري"
       ],
       "price": 650,
@@ -31639,6 +31742,7 @@
         "tags": [
           "Shop by Sport",
           "Shoes",
+          "Walking Shoes",
           "Running Shoes"
         ],
         "options": {
@@ -31682,6 +31786,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -31992,6 +32097,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -32030,7 +32136,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 674,
       "compareAt": null,
@@ -32352,7 +32460,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "368185168": {
@@ -32395,7 +32505,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 685,
       "compareAt": null,
@@ -32727,7 +32839,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "1850261846": {
@@ -32771,6 +32885,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -32986,6 +33101,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -33023,6 +33139,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -33230,6 +33347,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -33267,6 +33385,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -33415,6 +33534,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -33445,6 +33565,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -33679,6 +33800,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -33721,6 +33843,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -33934,6 +34057,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -33973,7 +34097,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 410,
       "compareAt": null,
@@ -34301,7 +34427,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "369882678": {
@@ -34339,7 +34467,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 425,
       "compareAt": null,
@@ -34628,7 +34758,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "934084256": {
@@ -34664,6 +34796,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -34921,6 +35054,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -34963,7 +35097,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 430,
       "compareAt": null,
@@ -35322,7 +35458,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "687960578": {
@@ -35361,7 +35499,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 435,
       "compareAt": null,
@@ -35656,7 +35796,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "758340515": {
@@ -35694,6 +35836,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -35928,6 +36071,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -35970,6 +36114,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -36138,6 +36283,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -36171,6 +36317,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -36388,6 +36535,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -36428,6 +36576,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -36712,6 +36861,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -37226,6 +37376,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -37481,6 +37632,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -37526,6 +37678,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -37707,6 +37860,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -37742,6 +37896,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -38020,6 +38175,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -38065,7 +38221,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 540,
       "compareAt": null,
@@ -38375,7 +38533,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "1223072173": {
@@ -38885,6 +39045,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -39161,6 +39322,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -39206,7 +39368,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 585,
       "compareAt": null,
@@ -39514,7 +39678,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "58813523": {
@@ -39553,7 +39719,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 600,
       "compareAt": null,
@@ -39842,7 +40010,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "1499951666": {
@@ -39871,6 +40041,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -40104,6 +40275,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -40146,7 +40318,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 650,
       "compareAt": null,
@@ -40391,7 +40565,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "1651618934": {
@@ -40418,6 +40594,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -40694,6 +40871,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -40739,6 +40917,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -41001,6 +41180,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -41043,7 +41223,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 684,
       "compareAt": null,
@@ -41339,7 +41521,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "308958299": {
@@ -41376,7 +41560,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 685,
       "compareAt": null,
@@ -41656,7 +41842,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "273810857": {
@@ -41691,6 +41879,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -41901,6 +42090,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -41940,7 +42130,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 735,
       "compareAt": null,
@@ -42234,7 +42426,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "1258219615": {
@@ -42271,6 +42465,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -42479,6 +42674,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -42518,6 +42714,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -42731,6 +42928,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -42770,6 +42968,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -43016,6 +43215,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -43057,6 +43257,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -43246,6 +43447,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -43282,6 +43484,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -43457,6 +43660,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -43491,6 +43695,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -43680,6 +43885,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -43716,6 +43922,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -43921,6 +44128,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -43959,6 +44167,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -44212,6 +44421,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -44257,6 +44467,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -44474,6 +44685,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -44515,7 +44727,8 @@
       "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية"
+        "الأحذية",
+        "أحذية مشي"
       ],
       "price": 400,
       "compareAt": null,
@@ -44940,7 +45153,8 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes"
+          "Shoes",
+          "Walking Shoes"
         ],
         "options": {
           "38689514": {
@@ -45397,7 +45611,9 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
-        "الأحذية"
+        "تسوّق حسب الرياضة",
+        "الأحذية",
+        "أحذية كرة قدم"
       ],
       "price": 440,
       "compareAt": null,
@@ -45675,7 +45891,9 @@
           }
         ],
         "tags": [
-          "Shoes"
+          "Shop by Sport",
+          "Shoes",
+          "Football Shoes"
         ],
         "options": {
           "409250091": {
@@ -47542,7 +47760,8 @@
       "sport": "المشي",
       "tags": [
         "تسوّق حسب الرياضة",
-        "الأحذية"
+        "الأحذية",
+        "أحذية مشي"
       ],
       "price": 490,
       "compareAt": null,
@@ -47966,7 +48185,8 @@
         ],
         "tags": [
           "Shop by Sport",
-          "Shoes"
+          "Shoes",
+          "Walking Shoes"
         ],
         "options": {
           "1130610803": {
@@ -50907,6 +51127,7 @@
       "category": "shoes",
       "sport": "كرة القدم",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة قدم"
       ],
@@ -51187,6 +51408,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Football Shoes"
         ],
@@ -51622,6 +51844,7 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية"
       ],
       "price": 180,
@@ -51766,6 +51989,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear"
         ],
         "options": {
@@ -51796,6 +52020,7 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -51955,6 +52180,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -51989,6 +52215,7 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -52148,6 +52375,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -59057,6 +59285,7 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -59237,6 +59466,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -59272,6 +59502,7 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "شورتات"
       ],
@@ -59467,6 +59698,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear",
           "Shorts"
         ],
@@ -59503,6 +59735,7 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "جاكيتات وسويت شيرت"
       ],
@@ -59655,6 +59888,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear",
           "Jackets and Sweatshirts"
         ],
@@ -59685,6 +59919,7 @@
       "category": "apparel",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "جاكيتات وسويت شيرت"
       ],
@@ -59842,6 +60077,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear",
           "Jackets and Sweatshirts"
         ],
@@ -60456,6 +60692,7 @@
       "category": "shoes",
       "sport": "كرة الطائرة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة طائرة"
       ],
@@ -60953,6 +61190,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Volleyball Shoes"
         ],
@@ -60982,6 +61220,7 @@
       "category": "shoes",
       "sport": "كرة السلة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "الأحذية",
         "أحذية كرة سلة"
       ],
@@ -61213,6 +61452,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Shoes",
           "Basketball Shoes"
         ],
@@ -61255,6 +61495,7 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "حاميات الركبة وأكمام اليد"
       ],
@@ -61529,6 +61770,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Equipment and Accessories",
           "Knee Pads and Arm Sleeves"
         ],
@@ -61544,6 +61786,7 @@
       "category": "apparel",
       "sport": "كرة الطائرة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "ملابس رياضية",
         "تيشيرتات وأطقم"
       ],
@@ -61752,6 +61995,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Sportswear",
           "T-shirts and Kits"
         ],
@@ -61779,6 +62023,7 @@
       "category": "gear",
       "sport": "كرة الطائرة",
       "tags": [
+        "تسوّق حسب الرياضة",
         "معدات وإكسسوارات",
         "كرات"
       ],
@@ -62274,6 +62519,7 @@
           }
         ],
         "tags": [
+          "Shop by Sport",
           "Equipment and Accessories",
           "Balls"
         ],
@@ -62296,16 +62542,16 @@
         "هيمل": "hummel",
         "كومفي تيمب": "Comfytemp",
         "إيريا": "ERREÀ",
-        "ميكاسا": "MIKASA",
         "بوما": "Puma",
         "لي نينغ": "Li-Ning",
         "أنتا": "ANTA",
         "ريغورر": "Rigorer",
-        "إيكوالايزر": "Equalizer",
         "أتليتا": "Athleta",
         "سفولمي": "Svolme",
         "ياسودا": "Yasuda",
-        "أديداس": "adidas"
+        "أديداس": "adidas",
+        "ميكاسا": "MIKASA",
+        "إيكوالايزر": "Equalizer"
       },
       "sports": {
         "الجري": "Running",
