@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-21T23:28:14.637Z",
+  "generatedAt": "2026-10-22T04:56:37.616Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5134,7 +5134,7 @@
             {
               "id": "217685449",
               "name": "وردي سولار توربو × رمادي فحمي",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
             },
             {
@@ -7691,7 +7691,7 @@
             {
               "id": "49205879",
               "name": "41.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -8103,7 +8103,7 @@
             {
               "id": "135902992",
               "name": "39.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -8157,7 +8157,7 @@
             {
               "id": "1611431027",
               "name": "46.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -8169,7 +8169,7 @@
             {
               "id": "1400189724",
               "name": "49",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -11357,7 +11357,7 @@
             {
               "id": "116481405",
               "name": "39.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -31032,7 +31032,7 @@
             {
               "id": "2141641514",
               "name": "44.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -39550,7 +39550,7 @@
             {
               "id": "1055989614",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -41080,7 +41080,7 @@
             {
               "id": "1181287728",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -41092,13 +41092,13 @@
             {
               "id": "1645429554",
               "name": "44",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1073242675",
               "name": "44.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -41386,25 +41386,25 @@
             {
               "id": "1413094991",
               "name": "41",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "638008648",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1944869961",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1305049930",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -43111,19 +43111,19 @@
             {
               "id": "57051867",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1564715300",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "791201829",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -43827,7 +43827,7 @@
             {
               "id": "1451176424",
               "name": "44.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
