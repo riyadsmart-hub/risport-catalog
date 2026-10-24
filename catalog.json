@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-23T04:59:24.890Z",
+  "generatedAt": "2026-10-24T18:19:16.401Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -3632,7 +3632,7 @@
             {
               "id": "655529382",
               "name": "26.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -6349,7 +6349,7 @@
             {
               "id": "142941801",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -8103,7 +8103,7 @@
             {
               "id": "135902992",
               "name": "39.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -8157,7 +8157,7 @@
             {
               "id": "1611431027",
               "name": "46.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -8169,7 +8169,7 @@
             {
               "id": "1400189724",
               "name": "49",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -10956,13 +10956,13 @@
             {
               "id": "890519164",
               "name": "39",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "116481405",
               "name": "39.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -11457,7 +11457,7 @@
             {
               "id": "1112718643",
               "name": "39",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -20953,7 +20953,7 @@
             {
               "id": "1517318791",
               "name": "48.5",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -29194,7 +29194,7 @@
             {
               "id": "1900463313",
               "name": "37",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -34228,7 +34228,7 @@
             {
               "id": "919656102",
               "name": "40",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -35539,7 +35539,7 @@
             {
               "id": "322804304",
               "name": "متعدّد الألوان (401)",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/084852e0-e8d6-4339-bb58-6554528bf2cf-500x500-cZnFtPB3GmquT5WdTRa6bmRyhRr80Swl4hmSpzDb.png"
             },
             {
@@ -39155,7 +39155,7 @@
             {
               "id": "1055989614",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -39179,7 +39179,7 @@
             {
               "id": "107912042",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -40685,25 +40685,25 @@
             {
               "id": "1181287728",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "271983665",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1645429554",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1073242675",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -40991,25 +40991,25 @@
             {
               "id": "1413094991",
               "name": "41",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "638008648",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1944869961",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1305049930",
               "name": "43",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -41933,7 +41933,7 @@
             {
               "id": "538479482",
               "name": "45",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -43432,13 +43432,13 @@
             {
               "id": "1451176424",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "541348073",
               "name": "45",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
