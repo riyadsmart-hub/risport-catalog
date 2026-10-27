@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-26T19:27:45.486Z",
+  "generatedAt": "2026-10-27T00:02:46.204Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -18063,7 +18063,7 @@
             {
               "id": "620367114",
               "name": "50.5",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
