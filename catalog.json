@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-27T00:02:46.204Z",
+  "generatedAt": "2026-10-27T05:15:03.301Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -5134,7 +5134,7 @@
             {
               "id": "217685449",
               "name": "وردي سولار توربو × رمادي فحمي",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
             },
             {
@@ -7685,7 +7685,7 @@
             {
               "id": "822195062",
               "name": "40",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -11457,7 +11457,7 @@
             {
               "id": "1112718643",
               "name": "39",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -12514,7 +12514,7 @@
             {
               "id": "789622416",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -18532,13 +18532,13 @@
             {
               "id": "451067672",
               "name": "48",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1612924486",
               "name": "49",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -20947,7 +20947,7 @@
             {
               "id": "145445766",
               "name": "47.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -30092,7 +30092,7 @@
             {
               "id": "1639929330",
               "name": "22.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30176,7 +30176,7 @@
             {
               "id": "1423843320",
               "name": "29.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30188,7 +30188,7 @@
             {
               "id": "1887460858",
               "name": "30.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30637,7 +30637,7 @@
             {
               "id": "2141641514",
               "name": "44.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -30655,7 +30655,7 @@
             {
               "id": "1966422069",
               "name": "47",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -40697,7 +40697,7 @@
             {
               "id": "1645429554",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -41933,7 +41933,7 @@
             {
               "id": "538479482",
               "name": "45",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -43432,7 +43432,7 @@
             {
               "id": "1451176424",
               "name": "44.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
