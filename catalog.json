@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-27T10:44:31.963Z",
+  "generatedAt": "2026-10-28T08:42:48.043Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -4602,7 +4602,7 @@
             {
               "id": "700927711",
               "name": "27.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -7649,7 +7649,7 @@
             {
               "id": "1306659176",
               "name": "35.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -7685,7 +7685,7 @@
             {
               "id": "822195062",
               "name": "40",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -20947,7 +20947,7 @@
             {
               "id": "145445766",
               "name": "47.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -22098,7 +22098,7 @@
             {
               "id": "1637277280",
               "name": "28.0 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -30649,7 +30649,7 @@
             {
               "id": "459807028",
               "name": "46",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -40661,7 +40661,7 @@
             {
               "id": "2130549044",
               "name": "40",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -40685,7 +40685,7 @@
             {
               "id": "1181287728",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -40991,25 +40991,25 @@
             {
               "id": "1413094991",
               "name": "41",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "638008648",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1944869961",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1305049930",
               "name": "43",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -41577,13 +41577,13 @@
             {
               "id": "1135072652",
               "name": "36",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "495776909",
               "name": "36.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -43408,25 +43408,25 @@
             {
               "id": "251901420",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1491653869",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "716567534",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "76681967",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -51548,7 +51548,7 @@
             {
               "id": "1784081490",
               "name": "L",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
