@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T13:47:30.868Z",
-  "note": "مصدر توريد كل منتج: JP يُطلب من اليابان · CN من الصين · local موجود بمستودع الرياض. يُولَّد بـrisport-tracker/scripts/export-sourcing.mjs. المخزون المحلي لتركيبة بعينها في status.json.",
+  "generatedAt": "2026-10-29T17:40:06.375Z",
+  "note": "مصدر توريد كل منتج: JP يُطلب من اليابان · CN من الصين · US من أمريكا (MyUS) · local موجود بمستودع الرياض. يُولَّد بـrisport-tracker/scripts/export-sourcing.mjs. المخزون المحلي لتركيبة بعينها في status.json.",
   "leadWeeks": [
     2,
     4
