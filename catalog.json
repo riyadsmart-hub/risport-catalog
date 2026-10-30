@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-29T23:16:24.386Z",
+  "generatedAt": "2026-10-30T12:57:03.251Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -3365,7 +3365,7 @@
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · F50 هايبرفاست كلوب TF",
+        "subtitle": "adidas · F50 Hyperfast Club TF",
         "description": "F50 Hyperfast Club TF F50 is adidas' speed line and heir to the Adizero — its lightest, closest-to-the-foot boot. Club is the everyday tier, with tougher materials for repeated play. Technology Light, tight build — The whole line is about shedding weight — every gram less is felt in the first twenty metres. Turf (TF) outsole — Short, dense rubber studs for artificial turf — no digging in, no catching. Who is it for? For the winger and striker who lives on runs and space. If you want touch and control, the Copa line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code OMN60-KJ3409 · authentic stock from Japan.",
         "desc": [
           {
@@ -3659,7 +3659,7 @@
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · بريديتور ليغ FT TF",
+        "subtitle": "adidas · Predator League FT TF",
         "description": "Predator League FT TF Predator is adidas' control and striking line — a playmaker's boot, not a winger's. League is the mid tier that carries the line’s technology at a lower price. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. Turf (TF) outsole — Short, dense rubber studs for artificial turf — no digging in, no catching. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code JR7874 · authentic stock from Japan.",
         "desc": [
           {
@@ -4001,7 +4001,7 @@
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · خطّ التحكّم · مسامير HG/AG",
+        "subtitle": "adidas · Control line · HG/AG studs",
         "description": "Predator League FT Predator is adidas' control and striking line — a playmaker's boot rather than a winger's. FT stands for the foldover tongue that covers the laces and gives you a clean striking surface. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades, felt most on curled balls and long passes. Foldover tongue (FT) — Covers the laces so the striking surface is flat and seamless. HG/AG outsole — Short, dense studs for hard ground and artificial grass — the right match for our pitches. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code JR5905 · authentic stock from Japan.",
         "desc": [
           {
@@ -4306,7 +4306,7 @@
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · خطّ اللمسة · مسامير HG/AG",
+        "subtitle": "adidas · Touch line · HG/AG studs",
         "description": "Copa Icon II League Copa is adidas' touch line and the descendant of the legendary Copa Mundial. Icon II is its modern take: the same soft, ball-hugging philosophy on a contemporary last. Technology Soft, ball-hugging upper — A direct feel on the ball when receiving and passing short. Comfortable from day one — The Copa line needs no long break-in like tight speed boots. HG/AG outsole — Studs for hard ground and artificial grass. Who is it for? For midfielders who value touch and comfort over weight. If you want minimum weight, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code JS3824 · authentic stock from Japan.",
         "desc": [
           {
@@ -4629,7 +4629,7 @@
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · بريديتور برو FT",
+        "subtitle": "adidas · Predator Pro FT",
         "description": "Predator Pro FT Predator is adidas' control and striking line — a playmaker's boot, not a winger's. Pro is the professional tier just below Elite, on the same last. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. HG/AG outsole — Short, dense studs for hard ground and artificial grass — the right match for our pitches. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code OPZ72-KH6261 · authentic stock from Japan.",
         "desc": [
           {
@@ -4892,7 +4892,7 @@
             {
               "id": "941364320",
               "name": "28.0 سم",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -4907,7 +4907,7 @@
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · بريديتور إيليت FT",
+        "subtitle": "adidas · Predator Elite FT",
         "description": "Predator Elite FT Predator is adidas' control and striking line — a playmaker's boot, not a winger's. Elite is the top tier — the lightest materials, closest to the foot. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. HG/AG outsole — Short, dense studs for hard ground and artificial grass — the right match for our pitches. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code JR5895 · authentic stock from Japan.",
         "desc": [
           {
@@ -5198,7 +5198,7 @@
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · بريديتور إيليت FT AG",
+        "subtitle": "adidas · Predator Elite FT AG",
         "description": "Predator Elite FT AG Predator is adidas' control and striking line — a playmaker's boot, not a winger's. Elite is the top tier — the lightest materials, closest to the foot. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. AG outsole — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code HP9971 · authentic stock from Japan.",
         "desc": [
           {
@@ -7273,7 +7273,7 @@
         "brand": "ASICS",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "ثبات جانبي للخطوة التالية بعد البداية",
+        "subtitle": "Lateral stability for the step up from beginner",
         "description": "The next step after a starter shoe The GEL-TACTIC 13 is an ASICS indoor court shoe that combines flexibility and stability . ASICS describes it as a \"step-up\" shoe for players who have moved beyond the basics and want more support in lateral movement. Generation 13 was released in Japan in September 2026. Technology STABLETRUSS on the side — a support that strengthens stability in lateral moves and sudden stops. Soft, flexible mesh upper — moves with the foot and improves breathability. Replaceable insole and a standard-width last. Who is it for? Intermediate players who train regularly and want more stability than a starter shoe. Players of several indoor sports — volleyball, handball and badminton. Anyone who wants a reliable ASICS shoe for everyday training. If you want a volleyball-specific shoe with lighter cushioning, the V-Swift FF 4 suits you better.",
         "desc": [
           {
@@ -22679,7 +22679,7 @@
         "brand": "Puma",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "بوما · فيوتشر 9 برو",
+        "subtitle": "PUMA · Future 9 Pro",
         "description": "Future 9 Pro Future is PUMA's agility line. Pro is the professional tier just below Elite, on the same last. Technology Adaptive lockdown band — Wraps the midfoot so it does not slide inside the boot on sharp turns. Textured upper — Adds grip on the ball for dribbling and close control. HG/AG outsole — Short, dense studs for hard ground and artificial grass — the right match for our pitches. Who is it for? For the player who dribbles and turns in tight spaces. If you play in straight lines, the Ultra line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code 108901 · authentic stock from Japan.",
         "desc": [
           {
@@ -23024,7 +23024,7 @@
         "brand": "Puma",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "بوما · خطّ المراوغة · مسامير HG/AG",
+        "subtitle": "PUMA · Dribbling line · HG/AG studs",
         "description": "Future 9 Ultimate Future is PUMA's agility line — the counterpart to Ultra's straight-line speed, built around lateral lockdown. Ultimate is its top tier. Technology Adaptive lockdown band — Wraps the midfoot so it does not slide inside the boot on sharp changes of direction. Textured knit upper — Adds grip on the ball for dribbling and close control. HG/AG outsole — Mixed studs for hard ground and artificial grass. Who is it for? For the player who dribbles and turns in tight spaces. If you play in straight lines, the Ultra line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code 108898 · authentic stock from Japan.",
         "desc": [
           {
@@ -23327,7 +23327,7 @@
         "brand": "Puma",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "بوما · كينغ 20 ألتيميت",
+        "subtitle": "PUMA · King 20 Ultimate",
         "description": "King 20 Ultimate King is PUMA's oldest and best-known line — the classic leather boot in a modern build. Ultimate is the top tier — the lightest build in the line. Technology Soft, ball-hugging upper — A direct feel on the ball and comfort from day one, with no break-in period. HG/AG outsole — Short, dense studs for hard ground and artificial grass — the right match for our pitches. Who is it for? For midfielders who value touch and comfort over weight. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code 109346 · authentic stock from Japan.",
         "desc": [
           {
@@ -23624,7 +23624,7 @@
         "brand": "Puma",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "بوما · ألترا نيترو 7 برو",
+        "subtitle": "PUMA · Ultra Nitro 7 Pro",
         "description": "Ultra Nitro 7 Pro Ultra is PUMA's speed line. Pro is the professional tier just below Elite, on the same last. Technology Thin knitted upper — A single light layer that wraps the foot and cuts weight to a minimum. Responsive plate — Built to accelerate from a standstill. HG/AG outsole — Short, dense studs for hard ground and artificial grass — the right match for our pitches. Who is it for? For quick wingers and strikers in straight lines. If you dribble in tight spaces, the Future line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code 109233 · authentic stock from Japan.",
         "desc": [
           {
@@ -26103,7 +26103,7 @@
         "brand": "Mizuno",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "روح لايتنينج إيليت للمبتدئ",
+        "subtitle": "The Lightning Elite spirit, for beginners",
         "description": "Lightning Elite spirit… in a starter shoe The LIGHTNING SELECT is Mizuno's new shoe for newer players and the successor to the Thunder Blade Z . Mizuno designed it after its top Wave Lightning Elite , with a simpler, lighter build: about 260 g for a 27.0 cm shoe. Technology New three-layer upper — seamless, wrapping the foot with a soft, comfortable feel. Flat \"outrigger\" sole — an extended outer edge for stability in lateral moves and sudden stops. Non-marking outsole for indoor courts. Removable cup insole and a last that fits roughly 2.5E width. Who is it for? New players who want their first real Mizuno volleyball shoe. School and club players — for everyday training. Anyone who wants a light shoe for quick movement on the floor. If you want more cushioning for repeated jumping, the Wave Momentum Pro suits you better.",
         "desc": [
           {
@@ -26515,7 +26515,7 @@
         "brand": "Mizuno",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "أخفّ حذاء طائرة من ميزونو",
+        "subtitle": "Mizuno's lightest volleyball shoe",
         "description": "Mizuno's lightest volleyball shoe The MIZUNO FLY is the lightest of Mizuno's volleyball shoes: about 250 g for a 27.0 cm shoe. It is built for one goal: getting you moving faster. Technology Sole built for explosive starts — a quicker first step in reception and defense. MIZUNO ENERZY cushioning — Mizuno's soft, responsive foam, comfortable despite the light weight. Removable Mizuno Enerzy insole . Last that fits 2E width . Who is it for? Liberos and defenders — repeated short bursts in every direction. Setters — reaching the second ball fast. Any player who hates a heavy shoe and wants the lightest option. If you jump a lot and need more landing cushioning, the Wave Momentum Pro suits you better.",
         "desc": [
           {
@@ -26933,7 +26933,7 @@
         "brand": "Mizuno",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "توسيد وثبات للقفز المتكرّر",
+        "subtitle": "Cushioning and stability for repeated jumps",
         "description": "Momentum cushioning and stability… at an accessible price The WAVE MOMENTUM PRO belongs to Mizuno's Momentum line, the line for cushioning and stability for players who jump and land a lot. It weighs about 320 g for a 27.0 cm shoe. Technology MIZUNO ENERZY NXT in the heel — where landing after a jump loads the foot most; high cushioning at a lighter weight. Wide sole with raised sidewalls — a larger landing area, with foam rising up the sides of the foot for a stable landing. Two-layer upper — mesh with zigzag reinforcements that hold the foot in lateral pushes and changes of direction. Half-bootie design — the tongue is partly joined to the upper: a secure fit that is still easy to put on and take off. Removable insole and a last that fits 2E width. Who is it for? Middle blockers and opposites — many jumps and repeated landings. Heavier players — who benefit most from cushioning and stability. Anyone who wants the Momentum Elite feel for less. Liberos and players who rely on quick feet more than jumping are better served by the Mizuno Fly .",
         "desc": [
           {
@@ -28232,7 +28232,7 @@
         "brand": "Mizuno",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "حذاء السرعة من ميزونو برقبة متوسطة",
+        "subtitle": "Mizuno's speed shoe in a mid cut",
         "description": "Lightning speed… with a collar that protects your ankle The WAVE LIGHTNING Z8 MID is the mid-cut version of the Lightning Z8, Mizuno's speed shoe and the generation before the Lightning Elite . It weighs about 320 g for a 27.0 cm shoe. Technology MIZUNO ENERZY NXT in the forefoot — where jumping loads the foot, for more cushioning and rebound. Mizuno says it cushions about 18% more than the Z7. New MIZUNO WAVE plate along the inner forefoot — supports the push at take-off. Highest heel curve in Lightning history — designed from jump research to support the take-off step. Slit eyelets — the laces follow the shape of the foot for a better fit. Mid-cut collar , a removable Mizuno Enerzy insole and a last that fits 2E width. Who is it for? Players who love Lightning's lightness but want support above the ankle. Outside hitters and setters — quick movement, then a jump and landing near the net. Anyone who wants a top-tier shoe at last generation's price. If you want the newest generation, choose the Wave Lightning Elite MID .",
         "desc": [
           {
@@ -29359,8 +29359,8 @@
             "name": "Colour",
             "values": {
               "662283728": "White × Gold (50)",
-              "1211244784": "أبيض لؤلؤي × أسود (09)",
-              "1912454380": "أسود × أبيض (01)"
+              "1211244784": "Super White Pearl / Black (09)",
+              "1912454380": "Black / White (01)"
             }
           },
           "1600641358": {
@@ -30649,7 +30649,7 @@
             {
               "id": "459807028",
               "name": "46",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -31611,7 +31611,7 @@
         "brand": "Mizuno",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "ميزونو · موريليا سالا جابان TF",
+        "subtitle": "Mizuno · Morelia Sala Japan TF",
         "description": "Morelia Sala Japan TF Morelia is Mizuno's most famous line and the one most tied to Japanese craftsmanship. Japan is the Japanese edition: the line’s highest grade of build and materials. Technology Thin, ball-hugging upper — Mizuno builds on a slightly wider Japanese last, which makes it comfortable for anyone who finds European lasts narrow. Light with touch — The line's philosophy: minimum weight without giving up the feel of the ball. Turf (TF) outsole — Short, dense rubber studs for artificial turf — no digging in, no catching. Who is it for? For midfielders who want a direct feel on the ball on artificial surfaces. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code Q1GB2602 · authentic stock from Japan.",
         "desc": [
           {
@@ -32473,9 +32473,9 @@
             "name": "Colour",
             "values": {
               "285173303": "Black / White (01)",
-              "421616908": "أبيض لؤلؤي × أخضر (35)",
+              "421616908": "Super White Pearl / Green (35)",
               "1192380214": "Super White Pearl / Black (09)",
-              "1796111373": "أبيض × ذهبي (50)"
+              "1796111373": "White / Gold (50)"
             }
           }
         }
@@ -33937,7 +33937,7 @@
         "brand": "Nike",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "نايكي · خطّ الدقّة · تيرف",
+        "subtitle": "Nike · Precision line · Turf",
         "description": "Phantom 6 Low Academy TF Phantom is Nike's precision line — the boot for striking and the decisive pass. Low is the collar-less version and Academy the everyday tier, with tougher materials for repeated play. Technology Precise touch zone — A finely textured upper across the instep for a consistent feel when passing and striking. Turf (TF) outsole — Short, dense rubber studs for artificial turf. Low cut — No collar: quick on and off. Who is it for? For playmakers and strikers who rely on precision. If you rely on speed, the Mercurial line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code HQ2325 · authentic stock from Japan.",
         "desc": [
           {
@@ -34055,7 +34055,7 @@
             "name": "Colour",
             "values": {
               "4146052": "Bright Crimson (600)",
-              "27911158": "متعدّد (900)",
+              "27911158": "Multicolour (900)",
               "870080657": "Hot Punch / Green Strike / Black (603) · Erling Haaland",
               "1376019077": "Racer Blue (446)"
             }
@@ -35539,7 +35539,7 @@
             {
               "id": "322804304",
               "name": "متعدّد الألوان (401)",
-              "out": true,
+              "out": false,
               "img": "https://cdn.salla.sa/jZjwre/084852e0-e8d6-4339-bb58-6554528bf2cf-500x500-cZnFtPB3GmquT5WdTRa6bmRyhRr80Swl4hmSpzDb.png"
             },
             {
@@ -39520,7 +39520,7 @@
         "brand": "Nike",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "نايكي · خطّ اللمسة · نجيل صناعي",
+        "subtitle": "Nike · Touch line · Artificial grass",
         "description": "Tiempo Legera Pro AG Tiempo is Nike's touch line and Legera its light version: the Tiempo feel at a weight closer to speed boots. AG is a sole built for artificial grass. Technology Soft, ball-hugging upper — A direct feel on the ball when receiving and passing short — the Tiempo signature. Lighter than a classic Tiempo — Legera sheds weight without giving up the touch. AG outsole — Studs designed specifically for long artificial grass — and longer-lasting on it than a firm-ground sole. Who is it for? For midfielders on long artificial grass. If your pitch is short turf, TF suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code IO9609 · authentic stock from Japan.",
         "desc": [
           {
@@ -40088,7 +40088,7 @@
         "brand": "Nike",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "نايكي · ميركوريال فيبور 17 برو AG",
+        "subtitle": "Nike · Mercurial Vapor 17 Pro AG",
         "description": "Mercurial Vapor 17 Pro AG Mercurial Vapor is Nike's speed line — the boot of wingers and strikers, with Vapor the low-cut, collar-less version. Pro is the professional tier just below Elite, on the same last. Technology Light, tight build — Every gram less is felt in the first twenty metres. AG outsole — Studs designed specifically for long artificial grass, and longer-lasting on it than a firm-ground sole. Who is it for? For wingers and strikers who live on runs. If you want touch and control, the Tiempo line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code IM5810 · authentic stock from Japan.",
         "desc": [
           {
@@ -42717,19 +42717,19 @@
             {
               "id": "57051867",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1564715300",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "791201829",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -43433,7 +43433,7 @@
             {
               "id": "1451176424",
               "name": "44.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -45410,7 +45410,7 @@
         "brand": "New Balance",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "نيوبالانس · حذاء فريق · تيرف",
+        "subtitle": "New Balance · Team shoe · Turf",
         "description": "442 Team TF 442 is New Balance's team boot — named after the classic formation. Its philosophy is simple: comfort and a relatively roomy last without technical complication. Technology Comfortable last — New Balance builds on a slightly wider foot, which makes it comfortable for anyone who finds European lasts narrow. Turf (TF) outsole — Short, dense rubber studs for artificial turf — no digging in, no catching. Low cut — No collar, freedom at the ankle. Who is it for? For weekly turf players who want comfort and a boot that is not narrow. A brand you rarely see on our pitches. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code U43T9PD2E · authentic stock from Japan.",
         "desc": [
           {
