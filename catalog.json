@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-30T13:13:45.311Z",
+  "generatedAt": "2026-10-31T17:53:30.492Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -3302,7 +3302,7 @@
             {
               "id": "1402103543",
               "name": "24.5 سم",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -10956,7 +10956,7 @@
             {
               "id": "890519164",
               "name": "39",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -11028,25 +11028,25 @@
             {
               "id": "2088876664",
               "name": "48",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1315887481",
               "name": "49",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "407631994",
               "name": "50.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1779435387",
               "name": "51.5",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -30649,7 +30649,7 @@
             {
               "id": "459807028",
               "name": "46",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -31069,7 +31069,7 @@
             {
               "id": "1654207219",
               "name": "37",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -31147,7 +31147,7 @@
             {
               "id": "379897280",
               "name": "47",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -40673,7 +40673,7 @@
             {
               "id": "447203126",
               "name": "41",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -41873,7 +41873,7 @@
             {
               "id": "1972127088",
               "name": "38.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
