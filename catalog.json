@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-01T02:21:53.391Z",
+  "generatedAt": "2026-11-01T07:42:49.514Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -14465,7 +14465,7 @@
             {
               "id": "21084074",
               "name": "48",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -15817,7 +15817,7 @@
             {
               "id": "1852798437",
               "name": "41.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -26090,7 +26090,7 @@
             {
               "id": "998072143",
               "name": "30.0",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -29265,7 +29265,7 @@
         "brand": "Mizuno",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "Mizuno · Turf for artificial grass · White × Gold",
+        "subtitle": "Mizuno · Turf for artificial grass · White / Gold",
         "description": "Morelia Sala Pro TF Morelia is Mizuno's oldest football line, and Sala its futsal and hard-court branch. The TF version runs a turf sole: dense, low rubber nubs instead of studs. Technologies Dense turf sole — dozens of short nubs spread load across artificial pile. They do not catch on turns the way long studs do, which is what reduces knee load on hard pitches. Thin synthetic upper — direct ball feel, the idea the Morelia line was built on: as close to barefoot as a boot gets. PRO tier — second in the range after Japan, with materials close to it at a far lower price. Who is it for? Players on short pile and five-a-side courts who value ball feel over protection and cushioning. Model code Q1GB2613 · Mizuno · Genuine Japanese stock, delivered in 7–21 business days.",
         "desc": [
           {
@@ -31991,7 +31991,7 @@
         "brand": "Mizuno",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "Mizuno · Top tier of the line · White × Gold",
+        "subtitle": "Mizuno · Top tier of the line · White / Gold",
         "description": "Monarcida Neo 3 Elite The top of the Monarcida range, above PRO. Same system, lighter materials and a closer last approaching a match boot. What the Elite tier changes Lower weight — the clearest difference from PRO: a thinner upper and lightened sole, felt in the second half rather than the first step. Closer fit — better lockdown on sharp direction changes, provided you take your true size rather than a wider one. Multi-ground sole — works on dirt and artificial turf. Who is it for? Players in regular matches who want the lightest option in the line. A beginner will not feel a difference worth the gap over PRO. Model code P1GA2620 · Mizuno · Genuine Japanese stock, delivered in 7–21 business days.",
         "desc": [
           {
