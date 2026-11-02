@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-01T19:50:53.490Z",
+  "generatedAt": "2026-11-02T06:13:09.014Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -3926,7 +3926,7 @@
             {
               "id": "217685449",
               "name": "وردي سولار توربو × رمادي فحمي",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/8c2c9a51-8191-4950-9e5f-b2be8d51fb3a-500x375-YPSup3nOYJHHdaEpxuYDoRA8uoI1AGfw4nWRdrpl.jpg"
             },
             {
@@ -6441,7 +6441,7 @@
             {
               "id": "1306659176",
               "name": "35.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -14465,7 +14465,7 @@
             {
               "id": "21084074",
               "name": "48",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -35541,7 +35541,7 @@
             {
               "id": "322804304",
               "name": "متعدّد الألوان (401)",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/084852e0-e8d6-4339-bb58-6554528bf2cf-500x500-cZnFtPB3GmquT5WdTRa6bmRyhRr80Swl4hmSpzDb.png"
             },
             {
@@ -40602,7 +40602,7 @@
             {
               "id": "307130915",
               "name": "كحلي × أخضر",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/e2187806-6629-400c-ab2a-7d5cdb6e2b7f-500x375-0JIBDAY2DRtnjZkAuiVR6rIgL5fD4QVNcSJnkkIL.jpg"
             },
             {
@@ -41851,7 +41851,7 @@
             {
               "id": "1972127088",
               "name": "38.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -42695,19 +42695,19 @@
             {
               "id": "57051867",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1564715300",
               "name": "42.5",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "791201829",
               "name": "43",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
