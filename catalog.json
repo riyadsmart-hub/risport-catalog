@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-05T12:31:29.238Z",
+  "generatedAt": "2026-11-05T20:50:41.833Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -1116,7 +1116,7 @@
             {
               "id": "1818046754",
               "name": "أبيض",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/2d60339f-e354-4234-92d0-8132fcdb2f65-500x375-xwwWo1MAPlQ9Us9bzvKm2nM2Pjs8oVPY7dWVOsY9.jpg"
             },
             {
@@ -30651,13 +30651,13 @@
             {
               "id": "459807028",
               "name": "46",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
               "id": "1966422069",
               "name": "47",
-              "out": false,
+              "out": true,
               "img": null
             }
           ]
@@ -37981,7 +37981,7 @@
             {
               "id": "253562040",
               "name": "39",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -40669,7 +40669,7 @@
             {
               "id": "271983665",
               "name": "43",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
@@ -43387,7 +43387,7 @@
             {
               "id": "251901420",
               "name": "42",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
