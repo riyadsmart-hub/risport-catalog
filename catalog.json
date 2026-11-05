@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-05T03:38:57.805Z",
+  "generatedAt": "2026-11-05T12:31:29.238Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -40602,7 +40602,7 @@
             {
               "id": "307130915",
               "name": "كحلي × أخضر",
-              "out": false,
+              "out": true,
               "img": "https://cdn.salla.sa/jZjwre/e2187806-6629-400c-ab2a-7d5cdb6e2b7f-500x375-0JIBDAY2DRtnjZkAuiVR6rIgL5fD4QVNcSJnkkIL.jpg"
             },
             {
@@ -40675,7 +40675,7 @@
             {
               "id": "1645429554",
               "name": "44",
-              "out": false,
+              "out": true,
               "img": null
             },
             {
