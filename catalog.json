@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-05T20:50:41.833Z",
+  "generatedAt": "2026-11-06T17:39:59.403Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -7876,7 +7876,7 @@
             {
               "id": "1757264940",
               "name": "39.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -7924,13 +7924,13 @@
             {
               "id": "2072421428",
               "name": "46",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1432601397",
               "name": "47",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -34230,7 +34230,7 @@
             {
               "id": "919656102",
               "name": "40",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -40969,31 +40969,31 @@
             {
               "id": "1413094991",
               "name": "41",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "638008648",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1944869961",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1305049930",
               "name": "43",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "530029131",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -43192,7 +43192,7 @@
             {
               "id": "472615941",
               "name": "44.5",
-              "out": true,
+              "out": false,
               "img": null
             }
           ]
@@ -43381,19 +43381,19 @@
             {
               "id": "1025939171",
               "name": "41",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "251901420",
               "name": "42",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
               "id": "1491653869",
               "name": "42.5",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
@@ -43405,7 +43405,7 @@
             {
               "id": "76681967",
               "name": "44",
-              "out": true,
+              "out": false,
               "img": null
             },
             {
