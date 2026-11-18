@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-18T14:30:32.195Z",
+  "generatedAt": "2026-11-18T22:26:06.252Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -18292,131 +18292,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/b7067c74-228f-41a6-84d0-d1cc8515edda-1000x750-9Jz25TCkpXeZnsmtNp1INfjRnsOreWXC77E7EUhJ.jpg",
-        "https://cdn.salla.sa/jZjwre/1b2eef28-4d67-4250-a51c-3f5e2e4d5021-1000x750-wZSwDbF2yL26iUyWhNmavBxeDFqHmMa600v6pS8o.jpg"
+        "https://cdn.salla.sa/jZjwre/22d08e90-6907-420f-8a55-3547ba8f820f-500x375-9Jz25TCkpXeZnsmtNp1INfjRnsOreWXC77E7EUhJ.jpg"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "27.5 سم",
-        "28.0 سم",
-        "28.5 سم",
-        "29.0 سم",
-        "29.5 سم",
-        "30.0 سم",
-        "31.0 سم"
-      ],
-      "colors": [
-        "أسود × أبيض",
-        "أبيض"
-      ],
-      "options": [
-        {
-          "id": "1165306680",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "1456330264",
-              "name": "أسود × أبيض",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/22d08e90-6907-420f-8a55-3547ba8f820f-500x375-9Jz25TCkpXeZnsmtNp1INfjRnsOreWXC77E7EUhJ.jpg"
-            },
-            {
-              "id": "548074777",
-              "name": "أبيض",
-              "out": true,
-              "img": "https://cdn.salla.sa/jZjwre/41f58bc3-6fc4-4e62-8231-e258471bf489-500x375-wZSwDbF2yL26iUyWhNmavBxeDFqHmMa600v6pS8o.jpg"
-            }
-          ]
-        },
-        {
-          "id": "391268921",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1920406554",
-              "name": "25.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1281110811",
-              "name": "25.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "507073124",
-              "name": "26.0 سم",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1745252709",
-              "name": "26.5 سم",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1173131366",
-              "name": "27.0 سم",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "399097703",
-              "name": "27.5 سم",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1637277280",
-              "name": "28.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "863239521",
-              "name": "28.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "223878242",
-              "name": "29.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1596275555",
-              "name": "29.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "688020076",
-              "name": "30.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "2062514541",
-              "name": "31.0 سم",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -18585,110 +18469,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/7921ca52-11f0-4f22-b3ff-cca0db42e690-1000x750-DQ8WtMXsbmlZYqGe3TjzbXhmBPJ87NZzG2fCD72K.jpg",
-        "https://cdn.salla.sa/jZjwre/35301720-aeb7-49bd-88a1-e77229581e73-1000x750-VO2w8MxOrGto28S7G5OzROBijD2MjWBx5fTeWXum.jpg"
+        "https://cdn.salla.sa/jZjwre/cac7d30a-5106-4f5c-b9a5-918508e8a980-500x375-DQ8WtMXsbmlZYqGe3TjzbXhmBPJ87NZzG2fCD72K.jpg"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "25.0 سم",
-        "25.5 سم",
-        "26.0 سم",
-        "26.5 سم",
-        "27.0 سم",
-        "28.5 سم",
-        "29.0 سم",
-        "29.5 سم",
-        "30.0 سم",
-        "31.0 سم"
-      ],
-      "colors": [
-        "أخضر لوسايت × أحمر"
-      ],
-      "options": [
-        {
-          "id": "962957084",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "1465065446",
-              "name": "أخضر لوسايت × أحمر",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/c37f83df-d78b-47b3-a3b1-08eb9efea39d-500x375-VO2w8MxOrGto28S7G5OzROBijD2MjWBx5fTeWXum.jpg"
-            }
-          ]
-        },
-        {
-          "id": "188919325",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "557334247",
-              "name": "25.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1929731552",
-              "name": "25.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1289911521",
-              "name": "26.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "516463586",
-              "name": "26.5 سم",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1754643171",
-              "name": "27.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "980605420",
-              "name": "28.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "341833965",
-              "name": "29.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1713637358",
-              "name": "29.5 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "805381871",
-              "name": "30.0 سم",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "233719272",
-              "name": "31.0 سم",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -38771,122 +38560,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/1b99db6b-a585-47b1-9ed5-872a1b332b0b-1000x1000-ITzVvoPUP8khHN6FltYvmveYtwbp9Zy6JnXP0eKF.png",
-        "https://cdn.salla.sa/jZjwre/27996251-3ed0-4ac7-8286-0a7cf36bc980-1000x1000-h50UD8uOfx7Rj6LE5flaEgOMpp2WTJc7jtT7RlZE.png",
-        "https://cdn.salla.sa/jZjwre/ee38d61d-8602-4bee-8561-6500e4d61058-1000x1000-cvWwKykiaZUI9nDj2wa5FBDxtjd6m8a511ZyhSNp.png",
-        "https://cdn.salla.sa/jZjwre/ac03ae45-dc66-41ef-a2fb-227a907762d7-1000x1000-UyGiXSgbRkY6NkVtVIZPaVpwTbNcfde0LkdCY7G8.jpg",
-        "https://cdn.salla.sa/jZjwre/3b9456ff-fae8-4e4d-8550-0391c435f425-1000x1000-Rgp21uKwctG6W95Igj67DsrUOHE34MjayzNOUrQF.jpg",
-        "https://cdn.salla.sa/jZjwre/2ada6a60-1fe3-4b7f-9bf5-b97c5242144e-1000x1000-kkFjc7AES1aKIhPN1XZUZCm5SulnHktgUkvjWtzF.jpg",
-        "https://cdn.salla.sa/jZjwre/ebefa073-9bd1-4781-8e8d-f98a820d7572-1000x1000-vqbFb8WZBRGA7nALNjFLCNCDnKXwXcuBBmOwlKwo.jpg"
+        "https://cdn.salla.sa/jZjwre/17a30f33-c26a-47c7-b26c-426703ee6426-500x500-ITzVvoPUP8khHN6FltYvmveYtwbp9Zy6JnXP0eKF.png"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "41",
-        "42",
-        "42.5",
-        "43",
-        "44",
-        "44.5",
-        "45",
-        "46",
-        "47.5"
-      ],
-      "colors": [
-        "متعدّد الألوان (601)",
-        "متعدّد الألوان (100)",
-        "متعدّد الألوان (002)"
-      ],
-      "options": [
-        {
-          "id": "1107486669",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "1248826828",
-              "name": "متعدّد الألوان (601)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/17a30f33-c26a-47c7-b26c-426703ee6426-500x500-ITzVvoPUP8khHN6FltYvmveYtwbp9Zy6JnXP0eKF.png"
-            },
-            {
-              "id": "607433933",
-              "name": "متعدّد الألوان (100)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/80a15471-0580-4165-a516-5efbb3ddfad9-500x500-h50UD8uOfx7Rj6LE5flaEgOMpp2WTJc7jtT7RlZE.png"
-            },
-            {
-              "id": "1980879822",
-              "name": "متعدّد الألوان (002)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/dd585690-0e1d-480a-82b3-2a9f9eedc973-500x500-cvWwKykiaZUI9nDj2wa5FBDxtjd6m8a511ZyhSNp.png"
-            }
-          ]
-        },
-        {
-          "id": "535758542",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1140781775",
-              "name": "41",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "500896200",
-              "name": "42",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1872769225",
-              "name": "42.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "965566410",
-              "name": "43",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "191528651",
-              "name": "44",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1697684948",
-              "name": "44.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "924695765",
-              "name": "45",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "16440278",
-              "name": "46",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1388837591",
-              "name": "47.5",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -39016,170 +38698,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/825622fa-df5c-4754-a3bb-548845bcb7b4-1000x1000-ZhESkETRTJP0IjXfZyNfoZUSNyTz8QQL0pCiw637.png",
-        "https://cdn.salla.sa/jZjwre/e4031a19-543e-423f-bac1-a97d933c909d-1000x1000-FgnNXQhrykjk23lPtU0P5VtOEMnEHQvELr3bqfki.png",
-        "https://cdn.salla.sa/jZjwre/985aa6d1-a629-482b-8b2c-c6017d69ac69-1000x1000-jCCFKYAoJ9fj5BpE3NfSryYyvRqv7aqLulpjoMcp.jpg",
-        "https://cdn.salla.sa/jZjwre/a0cfb934-1776-4a8a-a649-df9ad672a781-1000x1000-ilX6bspeSRGsgLwJ6puvZGrbQyygeiyAKuYtkdGk.jpg",
-        "https://cdn.salla.sa/jZjwre/0996c030-b074-43ff-9378-2630594bd1f6-1000x1000-Pwl6QRpWc3wjzhKEK2uPUsXNLeFQr5es0H1tejDy.jpg",
-        "https://cdn.salla.sa/jZjwre/ad46ad4f-5bae-40b5-9b7e-d9ad4a767b9f-1000x1000-NmEsHUZZRBDWWQazdsS7tyD3TK6mUtwvZAEkXLDo.jpg"
+        "https://cdn.salla.sa/jZjwre/0703d267-f21e-448e-81ee-f4c026e1cd7c-500x500-ZhESkETRTJP0IjXfZyNfoZUSNyTz8QQL0pCiw637.png"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "36",
-        "37.5",
-        "38.5",
-        "39",
-        "40",
-        "40.5",
-        "41",
-        "42",
-        "42.5",
-        "43",
-        "44",
-        "44.5",
-        "45",
-        "45.5",
-        "46",
-        "47",
-        "47.5"
-      ],
-      "colors": [
-        "متعدّد الألوان (001)",
-        "متعدّد الألوان (300)"
-      ],
-      "options": [
-        {
-          "id": "1773413839",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "749476304",
-              "name": "متعدّد الألوان (001)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/0703d267-f21e-448e-81ee-f4c026e1cd7c-500x500-ZhESkETRTJP0IjXfZyNfoZUSNyTz8QQL0pCiw637.png"
-            },
-            {
-              "id": "2122922193",
-              "name": "متعدّد الألوان (300)",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/8159c664-19a5-4843-b6cf-4d7290a7153f-500x500-FgnNXQhrykjk23lPtU0P5VtOEMnEHQvELr3bqfki.png"
-            }
-          ]
-        },
-        {
-          "id": "999376072",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1213614034",
-              "name": "36",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "439576275",
-              "name": "37.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1947829724",
-              "name": "38.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1105634525",
-              "name": "39",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "331596766",
-              "name": "40",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1839784671",
-              "name": "40.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1064632792",
-              "name": "41",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "156377305",
-              "name": "42",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1530875866",
-              "name": "42.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "889482971",
-              "name": "43",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "115510564",
-              "name": "44",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1355787301",
-              "name": "44.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "580176678",
-              "name": "45",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "2087840295",
-              "name": "45.5",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1314785568",
-              "name": "46",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "406530081",
-              "name": "47",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "1778399010",
-              "name": "47.5",
-              "out": true,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -45682,90 +45209,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/e83def28-be37-44f0-a49a-10cdf8727886-1000x750-nTEY2aDFqfgiyO6kCC8K0s9LX2e65o6coahjdtbS.jpg",
-        "https://cdn.salla.sa/jZjwre/09cd2a1e-c4d9-459e-a481-7d750c3962bb-1000x750-FlsXz3UtJk00IOV7KMGUbtyuZ06IlhHFo4YdQUAk.jpg",
-        "https://cdn.salla.sa/jZjwre/f53ab6cc-3713-405c-8f6d-fead343298b9-1000x750-idPkRcKg9LKmVRLGgqZA170DarsEgGn94D6SoLUO.jpg"
+        "https://cdn.salla.sa/jZjwre/61e99263-d11a-4bba-a743-2f9a24c23f04-500x375-nTEY2aDFqfgiyO6kCC8K0s9LX2e65o6coahjdtbS.jpg"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "3XL",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "أسود × أبيض",
-        "أسود × أحمر",
-        "أزرق"
-      ],
-      "options": [
-        {
-          "id": "358284303",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "228014253",
-              "name": "أسود × أبيض",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/61e99263-d11a-4bba-a743-2f9a24c23f04-500x375-nTEY2aDFqfgiyO6kCC8K0s9LX2e65o6coahjdtbS.jpg"
-            },
-            {
-              "id": "1601980334",
-              "name": "أسود × أحمر",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/cb581871-4941-4065-a427-d28471b4b894-500x375-FlsXz3UtJk00IOV7KMGUbtyuZ06IlhHFo4YdQUAk.jpg"
-            },
-            {
-              "id": "693724847",
-              "name": "أزرق",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/774f386c-b9ad-40b5-bac9-7ba7dcf6c65d-500x375-idPkRcKg9LKmVRLGgqZA170DarsEgGn94D6SoLUO.jpg"
-            }
-          ]
-        },
-        {
-          "id": "1730616072",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1116930484",
-              "name": "3XL",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "2066187688",
-              "name": "S",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1426891945",
-              "name": "M",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "652854186",
-              "name": "L",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1891033771",
-              "name": "XL",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -50649,97 +50101,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/2785a1af-ac90-4a6b-b83a-f5554f07e691-1000x750-slguSlKknPQVFtHRbDK4briw5E9F3M465pcfYDp8.jpg",
-        "https://cdn.salla.sa/jZjwre/2dff90df-bf52-4761-931c-7d06eb21c59a-1000x750-svDSqjwxdflUcspE4wrHRWiUinmgZ408r3NNnSYs.jpg",
-        "https://cdn.salla.sa/jZjwre/1cf583d5-52b6-4d5f-90c2-4649bcba1e51-1000x750-btefNmor77oQ0eYOWxi0TLIZpXsVp7906lJ7VrZs.jpg"
+        "https://cdn.salla.sa/jZjwre/2545b327-d447-4c4e-b6c3-995af9ee4eed-500x375-slguSlKknPQVFtHRbDK4briw5E9F3M465pcfYDp8.jpg"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "2XL",
-        "3XL",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "كربوني فاتح × أسود",
-        "أحمر × أسود",
-        "أسود × أبيض"
-      ],
-      "options": [
-        {
-          "id": "822884873",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "477634741",
-              "name": "كربوني فاتح × أسود",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/2545b327-d447-4c4e-b6c3-995af9ee4eed-500x375-slguSlKknPQVFtHRbDK4briw5E9F3M465pcfYDp8.jpg"
-            },
-            {
-              "id": "1850036150",
-              "name": "أحمر × أسود",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/e5a44b03-5634-4de1-b74d-702a9a30466c-500x375-svDSqjwxdflUcspE4wrHRWiUinmgZ408r3NNnSYs.jpg"
-            },
-            {
-              "id": "941780663",
-              "name": "أسود × أبيض",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/15f5af14-7e4c-4f04-97dc-302d2b042583-500x375-btefNmor77oQ0eYOWxi0TLIZpXsVp7906lJ7VrZs.jpg"
-            }
-          ]
-        },
-        {
-          "id": "48847114",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1566837180",
-              "name": "2XL",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "792799421",
-              "name": "3XL",
-              "out": true,
-              "img": null
-            },
-            {
-              "id": "168332720",
-              "name": "S",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1742056625",
-              "name": "M",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "833801138",
-              "name": "L",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "60811955",
-              "name": "XL",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -51014,61 +50384,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/90ed77e8-0664-475a-b60a-484f9af69da9-1000x750-1PZRLJQfKTrSNjNK7rXgU6HpDum2GSI7L3lr1AIM.jpg",
-        "https://cdn.salla.sa/jZjwre/0e5e4693-6bfc-487d-8d71-b5eca031daae-1000x750-Y68S9mIeI1o37gNf8TbwAKg2ILZHlOltI444fYcB.jpg"
+        "https://cdn.salla.sa/jZjwre/d3945a1a-306a-4a09-8bcc-736c2efaec05-500x375-1PZRLJQfKTrSNjNK7rXgU6HpDum2GSI7L3lr1AIM.jpg"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "M",
-        "L"
-      ],
-      "colors": [
-        "مانجو فاتح × رمادي معدني × بيج فاتح",
-        "رمادي ألومنيوم × بنفسجي"
-      ],
-      "options": [
-        {
-          "id": "2021238293",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "934903168",
-              "name": "مانجو فاتح × رمادي معدني × بيج فاتح",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/d3945a1a-306a-4a09-8bcc-736c2efaec05-500x375-1PZRLJQfKTrSNjNK7rXgU6HpDum2GSI7L3lr1AIM.jpg"
-            },
-            {
-              "id": "25664641",
-              "name": "رمادي ألومنيوم × بنفسجي",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/a8163f92-b03d-4e56-8701-b2e3d1adc983-500x375-Y68S9mIeI1o37gNf8TbwAKg2ILZHlOltI444fYcB.jpg"
-            }
-          ]
-        },
-        {
-          "id": "1246151958",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1399634818",
-              "name": "M",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "759814787",
-              "name": "L",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -52577,7 +51901,7 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/e67cc10e-4909-42cd-857c-83ab4def174f-1000x1000-3b8eiGKEPMYfgtc48ycYWOtYkVPCdCcwtzCGr8TQ.png"
+        "https://cdn.salla.sa/jZjwre/1582a5bc-6bf4-4d63-a4c9-f4e8db44d41c-500x500-3b8eiGKEPMYfgtc48ycYWOtYkVPCdCcwtzCGr8TQ.png"
       ],
       "optionNames": {
         "size": null,
