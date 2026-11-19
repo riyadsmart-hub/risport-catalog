@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-19T13:41:05.132Z",
+  "generatedAt": "2026-11-19T22:04:56.335Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -11913,189 +11913,15 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/8c604eb6-dbd2-4db0-946b-6211b8063dc0-1000x654.46559297218-Qy8HRbKJhaqHZIAzRMmPZ0oueNmy7NYwIoSrULHK.png",
-        "https://cdn.salla.sa/jZjwre/52aea041-b0ec-4c39-be07-c618a88442a2-1000x549.27884615385-4X7SvoEIsYFNFueO4A8bIVZRPz7MfkYYWBkppwXj.png",
-        "https://cdn.salla.sa/jZjwre/f086f1c1-45a6-4a85-b61a-a085cfa42515-1000x541.7661097852-o1ieUWG2SFPCsLzKbXbjhjuJSsQqIFrKb2DpLXSl.png",
-        "https://cdn.salla.sa/jZjwre/7a3f671c-0e16-4f52-8103-e5224ee744c3-808.91719745223x1000-PBVte3RH9tw4cssbWZBdl50WWuIKNVOMG46NRyrr.png",
-        "https://cdn.salla.sa/jZjwre/b96bd1b4-6452-4202-aded-02d6e6e65154-850.93167701863x1000-RGmPD8CTtfToUBg6rXowzbyZX7tFjEEJSzLZqWm3.png",
-        "https://cdn.salla.sa/jZjwre/0e9d05af-0407-4a1e-8a0f-8627af84a008-1000x742.92742927429-MyoWDKH7rd1DXg5QQIfXVQVoR2O0LzSa4WYcouUX.png",
-        "https://cdn.salla.sa/jZjwre/4b81534f-5379-477b-9aca-f3321f861ba4-1000x572.78106508876-MuVZ9KvhYHpklg1y4aPursC3lqAvp2uJZSHtBiAL.png",
-        "https://cdn.salla.sa/jZjwre/f5e3368a-60d8-4c45-9ae0-7b0a3d827c01-1000x571.59763313609-hXYLYkdYAcCP1mCIauKaW2kuc9EBP4dLnLqwFGzQ.png",
-        "https://cdn.salla.sa/jZjwre/7c2819c3-5e0f-472f-92eb-ff220c60692b-1000x560.85918854415-Fthe1XZgEsxneHbjbRGFmu1QdH0p29tLJd7ERDlO.png",
-        "https://cdn.salla.sa/jZjwre/5b655aca-9482-44a6-86ac-846bc6b1a46c-1000x631.26843657817-zw9vRJupLUHir4eza56mun1gyUrfMC3LHS58nwrc.png",
-        "https://cdn.salla.sa/jZjwre/f7bd8d1c-f7c6-43b4-84bd-23abb2388899-1000x646.75516224189-D01I2zCvwtKr5lGdChznYVzhVTzzgh4ScH5M0b7O.png"
+        "https://cdn.salla.sa/jZjwre/dabbe0b4-06c5-423a-b296-d4071c796f53-500x327.23279648609-Qy8HRbKJhaqHZIAzRMmPZ0oueNmy7NYwIoSrULHK.png"
       ],
       "optionNames": {
-        "size": "المقاس",
-        "color": "اللون"
+        "size": null,
+        "color": null
       },
-      "sizes": [
-        "37",
-        "37.5",
-        "38",
-        "39",
-        "39.5",
-        "40.5",
-        "41.5",
-        "42",
-        "42.5",
-        "43.5",
-        "44",
-        "45",
-        "46",
-        "46.5",
-        "47",
-        "48",
-        "49",
-        "50.5"
-      ],
-      "colors": [
-        "أسود × فضي",
-        "أبيض × أسود",
-        "داليا × موراساكي"
-      ],
-      "options": [
-        {
-          "id": "1665269635",
-          "name": "اللون",
-          "required": true,
-          "values": [
-            {
-              "id": "917188555",
-              "name": "أسود × فضي",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/ca6fad50-00f1-40aa-98a2-9ec4efea2e29-500x315.63421828909-zw9vRJupLUHir4eza56mun1gyUrfMC3LHS58nwrc.png"
-            },
-            {
-              "id": "745711889",
-              "name": "أبيض × أسود",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/e4c112eb-cb4e-401c-b26b-ba11a90d6e22-500x280.42959427208-Fthe1XZgEsxneHbjbRGFmu1QdH0p29tLJd7ERDlO.png"
-            },
-            {
-              "id": "2120206354",
-              "name": "داليا × موراساكي",
-              "out": false,
-              "img": "https://cdn.salla.sa/jZjwre/29dc8ece-def0-4483-9800-e88bc03a0c8d-500x323.37758112094-D01I2zCvwtKr5lGdChznYVzhVTzzgh4ScH5M0b7O.png"
-            }
-          ]
-        },
-        {
-          "id": "1088838928",
-          "name": "المقاس",
-          "required": true,
-          "values": [
-            {
-              "id": "1078324899",
-              "name": "37",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "304221612",
-              "name": "37.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1812933805",
-              "name": "38",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "970214318",
-              "name": "39",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "196176559",
-              "name": "39.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "525776902",
-              "name": "40.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1765000967",
-              "name": "41.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "991487488",
-              "name": "42",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "350553345",
-              "name": "42.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1723999234",
-              "name": "43.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "816792323",
-              "name": "44",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "41181708",
-              "name": "45",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1548910861",
-              "name": "46",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1704954280",
-              "name": "46.5",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "929343657",
-              "name": "47",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "21084074",
-              "name": "48",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "1395578539",
-              "name": "49",
-              "out": false,
-              "img": null
-            },
-            {
-              "id": "755758516",
-              "name": "50.5",
-              "out": false,
-              "img": null
-            }
-          ]
-        }
-      ],
+      "sizes": [],
+      "colors": [],
+      "options": [],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -42996,9 +42822,7 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/0f28d701-6cc8-4133-85c9-e85cd9686e0a-1000x1000-U5wQywpfl57sAYWJJsDyVV7WYsn5iQ4qyI6Lsq3z.jpg",
-        "https://cdn.salla.sa/jZjwre/b3a18177-a099-4ddd-89db-0cf4ff5004c3-1000x1000-YsD7lMCoiousMHEj54hibtrzAKwP6SQEhTlkdYau.jpg",
-        "https://cdn.salla.sa/jZjwre/9c610c9a-e09f-4c9a-aea7-c4edb26145f3-1000x1000-MitO1SUm2ULf8s0N219GIffMXgnJue2aAkI2HKTe.jpg"
+        "https://cdn.salla.sa/jZjwre/d32dadac-f66f-4a7b-8848-2fb9cea3809f-500x500-U5wQywpfl57sAYWJJsDyVV7WYsn5iQ4qyI6Lsq3z.jpg"
       ],
       "optionNames": {
         "size": null,
@@ -45514,10 +45338,7 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/f157b6c6-8608-411d-99f0-10808f131061-1000x1000-61fZxMB5VWkpI2nN5wa1VW1Vg8cpjmmY9xTjJYUL.png",
-        "https://cdn.salla.sa/jZjwre/5332c1c6-895d-4458-90db-00270a1e5de8-1000x1000-KoUe1YApSZZ8JnMxhwpbbw9sAXC1mhMnS3iDNfR6.png",
-        "https://cdn.salla.sa/jZjwre/4767bdb2-8f56-4cb6-8e23-c40ce24095f3-1000x1000-JZPCrR09deR9fCaNEoPyec7EwdRPRriKnojsRXrx.png",
-        "https://cdn.salla.sa/jZjwre/611a8e41-060f-48b8-910a-8dd84c99f5c8-1000x1000-sYxxdWsFLY1nT611b5dkA78IhOpwAufPk1WItc4r.png"
+        "https://cdn.salla.sa/jZjwre/1df3a764-156d-4ac7-ba41-d356f7fcfa17-500x500-61fZxMB5VWkpI2nN5wa1VW1Vg8cpjmmY9xTjJYUL.png"
       ],
       "optionNames": {
         "size": null,
