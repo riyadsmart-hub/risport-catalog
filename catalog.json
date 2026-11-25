@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-25T13:14:59.938Z",
+  "generatedAt": "2026-11-25T22:50:50.422Z",
   "source": "storefront-api",
   "store": {
     "name": "ري سبورت",
@@ -2447,88 +2447,88 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p651169756",
       "en": {
-        "name": "حذاء أديداس بريديتور ليغ FT TF لكرة القدم",
+        "name": "adidas Predator League FT TF Football Shoes",
         "brand": "adidas",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "أديداس · بريديتور ليغ FT TF",
-        "description": "بريديتور ليغ FT TF بريديتور خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و ليغ فئة متوسّطة تجمع تقنيات الخطّ بسعر أقلّ. التقنيات عناصر مطاطية على منطقة التسديد — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة. نعل تيرف (TF) — نتوءات مطاطية قصيرة وكثيفة للنجيل الصناعي — لا تغرز ولا تعلق. لمن هذا الحذاء؟ لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له. المقاسات المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢. كود الموديل JR7874 · بضاعة أصلية من اليابان.",
+        "subtitle": "adidas · Predator League FT TF",
+        "description": "Predator League FT TF Predator is adidas' control and striking line — a playmaker's boot, not a winger's. League is the mid tier that carries the line’s technology at a lower price. Technology Rubber elements on the strike zone — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades. Turf (TF) outsole — Short, dense rubber studs for artificial turf — no digging in, no catching. Who is it for? For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better. Sizing Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42. Model code JR7874 · authentic stock from Japan.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "بريديتور ليغ FT TF"
+              "Predator League FT TF"
             ]
           },
           {
             "t": "p",
             "s": [
               {
-                "b": "بريديتور"
+                "b": "Predator"
               },
-              " خطّ التحكّم والتسديد عند أديداس — حذاء صانع اللعب لا الجناح. و",
+              " is adidas' control and striking line — a playmaker's boot, not a winger's. ",
               {
-                "b": "ليغ"
+                "b": "League"
               },
-              " فئة متوسّطة تجمع تقنيات الخطّ بسعر أقلّ."
+              " is the mid tier that carries the line’s technology at a lower price."
             ]
           },
           {
             "t": "h",
             "s": [
-              "التقنيات"
+              "Technology"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "عناصر مطاطية على منطقة التسديد"
+                "b": "Rubber elements on the strike zone"
               },
-              " — نتوءات دقيقة فوق مشط القدم تزيد احتكاك الكرة — هويّة بريديتور منذ ثلاثين سنة، تُحسّ في الكرات الملتفّة والتمريرات الطويلة."
+              " — Fine ridges across the instep that add grip on the ball — the Predator signature for three decades."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "نعل تيرف (TF)"
+                "b": "Turf (TF) outsole"
               },
-              " — نتوءات مطاطية قصيرة وكثيفة للنجيل الصناعي — لا تغرز ولا تعلق."
+              " — Short, dense rubber studs for artificial turf — no digging in, no catching."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لمن هذا الحذاء؟"
+              "Who is it for?"
             ]
           },
           {
             "t": "p",
             "s": [
-              "لصانع اللعب والمدافع الذي يمرّر طويلاً ويسدّد من خارج المنطقة. من يبحث عن السرعة الصافية فخطّ F50 أنسب له."
+              "For the playmaker and defender who plays long passes and shoots from distance. If you want pure speed, the F50 line suits you better."
             ]
           },
           {
             "t": "h",
             "s": [
-              "المقاسات"
+              "Sizing"
             ]
           },
           {
             "t": "p",
             "s": [
-              "المقاس مكتوب بالسنتيمتر كما هو في اليابان — قِس طول قدمك بالسنتيمتر واختر الرقم نفسه. ٢٥٫٠ سم يقابل تقريباً ٣٩ أوروبي، و٢٧٫٠ سم يقابل ٤٢."
+              "Sizes are in centimetres exactly as in Japan — measure your foot length in centimetres and pick the same number. 25.0 cm is roughly EU 39, and 27.0 cm is EU 42."
             ]
           },
           {
             "t": "p",
             "s": [
-              "كود الموديل ",
+              "Model code ",
               {
                 "b": "JR7874"
               },
-              " · بضاعة أصلية من اليابان."
+              " · authentic stock from Japan."
             ]
           }
         ],
@@ -6500,149 +6500,149 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1510770433",
       "en": {
-        "name": "حذاء أسيكس نوفابلاست 6 نسائي",
+        "name": "ASICS NOVABLAST 6 Running Shoe — Women's",
         "brand": "ASICS",
         "sport": "Running",
         "tagline": null,
-        "subtitle": "خفيف ومرن للجري اليومي",
-        "description": "أسيكس نوفابلاست 6 النوفابلاست هو حذاء أسيكس المرن النطّاط للجري اليومي: نعل عالٍ وطريّ يعيد لك جزءاً من طاقة كل خطوة، فيصلح لأول كيلومتراتك كما يصلح للتمرين المنتظم. صدر الجيل السادس في اليابان في يوليو 2026. ما الجديد في الجيل 6 طبقة FF TURBO² في المقدّمة فوق نعل FF BLAST MAX — ارتداد أعلى عند الدفع للأمام. مطاط ASICSGRIP في مقدّمة النعل الخارجي لتماسك أفضل على الأسطح المختلفة، مع بنية «ترامبولين» في المقدّمة. قاعدة أنحف وأخفّ من نوفابلاست 5 قليلاً. لمن هذا الحذاء؟ لمن يبدأ الجري ولمن يجري بانتظام ويريد حذاءً خفيفاً ومريحاً وفيه حيوية لكل يوم. ليس حذاء ثبات — إن كان كاحلك يدور للداخل فالأنسب GT-2000 15. البيانات الرسمية الفئة: حذاء جري يومي محايد بتوسيد عالٍ الوزن: نحو 253 غ للرجالي و 215 غ للنسائي (فردة واحدة، حسب أسيكس اليابان) سُمك النعل عند الكعب نحو 41.5 مم وفرق الكعب عن المقدّمة 8 مم الجزء العلوي: نسيج منسوج خفيف ومطّاط الكود: 1011C243 (رجالي) · 1012C008 (نسائي) — العرض القياسي المقاسات المقاسات بالرقم الأوروبي على سلّم أسيكس الرسمي، وجدول المقاسات في صفحة المنتج يربط كل رقم بطول القدم بالسنتيمتر — قِس طول قدمك واختر الرقم المطابق. أصلي من اليابان، يُطلب من متاجر رياضية يابانية معتمدة ويُشحن إلى السعودية.",
+        "subtitle": "Light, bouncy daily trainer",
+        "description": "ASICS NOVABLAST 6 NOVABLAST is ASICS' bouncy, lively daily trainer: a tall, soft sole that gives back some of the energy of every step, equally good for your first kilometres and for regular training. Generation 6 launched in Japan in July 2026. What is new in generation 6 FF TURBO² forefoot layer on top of the FF BLAST MAX midsole — more rebound at toe-off. ASICSGRIP rubber in the forefoot for grip on varied surfaces, with a trampoline-style forefoot structure. Slightly narrower, lighter platform than NOVABLAST 5. Who is it for? For new runners and regular runners who want a light, comfortable, lively shoe for every day. It is not a stability shoe — if your ankle rolls inward, GT-2000 15 is the better pick. Official specs Category: neutral, highly cushioned daily trainer Weight: about 253 g men's and 215 g women's (single shoe, ASICS Japan) Heel stack about 41.5 mm , heel-to-toe drop 8 mm Upper: light, stretchy engineered woven Code: 1011C243 (men) · 1012C008 (women) — standard width Sizing Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size. Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "أسيكس نوفابلاست 6"
+              "ASICS NOVABLAST 6"
             ]
           },
           {
             "t": "p",
             "s": [
-              "النوفابلاست هو حذاء أسيكس ",
+              "NOVABLAST is ASICS' ",
               {
-                "b": "المرن النطّاط"
+                "b": "bouncy, lively"
               },
-              " للجري اليومي: نعل عالٍ وطريّ يعيد لك جزءاً من طاقة كل خطوة، فيصلح لأول كيلومتراتك كما يصلح للتمرين المنتظم. صدر الجيل السادس في اليابان في يوليو 2026."
+              " daily trainer: a tall, soft sole that gives back some of the energy of every step, equally good for your first kilometres and for regular training. Generation 6 launched in Japan in July 2026."
             ]
           },
           {
             "t": "h",
             "s": [
-              "ما الجديد في الجيل 6"
+              "What is new in generation 6"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "طبقة FF TURBO² في المقدّمة"
+                "b": "FF TURBO² forefoot layer"
               },
-              " فوق نعل ",
+              " on top of the ",
               {
                 "b": "FF BLAST MAX"
               },
-              " — ارتداد أعلى عند الدفع للأمام."
+              " midsole — more rebound at toe-off."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "مطاط ASICSGRIP في مقدّمة النعل الخارجي"
+                "b": "ASICSGRIP rubber in the forefoot"
               },
-              " لتماسك أفضل على الأسطح المختلفة، مع بنية «ترامبولين» في المقدّمة."
+              " for grip on varied surfaces, with a trampoline-style forefoot structure."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "قاعدة أنحف وأخفّ"
+                "b": "Slightly narrower, lighter platform"
               },
-              " من نوفابلاست 5 قليلاً."
+              " than NOVABLAST 5."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لمن هذا الحذاء؟"
+              "Who is it for?"
             ]
           },
           {
             "t": "p",
             "s": [
-              "لمن يبدأ الجري ولمن يجري بانتظام ويريد حذاءً ",
+              "For new runners and regular runners who want a ",
               {
-                "b": "خفيفاً ومريحاً وفيه حيوية"
+                "b": "light, comfortable, lively"
               },
-              " لكل يوم. ليس حذاء ثبات — إن كان كاحلك يدور للداخل فالأنسب GT-2000 15."
+              " shoe for every day. It is not a stability shoe — if your ankle rolls inward, GT-2000 15 is the better pick."
             ]
           },
           {
             "t": "h",
             "s": [
-              "البيانات الرسمية"
+              "Official specs"
             ]
           },
           {
             "t": "li",
             "s": [
-              "الفئة: حذاء جري يومي محايد بتوسيد عالٍ"
+              "Category: neutral, highly cushioned daily trainer"
             ]
           },
           {
             "t": "li",
             "s": [
-              "الوزن: نحو ",
+              "Weight: about ",
               {
-                "b": "253 غ"
+                "b": "253 g"
               },
-              " للرجالي و",
+              " men's and ",
               {
-                "b": "215 غ"
+                "b": "215 g"
               },
-              " للنسائي (فردة واحدة، حسب أسيكس اليابان)"
+              " women's (single shoe, ASICS Japan)"
             ]
           },
           {
             "t": "li",
             "s": [
-              "سُمك النعل عند الكعب نحو ",
+              "Heel stack about ",
               {
-                "b": "41.5 مم"
+                "b": "41.5 mm"
               },
-              " وفرق الكعب عن المقدّمة ",
+              ", heel-to-toe drop ",
               {
-                "b": "8 مم"
+                "b": "8 mm"
               }
             ]
           },
           {
             "t": "li",
             "s": [
-              "الجزء العلوي: نسيج منسوج خفيف ومطّاط"
+              "Upper: light, stretchy engineered woven"
             ]
           },
           {
             "t": "li",
             "s": [
-              "الكود: 1011C243 (رجالي) · 1012C008 (نسائي) — العرض القياسي"
+              "Code: 1011C243 (men) · 1012C008 (women) — standard width"
             ]
           },
           {
             "t": "h",
             "s": [
-              "المقاسات"
+              "Sizing"
             ]
           },
           {
             "t": "p",
             "s": [
-              "المقاسات بالرقم الأوروبي على سلّم أسيكس الرسمي، وجدول المقاسات في صفحة المنتج يربط كل رقم بطول القدم بالسنتيمتر — قِس طول قدمك واختر الرقم المطابق."
+              "Sizes are shown as EU numbers on the official ASICS chart, and the size guide on this page links every number to foot length in centimetres — measure your foot and pick the matching size."
             ]
           },
           {
             "t": "p",
             "s": [
-              "أصلي من اليابان، يُطلب من متاجر رياضية يابانية معتمدة ويُشحن إلى السعودية."
+              "Genuine product from Japan, sourced from authorised Japanese sports retailers and shipped to Saudi Arabia."
             ]
           }
         ],
@@ -11924,190 +11924,190 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1031256474",
       "en": {
-        "name": "حذاء أسيكس جل كايانو 33 رجالي",
+        "name": "ASICS GEL-KAYANO 33 Running Shoe — Men's",
         "brand": "ASICS",
         "sport": "Running",
         "tagline": null,
-        "subtitle": "الجيل 33 بثبات FLUIDSUPPORT",
-        "description": "أسيكس جل كايانو 33 سلسلة GEL-KAYANO هي حذاء أسيكس الرئيسي للمسافات الطويلة منذ 1993، ومهمّتها واحدة: أن تبقى خطوتك مستقيمة ومستقرة حين يتعب الجسد — لأن الإصابة تأتي غالباً من انهيار شكل الجري في الكيلومترات الأخيرة لا من أوّلها. والجيل 33 صدر في اليابان في يونيو 2026. ما الجديد في الجيل 33 FLUIDSUPPORT — نظام الثبات الجديد ، مبنيّ على فلسفة 4D GUIDANCE SYSTEM نفسها. «فلويد» معناها الانسيابية: بدل قطعة صلبة واحدة تدعم موضعاً بعينه، الدعم هنا متّصل عبر الخطوة كلها من لحظة ملامسة الكعب حتى الدفع بأطراف الأصابع. وأُضيفت مادة أليَن في منتصف النعل من الجهة الداخلية تحديداً لتساند القدم حين يبدأ شكل الجري بالاضطراب من التعب. نعل وسطي بطبقتين — الطبقة العليا FF BLAST MAX طريّة وعالية الارتداد، والسفلى FF BLAST PLUS أصلب منها. الطريّة تلامس قدمك، والصلبة تحمل الوزن وتمنع الغوص. PureGEL في الكعب — امتصاص الصدمة في موضع الاصطدام الأول بالأرض. جزء علوي «إنجينيرد مِش» بتهوية وإحاطة متغيّرتين حسب الموضع، و البطانة الداخلية موصولة باللسان فتصير القدم والحذاء قطعة واحدة بلا انزلاق داخلي. نعل خارجي HYBRID ASICSGRIP — ASICSGRIP في الوسط للتماسك، و AHARPLUS في الكعب بمقاومة تآكل تقارب ثلاثة أضعاف المطاط التقليدي. وداخل النعل خطّ مطاطي منحنٍ يتحكّم في انثناء النعل، وتصميم بيضاوي في المقدمة يمنح ليونة أعلى عند الدفع. لمن هذا الحذاء؟ لمن يبدأ الجري، ولمن يستهدف ماراثوناً كاملاً ويريد ثباتاً يحميه في آخر المسافة. وإن كانت قدمك محايدة ولا تبحث إلا عن أقصى نعومة، فالأنسب لك هو جل نيمبوس 28 . البيانات الرسمية كود الموديل: 1011C167 — العرض القياسي المقاسات: 24.5–29.0 سم بخطوة 0.5 سم، إضافةً إلى 30.0 و31.0 و32.0 سم (رجالي) بلد الصنع: إندونيسيا المقاسات المقاسات مكتوبة بالمقاس الأوروبي وبجانبه الطول الداخلي بالسنتيمتر وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده.",
+        "subtitle": "Gen 33 with FLUIDSUPPORT stability",
+        "description": "ASICS GEL-KAYANO 33 The GEL-KAYANO line has been ASICS' flagship long-distance shoe since 1993, with a single job: to keep your stride straight and steady once the body tires — because injury usually comes from form collapsing in the last kilometres , not the first. Generation 33 was released in Japan in June 2026. What is new in generation 33 FLUIDSUPPORT — the new stability system , built on the same 4D GUIDANCE SYSTEM philosophy. \"Fluid\" is the point: instead of one rigid piece propping up a single spot, support here is continuous through the whole stride , from heel contact to toe-off. A softer material was added on the inner side of the midfoot specifically to hold the foot once fatigue starts to unsettle your form. A two-layer midsole — the top layer is soft, high-rebound FF BLAST MAX , the bottom layer firmer FF BLAST PLUS . The soft one meets your foot; the firm one carries the load and stops you sinking through. PureGEL in the heel — shock absorption exactly where the foot first meets the ground. An engineered mesh upper whose ventilation and hold change zone by zone, with the inner lining joined to the tongue so foot and shoe move as one piece with no internal slipping. HYBRID ASICSGRIP outsole — ASICSGRIP through the middle for traction and AHARPLUS at the heel with roughly three times the wear resistance of conventional rubber. Inside the outsole, a curved rubber line governs how the sole flexes, and an oval pattern at the forefoot adds give at toe-off. Who is it for? For new runners, and for anyone training toward a full marathon who wants stability protecting them late in the race. If your gait is neutral and all you want is maximum softness, the GEL-NIMBUS 28 suits you better. Official specifications Model code: 1011C167 — standard width Sizes: 24.5–29.0 cm in 0.5 cm steps, plus 30.0, 31.0 and 32.0 cm (men's) Made in: Indonesia Sizing Sizes are shown in European numbering with the inner length in centimetres beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "أسيكس جل كايانو 33"
+              "ASICS GEL-KAYANO 33"
             ]
           },
           {
             "t": "p",
             "s": [
-              "سلسلة ",
+              "The ",
               {
                 "b": "GEL-KAYANO"
               },
-              " هي حذاء أسيكس الرئيسي ",
+              " line has been ASICS' flagship ",
               {
-                "b": "للمسافات الطويلة"
+                "b": "long-distance"
               },
-              " منذ 1993، ومهمّتها واحدة: أن تبقى خطوتك مستقيمة ومستقرة حين يتعب الجسد — لأن الإصابة تأتي غالباً من ",
+              " shoe since 1993, with a single job: to keep your stride straight and steady once the body tires — because injury usually comes from ",
               {
-                "b": "انهيار شكل الجري في الكيلومترات الأخيرة"
+                "b": "form collapsing in the last kilometres"
               },
-              " لا من أوّلها. والجيل 33 صدر في اليابان في يونيو 2026."
+              ", not the first. Generation 33 was released in Japan in June 2026."
             ]
           },
           {
             "t": "h",
             "s": [
-              "ما الجديد في الجيل 33"
+              "What is new in generation 33"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "FLUIDSUPPORT — نظام الثبات الجديد"
+                "b": "FLUIDSUPPORT — the new stability system"
               },
-              "، مبنيّ على فلسفة ",
+              ", built on the same ",
               {
                 "b": "4D GUIDANCE SYSTEM"
               },
-              " نفسها. «فلويد» معناها الانسيابية: بدل قطعة صلبة واحدة تدعم موضعاً بعينه، الدعم هنا ",
+              " philosophy. \"Fluid\" is the point: instead of one rigid piece propping up a single spot, support here is ",
               {
-                "b": "متّصل عبر الخطوة كلها"
+                "b": "continuous through the whole stride"
               },
-              " من لحظة ملامسة الكعب حتى الدفع بأطراف الأصابع. وأُضيفت ",
+              ", from heel contact to toe-off. A ",
               {
-                "b": "مادة أليَن في منتصف النعل من الجهة الداخلية"
+                "b": "softer material was added on the inner side of the midfoot"
               },
-              " تحديداً لتساند القدم حين يبدأ شكل الجري بالاضطراب من التعب."
+              " specifically to hold the foot once fatigue starts to unsettle your form."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "نعل وسطي بطبقتين"
+                "b": "A two-layer midsole"
               },
-              " — الطبقة العليا ",
+              " — the top layer is soft, high-rebound ",
               {
                 "b": "FF BLAST MAX"
               },
-              " طريّة وعالية الارتداد، والسفلى ",
+              ", the bottom layer firmer ",
               {
                 "b": "FF BLAST PLUS"
               },
-              " أصلب منها. الطريّة تلامس قدمك، والصلبة تحمل الوزن وتمنع الغوص."
+              ". The soft one meets your foot; the firm one carries the load and stops you sinking through."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "PureGEL في الكعب"
+                "b": "PureGEL in the heel"
               },
-              " — امتصاص الصدمة في موضع الاصطدام الأول بالأرض."
+              " — shock absorption exactly where the foot first meets the ground."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "جزء علوي «إنجينيرد مِش»"
+                "b": "An engineered mesh upper"
               },
-              " بتهوية وإحاطة متغيّرتين حسب الموضع، و",
+              " whose ventilation and hold change zone by zone, with the ",
               {
-                "b": "البطانة الداخلية موصولة باللسان"
+                "b": "inner lining joined to the tongue"
               },
-              " فتصير القدم والحذاء قطعة واحدة بلا انزلاق داخلي."
+              " so foot and shoe move as one piece with no internal slipping."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "نعل خارجي HYBRID ASICSGRIP"
+                "b": "HYBRID ASICSGRIP outsole"
               },
               " — ",
               {
                 "b": "ASICSGRIP"
               },
-              " في الوسط للتماسك، و",
+              " through the middle for traction and ",
               {
                 "b": "AHARPLUS"
               },
-              " في الكعب بمقاومة تآكل تقارب ",
+              " at the heel with roughly ",
               {
-                "b": "ثلاثة أضعاف"
+                "b": "three times"
               },
-              " المطاط التقليدي. وداخل النعل خطّ مطاطي منحنٍ يتحكّم في انثناء النعل، وتصميم بيضاوي في المقدمة يمنح ليونة أعلى عند الدفع."
+              " the wear resistance of conventional rubber. Inside the outsole, a curved rubber line governs how the sole flexes, and an oval pattern at the forefoot adds give at toe-off."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لمن هذا الحذاء؟"
+              "Who is it for?"
             ]
           },
           {
             "t": "p",
             "s": [
-              "لمن يبدأ الجري، ولمن يستهدف ",
+              "For new runners, and for anyone training toward a ",
               {
-                "b": "ماراثوناً كاملاً"
+                "b": "full marathon"
               },
-              " ويريد ثباتاً يحميه في آخر المسافة. وإن كانت قدمك محايدة ولا تبحث إلا عن أقصى نعومة، فالأنسب لك هو ",
+              " who wants stability protecting them late in the race. If your gait is neutral and all you want is maximum softness, the ",
               {
-                "b": "جل نيمبوس 28"
+                "b": "GEL-NIMBUS 28"
               },
-              "."
+              " suits you better."
             ]
           },
           {
             "t": "h",
             "s": [
-              "البيانات الرسمية"
+              "Official specifications"
             ]
           },
           {
             "t": "li",
             "s": [
-              "كود الموديل: ",
+              "Model code: ",
               {
                 "b": "1011C167"
               },
-              " — العرض القياسي"
+              " — standard width"
             ]
           },
           {
             "t": "li",
             "s": [
-              "المقاسات: ",
+              "Sizes: ",
               {
-                "b": "24.5–29.0 سم بخطوة 0.5 سم، إضافةً إلى 30.0 و31.0 و32.0 سم"
+                "b": "24.5–29.0 cm in 0.5 cm steps, plus 30.0, 31.0 and 32.0 cm"
               },
-              " (رجالي)"
+              " (men's)"
             ]
           },
           {
             "t": "li",
             "s": [
-              "بلد الصنع: إندونيسيا"
+              "Made in: Indonesia"
             ]
           },
           {
             "t": "h",
             "s": [
-              "المقاسات"
+              "Sizing"
             ]
           },
           {
             "t": "p",
             "s": [
-              "المقاسات مكتوبة بالمقاس الأوروبي وبجانبه ",
+              "Sizes are shown in European numbering with the ",
               {
-                "b": "الطول الداخلي بالسنتيمتر"
+                "b": "inner length in centimetres"
               },
-              " وهو المعيار الياباني. إن كنت غير متأكد، قِس طول قدمك بالسنتيمتر واختر الرقم المطابق — هذا أدقّ من الاعتماد على المقاس الأوروبي وحده."
+              " beside it — the Japanese standard. If you are unsure, measure your foot length in centimetres and pick the matching number; that is more reliable than the European size alone."
             ]
           }
         ],
@@ -21318,64 +21318,42 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p877593952",
       "en": {
-        "name": "حذاء بوما سكوت زيروس 3 لكرة السلة",
+        "name": "PUMA Scoot Zeros 3 Basketball Shoes",
         "brand": "PUMA",
         "sport": "Basketball",
         "tagline": null,
-        "subtitle": "حذاء سكوت هندرسون الثالث — للاعب المتفجّر",
-        "description": "سكوت زيروس 3 — للاعب الذي يبدأ الهجمة بانفجار سكوت هندرسون حارس يلعب على القوّة والسرعة معاً، وحذاؤه مبنيّ على ذلك: ثبات جانبي يتحمّل التغيير العنيف للاتجاه ، ونعل يدفع للأمام عند الانطلاق من الثبات. الجيل الثالث يخدم اللاعب الذي يقطع نحو السلة ويصطدم ويكمل — لا اللاعب الذي يدور حول الخطّ الثلاثي. القاعدة عريضة والوحدة العلوية تمسك القدم عند القطع الحادّ. خطّ سكوت زيروس غير مُباع في السعودية — نجلبه من اليابان بسلسلة مقاسات واسعة تصل إلى 31 سم. لمن هو؟ للحارس القوي الذي يعتمد على الاختراق والتصادم لا على المراوغة الخفيفة. كود الموديل 312818 · بضاعة أصلية تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً لدى المصدر؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود.",
+        "subtitle": "Scoot Henderson's third signature — built for explosion",
+        "description": "Scoot Zeros 3 — for the player who starts the possession with a burst Scoot Henderson plays on power and speed together, and his shoe follows: lateral stability that survives violent direction changes , and a sole that pushes forward from a standing start. Not sold in Saudi Arabia. Wide size run up to 31 cm. Model code 312818 · Authentic stock sourced from Japan, delivered in 7–21 working days. Every size shown is actually available at the source; sizes marked out of stock will be restocked and we will notify you.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "سكوت زيروس 3 — للاعب الذي يبدأ الهجمة بانفجار"
+              "Scoot Zeros 3 — for the player who starts the possession with a burst"
             ]
           },
           {
             "t": "p",
             "s": [
               {
-                "b": "سكوت هندرسون"
+                "b": "Scoot Henderson"
               },
-              " حارس يلعب على القوّة والسرعة معاً، وحذاؤه مبنيّ على ذلك: ",
+              " plays on power and speed together, and his shoe follows: ",
               {
-                "b": "ثبات جانبي يتحمّل التغيير العنيف للاتجاه"
+                "b": "lateral stability that survives violent direction changes"
               },
-              "، ونعل يدفع للأمام عند الانطلاق من الثبات."
+              ", and a sole that pushes forward from a standing start."
             ]
           },
           {
             "t": "p",
             "s": [
-              "الجيل الثالث يخدم اللاعب الذي يقطع نحو السلة ويصطدم ويكمل — لا اللاعب الذي يدور حول الخطّ الثلاثي. القاعدة عريضة والوحدة العلوية تمسك القدم عند القطع الحادّ."
+              "Not sold in Saudi Arabia. Wide size run up to 31 cm."
             ]
           },
           {
             "t": "p",
             "s": [
-              "خطّ سكوت زيروس ",
-              {
-                "b": "غير مُباع في السعودية"
-              },
-              " — نجلبه من اليابان بسلسلة مقاسات واسعة تصل إلى 31 سم."
-            ]
-          },
-          {
-            "t": "h",
-            "s": [
-              "لمن هو؟"
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "للحارس القوي الذي يعتمد على الاختراق والتصادم لا على المراوغة الخفيفة."
-            ]
-          },
-          {
-            "t": "p",
-            "s": [
-              "كود الموديل 312818 · بضاعة أصلية تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل. المقاس المعروض للاختيار متوفّر فعلاً لدى المصدر؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود."
+              "Model code 312818 · Authentic stock sourced from Japan, delivered in 7–21 working days. Every size shown is actually available at the source; sizes marked out of stock will be restocked and we will notify you."
             ]
           }
         ],
@@ -28130,126 +28108,127 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p108633973",
       "en": {
-        "name": "حذاء ميزونو ويف لايتنينج Z8 MID",
+        "name": "Mizuno Wave Lightning Z8 MID Volleyball Shoe",
         "brand": "Mizuno",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "حذاء السرعة من ميزونو برقبة متوسطة",
-        "description": "سرعة لايتنينج… مع رقبة تحمي كاحلك WAVE LIGHTNING Z8 MID هو النسخة ذات القصّة المتوسطة من لايتنينج Z8، حذاء السرعة عند ميزونو والجيل الذي سبق لايتنينج إيليت . يزن نحو 320 غ لمقاس 27.0 سم. التقنيات MIZUNO ENERZY NXT في مقدّمة القدم — حيث يقع الحِمل في القفز، توسيد أعلى وارتداد أكبر. وتقول ميزونو إن توسيده أعلى بنحو 18٪ من Z7. لوح MIZUNO WAVE جديد يمتدّ على الجهة الداخلية من مقدّمة القدم — يدعم الدفع لحظة الانطلاق. كعب مرتفع الانحناء — الأعلى في تاريخ لايتنينج، صُمّم بناءً على أبحاث القفز ليدعم خطوة الارتقاء. فتحات رباط مشقوقة — يلتفّ الرباط على شكل القدم فيتحسّن الإحكام. قصّة متوسطة (Mid-cut) ونعلة ميزونو إنرجي قابلة للخلع، وقالب يناسب عرض 2E. لمن هذا الحذاء؟ من يحبّ خفّة لايتنينج لكنه يريد دعماً فوق الكاحل. الطرف وصانع الألعاب — حركة سريعة ثم قفزة وهبوط قرب الشبكة. من يريد حذاءً من الفئة العليا بسعر الجيل السابق. وإن كنت تريد أحدث جيل، فاختر ويف لايتنينج إيليت MID .",
+        "subtitle": "Mizuno's speed shoe in a mid cut",
+        "description": "Lightning speed… with a collar that protects your ankle The WAVE LIGHTNING Z8 MID is the mid-cut version of the Lightning Z8, Mizuno's speed shoe and the generation before the Lightning Elite . It weighs about 320 g for a 27.0 cm shoe. Technology MIZUNO ENERZY NXT in the forefoot — where jumping loads the foot, for more cushioning and rebound. Mizuno says it cushions about 18% more than the Z7. New MIZUNO WAVE plate along the inner forefoot — supports the push at take-off. Highest heel curve in Lightning history — designed from jump research to support the take-off step. Slit eyelets — the laces follow the shape of the foot for a better fit. Mid-cut collar , a removable Mizuno Enerzy insole and a last that fits 2E width. Who is it for? Players who love Lightning's lightness but want support above the ankle. Outside hitters and setters — quick movement, then a jump and landing near the net. Anyone who wants a top-tier shoe at last generation's price. If you want the newest generation, choose the Wave Lightning Elite MID .",
         "desc": [
           {
             "t": "h",
             "s": [
-              "سرعة لايتنينج… مع رقبة تحمي كاحلك"
+              "Lightning speed… with a collar that protects your ankle"
             ]
           },
           {
             "t": "p",
             "s": [
+              "The ",
               {
                 "b": "WAVE LIGHTNING Z8 MID"
               },
-              " هو النسخة ذات القصّة المتوسطة من لايتنينج Z8، حذاء السرعة عند ميزونو والجيل الذي سبق ",
+              " is the mid-cut version of the Lightning Z8, Mizuno's speed shoe and the generation before the ",
               {
-                "b": "لايتنينج إيليت"
+                "b": "Lightning Elite"
               },
-              ". يزن نحو ",
+              ". It weighs about ",
               {
-                "b": "320 غ"
+                "b": "320 g"
               },
-              " لمقاس 27.0 سم."
+              " for a 27.0 cm shoe."
             ]
           },
           {
             "t": "h",
             "s": [
-              "التقنيات"
+              "Technology"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "MIZUNO ENERZY NXT في مقدّمة القدم"
+                "b": "MIZUNO ENERZY NXT in the forefoot"
               },
-              " — حيث يقع الحِمل في القفز، توسيد أعلى وارتداد أكبر. وتقول ميزونو إن توسيده أعلى بنحو 18٪ من Z7."
+              " — where jumping loads the foot, for more cushioning and rebound. Mizuno says it cushions about 18% more than the Z7."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "لوح MIZUNO WAVE جديد"
+                "b": "New MIZUNO WAVE plate"
               },
-              " يمتدّ على الجهة الداخلية من مقدّمة القدم — يدعم الدفع لحظة الانطلاق."
+              " along the inner forefoot — supports the push at take-off."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "كعب مرتفع الانحناء"
+                "b": "Highest heel curve in Lightning history"
               },
-              " — الأعلى في تاريخ لايتنينج، صُمّم بناءً على أبحاث القفز ليدعم خطوة الارتقاء."
+              " — designed from jump research to support the take-off step."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "فتحات رباط مشقوقة"
+                "b": "Slit eyelets"
               },
-              " — يلتفّ الرباط على شكل القدم فيتحسّن الإحكام."
+              " — the laces follow the shape of the foot for a better fit."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "قصّة متوسطة (Mid-cut)"
+                "b": "Mid-cut collar"
               },
-              " ونعلة ميزونو إنرجي قابلة للخلع، وقالب يناسب عرض 2E."
+              ", a removable Mizuno Enerzy insole and a last that fits 2E width."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لمن هذا الحذاء؟"
+              "Who is it for?"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "من يحبّ خفّة لايتنينج"
+                "b": "Players who love Lightning's lightness"
               },
-              " لكنه يريد دعماً فوق الكاحل."
+              " but want support above the ankle."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الطرف وصانع الألعاب"
+                "b": "Outside hitters and setters"
               },
-              " — حركة سريعة ثم قفزة وهبوط قرب الشبكة."
+              " — quick movement, then a jump and landing near the net."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "من يريد حذاءً من الفئة العليا"
+                "b": "Anyone who wants a top-tier shoe"
               },
-              " بسعر الجيل السابق."
+              " at last generation's price."
             ]
           },
           {
             "t": "p",
             "s": [
-              "وإن كنت تريد أحدث جيل، فاختر ",
+              "If you want the newest generation, choose the ",
               {
-                "b": "ويف لايتنينج إيليت MID"
+                "b": "Wave Lightning Elite MID"
               },
               "."
             ]
@@ -28959,93 +28938,93 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1556818954",
       "en": {
-        "name": "حذاء ميزونو موريليا سالا برو TF لكرة القدم",
+        "name": "Mizuno Morelia Sala Pro TF Football Shoes",
         "brand": "Mizuno",
         "sport": "Football",
         "tagline": null,
-        "subtitle": "ميزونو · تيرف للعشب الصناعي · أبيض × ذهبي",
-        "description": "موريليا سالا برو TF موريليا هو خطّ ميزونو الأعرق في كرة القدم، و سالا فرعه المخصّص للفوتسال والملاعب الصلبة. نسخة TF هي إصدار التيرف: نعل بنتوءات مطاطية كثيفة ومنخفضة بدل المسامير. التقنيات نعل تيرف كثيف النتوءات — عشرات النتوءات القصيرة توزّع الضغط على الوبر الصناعي. لا تعلق عند الدوران كما تفعل المسامير الطويلة، وهذا ما يقلّل الحِمل على الركبة في الملاعب الصلبة. الجلد الصناعي الرقيق — إحساس مباشر بالكرة، وهو ما بُني عليه خطّ موريليا أصلاً: أقرب ما يكون إلى اللعب بالقدم عارية. فئة PRO — الدرجة الثانية في السلسلة بعد جابان، بخامات أقرب إليها وسعر أقلّ بكثير. لمن هذا الحذاء؟ للاعب على الوبر القصير والملاعب الخماسية ، ولمن يريد إحساساً مباشراً بالكرة أكثر من الحماية والتوسيد. كود الموديل Q1GB2613 · ميزونو · بضاعة أصلية من اليابان.",
+        "subtitle": "Mizuno · Turf for artificial grass · White / Gold",
+        "description": "Morelia Sala Pro TF Morelia is Mizuno's oldest football line, and Sala its futsal and hard-court branch. The TF version runs a turf sole: dense, low rubber nubs instead of studs. Technologies Dense turf sole — dozens of short nubs spread load across artificial pile. They do not catch on turns the way long studs do, which is what reduces knee load on hard pitches. Thin synthetic upper — direct ball feel, the idea the Morelia line was built on: as close to barefoot as a boot gets. PRO tier — second in the range after Japan, with materials close to it at a far lower price. Who is it for? Players on short pile and five-a-side courts who value ball feel over protection and cushioning. Model code Q1GB2613 · Mizuno · Genuine Japanese stock, delivered in 7–21 business days.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "موريليا سالا برو TF"
+              "Morelia Sala Pro TF"
             ]
           },
           {
             "t": "p",
             "s": [
               {
-                "b": "موريليا"
+                "b": "Morelia"
               },
-              " هو خطّ ميزونو الأعرق في كرة القدم، و",
+              " is Mizuno's oldest football line, and ",
               {
-                "b": "سالا"
+                "b": "Sala"
               },
-              " فرعه المخصّص للفوتسال والملاعب الصلبة. نسخة ",
+              " its futsal and hard-court branch. The ",
               {
                 "b": "TF"
               },
-              " هي إصدار التيرف: نعل بنتوءات مطاطية كثيفة ومنخفضة بدل المسامير."
+              " version runs a turf sole: dense, low rubber nubs instead of studs."
             ]
           },
           {
             "t": "h",
             "s": [
-              "التقنيات"
+              "Technologies"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "نعل تيرف كثيف النتوءات"
+                "b": "Dense turf sole"
               },
-              " — عشرات النتوءات القصيرة توزّع الضغط على الوبر الصناعي. لا تعلق عند الدوران كما تفعل المسامير الطويلة، وهذا ما يقلّل الحِمل على الركبة في الملاعب الصلبة."
+              " — dozens of short nubs spread load across artificial pile. They do not catch on turns the way long studs do, which is what reduces knee load on hard pitches."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الجلد الصناعي الرقيق"
+                "b": "Thin synthetic upper"
               },
-              " — إحساس مباشر بالكرة، وهو ما بُني عليه خطّ موريليا أصلاً: أقرب ما يكون إلى اللعب بالقدم عارية."
+              " — direct ball feel, the idea the Morelia line was built on: as close to barefoot as a boot gets."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "فئة PRO"
+                "b": "PRO tier"
               },
-              " — الدرجة الثانية في السلسلة بعد جابان، بخامات أقرب إليها وسعر أقلّ بكثير."
+              " — second in the range after Japan, with materials close to it at a far lower price."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لمن هذا الحذاء؟"
+              "Who is it for?"
             ]
           },
           {
             "t": "p",
             "s": [
-              "للاعب على ",
+              "Players on ",
               {
-                "b": "الوبر القصير والملاعب الخماسية"
+                "b": "short pile and five-a-side courts"
               },
-              "، ولمن يريد إحساساً مباشراً بالكرة أكثر من الحماية والتوسيد."
+              " who value ball feel over protection and cushioning."
             ]
           },
           {
             "t": "p",
             "s": [
-              "كود الموديل ",
+              "Model code ",
               {
                 "b": "Q1GB2613"
               },
-              " · ميزونو · بضاعة أصلية من اليابان."
+              " · Mizuno · Genuine Japanese stock, delivered in 7–21 business days."
             ]
           }
         ],
@@ -29390,49 +29369,49 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1101323016",
       "en": {
-        "name": "حذاء ميزونو ويف لايتنينج إيليت",
+        "name": "Mizuno Wave Lightning Elite — Light & Fast, All Sizes Available",
         "brand": "Mizuno",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "أخفّ إيليت من ميزانو — 295 غراماً",
-        "description": "خفّة LIGHTNING بمستوى ELITE — لمن يفوز بالخطوة الأولى سلسلة WAVE LIGHTNING هي خط ميزانو الخفيف والسريع في الكرة الطائرة، و ELITE أعلى مستوياتها: بناء خفيف الوزن (نحو 295 غ لمقاس 27.0 سم) يقوم على رغوة MIZUNO ENERZY nxt عالية الارتداد و لوح WAVE الذي يمسك منتصف القدم لحظة الكبح وتغيير الاتجاه. صُمّم للاعب الذي يقوم لعبه على سرعة القدم والخطوة القصيرة المتكررة والدفاع الواسع، لا على القفز الثقيل المتواصل. التقنيات MIZUNO ENERZY nxt في النعل الوسطي، مع نعلة داخلية MIZUNO ENERZY xp — الأخيرة تصفها ميزانو بأنها أعلى مادة نعلة عالية الارتداد في تاريخها، وهي قابلة للخلع. الاثنتان معاً تعيدان جزءاً من طاقة كل هبوط بدل أن تبتلعاها، فتحسّ بدفعة في الانطلاقة الأولى، وتبقى قدمك أقل إرهاقاً في الأشواط الأخيرة حيث تُحسم المباريات. لوح WAVE — صفيحة موجية في منتصف النعل: تمنع التواء منتصف القدم عند التوقف المفاجئ والدوران. هذا هو الفرق بين قدم تستقر فتنطلق فوراً في الاتجاه المعاكس، وقدم «تسبح» داخل الحذاء فتضيّع عليك خطوة كاملة. بناء خفيف الوزن — أثره لا يظهر في خطوة واحدة، بل في مئات الخطوات القصيرة خلال المباراة: مجهود أقل في كل حركة جانبية، وعودة أسرع إلى مركزك بعد كل كرة. نعل خارجي XG رابر+ بقبضة عالية — مضبوط على أرضيات الصالات الخشبية: يعضّ الأرض لحظة الكبح فتقف حيث تريد بالضبط، ويقلّل الانزلاق في اللحظة التي لا يُغتفر فيها الانزلاق. ومعه أخاديد D FLEX GROOVE لمرونة الانثناء الطبيعي للقدم. لمن هذا الحذاء؟ هو الخيار الطبيعي لمن يقضي المباراة في حركة أفقية متواصلة: الليبرو والمدافع — تغطية مساحة واسعة، انطلاقات قصيرة متكررة، وسقوط ونهوض سريع. الطرف/المستقبِل — يجمع بين الاستقبال والانتقال السريع إلى موقع الهجوم. صانع الألعاب — يصل إلى الكرة الثانية من أي زاوية، ويحتاج ثباتاً فورياً عند التوقف ليمرّر متّزناً. وبشكل عام: كل لاعب يصف أسلوبه بأنه سريع وخفيف ، ويفضّل الاستجابة الفورية على التوسيد الكثيف.",
+        "subtitle": "Mizuno's lightest Elite — 295 g",
+        "description": "LIGHTNING lightness at ELITE level — for the player who wins the first step The WAVE LIGHTNING line is Mizuno's light, fast volleyball family, and ELITE is its top tier: a lightweight build (about 295 g at size 27.0 cm) around high-rebound MIZUNO ENERZY nxt foam and the WAVE plate that grips the midfoot the instant you brake and change direction. It is made for the player whose game runs on foot speed, repeated short steps and wide defensive coverage — not on heavy, continuous jumping. The technology MIZUNO ENERZY nxt in the midsole, with a MIZUNO ENERZY xp sockliner — the latter is what Mizuno calls its highest-rebound insole material ever, and it is removable. Together they return part of the energy of every landing instead of swallowing it, so you feel a push on the first step and your legs stay fresher in the closing sets where matches are decided. WAVE plate — a wave-shaped sheet through the midfoot that stops the middle of the foot twisting when you stop dead or pivot. That is the difference between a foot that settles and fires straight back the other way, and a foot that \"swims\" inside the shoe and costs you a full step. Lightweight construction — you do not feel it in one step; you feel it across hundreds of short steps in a match: less effort in every lateral move, and a faster return to your position after each ball. High-grip XG Rubber+ outsole — tuned for wooden indoor courts: it bites the floor the moment you brake so you stop exactly where you meant to, and it cuts slipping at the moment slipping is unforgivable. D FLEX GROOVE flex grooves let the foot bend naturally. Who is it for? It is the natural pick for anyone who spends the match moving horizontally: Libero and defensive specialist — covering a wide area, repeated short bursts, dropping and getting back up fast. Outside hitter / receiver — combining reception with a quick transition into the attack. Setter — reaching the second ball from any angle, needing instant stability on the stop to set balanced. And generally: any player who describes their style as fast and light , and prefers immediate response over deep cushioning.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "خفّة LIGHTNING بمستوى ELITE — لمن يفوز بالخطوة الأولى"
+              "LIGHTNING lightness at ELITE level — for the player who wins the first step"
             ]
           },
           {
             "t": "p",
             "s": [
-              "سلسلة ",
+              "The ",
               {
                 "b": "WAVE LIGHTNING"
               },
-              " هي خط ميزانو الخفيف والسريع في الكرة الطائرة، و",
+              " line is Mizuno's light, fast volleyball family, and ",
               {
                 "b": "ELITE"
               },
-              " أعلى مستوياتها: بناء خفيف الوزن (نحو ",
+              " is its top tier: a lightweight build (about ",
               {
-                "b": "295 غ"
+                "b": "295 g"
               },
-              " لمقاس 27.0 سم) يقوم على رغوة ",
+              " at size 27.0 cm) around high-rebound ",
               {
                 "b": "MIZUNO ENERZY nxt"
               },
-              " عالية الارتداد و",
+              " foam and the ",
               {
-                "b": "لوح WAVE"
+                "b": "WAVE plate"
               },
-              " الذي يمسك منتصف القدم لحظة الكبح وتغيير الاتجاه. صُمّم للاعب الذي يقوم لعبه على سرعة القدم والخطوة القصيرة المتكررة والدفاع الواسع، لا على القفز الثقيل المتواصل."
+              " that grips the midfoot the instant you brake and change direction. It is made for the player whose game runs on foot speed, repeated short steps and wide defensive coverage — not on heavy, continuous jumping."
             ]
           },
           {
             "t": "h",
             "s": [
-              "التقنيات"
+              "The technology"
             ]
           },
           {
@@ -29441,87 +29420,87 @@
               {
                 "b": "MIZUNO ENERZY nxt"
               },
-              " في النعل الوسطي، مع نعلة داخلية ",
+              " in the midsole, with a ",
               {
                 "b": "MIZUNO ENERZY xp"
               },
-              " — الأخيرة تصفها ميزانو بأنها أعلى مادة نعلة عالية الارتداد في تاريخها، وهي قابلة للخلع. الاثنتان معاً تعيدان جزءاً من طاقة كل هبوط بدل أن تبتلعاها، فتحسّ بدفعة في الانطلاقة الأولى، وتبقى قدمك أقل إرهاقاً في الأشواط الأخيرة حيث تُحسم المباريات."
+              " sockliner — the latter is what Mizuno calls its highest-rebound insole material ever, and it is removable. Together they return part of the energy of every landing instead of swallowing it, so you feel a push on the first step and your legs stay fresher in the closing sets where matches are decided."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "لوح WAVE"
+                "b": "WAVE plate"
               },
-              " — صفيحة موجية في منتصف النعل: تمنع التواء منتصف القدم عند التوقف المفاجئ والدوران. هذا هو الفرق بين قدم تستقر فتنطلق فوراً في الاتجاه المعاكس، وقدم «تسبح» داخل الحذاء فتضيّع عليك خطوة كاملة."
+              " — a wave-shaped sheet through the midfoot that stops the middle of the foot twisting when you stop dead or pivot. That is the difference between a foot that settles and fires straight back the other way, and a foot that \"swims\" inside the shoe and costs you a full step."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "بناء خفيف الوزن"
+                "b": "Lightweight construction"
               },
-              " — أثره لا يظهر في خطوة واحدة، بل في مئات الخطوات القصيرة خلال المباراة: مجهود أقل في كل حركة جانبية، وعودة أسرع إلى مركزك بعد كل كرة."
+              " — you do not feel it in one step; you feel it across hundreds of short steps in a match: less effort in every lateral move, and a faster return to your position after each ball."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "نعل خارجي XG رابر+ بقبضة عالية"
+                "b": "High-grip XG Rubber+ outsole"
               },
-              " — مضبوط على أرضيات الصالات الخشبية: يعضّ الأرض لحظة الكبح فتقف حيث تريد بالضبط، ويقلّل الانزلاق في اللحظة التي لا يُغتفر فيها الانزلاق. ومعه أخاديد ",
+              " — tuned for wooden indoor courts: it bites the floor the moment you brake so you stop exactly where you meant to, and it cuts slipping at the moment slipping is unforgivable. ",
               {
                 "b": "D FLEX GROOVE"
               },
-              " لمرونة الانثناء الطبيعي للقدم."
+              " flex grooves let the foot bend naturally."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لمن هذا الحذاء؟"
+              "Who is it for?"
             ]
           },
           {
             "t": "p",
             "s": [
-              "هو الخيار الطبيعي لمن يقضي المباراة في حركة أفقية متواصلة:"
+              "It is the natural pick for anyone who spends the match moving horizontally:"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الليبرو والمدافع"
+                "b": "Libero and defensive specialist"
               },
-              " — تغطية مساحة واسعة، انطلاقات قصيرة متكررة، وسقوط ونهوض سريع."
+              " — covering a wide area, repeated short bursts, dropping and getting back up fast."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الطرف/المستقبِل"
+                "b": "Outside hitter / receiver"
               },
-              " — يجمع بين الاستقبال والانتقال السريع إلى موقع الهجوم."
+              " — combining reception with a quick transition into the attack."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "صانع الألعاب"
+                "b": "Setter"
               },
-              " — يصل إلى الكرة الثانية من أي زاوية، ويحتاج ثباتاً فورياً عند التوقف ليمرّر متّزناً."
+              " — reaching the second ball from any angle, needing instant stability on the stop to set balanced."
             ]
           },
           {
             "t": "li",
             "s": [
-              "وبشكل عام: كل لاعب يصف أسلوبه بأنه سريع وخفيف ، ويفضّل الاستجابة الفورية على التوسيد الكثيف."
+              "And generally: any player who describes their style as fast and light , and prefers immediate response over deep cushioning."
             ]
           }
         ],
@@ -44607,15 +44586,121 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/fcf6de40-7737-4516-818d-bd78dbe1b5ed-500x500-qsCYD5z0dE3ZLhkJEQ4f2rJQ3cSivtmQAKu2zlU4.jpg"
+        "https://cdn.salla.sa/jZjwre/11f93df4-0618-4253-8503-af7087f783f4-1000x1000-qsCYD5z0dE3ZLhkJEQ4f2rJQ3cSivtmQAKu2zlU4.jpg",
+        "https://cdn.salla.sa/jZjwre/6902c1a9-368b-43c0-875b-aa9aa251458d-1000x1000-vfgd5ieH5XeM3vrOrsVI8gfx4y87DjQ6MSOaADaT.jpg",
+        "https://cdn.salla.sa/jZjwre/795f696c-02a8-4d9d-8d61-9252909e29fa-1000x1000-e6Ngixnwk1TsDbiPVOLqHu6qqQJlf20ocWwbw2Nz.jpg",
+        "https://cdn.salla.sa/jZjwre/3b1b3404-736c-4a9a-878d-fd944c75874c-1000x1000-shl8aLzVIAJ5l7mA0pTbbjfgwrB7u9as1HVUAZhD.jpg",
+        "https://cdn.salla.sa/jZjwre/2fdd16dd-63ec-40e6-b02e-af382079f03e-1000x1000-Xf0RAJS6iDBYyoxXJ05EsUSEcKhVaMwWAdutVek6.jpg",
+        "https://cdn.salla.sa/jZjwre/a743b910-2cf7-4199-b144-9fb551a62f87-1000x1000-ChyXRjLb57LLV6cdBHk0zPM6VFhlV9kqwTHMj46n.jpg",
+        "https://cdn.salla.sa/jZjwre/b8cb53ec-3956-42ef-8fc9-8c332888bf65-1000x1000-pPO8M6JR0MkY32AEtoOirCmino5iPBICsdhrHAhS.jpg",
+        "https://cdn.salla.sa/jZjwre/40fe0f86-fc63-4a4a-975d-8caa81b1861b-1000x1000-FBl3wUjDIxewSa51e6YVYJOFfmaMRjXmPttm23wG.jpg",
+        "https://cdn.salla.sa/jZjwre/f9c9a52f-f224-46f3-a709-d44473c79792-1000x1000-xuN55qcoZlLpQjzOvOfLMYtJrQGt50LFwTpelIKi.jpg",
+        "https://cdn.salla.sa/jZjwre/095a9988-7d3e-437f-88b9-b2a53dcbe6b4-1000x1000-Ng6GQFM51hXDTom1mbvgVHoP8OaszP8HfvVlHBfD.jpg",
+        "https://cdn.salla.sa/jZjwre/4af1b6a3-27e9-49e4-9a8b-db1e6cd7cb57-1000x1000-HQYuJI4pjfVf71D99v4H5jqF2CcYEIJF4jqZQCrg.jpg",
+        "https://cdn.salla.sa/jZjwre/d7476118-a7d9-404b-a16b-1ad397e839b8-1000x1000-M84s86Fq3Kr26Th2UIQEgD1sBKf39dQF9PQRcJ5d.jpg",
+        "https://cdn.salla.sa/jZjwre/586adfb8-0a98-4c72-a689-b15103f9a033-1000x1000-4r6EWlrvxKFUZLgnbOH13tKUjkW1O5vuazqSom9G.jpg",
+        "https://cdn.salla.sa/jZjwre/1829cd5e-68b8-4c8f-a999-c654beeb3a46-1000x1000-SZlo902iFSvKlYaVL3B6bv757xDweq6J0QH90uI2.jpg",
+        "https://cdn.salla.sa/jZjwre/e4d4b55f-2291-4abe-afcc-68c797def8ad-1000x1000-IKc1WrRdm6aVYlK9yxu39H4yXL9PteWF1u1K21I3.jpg",
+        "https://cdn.salla.sa/jZjwre/57b25ef5-c126-44b8-992a-92817b08fa15-1000x1000-UBdwxCFNyGabrTYuICwkq1TGM30j31bOPCP9FwwZ.jpg",
+        "https://cdn.salla.sa/jZjwre/7ff1f839-176e-40ae-8698-3719a3641108-1000x1000-3AQclV4kduLiYOvpTAQYV8UCSOh8MnRl0zSnXNco.jpg",
+        "https://cdn.salla.sa/jZjwre/1972b370-efd1-413a-bb9d-9afadd9c70c2-1000x1000-fUBgzF7MMSmEdnqe5pLGtnKjBoiPmZi8JCrRf8gs.jpg",
+        "https://cdn.salla.sa/jZjwre/bf4a6deb-28a0-4c74-ba19-511570569ec4-1000x1000-m8oDGrsqrFS0lKjgzciwxxGgd8LuNbsw53NE6mjM.jpg",
+        "https://cdn.salla.sa/jZjwre/6c62f640-55f0-48fb-b401-a66212af6c6c-1000x1000-RavZX88WthmLSm8XKUEsmDnURbSzbj2mVjJT6XHZ.jpg"
       ],
       "optionNames": {
-        "size": null,
-        "color": null
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "sizes": [],
-      "colors": [],
-      "options": [],
+      "sizes": [
+        "36.5",
+        "37",
+        "37.5",
+        "38",
+        "39",
+        "40"
+      ],
+      "colors": [
+        "أخضر زيتوني فاتح",
+        "رمادي فاتح × برتقالي",
+        "كريمي × برتقالي",
+        "موف × رمادي"
+      ],
+      "options": [
+        {
+          "id": "1775817124",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "1368038570",
+              "name": "أخضر زيتوني فاتح",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/fcf6de40-7737-4516-818d-bd78dbe1b5ed-500x500-qsCYD5z0dE3ZLhkJEQ4f2rJQ3cSivtmQAKu2zlU4.jpg"
+            },
+            {
+              "id": "592952235",
+              "name": "رمادي فاتح × برتقالي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/5a12f709-5321-4762-af5c-7ecb94a4aa69-500x500-vfgd5ieH5XeM3vrOrsVI8gfx4y87DjQ6MSOaADaT.jpg"
+            },
+            {
+              "id": "2101140148",
+              "name": "كريمي × برتقالي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/47d46a45-ff0c-402c-9f14-9dcf06efc4bc-500x500-e6Ngixnwk1TsDbiPVOLqHu6qqQJlf20ocWwbw2Nz.jpg"
+            },
+            {
+              "id": "1327102389",
+              "name": "موف × رمادي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/4e050552-40fd-420b-8226-8455ce8e128d-500x500-shl8aLzVIAJ5l7mA0pTbbjfgwrB7u9as1HVUAZhD.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1000730789",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "417732790",
+              "name": "36.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1791174583",
+              "name": "37",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1151878832",
+              "name": "37.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "376792497",
+              "name": "38",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1616086194",
+              "name": "39",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "842572723",
+              "name": "40",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -46163,15 +46248,141 @@
         }
       ],
       "images": [
-        "https://cdn.salla.sa/jZjwre/0e8f7020-4de1-4c72-b664-26a13f5b6b97-500x500-gkeMtKQHWznWELhKubVqGAKFfqoxcMr91ffcgzWi.jpg"
+        "https://cdn.salla.sa/jZjwre/12214415-bb4d-4e2a-8048-ace0b3416363-1000x1000-gkeMtKQHWznWELhKubVqGAKFfqoxcMr91ffcgzWi.jpg",
+        "https://cdn.salla.sa/jZjwre/5eae957e-fd11-4b27-b1f2-872370de3c1d-1000x1000-Xb8VJ3sSPFBZLIz9a5RsmlnA8E4B5lnC6kYwD71t.jpg",
+        "https://cdn.salla.sa/jZjwre/a30db098-80c4-496a-9c34-f15de057a03c-1000x1000-l4Zaan5wzsxXmBgpXz3y8eLep8o0joEAPpVnYiuG.jpg",
+        "https://cdn.salla.sa/jZjwre/879c5a9b-f0c0-42fd-929f-cc923abb5282-1000x1000-SKjZBcXx7gNSJkpFLMIcp4I40jwmn2NTxk8ZoUmt.jpg",
+        "https://cdn.salla.sa/jZjwre/d7cbaaa2-0150-4867-9348-cbc67219a620-1000x1000-8Vl6DMCS8TDYeCOD8x5vZvXdKhGudgFffFySxp6p.jpg",
+        "https://cdn.salla.sa/jZjwre/c3b24547-840e-4d8d-856c-3540aba198f8-1000x1000-mUOa1QnzQX701E8mgSs0yLSZ1YXyAU9NCeaix1Dw.jpg",
+        "https://cdn.salla.sa/jZjwre/c7b58e51-03b5-42e6-831e-507eac1c89f9-1000x1000-jHHd178l2NI4ZE1fmZFhzjXvRkdGc1WSA46BK5OD.jpg",
+        "https://cdn.salla.sa/jZjwre/69b28ded-31ab-4a5f-a0dd-42d64ea2d7bc-1000x1000-uZKKFHs4iyGiTUbWzZ0NkCiXiCTQIpllwQnC8dx6.jpg",
+        "https://cdn.salla.sa/jZjwre/1cad1437-e04f-4e25-8e3a-3f0fe7d5b0e8-1000x1000-8nrw9SvIETkKuudPV7SqqeqqsKIUlTO0G3KiMh4H.jpg",
+        "https://cdn.salla.sa/jZjwre/8029bd90-8cce-4737-adb4-e0028281023a-1000x1000-dtznYm4nQUYM18f3UIp0G5aQgn9XW2Iy7c7Cco9V.jpg",
+        "https://cdn.salla.sa/jZjwre/da6f5b83-2d62-4c45-adff-26b3a2a3c224-1000x1000-WqS8fLCR7Ja4mjIneEkbvk1sbYvHrsV8xs7IcIRI.jpg",
+        "https://cdn.salla.sa/jZjwre/4ff22c29-f6c6-4bb6-a612-55ad4ef0beaa-1000x1000-AR20QHBwMeOztnPyYhzbQiFTLlEBBVwe7SSOb0OR.jpg",
+        "https://cdn.salla.sa/jZjwre/4815a761-4ffd-47dd-9b90-87f8b714d7a0-1000x1000-IYRNVjzQShYIUIiwXghgRCDwTpwPaweYVwf46GWD.jpg",
+        "https://cdn.salla.sa/jZjwre/4b52fe6e-ff7b-4632-990d-a5b402340319-1000x1000-ppW4eXdmYwoujgRbMXtWCNOYMZMfHxy6P638pEbO.jpg",
+        "https://cdn.salla.sa/jZjwre/650eb2b0-c596-4010-bc3e-cc83c65c9f91-1000x1000-KXk3vpUNxOTBoEv6ofTreGvM86eQ8bx0397WHNPa.jpg",
+        "https://cdn.salla.sa/jZjwre/be669dd1-db82-4823-a7b5-6bdd893d10dd-1000x1000-Oa6cFfPTOGwiqtpfkNmB0dJ9b3hyEXbKidvmk0NT.jpg",
+        "https://cdn.salla.sa/jZjwre/a6f263db-d4ac-417e-a5a4-bef40ec95035-1000x1000-99Erdo7efFuKI7bPlJv1zk6Yh6Ysqg8tpKHrnRc9.jpg",
+        "https://cdn.salla.sa/jZjwre/f83b2768-66b0-4798-8b07-5454acb54d53-1000x1000-Nugm1CP0dJzWaAtSUbgIGHPPIAbAnnlvixEW1e7U.jpg",
+        "https://cdn.salla.sa/jZjwre/bd37c73b-3695-4dfd-b032-c9c234eed222-1000x1000-2oSXMBvis1rNuVhxY5REhBLWMVVqY77p66AGeslk.jpg"
       ],
       "optionNames": {
-        "size": null,
-        "color": null
+        "size": "المقاس",
+        "color": "اللون"
       },
-      "sizes": [],
-      "colors": [],
-      "options": [],
+      "sizes": [
+        "40",
+        "40.5",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45"
+      ],
+      "colors": [
+        "أبيض × أسود",
+        "أبيض × أصفر فسفوري",
+        "بنفسجي داكن × رمادي",
+        "رمادي × بنفسجي فاتح"
+      ],
+      "options": [
+        {
+          "id": "543466570",
+          "name": "اللون",
+          "required": true,
+          "values": [
+            {
+              "id": "690063622",
+              "name": "أبيض × أسود",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/0e8f7020-4de1-4c72-b664-26a13f5b6b97-500x500-gkeMtKQHWznWELhKubVqGAKFfqoxcMr91ffcgzWi.jpg"
+            },
+            {
+              "id": "2064558087",
+              "name": "أبيض × أصفر فسفوري",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/79900df5-a111-45b0-8110-b12e1d975e87-500x500-Xb8VJ3sSPFBZLIz9a5RsmlnA8E4B5lnC6kYwD71t.jpg"
+            },
+            {
+              "id": "1424733952",
+              "name": "بنفسجي داكن × رمادي",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/c8b5a2aa-48f1-4aed-a22a-b1752c528957-500x500-l4Zaan5wzsxXmBgpXz3y8eLep8o0joEAPpVnYiuG.jpg"
+            },
+            {
+              "id": "649123329",
+              "name": "رمادي × بنفسجي فاتح",
+              "out": false,
+              "img": "https://cdn.salla.sa/jZjwre/93f0f794-fb7f-4699-80cc-9e132c49b3cd-500x500-SKjZBcXx7gNSJkpFLMIcp4I40jwmn2NTxk8ZoUmt.jpg"
+            }
+          ]
+        },
+        {
+          "id": "1916912459",
+          "name": "المقاس",
+          "required": true,
+          "values": [
+            {
+              "id": "1889400066",
+              "name": "40",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1115296771",
+              "name": "40.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "474428172",
+              "name": "41.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1848398349",
+              "name": "42",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "940142862",
+              "name": "42.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "366448655",
+              "name": "43",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "1740422920",
+              "name": "44",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "832167433",
+              "name": "44.5",
+              "out": false,
+              "img": null
+            },
+            {
+              "id": "57081098",
+              "name": "45",
+              "out": false,
+              "img": null
+            }
+          ]
+        }
+      ],
       "model": null,
       "origin": "JP",
       "status": "live",
@@ -51469,72 +51680,72 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1813707650",
       "en": {
-        "name": "قميص المنتخب الياباني ريبليكا ٢٠٢٦",
+        "name": "Japan National Team Replica Jersey 2026",
         "brand": "ASICS",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "أسيكس · النسخة الجماهيرية الرسمية · خمسة لاعبين",
-        "description": "الريبليكا الرسمية لقميص منتخب اليابان ٢٠٢٦ من أسيكس — نفس التصميم والرعاة وشعار الاتحاد JVA ، بقصّة تيشيرت مريحة. اختر لاعبك: ١٤ إيشيكاوا · ١ نيشيدا · ١٢ ران · ٤ ميّاورا · ١٥ كاي — الاسم والرقم مطبوعان على الظهر. قصّة تيشيرت تُلبس مرتاحاً في المدرّج والصالة وخارجها. مقاسات S إلى 3XL — والمعروض للاختيار متوفّر فعلاً لدى المصدر. كود الموديل 2053A323 · أسيكس · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+        "subtitle": "ASICS · Official fan replica · Five players",
+        "description": "The official replica of the Japan national team 2026 jersey from ASICS — the same design, sponsors and JVA crest, in a comfortable T-shirt cut. Pick your player: 14 Ishikawa · 1 Nishida · 12 Ran · 4 Miyaura · 15 Kai — name and number printed on the back. T-shirt cut that's comfortable in the stands, the gym and beyond. Sizes S to 3XL — and every size you can select is genuinely in stock at the source. Model code 2053A323 · ASICS · Authentic stock from Japan Ordered from Japan and delivered within 7 to 21 working days . Every size you can select is genuinely in stock; for anything marked “Out of stock”, message us on WhatsApp and we'll let you know when it's back.",
         "desc": [
           {
             "t": "p",
             "s": [
-              "الريبليكا الرسمية لقميص ",
+              "The official replica of the ",
               {
-                "b": "منتخب اليابان"
+                "b": "Japan national team"
               },
-              " ٢٠٢٦ من أسيكس — نفس التصميم والرعاة وشعار الاتحاد ",
+              " 2026 jersey from ASICS — the same design, sponsors and ",
               {
                 "b": "JVA"
               },
-              "، بقصّة تيشيرت مريحة."
+              " crest, in a comfortable T-shirt cut."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "اختر لاعبك:"
+                "b": "Pick your player:"
               },
-              " ١٤ إيشيكاوا · ١ نيشيدا · ١٢ ران · ٤ ميّاورا · ١٥ كاي — الاسم والرقم مطبوعان على الظهر."
+              " 14 Ishikawa · 1 Nishida · 12 Ran · 4 Miyaura · 15 Kai — name and number printed on the back."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "قصّة تيشيرت"
+                "b": "T-shirt cut"
               },
-              " تُلبس مرتاحاً في المدرّج والصالة وخارجها."
+              " that's comfortable in the stands, the gym and beyond."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "مقاسات S إلى 3XL"
+                "b": "Sizes S to 3XL"
               },
-              " — والمعروض للاختيار متوفّر فعلاً لدى المصدر."
+              " — and every size you can select is genuinely in stock at the source."
             ]
           },
           {
             "t": "p",
             "s": [
-              "كود الموديل ",
+              "Model code ",
               {
                 "b": "2053A323"
               },
-              " · أسيكس · بضاعة أصلية من اليابان "
+              " · ASICS · Authentic stock from Japan "
             ]
           },
           {
             "t": "p",
             "s": [
-              "تُطلب من اليابان وتصلك خلال ",
+              "Ordered from Japan and delivered within ",
               {
-                "b": "٧ إلى ٢١ يوم عمل"
+                "b": "7 to 21 working days"
               },
-              ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
+              ". Every size you can select is genuinely in stock; for anything marked “Out of stock”, message us on WhatsApp and we'll let you know when it's back. "
             ]
           }
         ],
@@ -53744,185 +53955,185 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p193357464",
       "en": {
-        "name": "كمادة ثلج للركبة Comfytemp",
+        "name": "Comfytemp Knee Ice Wrap",
         "brand": "Comfytemp",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "كومفي تيمب · كمادة ثلج للركبة · للتعافي بعد التمرين",
-        "description": "كمادة ثلج للركبة من Comfytemp بتصميم كيس قابل لإعادة التعبئة. غلاف أزرق مرن يلتفّ حول الركبة بحزامين لاصقين، وفي منتصفه كيس ثلج بغطاء لولبي أسود يحمل شعار Comfytemp — تملؤه بالثلج والماء بنفسك، فلا حاجة لانتظار التجميد. التفاصيل حزامان لاصقان قابلان للتعديل: واحد أعلى الركبة وآخر أسفلها، لضبط الشدّ حسب محيط الساق وتثبيت الكمادة أثناء الجلوس أو الحركة. غطاء لولبي واسع: يسهّل ملء الكيس بالثلج المجروش وتفريغه وتجفيفه. الكيس منفصل عن الغلاف: يمكن إخراجه واستعماله على مواضع أخرى كالساق أو الكاحل. خامة مرنة تلتفّ على شكل الركبة وتسمح بثنيها دون أن تنزلق الكمادة. ارتداء بيد واحدة: يمكنك وضعها بنفسك دون مساعدة. الوزن: 0.2 كجم فارغة. لماذا يهمّ لاعب الكرة الطائرة الركبة هي المفصل الذي يستقبل صدمة كل هبوط بعد القفز — في الصدّ، والضرب الساحق، وتمارين الوثب المتكررة. تراكم هذا الحمل عبر الحصص يترك إحساساً بالثقل والألم حول الرضفة، والتبريد بعد التمرين يساعد على تخفيف الألم والتورّم الناتج عن المجهود ضمن روتين الاستشفاء الرياضي. طريقة الاستخدام افتح الغطاء اللولبي واملأ ثلثي الكيس بالثلج المجروش، ثم أكمل الباقي بماء بارد — الماء يساعد على توزيع البرودة بالتساوي بدل تكتّل الثلج. أغلق الغطاء بإحكام وتحقق من عدم التسريب قبل الارتداء. لفّ الكمادة حول الركبة بحيث يقع الكيس على موضع الألم، ثم اضبط الحزامين دون شدّ زائد. المدة: 20 دقيقة كحد أقصى في الجلسة الواحدة. عدد المرات: 2–3 مرات في اليوم خلال أول 24–48 ساعة بعد مجهود عنيف، مع ترك ساعتين على الأقل بين الجلسات. التوقيت: بعد التمرين أو المباراة، لا قبلها. تنبيهات الاستخدام لا تضع الكيس على الجلد مباشرة، ولا تتجاوز 20 دقيقة متواصلة. توقّف فوراً إذا تغيّر لون الجلد إلى الأزرق أو الأبيض أو شعرت بتنميل. لا تنم وأنت مرتدٍ الكمادة. العناية أفرغ الكيس بعد كل استخدام وجفّفه من الداخل، واتركه بغطاء مفتوح حتى يجف تماماً قبل تخزينه تفادياً للروائح. نظّف الغلاف بقطعة قماش رطبة واتركه يجف في الهواء. إن كان الألم شديداً أو مستمراً، راجع مختصاً.",
+        "subtitle": "Comfytemp · Knee ice wrap · Post-training recovery",
+        "description": "A Comfytemp knee ice wrap built around a refillable bag. A flexible blue wrap closes around the knee with two hook-and-loop straps, and in the middle sits an ice bag with a black screw cap carrying the Comfytemp logo — you fill it with ice and water yourself, so there is no waiting for anything to freeze. Details Two adjustable hook-and-loop straps: one above the knee and one below, to tune the tension to your leg and hold the wrap in place whether you are sitting or moving. Wide screw cap: makes it easy to fill the bag with crushed ice, empty it and dry it. The bag detaches from the wrap: take it out and use it on other areas such as the shin or the ankle. A flexible material that curves to the shape of the knee and lets you bend it without the wrap sliding off. One-handed fitting: you can put it on yourself with no help. Weight: 0.2 kg empty. Why it matters for a volleyball player The knee is the joint that takes the impact of every landing after a jump — blocking, spiking and repeated plyometric drills. That load accumulating across sessions leaves a heavy, aching feeling around the kneecap, and cooling after training helps ease exercise-related pain and swelling as part of a recovery routine. How to use it Open the screw cap and fill two thirds of the bag with crushed ice, then top it up with cold water — the water helps spread the cold evenly instead of the ice clumping in one spot. Close the cap firmly and check for leaks before putting it on. Wrap it around the knee so the bag sits over the sore spot, then adjust both straps without over-tightening. Duration: 20 minutes maximum per session. Frequency: 2–3 times a day during the first 24–48 hours after hard exertion, leaving at least two hours between sessions. Timing: after training or a match, not before. Usage warnings Do not place the bag directly against the skin, and do not exceed 20 continuous minutes. Stop immediately if the skin turns blue or white or you feel numbness. Do not sleep while wearing the wrap. Care Empty the bag after every use and dry it from the inside, leaving the cap open until it is completely dry before storing it, to avoid odours. Clean the wrap with a damp cloth and let it air dry. If pain is severe or persistent, see a specialist.",
         "desc": [
           {
             "t": "p",
             "s": [
               {
-                "b": "كمادة ثلج للركبة من Comfytemp بتصميم كيس قابل لإعادة التعبئة."
+                "b": "A Comfytemp knee ice wrap built around a refillable bag."
               },
-              " غلاف أزرق مرن يلتفّ حول الركبة بحزامين لاصقين، وفي منتصفه كيس ثلج بغطاء لولبي أسود يحمل شعار Comfytemp — تملؤه بالثلج والماء بنفسك، فلا حاجة لانتظار التجميد."
+              " A flexible blue wrap closes around the knee with two hook-and-loop straps, and in the middle sits an ice bag with a black screw cap carrying the Comfytemp logo — you fill it with ice and water yourself, so there is no waiting for anything to freeze."
             ]
           },
           {
             "t": "h",
             "s": [
-              "التفاصيل"
+              "Details"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "حزامان لاصقان قابلان للتعديل:"
+                "b": "Two adjustable hook-and-loop straps:"
               },
-              " واحد أعلى الركبة وآخر أسفلها، لضبط الشدّ حسب محيط الساق وتثبيت الكمادة أثناء الجلوس أو الحركة."
+              " one above the knee and one below, to tune the tension to your leg and hold the wrap in place whether you are sitting or moving."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "غطاء لولبي واسع:"
+                "b": "Wide screw cap:"
               },
-              " يسهّل ملء الكيس بالثلج المجروش وتفريغه وتجفيفه."
+              " makes it easy to fill the bag with crushed ice, empty it and dry it."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الكيس منفصل عن الغلاف:"
+                "b": "The bag detaches from the wrap:"
               },
-              " يمكن إخراجه واستعماله على مواضع أخرى كالساق أو الكاحل."
+              " take it out and use it on other areas such as the shin or the ankle."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "خامة مرنة تلتفّ على شكل الركبة"
+                "b": "A flexible material that curves to the shape of the knee"
               },
-              " وتسمح بثنيها دون أن تنزلق الكمادة."
+              " and lets you bend it without the wrap sliding off."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "ارتداء بيد واحدة:"
+                "b": "One-handed fitting:"
               },
-              " يمكنك وضعها بنفسك دون مساعدة."
+              " you can put it on yourself with no help."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الوزن:"
+                "b": "Weight:"
               },
-              " 0.2 كجم فارغة."
+              " 0.2 kg empty."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لماذا يهمّ لاعب الكرة الطائرة"
+              "Why it matters for a volleyball player"
             ]
           },
           {
             "t": "p",
             "s": [
-              "الركبة هي المفصل الذي يستقبل صدمة كل هبوط بعد القفز — في الصدّ، والضرب الساحق، وتمارين الوثب المتكررة. تراكم هذا الحمل عبر الحصص يترك إحساساً بالثقل والألم حول الرضفة، والتبريد بعد التمرين يساعد على تخفيف الألم والتورّم الناتج عن المجهود ضمن روتين الاستشفاء الرياضي."
+              "The knee is the joint that takes the impact of every landing after a jump — blocking, spiking and repeated plyometric drills. That load accumulating across sessions leaves a heavy, aching feeling around the kneecap, and cooling after training helps ease exercise-related pain and swelling as part of a recovery routine."
             ]
           },
           {
             "t": "h",
             "s": [
-              "طريقة الاستخدام"
+              "How to use it"
             ]
           },
           {
             "t": "li",
             "s": [
-              "افتح الغطاء اللولبي واملأ ثلثي الكيس بالثلج المجروش، ثم أكمل الباقي بماء بارد — الماء يساعد على توزيع البرودة بالتساوي بدل تكتّل الثلج."
+              "Open the screw cap and fill two thirds of the bag with crushed ice, then top it up with cold water — the water helps spread the cold evenly instead of the ice clumping in one spot."
             ]
           },
           {
             "t": "li",
             "s": [
-              "أغلق الغطاء بإحكام وتحقق من عدم التسريب قبل الارتداء."
+              "Close the cap firmly and check for leaks before putting it on."
             ]
           },
           {
             "t": "li",
             "s": [
-              "لفّ الكمادة حول الركبة بحيث يقع الكيس على موضع الألم، ثم اضبط الحزامين دون شدّ زائد."
+              "Wrap it around the knee so the bag sits over the sore spot, then adjust both straps without over-tightening."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "المدة:"
+                "b": "Duration:"
               },
-              " 20 دقيقة كحد أقصى في الجلسة الواحدة."
+              " 20 minutes maximum per session."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "عدد المرات:"
+                "b": "Frequency:"
               },
-              " 2–3 مرات في اليوم خلال أول 24–48 ساعة بعد مجهود عنيف، مع ترك ساعتين على الأقل بين الجلسات."
+              " 2–3 times a day during the first 24–48 hours after hard exertion, leaving at least two hours between sessions."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "التوقيت:"
+                "b": "Timing:"
               },
-              " بعد التمرين أو المباراة، لا قبلها."
+              " after training or a match, not before."
             ]
           },
           {
             "t": "h",
             "s": [
-              "تنبيهات الاستخدام"
+              "Usage warnings"
             ]
           },
           {
             "t": "li",
             "s": [
-              "لا تضع الكيس على الجلد مباشرة، ولا تتجاوز 20 دقيقة متواصلة."
+              "Do not place the bag directly against the skin, and do not exceed 20 continuous minutes."
             ]
           },
           {
             "t": "li",
             "s": [
-              "توقّف فوراً إذا تغيّر لون الجلد إلى الأزرق أو الأبيض أو شعرت بتنميل."
+              "Stop immediately if the skin turns blue or white or you feel numbness."
             ]
           },
           {
             "t": "li",
             "s": [
-              "لا تنم وأنت مرتدٍ الكمادة."
+              "Do not sleep while wearing the wrap."
             ]
           },
           {
             "t": "h",
             "s": [
-              "العناية"
+              "Care"
             ]
           },
           {
             "t": "p",
             "s": [
-              "أفرغ الكيس بعد كل استخدام وجفّفه من الداخل، واتركه بغطاء مفتوح حتى يجف تماماً قبل تخزينه تفادياً للروائح. نظّف الغلاف بقطعة قماش رطبة واتركه يجف في الهواء."
+              "Empty the bag after every use and dry it from the inside, leaving the cap open until it is completely dry before storing it, to avoid odours. Clean the wrap with a damp cloth and let it air dry."
             ]
           },
           {
             "t": "p",
             "s": [
-              "إن كان الألم شديداً أو مستمراً، راجع مختصاً. "
+              "If pain is severe or persistent, see a specialist. "
             ]
           }
         ],
@@ -58012,64 +58223,64 @@
       "status": "live",
       "url": "https://risport-sa.com/ar/x/p1535749567",
       "en": {
-        "name": "جاكيت إحماء ميزونو",
+        "name": "Mizuno Warm-Up Jacket",
         "brand": "Mizuno",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "ميزونو · جاكيت إحماء بسحّاب كامل · تصريف عرق",
-        "description": "جاكيت الإحماء بسحّاب كامل وتصريف عرق — أول ما يراه الجمهور على الفريق قبل الصافرة. السحّاب الكامل مقصود — تخلعه في ثانية بلا أن تمرّره فوق رأسك. يصرّف العرق فلا تبدأ المباراة مبلّلاً. ستة ألوان — يجد الفريق لونه بدل أن يقبل بالأسود لأنه المتوفّر. كود الموديل 32MCA140 · ميزونو · بضاعة أصلية من اليابان تُطلب من اليابان وتصلك خلال ٧ إلى ٢١ يوم عمل . المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب.",
+        "subtitle": "Mizuno · Full-zip warm-up jacket · Sweat-wicking",
+        "description": "A full-zip warm-up jacket that wicks sweat — the first thing the crowd sees on the team before the whistle. The full zip is deliberate — off in a second, without pulling it over your head. Wicks sweat , so you don't start the game soaked. Six colours — the team finds its own colour instead of settling for black because it's what's in stock. Model code 32MCA140 · Mizuno · Authentic stock from Japan Ordered from Japan and delivered within 7 to 21 working days . Every size you can select is genuinely in stock; for anything marked “Out of stock”, message us on WhatsApp and we'll let you know when it's back.",
         "desc": [
           {
             "t": "p",
             "s": [
-              "جاكيت الإحماء بسحّاب كامل وتصريف عرق — أول ما يراه الجمهور على الفريق قبل الصافرة."
+              "A full-zip warm-up jacket that wicks sweat — the first thing the crowd sees on the team before the whistle."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "السحّاب الكامل مقصود"
+                "b": "The full zip is deliberate"
               },
-              " — تخلعه في ثانية بلا أن تمرّره فوق رأسك."
+              " — off in a second, without pulling it over your head."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "يصرّف العرق"
+                "b": "Wicks sweat"
               },
-              " فلا تبدأ المباراة مبلّلاً."
+              ", so you don't start the game soaked."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "ستة ألوان"
+                "b": "Six colours"
               },
-              " — يجد الفريق لونه بدل أن يقبل بالأسود لأنه المتوفّر."
+              " — the team finds its own colour instead of settling for black because it's what's in stock."
             ]
           },
           {
             "t": "p",
             "s": [
-              "كود الموديل ",
+              "Model code ",
               {
                 "b": "32MCA140"
               },
-              " · ميزونو · بضاعة أصلية من اليابان "
+              " · Mizuno · Authentic stock from Japan "
             ]
           },
           {
             "t": "p",
             "s": [
-              "تُطلب من اليابان وتصلك خلال ",
+              "Ordered from Japan and delivered within ",
               {
-                "b": "٧ إلى ٢١ يوم عمل"
+                "b": "7 to 21 working days"
               },
-              ". المقاس المعروض للاختيار متوفّر فعلاً؛ وما يظهر «نفدت الكمية» نُبلّغك حين يعود — راسلنا على واتساب. "
+              ". Every size you can select is genuinely in stock; for anything marked “Out of stock”, message us on WhatsApp and we'll let you know when it's back. "
             ]
           }
         ],
@@ -59814,17 +60025,17 @@
       "status": "out",
       "url": "https://risport-sa.com/ar/x/p721119659",
       "en": {
-        "name": "حذاء أسيكس FUTURITY",
+        "name": "ASICS FUTURITY — Limited Edition Designed by Ran Takahashi",
         "brand": "ASICS",
         "sport": "Volleyball",
         "tagline": null,
-        "subtitle": "إصدار محدود بتصميم ران تاكاهاشي",
-        "description": "أول حذاء كرة طائرة في تاريخ أسيكس يشارك لاعب في تصميمه SKY ELITE FF MT 3 FUTURITY (كود الموديل 1051A099 ) ليس نسخة تجارية تحمل اسم لاعب، بل أول مرة تفتح فيها أسيكس باب التصميم للاعب نفسه في تاريخ خط الكرة الطائرة لديها: ران تاكاهاشي خطّط مفهوم التصميم واختار اللون والرسومات. طُرح في اليابان في سبتمبر 2025 بكمية محدودة، ويُشحن إليك مباشرة من اليابان بالطلب المسبق. اللون والتصميم وردي فاتح على كامل الجسم، مع شعار أسيكس بلمعة أورورا متغيّرة اللون حسب زاوية الضوء، وتدرّج من الوردي إلى المرجاني في النعل الوسطي، ولسان يحمل شعار تاكاهاشي: BE THE CHANGE, LIGHT THE FUTURE . النعل الخارجي رمادي فاتح غير مؤثّر على أرضية الصالة. ماذا يعني كل عنصر في التصميم؟ الوردي كأساس — اختاره تاكاهاشي رمزاً للعقلية الإيجابية، وكسراً لصورة نمطية عن ألوان أحذية اللاعبين. لمعة الأورورا على الشعار والنعل — تعبير عن الحلم والشغف. التدرّج اللوني في النعل الوسطي — يمثّل تمرير الشغف من جيل إلى الجيل التالي: تراكم النمو والتحديات يصنع المستقبل. الشعار على اللسان — BE THE CHANGE, LIGHT THE FUTURE : الشجاعة والقناعة تغيّران العالم، وهو شعار تاكاهاشي الشخصي. التقنيات الحذاء مبني على منصّة SKY ELITE FF MT 3 — خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام — بقصّة متوسطة (Mid-cut): FF BLAST PLUS ECO — رغوة النعل الوسطي. مهمتها أن تبتلع صدمة الهبوط ثم تعيد جزءاً من الطاقة إلى القفزة التالية. أثرها الحقيقي لا تراه في القفزة الأولى بل في الشوط الخامس، حين تبدأ السيقان بالثقل: كلما امتصّ النعل عنك صدمات أكثر، بقي في رجليك رصيد أطول. RISETRUSS — هيكل تثبيت في منتصف النعل، موروث مباشرة من الميتارايز. يقاوم التواء منتصف القدم لحظة الدفع للأعلى، فتتحوّل القوة الأفقية التي جمعتها في خطوات الاقتراب إلى ارتفاع عمودي بدل أن تتبدد في اهتزاز جانبي. وهو نفسه ما يجعل الهبوط بعد الضربة أهدأ وأكثر تحكّماً. نظام رباط غير متماثل (Asymmetric lacing) — الأربطة مائلة عن منتصف القدم لتوزّع الضغط بعيداً عن وتر مشط القدم. النتيجة: تستطيع شدّ الحذاء بقوة للحصول على تثبيت كامل دون نقطة ضغط مؤلمة أعلى القدم. قصّة متوسطة (Mid-cut) — رقبة الحذاء ترتفع فوق عظمة الكاحل وتحيط بها، فتحدّ من دورانه المفاجئ عند الهبوط على قدم غير مستوية — قدم زميل أو منافس تحت الشبكة. في المقابل ستشعر بحرية حركة أقلّ في الكاحل مقارنة بالقصّة المنخفضة. لمن هذا الحذاء؟ هواة الاقتناء ومتابعو ران تاكاهاشي — قطعة محدودة لا تتكرّر، وأول تعاون تصميمي من نوعه في تاريخ أحذية أسيكس للكرة الطائرة. الضارب الطرفي والمقابل — عدد قفزات مرتفع في المباراة الواحدة وهبوط متكرّر في أكثر منطقة ازدحاماً في الملعب؛ القصّة المتوسطة هنا ليست رفاهية. لاعب الوسط — حركة جانبية سريعة بمحاذاة الشبكة ثم قفزة صدّ فورية؛ يفيده منع التواء منتصف القدم عند التوقّف المفاجئ. من سبق أن أُصيب في كاحله — أو من يلعب بدعامة كاحل ويفضّل أن يكون جزء من الدعم مدمجاً في الحذاء. ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تعتمد على الانخفاض السريع وخفّة الحركة أكثر من القفز، فالقصّة المنخفضة تمنح كاحلك مدى حركة أوسع.",
+        "subtitle": "Limited edition designed by Ran Takahashi",
+        "description": "The first volleyball shoe in ASICS' history co-designed by a player SKY ELITE FF MT 3 FUTURITY (model code 1051A099 ) is not a commercial edition carrying a player's name; it is the first time ASICS opened the design process to the player himself in the history of its volleyball line: Ran Takahashi shaped the design concept and chose the colour and the graphics. It was released in Japan in September 2025 in limited numbers, and ships to you directly from Japan by pre-order. Colour and design Light pink across the whole body, with the ASICS logo in an aurora finish that shifts colour with the angle of the light, a pink-to-coral gradient through the midsole, and a tongue carrying Takahashi's motto: BE THE CHANGE, LIGHT THE FUTURE . The outsole is light grey and non-marking on indoor floors. What each design element means Pink as the base — chosen by Takahashi as a symbol of a positive mindset, and as a break from the stereotype of what a player's shoes look like. The aurora finish on the logo and sole — an expression of dreams and passion. The gradient in the midsole — it represents passing that passion from one generation to the next: accumulated growth and challenges are what build the future. The motto on the tongue — BE THE CHANGE, LIGHT THE FUTURE : courage and conviction change the world. It is Takahashi's personal motto. The technology The shoe is built on the SKY ELITE FF MT 3 platform — ASICS' top tier among all-round volleyball shoes — in a mid cut: FF BLAST PLUS ECO — the midsole foam. Its job is to swallow the landing impact and then return part of that energy to the next jump. Its real effect shows not on the first jump but in the fifth set, when legs start to feel heavy: the more impact the midsole takes off you, the more you have left in your legs. RISETRUSS — a stabilising structure through the midfoot , inherited directly from the Metarise. It resists midfoot twisting at the moment you drive upward, so the horizontal force you gathered in your approach steps turns into vertical height instead of leaking into sideways wobble. The same structure is what makes the landing after a spike calmer and more controlled. Asymmetric lacing — the laces are angled away from the centre of the foot to spread pressure off the instep tendon. The result: you can pull the shoe tight for a complete lockdown without a painful pressure point on top of the foot. Mid cut — the collar rises above the ankle bone and wraps it, limiting sudden rolling when you land on uneven ground — a team-mate's or an opponent's foot under the net. In exchange you will feel slightly less ankle freedom than in a low cut. Who is it for? Collectors and followers of Ran Takahashi — a limited piece that will not be repeated, and the first design collaboration of its kind in the history of ASICS volleyball shoes. Outside hitters and opposites — a high jump count in a single match and repeated landings in the most crowded area of the court; here the mid cut is not a luxury. Middle blockers — fast lateral movement along the net, then an immediate block jump; preventing midfoot twisting on the sudden stop helps directly. Anyone who has injured an ankle before — or who plays with an ankle brace and prefers part of that support built into the shoe. A frank note: if you are a libero or a setter who relies on dropping low and moving light more than on jumping, a low cut gives your ankle a wider range of movement.",
         "desc": [
           {
             "t": "h",
             "s": [
-              "أول حذاء كرة طائرة في تاريخ أسيكس يشارك لاعب في تصميمه"
+              "The first volleyball shoe in ASICS' history co-designed by a player"
             ]
           },
           {
@@ -59833,100 +60044,100 @@
               {
                 "b": "SKY ELITE FF MT 3 FUTURITY"
               },
-              " (كود الموديل ",
+              " (model code ",
               {
                 "b": "1051A099"
               },
-              ") ليس نسخة تجارية تحمل اسم لاعب، بل أول مرة تفتح فيها أسيكس باب التصميم للاعب نفسه في تاريخ خط الكرة الطائرة لديها: ",
+              ") is not a commercial edition carrying a player's name; it is the first time ASICS opened the design process to the player himself in the history of its volleyball line: ",
               {
-                "b": "ران تاكاهاشي"
+                "b": "Ran Takahashi"
               },
               {
-                "b": "خطّط مفهوم التصميم"
+                "b": "shaped the design concept"
               },
-              " واختار اللون والرسومات. طُرح في اليابان في ",
+              " and chose the colour and the graphics. It was released in Japan in ",
               {
-                "b": "سبتمبر 2025"
+                "b": "September 2025"
               },
-              " بكمية محدودة، ويُشحن إليك مباشرة من اليابان بالطلب المسبق."
+              " in limited numbers, and ships to you directly from Japan by pre-order."
             ]
           },
           {
             "t": "h",
             "s": [
-              "اللون والتصميم"
+              "Colour and design"
             ]
           },
           {
             "t": "p",
             "s": [
-              "وردي فاتح على كامل الجسم، مع شعار أسيكس بلمعة ",
+              "Light pink across the whole body, with the ASICS logo in an ",
               {
-                "b": "أورورا"
+                "b": "aurora"
               },
-              " متغيّرة اللون حسب زاوية الضوء، وتدرّج من الوردي إلى المرجاني في النعل الوسطي، ولسان يحمل شعار تاكاهاشي: ",
+              " finish that shifts colour with the angle of the light, a pink-to-coral gradient through the midsole, and a tongue carrying Takahashi's motto: ",
               {
                 "b": "BE THE CHANGE, LIGHT THE FUTURE"
               },
-              ". النعل الخارجي رمادي فاتح غير مؤثّر على أرضية الصالة."
+              ". The outsole is light grey and non-marking on indoor floors."
             ]
           },
           {
             "t": "h",
             "s": [
-              "ماذا يعني كل عنصر في التصميم؟"
+              "What each design element means"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الوردي كأساس"
+                "b": "Pink as the base"
               },
-              " — اختاره تاكاهاشي رمزاً للعقلية الإيجابية، وكسراً لصورة نمطية عن ألوان أحذية اللاعبين."
+              " — chosen by Takahashi as a symbol of a positive mindset, and as a break from the stereotype of what a player's shoes look like."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "لمعة الأورورا"
+                "b": "The aurora finish"
               },
-              " على الشعار والنعل — تعبير عن الحلم والشغف."
+              " on the logo and sole — an expression of dreams and passion."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "التدرّج اللوني في النعل الوسطي"
+                "b": "The gradient in the midsole"
               },
-              " — يمثّل تمرير الشغف من جيل إلى الجيل التالي: تراكم النمو والتحديات يصنع المستقبل."
+              " — it represents passing that passion from one generation to the next: accumulated growth and challenges are what build the future."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الشعار على اللسان"
+                "b": "The motto on the tongue"
               },
-              " — BE THE CHANGE, LIGHT THE FUTURE : الشجاعة والقناعة تغيّران العالم، وهو شعار تاكاهاشي الشخصي."
+              " — BE THE CHANGE, LIGHT THE FUTURE : courage and conviction change the world. It is Takahashi's personal motto."
             ]
           },
           {
             "t": "h",
             "s": [
-              "التقنيات"
+              "The technology"
             ]
           },
           {
             "t": "p",
             "s": [
-              "الحذاء مبني على منصّة ",
+              "The shoe is built on the ",
               {
                 "b": "SKY ELITE FF MT 3"
               },
-              " — خط أسيكس الأعلى فئة بين أحذية الكرة الطائرة متعددة الاستخدام — بقصّة متوسطة (Mid-cut):"
+              " platform — ASICS' top tier among all-round volleyball shoes — in a mid cut:"
             ]
           },
           {
@@ -59935,7 +60146,7 @@
               {
                 "b": "FF BLAST PLUS ECO"
               },
-              " — رغوة النعل الوسطي. مهمتها أن تبتلع صدمة الهبوط ثم تعيد جزءاً من الطاقة إلى القفزة التالية. أثرها الحقيقي لا تراه في القفزة الأولى بل في الشوط الخامس، حين تبدأ السيقان بالثقل: كلما امتصّ النعل عنك صدمات أكثر، بقي في رجليك رصيد أطول."
+              " — the midsole foam. Its job is to swallow the landing impact and then return part of that energy to the next jump. Its real effect shows not on the first jump but in the fifth set, when legs start to feel heavy: the more impact the midsole takes off you, the more you have left in your legs."
             ]
           },
           {
@@ -59944,77 +60155,77 @@
               {
                 "b": "RISETRUSS"
               },
-              " — هيكل تثبيت في ",
+              " — a stabilising structure through the ",
               {
-                "b": "منتصف"
+                "b": "midfoot"
               },
-              " النعل، موروث مباشرة من الميتارايز. يقاوم التواء منتصف القدم لحظة الدفع للأعلى، فتتحوّل القوة الأفقية التي جمعتها في خطوات الاقتراب إلى ارتفاع عمودي بدل أن تتبدد في اهتزاز جانبي. وهو نفسه ما يجعل الهبوط بعد الضربة أهدأ وأكثر تحكّماً."
+              ", inherited directly from the Metarise. It resists midfoot twisting at the moment you drive upward, so the horizontal force you gathered in your approach steps turns into vertical height instead of leaking into sideways wobble. The same structure is what makes the landing after a spike calmer and more controlled."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "نظام رباط غير متماثل (Asymmetric lacing)"
+                "b": "Asymmetric lacing"
               },
-              " — الأربطة مائلة عن منتصف القدم لتوزّع الضغط بعيداً عن وتر مشط القدم. النتيجة: تستطيع شدّ الحذاء بقوة للحصول على تثبيت كامل دون نقطة ضغط مؤلمة أعلى القدم."
+              " — the laces are angled away from the centre of the foot to spread pressure off the instep tendon. The result: you can pull the shoe tight for a complete lockdown without a painful pressure point on top of the foot."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "قصّة متوسطة (Mid-cut)"
+                "b": "Mid cut"
               },
-              " — رقبة الحذاء ترتفع فوق عظمة الكاحل وتحيط بها، فتحدّ من دورانه المفاجئ عند الهبوط على قدم غير مستوية — قدم زميل أو منافس تحت الشبكة. في المقابل ستشعر بحرية حركة أقلّ في الكاحل مقارنة بالقصّة المنخفضة."
+              " — the collar rises above the ankle bone and wraps it, limiting sudden rolling when you land on uneven ground — a team-mate's or an opponent's foot under the net. In exchange you will feel slightly less ankle freedom than in a low cut."
             ]
           },
           {
             "t": "h",
             "s": [
-              "لمن هذا الحذاء؟"
+              "Who is it for?"
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "هواة الاقتناء ومتابعو ران تاكاهاشي"
+                "b": "Collectors and followers of Ran Takahashi"
               },
-              " — قطعة محدودة لا تتكرّر، وأول تعاون تصميمي من نوعه في تاريخ أحذية أسيكس للكرة الطائرة."
+              " — a limited piece that will not be repeated, and the first design collaboration of its kind in the history of ASICS volleyball shoes."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "الضارب الطرفي والمقابل"
+                "b": "Outside hitters and opposites"
               },
-              " — عدد قفزات مرتفع في المباراة الواحدة وهبوط متكرّر في أكثر منطقة ازدحاماً في الملعب؛ القصّة المتوسطة هنا ليست رفاهية."
+              " — a high jump count in a single match and repeated landings in the most crowded area of the court; here the mid cut is not a luxury."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "لاعب الوسط"
+                "b": "Middle blockers"
               },
-              " — حركة جانبية سريعة بمحاذاة الشبكة ثم قفزة صدّ فورية؛ يفيده منع التواء منتصف القدم عند التوقّف المفاجئ."
+              " — fast lateral movement along the net, then an immediate block jump; preventing midfoot twisting on the sudden stop helps directly."
             ]
           },
           {
             "t": "li",
             "s": [
               {
-                "b": "من سبق أن أُصيب في كاحله"
+                "b": "Anyone who has injured an ankle before"
               },
-              " — أو من يلعب بدعامة كاحل ويفضّل أن يكون جزء من الدعم مدمجاً في الحذاء."
+              " — or who plays with an ankle brace and prefers part of that support built into the shoe."
             ]
           },
           {
             "t": "p",
             "s": [
-              "ملاحظة صريحة: إن كنت ليبرو أو مُعِداً تعتمد على الانخفاض السريع وخفّة الحركة أكثر من القفز، فالقصّة المنخفضة تمنح كاحلك مدى حركة أوسع."
+              "A frank note: if you are a libero or a setter who relies on dropping low and moving light more than on jumping, a low cut gives your ankle a wider range of movement."
             ]
           }
         ],
